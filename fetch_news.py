@@ -11,6 +11,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from bs4 import BeautifulSoup
@@ -252,52 +253,34 @@ def shorten_url(long_url: str) -> str:
     except Exception:
         return long_url
 
-# ── AI 翻译 + 摘要 ─────────────────────────────────────
-def translate_and_summarize(items: list[dict]) -> list[dict]:
-    """
-    用工蜂 AI（兼容 OpenAI 接口）批量翻译标题 + 生成一句话中文摘要。
-    若环境变量未配置 API Key，则跳过，保留原文。
-    """
-    api_key  = os.environ.get("OPENAI_API_KEY", "")
-    api_base = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1")
-    if not api_key:
-        return items   # 没配置 key，跳过翻译
-
+# ── 翻译 ──────────────────────────────────────────────
+def translate_to_zh(text: str) -> str:
+    """MyMemory 免费翻译，无需注册 Key，英文→中文"""
+    if not text or not text.strip():
+        return text
+    # 已是中文则跳过
+    if sum(1 for c in text if '\u4e00' <= c <= '\u9fff') / max(len(text), 1) > 0.3:
+        return text
     try:
-        from openai import OpenAI
-        client = OpenAI(api_key=api_key, base_url=api_base)
-
-        # 批量构造 prompt，一次请求处理所有条目
-        batch_input = "\n".join(
-            f"{i+1}. 标题：{it['title']}\n   摘要：{it['summary'][:200]}"
-            for i, it in enumerate(items)
+        r = requests.get(
+            "https://api.mymemory.translated.net/get",
+            params={"q": text[:400], "langpair": "en|zh-CN"},
+            timeout=8, headers={"User-Agent": "Mozilla/5.0"}
         )
-        prompt = f"""你是一位专业的新闻编辑，请将以下新闻条目翻译并整理成中文。
-对每条新闻，输出格式严格如下（用 ||| 分隔每条，不要多余内容）：
-中文标题|||一句话中文摘要（30字以内，突出核心信息）
+        data = r.json()
+        if data.get("responseStatus") == 200:
+            result = data["responseData"]["translatedText"].strip()
+            if result and result != text:
+                return result
+    except Exception:
+        pass
+    return text  # 失败则保留原文
 
-新闻列表：
-{batch_input}
-
-直接输出结果，{len(items)} 条，每条一行，不要编号："""
-
-        resp = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.3,
-            max_tokens=1000,
-        )
-        lines = resp.choices[0].message.content.strip().split("\n")
-        for i, line in enumerate(lines):
-            if i >= len(items):
-                break
-            parts = line.split("|||")
-            if len(parts) == 2:
-                items[i]["zh_title"]   = parts[0].strip()
-                items[i]["zh_summary"] = parts[1].strip()
-    except Exception as ex:
-        print(f"  ⚠ AI 翻译失败（将使用原文）: {ex}", file=sys.stderr)
-
+def translate_and_summarize(items: list[dict]) -> list[dict]:
+    """用 MyMemory 免费翻译标题，无需任何 Key"""
+    for it in items:
+        it["zh_title"] = translate_to_zh(it["title"])
+        time.sleep(0.2)  # 避免触发限速
     return items
 
 # ── 推送摘要构建 ───────────────────────────────────────

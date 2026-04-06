@@ -1,6 +1,6 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T00:19:09.191122+08:00",
+  "generated_at": "2026-04-07T00:32:58.408508+08:00",
   "categories": {
     "AI": [
       {
@@ -30,9 +30,21 @@
     ],
     "游戏": [
       {
+        "title": "Starfield Free Lanes And Terran Armada Global Launch Times Confirmed",
+        "link": "https://www.gamespot.com/articles/starfield-free-lanes-and-terran-armada-global-launch-times-confirmed/1100-6539229/?ftag=CAD-01-10abi2f",
+        "summary": "Since it first launched in 2023, Starfield has received numerous expansions and upgrades, and this month is a big one for Bethesda's sci-fi adventure game. Not only is it coming to PS5 consoles , but Starfield is also getting two updates--Free Lanes and Terran Armada. Both of these will be launching…",
+        "source": "GameSpot"
+      },
+      {
         "title": "Steven Spielberg Is A Big Fan Of Resident Evil Reboot Director",
         "link": "https://www.gamespot.com/articles/steven-spielberg-is-a-big-fan-of-resident-evil-reboot-director/1100-6539227/?ftag=CAD-01-10abi2f",
         "summary": "Legendary movie director Steven Spielberg has heaped praise on Zach Cregger, the director of the upcoming Resident Evil video game movie based on Capcom's iconic gaming franchise. Speaking to Empire , the E.T. and Jurassic Park director said he hasn't made a horror movie before and he may never, in …",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Crimson Desert Patch Tries To Make Storage Less Frustrating",
+        "link": "https://www.gamespot.com/articles/crimson-desert-patch-tries-to-make-storage-less-frustrating/1100-6539228/?ftag=CAD-01-10abi2f",
+        "summary": "Crimson Desert has received another patch that brings several important and welcome changes to the open-world action-adventure RPG. This includes addressing the game's biggest headache: storage space. However, there's a caveat this time. As part of Patch Version 1.02.00 , which is available now on a…",
         "source": "GameSpot"
       },
       {
@@ -182,6 +194,13 @@
         "source": "The Verge"
       }
     ],
-    "金融市场": []
+    "金融市场": [
+      {
+        "title": "Wall Street trims gains as Iran rejects ceasefire proposal",
+        "link": "https://seekingalpha.com/news/4572726-wall-street-shifts-higher-as-middle-east-tensions-remain-front-and-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
   }
 }

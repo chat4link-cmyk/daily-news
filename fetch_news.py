@@ -276,11 +276,33 @@ def translate_to_zh(text: str) -> str:
         pass
     return text  # 失败则保留原文
 
+def truncate_zh(text: str, max_chars: int = 50) -> str:
+    """裁剪到指定字数，在标点处断句，末尾加省略号"""
+    text = re.sub(r'\s+', ' ', text).strip()
+    if len(text) <= max_chars:
+        return text
+    # 尝试在标点处截断
+    cut = text[:max_chars]
+    for punct in "。！？，、；":
+        idx = cut.rfind(punct)
+        if idx > max_chars // 2:
+            return cut[:idx + 1]
+    return cut.rstrip() + "…"
+
 def translate_and_summarize(items: list[dict]) -> list[dict]:
-    """用 MyMemory 免费翻译标题，无需任何 Key"""
+    """翻译标题 + 摘要（50字内），使用 MyMemory 免费接口"""
     for it in items:
+        # 翻译标题
         it["zh_title"] = translate_to_zh(it["title"])
-        time.sleep(0.2)  # 避免触发限速
+        time.sleep(0.2)
+        # 翻译摘要（取原文前200字翻译，再裁剪到50字）
+        raw_summary = it.get("summary", "").strip()
+        if raw_summary:
+            zh = translate_to_zh(raw_summary[:200])
+            it["zh_summary"] = truncate_zh(zh, 50)
+        else:
+            it["zh_summary"] = ""
+        time.sleep(0.2)
     return items
 
 # ── 推送摘要构建 ───────────────────────────────────────

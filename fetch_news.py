@@ -235,46 +235,130 @@ def build_html(data: dict) -> Path:
     print(f"🌐 HTML 已生成: {out}")
     return out
 
+SERVERCHAN_KEY = os.environ.get("SERVERCHAN_KEY", "SCT334469TlCdNfNyvYBqD87hbelmDKu82")
+SITE_URL = os.environ.get("SITE_URL", "https://chat4link-cmyk.github.io/daily-news/")
+
+# ── 短链接 ────────────────────────────────────────────
+def shorten_url(long_url: str) -> str:
+    """用 tinyurl 生成短链接，失败则返回原链接"""
+    try:
+        r = requests.get(
+            "https://tinyurl.com/api-create.php",
+            params={"url": long_url},
+            timeout=8
+        )
+        short = r.text.strip()
+        return short if short.startswith("http") else long_url
+    except Exception:
+        return long_url
+
+# ── AI 翻译 + 摘要 ─────────────────────────────────────
+def translate_and_summarize(items: list[dict]) -> list[dict]:
+    """
+    用工蜂 AI（兼容 OpenAI 接口）批量翻译标题 + 生成一句话中文摘要。
+    若环境变量未配置 API Key，则跳过，保留原文。
+    """
+    api_key  = os.environ.get("OPENAI_API_KEY", "")
+    api_base = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1")
+    if not api_key:
+        return items   # 没配置 key，跳过翻译
+
+    try:
+        from openai import OpenAI
+        client = OpenAI(api_key=api_key, base_url=api_base)
+
+        # 批量构造 prompt，一次请求处理所有条目
+        batch_input = "\n".join(
+            f"{i+1}. 标题：{it['title']}\n   摘要：{it['summary'][:200]}"
+            for i, it in enumerate(items)
+        )
+        prompt = f"""你是一位专业的新闻编辑，请将以下新闻条目翻译并整理成中文。
+对每条新闻，输出格式严格如下（用 ||| 分隔每条，不要多余内容）：
+中文标题|||一句话中文摘要（30字以内，突出核心信息）
+
+新闻列表：
+{batch_input}
+
+直接输出结果，{len(items)} 条，每条一行，不要编号："""
+
+        resp = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3,
+            max_tokens=1000,
+        )
+        lines = resp.choices[0].message.content.strip().split("\n")
+        for i, line in enumerate(lines):
+            if i >= len(items):
+                break
+            parts = line.split("|||")
+            if len(parts) == 2:
+                items[i]["zh_title"]   = parts[0].strip()
+                items[i]["zh_summary"] = parts[1].strip()
+    except Exception as ex:
+        print(f"  ⚠ AI 翻译失败（将使用原文）: {ex}", file=sys.stderr)
+
+    return items
+
+# ── 推送摘要构建 ───────────────────────────────────────
 def build_digest(data: dict) -> str:
-    """生成推送摘要（文本版）"""
-    lines = [f"📰 每日要闻 {NOW.strftime('%Y-%m-%d')}\n"]
+    """生成 Server酱推送正文（Markdown，美化格式）"""
+    date_str  = NOW.strftime("%Y-%m-%d")
+    weekdays  = ["周一","周二","周三","周四","周五","周六","周日"]
+    weekday   = weekdays[NOW.weekday()]
+
     cat_icons = {"AI": "🤖", "游戏": "🎮", "科技": "💻", "金融市场": "📈"}
+    cat_labels = {
+        "AI":     "人工智能",
+        "游戏":   "游戏动态",
+        "科技":   "科技资讯",
+        "金融市场": "金融市场",
+    }
+
+    blocks = []
     for cat, items in data.items():
         if not items:
             continue
-        icon = cat_icons.get(cat, "📰")
-        lines.append(f"{icon} **{cat}**（{len(items)} 条）")
-        for it in items[:3]:   # 每类最多推送 3 条标题
-            lines.append(f"• {it['title']}")
-            lines.append(f"  {it['link']}")
+        icon  = cat_icons.get(cat, "📰")
+        label = cat_labels.get(cat, cat)
+        items = translate_and_summarize(items[:3])
+
+        lines = [f"### {icon} {label}"]
         lines.append("")
-    site_url = os.environ.get("SITE_URL", "https://chat4link-cmyk.github.io/daily-news/")
-    lines.append(f"🔗 查看完整版：{site_url}")
-    return "\n".join(lines)
+        for it in items:
+            zh_title   = it.get("zh_title",   it["title"])
+            zh_summary = it.get("zh_summary", "")
+            short_link = shorten_url(it["link"])
+            source     = it.get("source", "")
 
-SERVERCHAN_KEY = os.environ.get("SERVERCHAN_KEY", "SCT334469TlCdNfNyvYBqD87hbelmDKu82")
+            lines.append(f"**{zh_title}**")
+            if zh_summary:
+                lines.append(f"> {zh_summary}")
+            lines.append(f"来源：{source}　[阅读原文]({short_link})")
+            lines.append("")
 
-def push_serverchan(digest: str) -> bool:
-    """通过 Server酱推送到微信"""
+        blocks.append("\n".join(lines))
+
+    header = f"# 📰 每日要闻\n\n**{date_str} {weekday}**　共 {sum(len(v) for v in data.values())} 条新闻\n"
+    footer = f"\n---\n[📖 查看完整网页版]({SITE_URL})\n*由 OpenClaw 自动生成*"
+
+    return header + "\n---\n\n" + "\n---\n\n".join(blocks) + footer
+
+# ── Server酱推送 ───────────────────────────────────────
+def push_serverchan(desp: str) -> bool:
     date_str = NOW.strftime("%Y-%m-%d")
-    title = f"📰 每日要闻 {date_str}"
+    weekdays = ["周一","周二","周三","周四","周五","周六","周日"]
+    title    = f"📰 {date_str} {weekdays[NOW.weekday()]} 每日要闻"
 
-    # Server酱支持 Markdown，把摘要转成好看的格式
-    lines = digest.split("\n")
-    md_lines = []
-    for line in lines:
-        if line.startswith("🔗"):
-            continue   # 去掉本地文件链接，换成提示
-        md_lines.append(line)
-    desp = "\n".join(md_lines).strip()
-    desp += f"\n\n---\n*由 OpenClaw 自动生成 · {date_str}*"
-
-    url = f"https://sctapi.ftqq.com/{SERVERCHAN_KEY}.send"
     try:
-        resp = requests.post(url, data={"title": title, "desp": desp}, timeout=15)
+        resp   = requests.post(
+            f"https://sctapi.ftqq.com/{SERVERCHAN_KEY}.send",
+            data={"title": title, "desp": desp},
+            timeout=15
+        )
         result = resp.json()
         if result.get("code") == 0:
-            print(f"✅ Server酱推送成功！message_id={result.get('data',{}).get('pushid','')}")
+            print(f"✅ Server酱推送成功！pushid={result.get('data',{}).get('pushid','')}")
             return True
         else:
             print(f"⚠ Server酱推送失败: {result}", file=sys.stderr)
@@ -289,13 +373,11 @@ if __name__ == "__main__":
     save_json(data)
     build_html(data)
     digest = build_digest(data)
-    # 将摘要写到文件，供 cron 读取推送
     digest_path = BASE_DIR / "latest_digest.txt"
     digest_path.write_text(digest, encoding="utf-8")
-    print(f"\n{'='*50}")
+    print(f"\n{'='*60}")
     print(digest)
-    print(f"{'='*50}")
-    # 推送到微信
+    print(f"{'='*60}")
     print("\n📲 推送到微信...")
     push_serverchan(digest)
     print("\n✅ 完成！")

@@ -1,4 +1,5 @@
 __pycache__/
 *.pyc
 test_push.py
+set_secret.py
 latest_digest.txt

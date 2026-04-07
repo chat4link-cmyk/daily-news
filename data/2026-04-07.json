@@ -1,8 +1,14 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T00:35:18.851887+08:00",
+  "generated_at": "2026-04-07T14:05:48.244316+08:00",
   "categories": {
     "AI": [
+      {
+        "title": "The one piece of data that could actually shed light on your job and AI",
+        "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, respo…",
+        "source": "MIT Technology Review – AI"
+      },
       {
         "title": "AI is changing how small online sellers decide what to make",
         "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
@@ -12,7 +18,7 @@
       {
         "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
         "link": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-        "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi datacenter if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news out…",
+        "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news ou…",
         "source": "The Verge – AI"
       },
       {
@@ -30,9 +36,75 @@
     ],
     "游戏": [
       {
-        "title": "Starfield Free Lanes And Terran Armada Global Launch Times Confirmed",
+        "title": "Fanatical's New Wholesome Collection Includes Up To 18 Cozy PC Games",
+        "link": "https://www.gamespot.com/articles/fanaticals-build-your-own-wholesome-collection-lets-you-bundle-some-great-cozy-games-on-the-cheap/1100-6539171/?ftag=CAD-01-10abi2f",
+        "summary": "Looking for your next chill and cozy gaming session? Look no further than Fanatical's Build Your Own Wholesome Collection bundle . Like previous Fanatical bundles, you choose from a curated list of games, and the more you add to your bundle, the more you'll save. With the Build Your Own Wholesome bu…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Get 15 PC Games For $15 And Support Charity With This Humble Bundle",
+        "link": "https://www.gamespot.com/articles/get-15-games-for-15-and-support-charity-with-this-humble-bundle/1100-6539170/?ftag=CAD-01-10abi2f",
+        "summary": "Humble has just unveiled one of its best Humble Bundles ever in terms of pure bang-for-buck: The Humble 15 for $15 Bundle is now available on Humble's official website , and as the name suggests, it gives players access to a total of 15 PC games (a $158 value) for just $15. Even better, proceeds fro…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Explore Mortal Kombat's Many Big-Screen Adaptations With These Blu-Ray Deals",
+        "link": "https://www.gamespot.com/gallery/mortal-kombat-blu-rays-round-up/2900-6331/",
+        "summary": "Mortal Kombat started in arcades in 1992, quickly earning a name with its brutal action and an intriguing storyline pitting Earth's greatest warriors against the threat of Outworld. It wasn't long before the series branched out into other forms of entertainment, starting with a blockbuster movie in …",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Magic: The Gathering's Teenage Mutant Ninja Turtles Is The Most Video Gamey Set Ever",
+        "link": "https://www.gamespot.com/articles/magic-the-gatherings-teenage-mutant-ninja-turtles-is-the-most-video-gamey-set-ever/1100-6539240/?ftag=CAD-01-10abi2f",
+        "summary": "The echoing, digitized delivery of the phrase \" Big Apple, 3 a.m. \" is something that's burned into my brain. My friends and I blasted through that first level of Teenage Mutant Ninja Turtles IV: Turtles in Time hundreds of times, beating up foot-clan dorks, grabbing pizzas, and falling in open manh…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "MLB The Show 26 Celebrates The Best Defensive Performance In Baseball History",
+        "link": "https://www.gamespot.com/articles/mlb-the-show-26-celebrates-the-best-defensive-performance-in-baseball-history/1100-6539239/?ftag=CAD-01-10abi2f",
+        "summary": "On April 4, the Los Angeles Angels played the Seattle Mariners in an early-season matchup that ended with an underwhelming 1-0 score. If you look at the batting and hitting stats, there wasn't anything particularly notable about the game, but Angels right fielder Jo Adell managed to do something tha…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Pragmata Everything To Know",
+        "link": "https://www.gamespot.com/videos/pragmata-everything-to-know/2300-6466806/",
+        "summary": "From its mysterious lunar setting to the unique blend of puzzle and action combat on offer, here’s everything to know about Pragmata.",
+        "source": "GameSpot"
+      },
+      {
+        "title": "This New Game Might Scratch That GTA 6 Itch, Just Don't Expect A GTA-Sized Experience (Or Price Tag)",
+        "link": "https://www.gamespot.com/articles/this-new-game-might-scratch-that-gta-6-itch-just-dont-expect-a-gta-sized-experience-or-price-tag/1100-6539236/?ftag=CAD-01-10abi2f",
+        "summary": "The debut title from Just Cause developer Christofer Sundberg's new studio Liquid Swords launches this week, and the launch trailer has arrived. The game is called Samson: A Tyndalston Story, and at a glance, it looks like Grand Theft Auto without guns. The $25 game has players taking on the role of…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Save Over $150 On These Premium Sony Noise Cancelling Headphones",
+        "link": "https://www.gamespot.com/articles/save-over-150-on-these-premium-sony-noise-cancelling-headphones/1100-6539237/?ftag=CAD-01-10abi2f",
+        "summary": "Sony WH-1000XMS5 Noise-Canceling Headphones $248 (was $400) See at Amazon If you're in need of a high-quality pair of over-the-ear headphones, the Sony WH-1000XM5 premium noise-canceling headphones are currently available on Amazon for $248 (was $400) for a limited time. The deal applies to all four…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Crimson Desert Players Beg You Don't Take Items Too Early",
+        "link": "https://www.gamespot.com/articles/crimson-desert-players-beg-you-dont-take-items-too-early/1100-6539232/?ftag=CAD-01-10abi2f",
+        "summary": "Crimson Desert is one of those games where, if you see it, you can likely go to it, living up to the Bethesda-ism that Skyrim was built on. Unfortunately, with great freedom comes great regret, as players warn that you could break quests by exploring too soon. Fans took to the game's official subred…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "WoW Race To World First Thrown Into Chaos After Secret Boss Phase Reveal",
+        "link": "https://www.gamespot.com/articles/wow-race-to-world-first-thrown-into-chaos-after-secret-boss-phase-reveal/1100-6539231/?ftag=CAD-01-10abi2f",
+        "summary": "Update: Team Liquid has emerged victorious, securing the world first title for completing Mythic March on Quel'Danas and bringing down L'ura after 473 attempts, the third highest pull count on a single boss in race to world first history. The best World of Warcraft players in the world are locked in…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Starfield Free Lanes And Terran Armada Release Date And Times Confirmed",
         "link": "https://www.gamespot.com/articles/starfield-free-lanes-and-terran-armada-global-launch-times-confirmed/1100-6539229/?ftag=CAD-01-10abi2f",
         "summary": "Since it first launched in 2023, Starfield has received numerous expansions and upgrades, and this month is a big one for Bethesda's sci-fi adventure game. Not only is it coming to PS5 consoles , but Starfield is also getting two updates--Free Lanes and Terran Armada. Both of these will be launching…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "State Of Decay 3's Announcement Trailer Wasn't Actually The Game",
+        "link": "https://www.gamespot.com/articles/state-of-decay-3s-announcement-trailer-wasnt-actually-the-game/1100-6539230/?ftag=CAD-01-10abi2f",
+        "summary": "Undead Labs' studio head Philip Holt has explained the six-year gap between when State of Decay 3 was announced and its re-reveal this past week. Holt told Sunny Games that State of Decay 3's announcement trailer from 2020 was not actually of the game. \"There really wasn't a game or game team when w…",
         "source": "GameSpot"
       },
       {
@@ -52,59 +124,77 @@
         "link": "https://www.gamespot.com/articles/its-not-a-switch-2-mario-galaxy-bundle-but-this-deal-is-the-next-best-thing/1100-6539226/?ftag=CAD-01-10abi2f",
         "summary": "Nintendo has announced a new limited-time Switch 2 deal. Anyone who purchases the console can save $20 on the physical or digital version of Super Mario Galaxy + Super Mario Galaxy 2 when bought together, and the special runs April 12 through May 9. Participating retailers include Amazon, Best Buy, …",
         "source": "GameSpot"
-      },
-      {
-        "title": "Super Mario Galaxy Movie Helped Break A 106-Year Record",
-        "link": "https://www.gamespot.com/articles/super-mario-galaxy-movie-helped-break-a-106-year-record/1100-6539225/?ftag=CAD-01-10abi2f",
-        "summary": "The Super Mario Galaxy Movie put up some impressive figures at the box office this weekend , and one beneficiary of that success in the movie theater chain AMC. The company reported today that the April 1-5 five-day period was the best Easter weekend in the company's 106-year history in terms of rev…",
-        "source": "GameSpot"
-      },
-      {
-        "title": "Anya Taylor-Joy Did Not Actually Barf When Voicing Peach For The First Time In Mario Movie",
-        "link": "https://www.gamespot.com/articles/anya-taylor-joy-did-not-actually-barf-when-voicing-peach-for-the-first-time-in-mario-movie/1100-6539224/?ftag=CAD-01-10abi2f",
-        "summary": "Actor Anya Taylor-Joy did not actually barf the first time she voiced Princess Peach for The Super Mario Bros. Movie. She recently clarified her earlier comments, saying she did in fact vomit when doing voice over for the first time, but not for Princess Peach. She told Entertainment Tonight , \"I ne…",
-        "source": "GameSpot"
-      },
-      {
-        "title": "Zelda Movie Filming At Same Locations As The Lord Of The Rings, And People Are Excited",
-        "link": "https://www.gamespot.com/articles/zelda-movie-filming-at-same-locations-as-the-lord-of-the-rings-and-people-are-excited/1100-6539223/?ftag=CAD-01-10abi2f",
-        "summary": "It has come to light that the upcoming live-action The Legend of Zelda movie is filming at some of the same locations that Peter Jackson's Oscar-winning The Lord of the Rings trilogy shot at in New Zealand. The island country is known for its gorgeous natural beauty, and the live-action Zelda movie …",
-        "source": "GameSpot"
-      },
-      {
-        "title": "Star Wars Actor Sam Witwer Says A Darth Maul Game Could Be Something Special",
-        "link": "https://www.gamespot.com/articles/star-wars-actor-sam-witwer-says-a-darth-maul-game-could-be-something-special/1100-6539222/?ftag=CAD-01-10abi2f",
-        "summary": "With a new spin-off animated series coming out this month, Maul is back in the Star Wars spotlight. Since his first appearance in 1999's Star Wars Episode 1: The Phantom Menace, the former Dark Lord of the Sith has become one of the series' most popular characters and has appeared in several video g…",
-        "source": "GameSpot"
-      },
-      {
-        "title": "Limited Run Seemingly Throws Old Guard Under The Bus, Promising No Future Delays",
-        "link": "https://www.gamespot.com/articles/limited-run-seemingly-throws-old-guard-under-the-bus-promising-no-future-delays/1100-6539221/?ftag=CAD-01-10abi2f",
-        "summary": "Limited Run has been no stranger to online controversy. Between allegations of using cheap recordable media in place of pressed CDs for certain games , a lawsuit for alleged violations of privacy , and severely delayed collectors' editions arriving with questionable quality control , things have bee…",
-        "source": "GameSpot"
-      },
-      {
-        "title": "Arc Raiders improves crafting, says new \"streamlined system\" is \"just the start\"",
-        "link": "https://www.eurogamer.net/arc-raiders-improves-crafting-says-new-streamlined-system-is-just-the-start",
-        "summary": "Arc Raiders is reworking its crafting system after acknowledging the \"one piece of feedback [that] kept coming up\" from players was the \"pain point\" of gathering missing materials. Read more",
-        "source": "Eurogamer"
-      },
-      {
-        "title": "Sony's battle against shovelware publishers persists as it purges another load of crap games from the PlayStation Store",
-        "link": "https://www.eurogamer.net/sonys-battle-against-shovelware-publishers-persists-as-it-purges-another-load-of-crap-games-from-the-playstation-store",
-        "summary": "Sony has once again delisted a number of games from its storefronts, including the catalogues of alleged shovelware publishers like GoGame Console Publisher, VRCForge Studios, and Welding Byte. Read more",
-        "source": "Eurogamer"
-      },
-      {
-        "title": "McDonald's new 'Archie' device stops you going AFK while you eat a Big Mac",
-        "link": "https://www.eurogamer.net/mcdonalds-new-archie-device-stops-you-going-afk-while-you-eat-a-big-mac",
-        "summary": "Gamers in Türkiye will be the first in the world to grab a McDonald's 'Archie' device – a controller peripheral that keeps your controller active while you step away, presumably to eat a McDonald's meal. Read more",
-        "source": "Eurogamer"
       }
     ],
     "科技": [
       {
-        "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+        "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+        "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+        "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI design platform Picsart launches a creator monetization program",
+        "link": "https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/",
+        "summary": "The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+        "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+        "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Gas prices aren’t the only factor fueling used EV sales",
+        "link": "https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/",
+        "summary": "The most recent electric vehicle sales data provided a grim picture — at least for new EVs. Used EVs are moving in the opposite direction.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google quietly launched an AI dictation app that works offline",
+        "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+        "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Netflix is expanding into kids’ games with a new stand-alone app",
+        "link": "https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/",
+        "summary": "Netflix says the app gives children access to an \"ever-growing\" library of games for kids.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why safety regulators closed their investigation into Tesla’s remote parking feature",
+        "link": "https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/",
+        "summary": "The NHTSA closed its investigation into Tesla's \"Actually Smart Summon\" feature, saying that only a fraction of cases resulted in an incident and that no incidents resulted in injury. Tesla has also issued a number of software updates.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Iran threatens ‘Stargate’ AI data centers",
+        "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+        "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple moves to take its App Store fight back to the Supreme Court",
+        "link": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
+        "summary": "Apple plans to ask the Supreme Court to review its App Store fight with Epic Games, as it challenges a ruling limiting its ability to charge fees on external payments.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Watch this video of how a job interviewer exposes a North Korean fake IT worker",
+        "link": "https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/",
+        "summary": "An apparent North Korean worker was caught visibly stumped during a remote job interview when asked to insult the country's leader.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "North Korea’s hijack of one of the web’s most used open source projects was likely weeks in the making",
+        "link": "https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/",
+        "summary": "North Korean hackers pushed out malicious updates to a popular open source project by hacking a top developer's computer in a long-running campaign.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
         "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
         "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
         "source": "TechCrunch"
@@ -126,78 +216,24 @@
         "link": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
         "summary": "Starting today, you have 5 days to save nearly $500 on your ticket to TechCrunch Disrupt 2026. This offer disappears Friday, April 10, at 11:59 p.m. PT. Register here to secure these low rates.",
         "source": "TechCrunch"
-      },
-      {
-        "title": "Convicted spyware maker Bryan Fleming avoids jail at sentencing",
-        "link": "https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/",
-        "summary": "The pcTattletale founder escapes a custodial sentence following the first successful prosecution of a spyware maker in the U.S. in over a decade.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
-        "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
-        "summary": "The company is also announcing a deal with L3Harris to build the sensors for Xoople's spacecraft.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun",
-        "link": "https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/",
-        "summary": "The Xiaomi 17 Ultra gives you a ton of options to play around with images, including preset filters and hardware add-ons.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
-        "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
-        "summary": "A Democratic congressman had harsh criticism for Polymarket for allowing users to bet on the date the U.S. would confirm the rescue of Air Force service members shot down over Iran.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-        "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-        "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "As people look for ways to make new friends, here are the apps promising to help",
-        "link": "https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-        "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Used EV sales spike alongside gas prices",
-        "link": "https://arstechnica.com/cars/2026/04/used-ev-sales-spike-alongside-gas-prices/",
-        "summary": "The market for new cars has slumped as Americans look for deals on used EVs.",
-        "source": "Ars Technica"
-      },
-      {
-        "title": "Why will today's lunar flyby only beam back low-resolution video?",
-        "link": "https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/",
-        "summary": "\"Don't expect hi-res video.\"",
-        "source": "Ars Technica"
-      },
-      {
-        "title": "What Memento reveals about human nature, 25 years later",
-        "link": "https://arstechnica.com/culture/2026/04/memento-turns-25/",
-        "summary": "Director Christopher Nolan's breakout film explores themes of the nature of memory and personal identity.",
-        "source": "Ars Technica"
-      },
-      {
-        "title": "Samsung&#8217;s Galaxy S27 &#8216;Pro&#8217; could squeeze in between the Ultra and Plus phones",
-        "link": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
-        "summary": "Samsung's S27 lineup, expected next year, might include a new member, the Galaxy S27 Pro, which would be a second premium option between Samsung's Ultra and Plus models, as first reported by ETNews. The new Pro model reportedly won't support the S Pen but will feature Samsung's Privacy Display, whic…",
-        "source": "The Verge"
-      },
-      {
-        "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-        "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi datacenter if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news out…",
-        "source": "The Verge"
       }
     ],
     "金融市场": [
       {
-        "title": "Wall Street trims gains as Iran rejects ceasefire proposal",
-        "link": "https://seekingalpha.com/news/4572726-wall-street-shifts-higher-as-middle-east-tensions-remain-front-and-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "title": "Strategy reports bitcoin purchase and stock sale activities",
+        "link": "https://www.investing.com/news/cryptocurrency-news/strategy-reports-bitcoin-purchase-and-stock-sale-activities-432SI-4598279",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "LG Electronics stock reverses gains despite record Q1 preliminary revenue and 33% profit surge",
+        "link": "https://seekingalpha.com/news/4572843-lg-electronics-stock-reverse-gains-despite-record-q1-preliminary-revenue-and-33-profit-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Australia’s service sector hits 26-month low as PMI plunges into contraction amid inflation spike",
+        "link": "https://seekingalpha.com/news/4572847-australias-service-sector-hits-26-month-low-as-pmi-plunges-into-contraction-amid-inflation-spike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
         "summary": "",
         "source": "Seeking Alpha"
       }

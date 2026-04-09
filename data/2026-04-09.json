@@ -1,0 +1,296 @@
+{
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T14:07:47.640209+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+        "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+        "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+        "link": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable  As the conflict in Iran has escalated, a crucial resource is under fire: the desalinization te…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Gemini gets notebooks to help you organize projects",
+        "link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+        "summary": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull in things like files, past conversations, and custom instructions into notebooks that Gemini can the…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+        "link": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+        "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats towar…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta is reentering the AI race with a new model called Muse Spark",
+        "link": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+        "summary": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement. In the coming weeks, Meta says, it will appea…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The vibes are off at OpenAI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+        "summary": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's potentially planning for an IPO later this year. ChatGPT's longtime lead in consumer-facing AI led i…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
+        "link": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
+        "summary": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line. The roughly 150 members of the ProPublica Guild are in the midst of negotiating a collective bargaining agre…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
+        "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+        "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
+        "link": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+        "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The US Army Is Building Its Own Chatbot for Combat",
+        "link": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
+        "summary": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel",
+        "link": "https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/",
+        "summary": "Intel’s role in Elon Musk’s ambitious chip venture is still murky, raising questions about what the partnership actually entails—and whether it can work at all.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
+        "link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+        "summary": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Taco Bell Predicted Mario And Star Fox Crossover Nearly 30 Years Ago",
+        "link": "https://www.gamespot.com/articles/taco-bell-predicted-mario-and-star-fox-crossover-nearly-30-years-ago/1100-6539290/?ftag=CAD-01-10abi2f",
+        "summary": "The Super Mario Galaxy Movie features the first meeting between Mario and Fox McCloud outside of the Super Smash Bros. franchise. But this odd pairing of Nintendo icons was seemingly foreshadowed nearly three decades ago in promotional art for Taco Bell. On X, Slavko ShyGuy shared a picture of Mario…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "The 1994 Live-Action Flintstones Flick Is Getting A \"Stonebook\" 4K Blu-Ray",
+        "link": "https://www.gamespot.com/articles/the-flintstones-stonebook-blu-ray-buying-guide/1100-6539271/?ftag=CAD-01-10abi2f",
+        "summary": "The Flintstones Limited-Edition Steelbook (4K Blu-ray) $33 | Releases June 2 Preorder at Amazon Preorder at Walmart Preorder at Gruv Flintstones, meet the Flintstones on 4K Blu-ray! Everyone's favorite prehistoric family is making a comeback, and fans can preorder a limited-edition steelbook for $33…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Tomodachi Life Fans Are Already Running Wild With Its Character Creator",
+        "link": "https://www.gamespot.com/articles/tomodachi-life-fans-are-already-running-wild-with-its-character-creator/1100-6539289/?ftag=CAD-01-10abi2f",
+        "summary": "Tomodachi Life: Living The Dream is nearly upon us, but Nintendo has already given its ravenous fans a demo with robust character-creation tools that allows them to make and carry their creations over into the full release. That being the case, players have already made tremendous use of the demo’s …",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Next Sony State Of Play Coming April 16 - Report",
+        "link": "https://www.gamespot.com/articles/next-sony-state-of-play-coming-april-16-report/1100-6539288/?ftag=CAD-01-10abi2f",
+        "summary": "Sony's next State of Play broadcast will take place very soon, according to a new report. Prominent leaker Nate the Hate reported that the next State of Play event may take place on Thursday, April 16. However, he said this is unconfirmed for now. He added that it appears to be a State of Play that …",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Overwatch's Next Hero Comes With A Badass Grappling Hook (And Juicy Lore Opportunities)",
+        "link": "https://www.gamespot.com/articles/overwatchs-next-hero-comes-with-a-badass-grappling-hook-and-juicy-lore-opportunities/1100-6539284/?ftag=CAD-01-10abi2f",
+        "summary": "Earlier this year, Overwatch broke the internet (and its own concurrent-player records ) by adding five new heroes to its ranks . Two of these heroes, Anran and Jetpack Cat, joined the fray on the side of Overwatch, the game's titular organization of do-gooders. The other three, however, had more ne…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "How To Recruit All Terran Armada Crewmates In Starfield",
+        "link": "https://www.gamespot.com/articles/how-to-recruit-all-terran-armada-crewmates-in-starfield/1100-6539286/?ftag=CAD-01-10abi2f",
+        "summary": "The Terran Armada expansion in Starfield didn't just deliver a new questline to complete and enemies to fight. It also introduced some new crewmates to the game, allowing you to expand your crew and assign new members to your spaceship, outpost, or party. As with every other crewmate you could previ…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Teenage Mutant Ninja Turtles Fans Can Score Hundreds Of Comic Issues in This Massive $25 Bundle",
+        "link": "https://www.gamespot.com/articles/teenage-mutant-ninja-turtles-fanatical-bundle-comics/1100-6539287/?ftag=CAD-01-10abi2f",
+        "summary": "Long before they were raising shell in several animated series and movies, the Teenage Mutant Ninja Turtles were a comic book phenomenon. In the decades since they first took off, hundreds of TMNT comic books have been published by various publishers. Those interested in checking out the team's grap…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "What You Need To Know About The New Fortnite Arenas Boxfight Map",
+        "link": "https://www.gamespot.com/articles/what-you-need-to-know-about-the-new-fortnite-arenas-boxfight-map/1100-6539285/?ftag=CAD-01-10abi2f",
+        "summary": "Starting April 9, Fortnite is getting a new core mode developed by Epic Games called Arenas, which will allow players to take part in round-robin boxfight tournaments. Arenas , which was made with Unreal Editor for Fortnite, is essentially Epic's attempt to make its own version of a very popular gen…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Xbox Achievements Are Getting A Visual Overhaul And Other Welcome Changes",
+        "link": "https://www.gamespot.com/articles/xbox-achievements-are-getting-a-visual-overhaul-and-other-welcome-changes/1100-6539283/?ftag=CAD-01-10abi2f",
+        "summary": "Microsoft is making changes to the popular and long-running Achievements on Xbox, and people can start testing the changes today, April 8. Xbox Insiders can test these changes first, and you can sign up for the free program on the Xbox Insider website . The changes will roll out to everyone else lat…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Pokemon Champions Players Say Content From Trailers Isn't In Game",
+        "link": "https://www.gamespot.com/articles/pokemon-champions-players-say-content-from-trailers-isnt-in-game/1100-6539281/?ftag=CAD-01-10abi2f",
+        "summary": "Multiple Pokemon fans are finding that Pokemon Champions isn't up to snuff for the competitive scene, saying that it lacks several Pokemon and items that were even advertised in pre-release trailers. Currently, Pokemon Champions only supports 186 Pokemon, only featuring fully evolved forms (with som…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "No Man's Sky Is Adding Pokemon-Style Battles In Xeno Arena",
+        "link": "https://www.gamespot.com/articles/no-mans-sky-is-adding-pokemon-style-battles-in-xeno-arena/1100-6539279/?ftag=CAD-01-10abi2f",
+        "summary": "In the nearly 10 years since its debut, No Man's Sky has undergone some very dramatic changes. But the latest update from Hello Games has taken on even more unexpected directions, including some Pokemon-like battles in the new Xeno Arena. As laid out in the new patch notes , Xeno Arena's battles wil…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "The Biggest New Game Releases Of April 2026",
+        "link": "https://www.gamespot.com/gallery/the-biggest-new-game-releases-of-april-2026/2900-7623/",
+        "summary": "Goodbye, first quarter of the 2026 gaming year, hello to the second quarter! We're officially starting the fourth month of the year with a bang, as the month ahead is packed with several highly anticipated releases, interesting indies, and a few retro-inspired games to keep things interesting. Betwe…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Pokemon Champions Bug Has Made Some Players Lose Access To Their Precious Monsters",
+        "link": "https://www.gamespot.com/articles/pokemon-champions-bug-has-made-some-players-lose-access-to-their-precious-monsters/1100-6539280/?ftag=CAD-01-10abi2f",
+        "summary": "The newly released Pokemon Champions game lets you use Pokemon from older games through Pokemon Home , though some players shared that a bug has locked their beloved pocket monsters in purgatory after the transfer process. Competitive Pokemon player Justin Carris said on X that trying to send Pokemo…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Yet Another Live-Service Game Is Shutting Down Just Weeks After Launch",
+        "link": "https://www.gamespot.com/articles/yet-another-live-service-game-is-shutting-down-just-weeks-after-launch/1100-6539277/?ftag=CAD-01-10abi2f",
+        "summary": "The live-service game graveyard has just gained another tenant, as the developers of The Cube, Save Us announced that the online extraction shooter will shut down next month, starting May 8. Describing the end of the game's service as \"heartbreaking,\" developer XL Games added in a blog post that ful…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "The Super Mario Galaxy Movie Rockets Past Sonic 2 And Uncharted On The All-Time Video Game Movie Charts",
+        "link": "https://www.gamespot.com/articles/the-super-mario-galaxy-movie-rockets-past-sonic-2-and-uncharted-on-the-all-time-video-game-movie-charts/1100-6539276/?ftag=CAD-01-10abi2f",
+        "summary": "The Super Mario Galaxy Movie continues to soar at the box office, and it's now passed $400 million globally. It's also now surpassed Sonic the Hedgehog 2 and Uncharted to become the No. 7 highest-grossing video game movie of all time, and it's expected to keep climbing up the charts. Through April 7…",
+        "source": "GameSpot"
+      }
+    ],
+    "科技": [
+      {
+        "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+        "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+        "summary": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+        "link": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+        "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled right through,\" according to a witness.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Poke makes using AI agents as easy as sending a text",
+        "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+        "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions",
+        "link": "https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/",
+        "summary": "Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+        "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+        "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon to end support for older Kindle devices",
+        "link": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
+        "summary": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
+        "link": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+        "summary": "This is the first model Meta has released under its Superintelligence Labs, led by former Scale AI CEO Alexandr Wang.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hack-for-hire group caught targeting Android devices and iCloud backups",
+        "link": "https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/",
+        "summary": "Security researchers exposed a spying campaign by a hack-for-hire group that used Android spyware and phishing to steal iCloud credentials and hack victims’ devices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+        "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+        "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber",
+        "link": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
+        "summary": "Volkswagen subsidiary MOIA America still has a long and winding regulatory road before it can launch a commercial robotaxi service.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These are the countries moving to ban social media for children",
+        "link": "https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/",
+        "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "British cryptographer Adam Back denies NYT report that he is Bitcoin creator Satoshi Nakamoto",
+        "link": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
+        "summary": "Back, a long-time researcher and pioneer in cryptography, denies the allegation that he is the secretive creator of Bitcoin.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+        "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+        "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers steal and leak sensitive LAPD police documents",
+        "link": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
+        "summary": "The LAPD said the breach affected “a digital storage system” belonging to the city’s Attorney's Office. The World Leaks extortion gang was reported to be behind the attack.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+        "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+        "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
+        "link": "https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html",
+        "summary": "The Hormuz disruption is hammering Asian economies with surging energy costs and weakening currencies, but a repeat of the crisis three decades ago is unlikely.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
+        "link": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html",
+        "summary": "Odds for a reduction jumped Wednesday morning, hitting about 43%, according to the CME Group.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "A fragile U.S.-Iran ceasefire sparks market relief — but no clear path to lasting peace",
+        "link": "https://www.cnbc.com/2026/04/08/us-iran-war-ceasefire-middle-east-strait-of-hormuz-oil-markets.html",
+        "summary": "The fragile ceasefire agreement is likely to face significant challenges, analysts told CNBC, citing a significant trust deficit on both sides.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Polymarket Acquires Brahma To Scale its Crypto and DeFi infra",
+        "link": "https://www.investing.com/news/cryptocurrency-news/polymarket-acquires-brahma-to-scale-its-crypto-and-defi-infra-4603872",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Disney plans 1,000 job cuts in marketing overhaul under new CEO Josh D’Amaro",
+        "link": "https://seekingalpha.com/news/4573581-disney-plans-1000-job-cuts-in-marketing-overhaul-under-new-ceo-josh-damaro?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

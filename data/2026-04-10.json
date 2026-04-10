@@ -1,0 +1,302 @@
+{
+  "date": "2026-04-10",
+  "generated_at": "2026-04-10T14:20:53.986162+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: AstroTurf wars and exponential AI growth",
+        "link": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over.  In 2001, Americans installed just over 7 million square meters of synthetic turf. By 2024, that n…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Is fake grass a bad idea? The AstroTurf wars are far from over.",
+        "link": "https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/",
+        "summary": "A rare warm spell in January melted enough snow to uncover Cornell University’s newest athletic field, built for field hockey. Months before, it was a meadow teeming with birds and bugs; now it’s more than an acre of synthetic turf roughly the color of the felt on a pool table, almost digital in its…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Desalination technology, by the numbers",
+        "link": "https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/",
+        "summary": "When I started digging into desalination technology for a new story, I couldn’t help but obsess over the numbers. I’d known on some level that desalination—pulling salt out of seawater to produce fresh water—was an increasingly important technology, especially in water-stressed regions including the…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "ChatGPT has a new $100 per month Pro subscription",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+        "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the ne…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Florida launches investigation into OpenAI",
+        "link": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+        "summary": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are \"falling into the hands of America's en…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
+        "link": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+        "summary": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-generated model, manually adjust sliders on it, or input different values to change the simulation in …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The AI industry’s race for profits is now existential",
+        "link": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
+        "summary": "Today on Decoder, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it. My guest today is Hayden Field, who’s our senior AI reporter here at The Verge. She’s been keeping clos…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google makes it easy to deepfake yourself",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+        "summary": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+        "link": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+        "summary": "The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
+        "link": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
+        "summary": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move? Powering physical AI.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
+        "link": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
+        "summary": "Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
+        "link": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/",
+        "summary": "Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Doki Doki Literature Club Removed From Google Play Store After Already Being There For Months",
+        "link": "https://www.gamespot.com/articles/doki-doki-literature-club-removed-from-google-play-store-after-already-being-there-for-months/1100-6539325/?ftag=CAD-01-10abi2f",
+        "summary": "Doki Doki Literature Club has been pulled from the Google Play Store, just a few months after its release on the mobile storefront back in December 2025. In a statement from Serenity Forge, the studio cites that Google chose to remove the game from the Google Play Store as its content violates the s…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Assassin's Creed Valhalla Headlines April's Humble Choice Collection",
+        "link": "https://www.gamespot.com/articles/humble-choice-monthly-games-roundup/1100-6537922/?ftag=CAD-01-10abi2f",
+        "summary": "April 2026's Humble Choice lineup is live, and this month's batch of PC games is an eclectic mix of heart-warming indies, AAA blockbusters, and hidden gems. Assassin's Creed Valhalla is undoubtedly the biggest draw here, being one of the biggest games in Ubisoft's long-running series. If you're more…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Amazon Deal: Get 3 Board Games For The Price Of 2 For A Limited time",
+        "link": "https://www.gamespot.com/articles/amazon-3-for-2-select-board-games-and-collectibles/1100-6539312/?ftag=CAD-01-10abi2f",
+        "summary": "Amazon Board Games: Three For the Price Of Two Sale Save big on popular board games See at Amazon The great thing about board games is that they're social, don't need electricity, and have a built-in offline mode. If you want to stock up on tabletop fun, head over to Amazon to take advantage of a Ge…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "You Can Still Find PS5s At Pre-Price Hike MSRP - The Best PS5 Deals Of The Week (March 31, 2026)",
+        "link": "https://www.gamespot.com/articles/the-best-ps5-deals-this-week-games-accessories-consoles-and-more/1100-6538557/?ftag=CAD-01-10abi2f",
+        "summary": "This is a strange week for PS5 deals. The console price hike has officially taken effect, but you can still find it at its old prices in some places. A bunch of video game deals are also carrying over from late March (including a huge price cut for the Metal Gear Solid Delta: Snake Eater (Collector'…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Backyard Baseball Gets Free Demo, And Of Course It Has Pablo Sanchez",
+        "link": "https://www.gamespot.com/articles/backyard-baseball-gets-free-demo-and-of-course-it-has-pablo-sanchez/1100-6539324/?ftag=CAD-01-10abi2f",
+        "summary": "Mega Cat Studios and Playground Productions are releasing the first all-new Backyard Baseball game in years later this summer, but if you can't wait to try out the game's new features, there's a free demo available right now. And yes, you can play as the GOAT, Pablo Sanchez, along with some other cl…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Call Of Duty Adds New Accessibility Options, Including Voice And Head Commands",
+        "link": "https://www.gamespot.com/articles/call-of-duty-adds-new-accessibility-options-including-voice-and-head-commands/1100-6539323/?ftag=CAD-01-10abi2f",
+        "summary": "Call of Duty: Black Ops 7 has just introduced some new controller options for disabled gamers that provide a greater level of customization in the military shooter. This is a boon for accessibility in a series that continues to cater to players of all skills and abilities. Co-developers Treyarch and…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Metal Gear Solid Movie Re-Announced As It Loses Director, Gets Two New Ones",
+        "link": "https://www.gamespot.com/articles/metal-gear-solid-movie-gets-new-directors/1100-6539320/?ftag=CAD-01-10abi2f",
+        "summary": "The long-in-development Metal Gear Solid movie that was set to be directed by Metal Gear super-fan Jordan Vogt-Roberts has now been officially announced. Rather than Vogt-Roberts, it will now be directed by Zach Lipovsky and Adam B. Stein. They directed 2025's Final Destination: Bloodlines and have …",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Before You Start Battling In Pokemon Champions, Checking The Battle Data Menu Is A Must",
+        "link": "https://www.gamespot.com/articles/before-you-start-battling-in-pokemon-champions-checking-the-battle-data-menu-is-a-must/1100-6539319/?ftag=CAD-01-10abi2f",
+        "summary": "Pokemon Champions is entirely focused on competitive battling, but a hidden menu option might help you gain an edge against opposing trainers. Within the Battle option in the main menu is Battle Data selection, all the way at the bottom. Select Ranked Battles, and although the menu might look empty …",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Crimson Desert Fans Find The Best NPCs To Be Besties With",
+        "link": "https://www.gamespot.com/articles/crimson-desert-fans-find-the-best-npcs-to-be-besties-with/1100-6539321/?ftag=CAD-01-10abi2f",
+        "summary": "Crimson Desert has a variety of denizens for you to meet, from food and equipment vendors to armor and hair stylists. There are some you'll want to make best friends with sooner rather than later, and fans of Pearl Abyss' open-world action-adventure game have determined which NPCs you may want to ma…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Dune: Awakening Is Finally Removing PvP Areas And Making PvE The Focus",
+        "link": "https://www.gamespot.com/articles/dune-awakening-is-finally-removing-pvp-areas-and-making-pve-the-focus/1100-6539317/?ftag=CAD-01-10abi2f",
+        "summary": "Dune: Awakening , the open-world survival game set in Frank Herbert's legendary sci-fi universe, is finally making it so player-versus-player encounters are entirely optional. When Dune: Awakening first launched last summer, more than a few players felt blindsided by its PvP-focused endgame that req…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Another GTA 6 Delay Would Make Game \"Cooler,\" But I Wouldn't Pay $100 For It, Actor Says",
+        "link": "https://www.gamespot.com/articles/another-gta-6-delay-would-make-game-cooler-but-i-wouldnt-pay-100-for-it-actor-says/1100-6539316/?ftag=CAD-01-10abi2f",
+        "summary": "Actor Jay Klaitz, who famously portrayed Lester in Grand Theft Auto 5, has weighed in with more thoughts on Grand Theft Auto 6, saying another delay could make the game \"cooler.\" He also said he hopes the game does not launch at $100, but instead a price point that's more \"accessible.\" Speaking to E…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Here's This Week's Free Game From The Epic Games Store On Mobile",
+        "link": "https://www.gamespot.com/articles/free-games-epic-games-store-mobile/1100-6530257/?ftag=CAD-01-10abi2f",
+        "summary": "For the last couple of years, the Epic Games Store has given away free games every week through its PC storefront. With the company having launched its own mobile store, it has also started a second free games program on iOS and Android devices, kicking things off with a curated library of titles an…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Pokemon Champions Bug On Switch 2 Demands You Briefly Undock The System",
+        "link": "https://www.gamespot.com/articles/pokemon-champions-bug-on-switch-2-demands-you-briefly-undock-the-system/1100-6539315/?ftag=CAD-01-10abi2f",
+        "summary": "The launch of Pokemon Champions has come with more problems than you can fit in a Poke Ball, but a Switch 2-specific bug affecting the game's resolution might take the cake as the strangest issue. Prominent Pokemon fan account Centro Leaks (via IGN ) pointed out that Pokemon Champions runs at a lowe…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Seven New One Piece Lego Sets Are Launching This Summer",
+        "link": "https://www.gamespot.com/gallery/one-piece-season-2-lego-sets/2900-7662/",
+        "summary": "Season 2 of Netflix's hit live-action adaptation of One Piece is here, and has brought along a new batch of Lego sets. Each one is a recreation of iconic characters or moments from the show, from fully buildable figures to action dioramas with multiple minifigures included. All of the new sets are c…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Windrose, One Of Steam's Most-Wishlisted Games, Is Out Next Week To Scratch That Black Flag Itch",
+        "link": "https://www.gamespot.com/articles/windrose-one-of-steams-most-wishlisted-games-is-out-next-week-to-scratch-that-black-flag-itch/1100-6539313/?ftag=CAD-01-10abi2f",
+        "summary": "Windrose , the pirate survival game that made a big splash during the most recent Steam Next Fest and is one of the most anticipated titles on the platform with over 1.5 million wishlists, is releasing soon. Very soon. As revealed during the recent Triple-I Initiative showcase , the co-op pirate adv…",
+        "source": "GameSpot"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+        "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+        "summary": "Florida Attorney General James Uthmeier plans to investigate OpenAI for its alleged harm to minors, potential to threaten national security, and its possible link to a shooting at Florida State University last year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT finally offers $100/month Pro plan",
+        "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+        "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "EFF is the latest organization to leave X",
+        "link": "https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/",
+        "summary": "The EFF follows the departure of various news organizations and others who no longer find X a viable source of traffic.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What founders can learn from Anjuna’s layoffs and recovery",
+        "link": "https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/",
+        "summary": "In 2021, Anjuna Security was growing fast, hiring aggressively, and chasing a market that seemed limitless. By the end of that year, the venture-backed cybersecurity company had scaled to around 75 employees, building out sales, customer success, and support teams in anticipation of continued hyperg…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs",
+        "link": "https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/",
+        "summary": "All resources at its U.S. factory are aimed at the upcoming Atlas SUV.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+        "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+        "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "StubHub to pay $10M to settle FTC allegations over ‘deceptive’ ticket pricing",
+        "link": "https://techcrunch.com/2026/04/09/stubhub-to-pay-10m-to-settle-ftc-allegations-over-deceptive-ticket-pricing/",
+        "summary": "The consumer protection agency says the company violated the FTC Act and its Rule on Unfair or Deceptive Fees by \"deceptively\" advertising ticket prices on its website without clearly disclosing upfront what the total cost would be, including all mandatory fees.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "After data breach, $10B-valued startup Mercor is having a month",
+        "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+        "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+        "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+        "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+        "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+        "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google and Intel deepen AI infrastructure partnership",
+        "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+        "summary": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+        "link": "https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+        "summary": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "You can now edit your Instagram comments",
+        "link": "https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/",
+        "summary": "Instagram users can now edit comments, which is a long-awaited fix for anyone who’s ever had to delete and re-post a comment just to fix a typo.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+        "link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+        "summary": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to autonomously create and…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Avec’s Tinder-style email app allows you to swipe through your inbox",
+        "link": "https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/",
+        "summary": "Users can use the in-built voice transcription tool to reply to emails",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
+        "link": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
+        "summary": "The gauge released Thursday offers the Federal Reserve a snapshot of conditions leading into the Iran war.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
+        "link": "https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html",
+        "summary": "The Hormuz disruption is hammering Asian economies with surging energy costs and weakening currencies, but a repeat of the crisis three decades ago is unlikely.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Apple to wind down its first unionized store in Maryland",
+        "link": "https://seekingalpha.com/news/4573922-apple-to-wind-down-its-first-unionized-store-in-maryland?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Gold Strategy to raise $1.46M via non-brokered placement",
+        "link": "https://seekingalpha.com/news/4573927-gold-strategy-to-raise-146m-via-non-brokered-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Meta pulls down law firm ads seeking clients over Facebook, Instagram addiction",
+        "link": "https://seekingalpha.com/news/4573923-meta-pulls-down-law-firm-ads-seeking-clients-over-facebook-instagram-addiction?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Asia markets climb as Iran ceasefire optimism outweighs China inflation miss",
+        "link": "https://seekingalpha.com/news/4573914-asia-markets-climb-as-iran-ceasefire-optimism-outweighs-china-inflation-miss?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

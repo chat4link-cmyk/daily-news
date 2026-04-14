@@ -1,0 +1,314 @@
+{
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T14:20:35.516488+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Why opinion on AI is so divided",
+        "link": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a s…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Want to understand the current state of AI? Check out these charts.",
+        "link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+        "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts th…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+        "link": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been on Uri Maoz’s mind since he read an article in his early twen…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Job titles of the future: Wildlife first responder",
+        "link": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+        "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.  For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered Spec…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "You have no choice in reading this article—maybe",
+        "link": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+        "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.  Then his professor asked him to deliver an undergrad lectur…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+        "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. Acco…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI influencers are ‘everywhere’ at Coachella",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+        "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly stage…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+        "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a mo…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
+        "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+        "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make Microsoft 365 Copilot \"run autonomously around the clock\" while completing tasks on behalf of users.…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+        "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+        "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is training the AI avatar on Zuckerberg's image and voice, along with his mannerisms, tone, and public…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sam Altman reportedly targeted in second attack",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+        "summary": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects were arrested and charged with negligent discharge, according to a police report on the incident, ci…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+        "link": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+        "summary": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+        "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+        "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
+        "link": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
+        "summary": "As major news outlets cut off the Wayback Machine, journalists and advocacy groups are rallying to protect the Internet Archive’s vast collection of web pages.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI Agents Are Coming for Your Dating Life",
+        "link": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+        "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Bloodborne: R-Rated Animated Movie in Development With JackSepticEye Producing",
+        "link": "https://www.ign.com/articles/bloodborne-r-rated-animated-movie-in-development-with-jacksepticeye-producing",
+        "summary": "Sony Pictures announced at CinemaCon that they are making an R-rated animated feature film based on the video game Bloodborne. It will be produced by PlayStation Productions, Lyrical Animation, and YouTuber and gamer Seán McLoughlin, aka JackSepticEye.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Pictures at CinemaCon 2026: Everything Revealed",
+        "link": "https://www.ign.com/articles/sony-pictures-at-cinemcon-2026-everything-revealed",
+        "summary": "From Spider-Man: Brand New Day to Spider-Man: Beyond the Spider-Verse to Jumanji: Open World to an R-Rated animated Bloodborne movie, here all the big reveals from Sony Pictures Entertainment's CinemaCon 2026 presentation.",
+        "source": "IGN News"
+      },
+      {
+        "title": "George R.R. Martin Is Not Releasing The Winds of Winter This Fall, Book Publisher Confirms",
+        "link": "https://www.ign.com/articles/george-rr-martin-is-not-releasing-the-winds-of-winter-this-fall-book-publisher-confirms",
+        "summary": "A Song of Ice and Fire publisher Bantam Books has stepped in to debunk claims that George R.R. Martin was ready to release the long-awaited The Winds of Winter.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel Comics Reveals DNX, Its Next Big X-Men Crossover",
+        "link": "https://www.ign.com/articles/marvel-comics-dnx-crossover-x-men-fantastic-four",
+        "summary": "Marvel Comics has revealed the first details about DNX, a major new crossover event that pits the X-Men and Fantastic Four against the original version of Beast.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Xbox CEO Comments on Game Pass",
+        "link": "https://www.ign.com/articles/new-xbox-ceo-comments-on-game-pass",
+        "summary": "The new Xbox CEO, Asha Sharma, has reportedly shared a memo with Microsoft employees that stated \"Game Pass has become too expensive for players.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "DC's Epic Medieval Fantasy Universe Returns in Dark Knights of Steel II",
+        "link": "https://www.ign.com/articles/dcs-epic-medieval-fantasy-universe-returns-in-dark-knights-of-steel-ii",
+        "summary": "DC has given fans their first good look at Dark Knights of Steel II, which gives the DCU a Game of Thrones-style makeover.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Former Naughty Dog Dev Recalls Crunch Culture for Games Like The Last of Us and Uncharted",
+        "link": "https://www.ign.com/articles/former-naughty-dog-dev-recalls-crunch-culture-for-games-like-the-last-of-us-and-uncharted",
+        "summary": "Former Naughty Dog designer Benson Russell has explained how the developer eventually began to believe workplace crunch was necessary to make games like The Last of Us at its \"level.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Scarlett Johansson Reflects on Being 'Pigeonholed' and 'Pulled Apart' for Her Appearance Early in Her Career",
+        "link": "https://www.ign.com/articles/it-was-just-a-really-harsh-time-scarlett-johansson-reflects-on-being-pigeonholed-and-pulled-apart-for-her-appearance-early-in-her-career",
+        "summary": "Scarlett Johansson is opening up about being “pigeonholed” and “pulled apart” for her appearance in the early days of her career, which she notes was a “socially acceptable” thing to do at that time.",
+        "source": "IGN News"
+      },
+      {
+        "title": "More Than 20 Classic Warhammer PC Games Just Hit Steam, Including Shadow of the Horned Rat, Warhammer 40,000: Fire Warrior, and Space Hulk — Check Out the List in Full",
+        "link": "https://www.ign.com/articles/more-than-20-classic-warhammer-pc-games-just-hit-steam-including-shadow-of-the-horned-rat-warhammer-40000-fire-warrior-and-space-hulk-check-out-the-list-in-full",
+        "summary": "More than 20 classic Warhammer PC video games have hit Steam as part of a new Warhammer Classics initiative. Check out the list in full.",
+        "source": "IGN News"
+      },
+      {
+        "title": "After Widespread Criticism for Being a Pokémon Clone, Pickmon Developer Announces Name Change 'To Better Align With Our Brand Identity and Lore'",
+        "link": "https://www.ign.com/articles/after-widespread-criticism-for-being-a-pokemon-clone-pickmon-developer-announces-name-change-to-better-align-with-our-brand-identity-and-lore",
+        "summary": "Following widespread fan complaints over copied character designs, the developer of upcoming Steam Pokémon-like Pickmon has said it is now changing the game's name — by one letter — to Pickmos.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'It Was the Opposite of What You Saw in the Movie' — American Pie Actress Shannon Elizabeth Details 'Difficult' Audition Where She Had to Dance for Jason Biggs",
+        "link": "https://www.ign.com/articles/it-was-the-opposite-of-what-you-saw-in-the-movie-american-pie-actress-shannon-elizabeth-details-difficult-audition-where-she-had-to-dance-for-jason-biggs",
+        "summary": "American Pie star Shannon Elizabeth had her breakout role in the beloved 1999 teen comedy — but before packing on the laughs, she recently revealed she was “really scared” during the audition process.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Harry Potter Star Daniel Radcliffe Says He No Longer Feels 'Cringe' When Watching Himself in the Early Movies — Though Disagrees With Andrew Garfield's Praise That He Was Really Good",
+        "link": "https://www.ign.com/articles/harry-potter-star-daniel-radcliffe-says-he-no-longer-feels-cringe-when-watching-himself-in-the-early-movies-though-disagrees-with-andrew-garfields-praise-that-he-was-really-good",
+        "summary": "Harry Potter movie star Daniel Radcliffe has said he disagrees with praise for his performance from former Spider-Man Andrew Garfield, though no longer feels \"cringe\" about the earlier films.",
+        "source": "IGN News"
+      },
+      {
+        "title": "James Bond Game 007: First Light Story Spoilers Leak Following Ratings Board Snafu",
+        "link": "https://www.ign.com/articles/james-bond-game-007-first-light-story-spoilers-leak-following-ratings-board-snafu",
+        "summary": "Major story spoilers for the upcoming James Bond game 007: First Light are reportedly circulating online, following a leak that originated from the Indonesian Ratings Board.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'Emergency Rooms Have a High Revolving Door' — The Pitt Star Noah Wyle Addresses Supriya Ganesh's Surprise Exit From Hit HBO Series",
+        "link": "https://www.ign.com/articles/emergency-rooms-have-a-high-revolving-door-the-pitt-star-noah-wyle-addresses-supriya-ganeshs-surprise-exit-from-hit-hbo-series",
+        "summary": "The season 2 finale of The Pitt is almost here, but with that euphoria comes some sadness — because Supriya Ganesh, who plays senior resident Dr. Samira Mohan, will be making a surprise exit from the show after Season 2. Needless to say, fans aren’t happy, but creator R. Scot Gemmill and star Noah W…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pokémon Go Player Says He's Fighting The Pokémon Company Over Championship Game Loss For 'Unsportsmanlike' Celebration, But Holds No 'Ill Will'",
+        "link": "https://www.ign.com/articles/pokmon-go-player-says-hes-fighting-the-pokmon-company-over-championship-game-loss-for-unsportsmanlike-celebration-but-holds-no-ill-will",
+        "summary": "A competitive Pokémon Go player who had their recent tournament victory scrubbed over \"unsportsmanlike\" behavior is now fighting The Pokémon Company to have the decision overturned.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "An Amazon warehouse worker died on the job at Oregon facility",
+        "link": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
+        "summary": "Though Amazon has faced issues with warehouse safety, the company said that the death was not work related.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI has bought AI personal finance startup Hiro",
+        "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+        "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber and Nuro begin testing premium robotaxi service in San Francisco",
+        "link": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
+        "summary": "Uber employees can now hail a Lucid robotaxi as part of the testing.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft is officially killing its Outlook Lite app next month",
+        "link": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/",
+        "summary": "Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connections. The app had already been scheduled for retirement.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Thousands of rare concert recordings are landing on the Internet Archive — listen now",
+        "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+        "summary": "Chicago-based music superfan Aadam Jacobs has been recording the concerts he goes to since the 1980s, amassing an archive of over 10,000 tapes.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "IBM pays $17M fine to end DOJ suit over DEI programs",
+        "link": "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/",
+        "summary": "IBM entered into a $17 million settlement agreement on Friday with the U.S. DOJ over allegations that it engaged in “illegal DEI practices.”",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft is working on yet another OpenClaw-like agent",
+        "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+        "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+        "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+        "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FBI announces takedown of phishing operation that targeted thousands of victims",
+        "link": "https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims/",
+        "summary": "Cybercriminals allegedly used the W3LL phishing kit to target more than 17,000 victims worldwide, stealing their passwords and multi-factor authentication codes.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Booking.com confirms hackers accessed customers’ data",
+        "link": "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/",
+        "summary": "The travel giant notified customers that their personal data, including names, email addresses, and phone numbers, may have been accessed in a security incident.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+        "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+        "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hack at Anodot leaves over a dozen breached companies facing extortion",
+        "link": "https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion/",
+        "summary": "The data breach at Anodot, which affects customers like Rockstar Games, is the latest hack aimed at stealing data from a large number of corporate giants.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
+        "link": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
+        "summary": "Slate Auto's latest funding round was led by existing investor TWG Global, a firm run by LA Dodgers owner Mark Walter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat",
+        "link": "https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/",
+        "summary": "Users aged five to nine will be assigned to a \"Roblox Kids\" account, and users aged nine to 15 to will be put in a \"Roblox Select\" account.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The largest orbital compute cluster is open for business",
+        "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+        "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Hormuz blockade could deepen world’s worst energy crisis — and risk a dangerous misstep",
+        "link": "https://www.cnbc.com/2026/04/13/trump-hormuz-blockade-oil-shock-china-iran-india-vessels-peace-talks.html",
+        "summary": "The U.S. naval blockade of the Strait of Hormuz threatens to halt more tanker traffic, sending oil surging and risks drawing China into a widening confrontation with Washington.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin price today: hits 1-mth high above $74k tracking broader risk rally",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-hits-1mth-high-above-74k-tracking-broader-risk-rally-4611683",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bybit Private Wealth Management Reports Strong Fund Performance Amid Market Consolidation",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bybit-private-wealth-management-reports-strong-fund-performance-amid-market-consolidation-4610656",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Solaris Energy files for 4.18M stock offering by selling shareholders",
+        "link": "https://seekingalpha.com/news/4574602-solaris-energy-files-for-418m-stock-offering-by-selling-shareholders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Orla Mining stays on track to meet FY gold production guidance",
+        "link": "https://seekingalpha.com/news/4574601-orla-mining-stays-on-track-to-meet-fy-gold-production-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

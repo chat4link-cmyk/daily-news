@@ -1,0 +1,302 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T14:28:33.784883+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+        "link": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnin…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "AI needs a strong data fabric to deliver business value",
+        "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+        "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "3 things Michelle Kim is into right now",
+        "link": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+        "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegy…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "One town’s scheme to get rid of its geese",
+        "link": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+        "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "There is no nature anymore",
+        "link": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+        "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scien…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Los Angeles is finally going underground",
+        "link": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+        "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolley…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+        "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+        "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"strikin…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI now lets teams make custom bots that can do work on their own",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+        "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+        "link": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+        "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human player…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic&#8217;s Mythos rollout has missed America’s cybersecurity agency",
+        "link": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+        "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. On Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn'…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google Meet will take AI notes for in-person meetings too",
+        "link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+        "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users an…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Now Meta will track what employees do on their computers to train its AI agents",
+        "link": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+        "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystroke…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+        "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+        "link": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+        "summary": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+        "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+        "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Australian Government Demands to Know What Roblox, Minecraft, Fortnite, and Steam are Doing to Prevent Grooming, Radicalisation",
+        "link": "https://www.ign.com/articles/australian-government-demands-to-know-what-roblox-minecraft-fortnite-and-steam-are-doing-to-prevent-grooming-radicalisation",
+        "summary": "Mandatory responses required.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Samsung Reveals AI TV Lineup for 2026 in Australia",
+        "link": "https://www.ign.com/articles/samsung-reveals-ai-tv-lineup-for-2026-in-australia-au",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Miami Vice '85: New Title Revealed for Michael B. Jordan-Austin Butler Movie",
+        "link": "https://www.ign.com/articles/miami-vice-85-new-title-revealed-for-michael-b-jordan-austin-butler-movie",
+        "summary": "Universal Pictures’ and director Joseph Kosinski’s big screen reboot of Miami Vice has a new title befitting its period setting: Miami Vice ‘85. As revealed when the movie’s release date was announced, Miami Vice ‘85 “explores the glamour and corruption of mid-80’s Miami,” the decade when the origin…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Even More Elden Ring Movie Set Leaks Emerge Online",
+        "link": "https://www.ign.com/articles/even-more-elden-ring-movie-set-leaks-emerge-online",
+        "summary": "Following a number of photos showing the Elden Ring set in London, the internet has exploded with scores of further leaks, some of them including actual footage of major spoilers in action.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Boys Showrunner Comments on Season 5, Episode 4",
+        "link": "https://www.ign.com/articles/the-boys-showrunner-comments-on-season-5-episode-4",
+        "summary": "The Boys showrunner Eric Kripke has said Homelander's pursuit of godhood lining up with Trump's AI Jesus post makes satire even harder.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Serial Killer Slasher Heart Eyes 2 Gets 2028 Release Date",
+        "link": "https://www.ign.com/articles/serial-killer-slasher-heart-eyes-2-gets-2028-release-date",
+        "summary": "A sequel to Josh Ruben’s 2025 horror romcom Heart Eyes just got a release date",
+        "source": "IGN News"
+      },
+      {
+        "title": "How Disney and National Geographic Are Helping Us 'Step Into Wonder' and Make a Difference for Our Planet This Earth Day and Beyond",
+        "link": "https://www.ign.com/articles/how-disney-and-national-geographic-are-helping-us-step-into-wonder-and-make-a-difference-for-our-planet-this-earth-day-and-beyond",
+        "summary": "Today, April 22, is Earth Day. It's an important day to take a moment to honor and appreciate the wonder and magic of this planet we all call home. To celebrate, we had the chance to speak to leaders at the Disney Conservation Fund and National Geographic about their 'Step Into Wonder' initiative th…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Warner Bros. Releases First Trailer for Clayface Movie, Teasing the DCU's First Body Horror Movie",
+        "link": "https://www.ign.com/articles/warner-bros-clayface-movie-trailer-body-horror-dcu-batman",
+        "summary": "Warner Bros. has released the first trailer for Clayface, as the DCU gets its first proper body horror movie this October.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Halo's Kiki Wolfkill Reveals She's Left Microsoft After 28 Years",
+        "link": "https://www.ign.com/articles/halos-kiki-wolfkill-reveals-shes-left-microsoft-after-28-years",
+        "summary": "The big changes at Microsoft keep coming, as Halo veteran Kiki Wolfkill announces she's left the company after 28 years.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Project Hail Mary Rocky Actor Could Get Oscar Nomination",
+        "link": "https://www.ign.com/articles/project-hail-mary-rocky-actor-could-get-oscar-nomination",
+        "summary": "Audiences are really loving Project Hail Mary’s Rocky, the sentient rock-based alien lifeform who charms Ryan Gosling’s Ryland Grace and joins forces with him to save Earth — and that love might just translate into an Academy Award nomination, according to Variety.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Fans Demand Tariff Refunds Returned to Customers",
+        "link": "https://www.ign.com/articles/nintendo-fans-demand-tariff-refunds-returned-to-customers",
+        "summary": "Nintendo fans have filed a class-action lawsuit demanding that tariff refunds received by the company are returned to customers, who have paid higher prices on Switch 2 accessories and Switch 1 consoles over the course of the past year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Wolverine's Latest Defeat Has Major Consequences for the Iconic X-Man",
+        "link": "https://www.ign.com/articles/wolverines-latest-defeat-has-major-consequences-for-the-iconic-x-man",
+        "summary": "Wolverine has just suffered his biggest defeat in years, and it's a loss that will continue to haunt him going forward.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jon Favreau Addresses Iron Man Death",
+        "link": "https://www.ign.com/articles/jon-favreau-addresses-iron-man-death",
+        "summary": "Jon Favreau has admitted the Russo Brothers were right to kill off Iron Man in Avengers: Endgame, after he was initially against the idea.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Miyamoto Responds to Super Mario Galaxy Movie Criticism",
+        "link": "https://www.ign.com/articles/miyamoto-responds-to-super-mario-galaxy-movie-criticism",
+        "summary": "Nintendo legend Shigeru Miyamoto has responded to criticism of The Super Mario Galaxy Movie, which launched earlier this month to mixed reviews.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Heated Rivalry's Connor Storrie in Talks for New Thriller From 'The Penguin' Director",
+        "link": "https://www.ign.com/articles/heated-rivalrys-connor-storrie-in-talks-for-new-thriller-from-the-penguin-director",
+        "summary": "Connor Storrie, who played Ilya Rosanov in the HBO hockey romance, in talks for a role in a new thriller from The Penguin director Craig Zobel.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+        "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+        "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Shade lands $14M to let creative teams search their video libraries in plain English",
+        "link": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/",
+        "summary": "Shade has its own filesystem that lets you \"stream\" files directly to your local drive",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+        "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+        "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google updates Workspace to make AI your new office intern",
+        "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+        "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
+        "link": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+        "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hands on with X’s new AI-powered custom feeds",
+        "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+        "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "LinkedIn’s CEO is moving on; please hold your tearful video tributes",
+        "link": "https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/",
+        "summary": "Ryan Roslansky has stepped down as LinkedIn's CEO after six years running the world's largest professional network. Dan Shapero, the company's COO, takes over immediately.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
+        "link": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
+        "summary": "Sales rebounded a bit from the first quarter of 2025, as Tesla throws a ton of money at massive bets like robotics, AI, and its own chip fab.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "NASA’s Artemis II moon mission shows space-to-Earth laser comms can scale",
+        "link": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
+        "summary": "Observable Space and Quantum Opus teamed up to capture data beamed back from space.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+        "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+        "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "France confirms data breach at government agency that manages citizens’ IDs",
+        "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+        "summary": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal information of an unspecified number of citizens.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+        "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+        "summary": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+        "link": "https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+        "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+        "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+        "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google turns Chrome into an AI co-worker for the workplace",
+        "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+        "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
+        "link": "https://www.cnbc.com/2026/04/22/kevin-warsh-inflation-trend-pce-trump.html",
+        "summary": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
+        "link": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html",
+        "summary": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Asian markets retreat as geopolitical heat overshadows tech gains",
+        "link": "https://seekingalpha.com/news/4578396-asian-markets-retreat-as-geopolitical-heat-overshadows-tech-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

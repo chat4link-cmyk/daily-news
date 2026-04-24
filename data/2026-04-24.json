@@ -1,0 +1,278 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T14:30:41.579915+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: introducing the Nature issue",
+        "link": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.  From microplasti…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Will fusion power get cheap? Don’t count on it.",
+        "link": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+        "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+        "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta is laying off 10 percent of its staff",
+        "link": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+        "summary": "Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. Th…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic&#8217;s Mythos breach was humiliating",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+        "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+        "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and de…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+        "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+        "summary": "Today on Decoder, I want to lay out an idea that’s been banging around my head for weeks now as we’ve been reporting on AI and having conversations here on this show. I’ve been calling it software brain, and it’s a particular way of seeing the world that fits everything into algorithms, databases an…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "You’re about to feel the AI money squeeze",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+        "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its s…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
+        "link": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+        "summary": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version of the Copilot experience in Office that Microsoft has been trying to sell to businesses. \"When we f…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+        "summary": "In this week’s episode of Uncanny Valley, we talk about Tim Cook’s legacy as CEO at Apple and what his long-rumored departure means for the future of one of the world's biggest companies.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+        "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+        "summary": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Exclusivity, Affordability, Third-Party Partnerships in Focus as New Xbox Leadership Vows to 'Fix the Fundamentals'",
+        "link": "https://www.ign.com/articles/exclusivity-affordability-third-party-partnerships-in-focus-as-new-xbox-leadership-vows-to-fix-the-fundamentals",
+        "summary": "In a new mission statement of sorts emailed to Xbox staff and posted on Xbox Wire, new Xbox CEO and Xbox Chief Content Officer Matt Booty laid out new priorities and objectives for the Xbox team, including a reevaluation of exclusivity, a focus on affordability, and evolving third-party partnerships…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Two Iconic Sci-Fi Universes Collide in Predator vs. Planet of the Apes",
+        "link": "https://www.ign.com/articles/two-iconic-sci-fi-universes-collide-in-predator-vs-planet-of-the-apes",
+        "summary": "The Predator is moving on from hunting Xenomorphs to targeting apes. Find out what to expect from the new crossover series Predator vs. Planet of the Apes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Chainsaw Man - The Movie: Reze Arc Finally Has a Streaming Release Date",
+        "link": "https://www.ign.com/articles/chainsaw-man-the-movie-reze-arc-crunchyroll-streaming-release-date",
+        "summary": "The Chainsaw Man movie is finally coming to Crunchyroll.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Peacock Has Canceled the Clueless Sequel Series",
+        "link": "https://www.ign.com/articles/peacock-has-canceled-the-clueless-sequel-series",
+        "summary": "Back in April 2025, Peacock revealed it had a Clueless TV series with Alicia Silverstone returning as Cher in development, but today Variety reports that for now, the project has been canceled.",
+        "source": "IGN News"
+      },
+      {
+        "title": "ID@Xbox: Everything Announced at the 2026 Showcase",
+        "link": "https://www.ign.com/articles/idxbox-everything-announced-at-the-2026-showcase",
+        "summary": "Check out all the exclusive reveals from the ID@Xbox April showcase, presented by IGN.",
+        "source": "IGN News"
+      },
+      {
+        "title": "James Gunn Confirms When Clayface Is Set in the DC Universe Timeline, as Fans Wonder Whether Batman Will Turn Up",
+        "link": "https://www.ign.com/articles/james-gunn-confirms-when-clayface-is-set-in-the-dc-universe-timeline-as-fans-wonder-whether-batman-will-turn-up",
+        "summary": "DC Universe chief James Gunn has confirmed that upcoming movie Clayface, which just received its debut trailer, is set before last year’s Superman.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Assassin's Creed: Black Flag Resynced Has Major Changes",
+        "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-has-major-changes",
+        "summary": "Assassin's Creed: Black Flag Resynced will feature major changes, including the addition of new story quests and characters, but the removal of several key features.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Olympus Rangers Announced for PC",
+        "link": "https://www.ign.com/articles/olympus-rangers-announced-for-pc",
+        "summary": "Get your first look at the just-announced Olympus Rangers, a creature battler that lets you build and fully customize your team, compete in multiple battle modes, and even mod your own avatars, stages, moves, and rules – then upload them to Steam Workshop to share with other players. It even support…",
+        "source": "IGN News"
+      },
+      {
+        "title": "BioWare Explains Mass Effect 5 Silence",
+        "link": "https://www.ign.com/articles/bioware-explains-mass-effect-5-silence",
+        "summary": "A senior developer at BioWare has explained why there's been no recent updates on the studio's next game, half a decade on from announcing Mass Effect 5.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'Godzilla World' Is Japan's Version of Hollywood's 'MonsterVerse' — and It Sounds Like Godzilla Minus One Is Just the Start",
+        "link": "https://www.ign.com/articles/godzilla-world-is-japans-version-of-hollywoods-monsterverse-and-it-sounds-like-godzilla-minus-one-is-just-the-start",
+        "summary": "Godzilla is set to burst back on to theater screens in Godzilla Minus Zero in November this year. However, Toho has recently hinted that new plans are afoot for its legendary King of the Monsters. The giant kaiju will be getting “Godzilla World,” a plan to expand and interconnect the Japanese Godzil…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Storage Wars Star Darrell Sheets Dies Aged 67",
+        "link": "https://www.ign.com/articles/storage-wars-star-darrell-sheets-dies-aged-67",
+        "summary": "Darrell Sheets, one of the stars of the hit A&E reality series Storage Wars, has died at age 67. Sheets passed away on Wednesday, April 22 in Lake Havasu City, Arizona. Local police have since released information on how the reality TV personality died.",
+        "source": "IGN News"
+      },
+      {
+        "title": "LEGO Shrek Is Real and Releasing on June 1",
+        "link": "https://www.ign.com/articles/lego-shrek-donkey-and-puss-in-boots-where-to-buy",
+        "summary": "Leaks have once again been proven correct with the official reveal of LEGO Shrek, Donkey, and Puss in Boots.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pragmata Now Links to Albert Wesker Memes, After Fan Snaps Up In-Game Website",
+        "link": "https://www.ign.com/articles/pragmata-now-links-to-albert-wesker-memes-after-fan-snaps-up-in-game-website",
+        "summary": "Pragmata publisher Capcom has left another vacant URL in one of its video games — so, of course, a fan has snapped it up.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mr Beast's Company Sued Over Claims of Sexual Harassment",
+        "link": "https://www.ign.com/articles/mr-beasts-company-sued-over-claims-of-sexual-harassment",
+        "summary": "The company behind MrBeast, the world's biggest YouTube channel, has denied claims of sexual harassment in a lawsuit filed by a former employee.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Stranger Things: Tales From '85 and McDonald's Are Teaming Up For a Happy Meal That Lets You Fight the Upside Down",
+        "link": "https://www.ign.com/articles/stranger-things-tales-from-85-and-mcdonalds-are-teaming-up-for-a-happy-meal-that-lets-you-fight-the-upside-down",
+        "summary": "Stranger Things: Tales From '85 and McDonald's are teaming up for a Happy Meal that will not only get you a collectible toy, a Stranger Things activity book, and some delicious food, but also a QR code that lets you save Hawkins and McDonald's from the Upside Down.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Porsche is adding an all-electric Cayenne coupe to its lineup",
+        "link": "https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/",
+        "summary": "Porsche will start selling the Cayenne Coupe Electric in late summer.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bob Iger rejoins Thrive Capital as advisor after Disney exit",
+        "link": "https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/",
+        "summary": "The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation",
+        "link": "https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/",
+        "summary": "The soldier is accused of using classified government information to inform a wager on the prediction market Polymarket.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Redwood Materials loses COO amid layoffs, restructuring",
+        "link": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
+        "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These are the countries moving to ban social media for children",
+        "link": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
+        "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+        "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+        "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Instagram tests a new ‘Instants’ app for sharing disappearing photos",
+        "link": "https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/",
+        "summary": "The app lets users share disappearing photos with their friends that can be viewed only once and remain available for 24 hours.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+        "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+        "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump’s pick to run US cyber agency CISA asks to drop out",
+        "link": "https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/",
+        "summary": "Sean Plankey has requested to withdraw his name to run the U.S. cybersecurity agency after a tumultuous year of chaotic temporary leadership.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says",
+        "link": "https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/",
+        "summary": "Artisan may be known for their bold “Stop Hiring Humans” campaign but the reality is every founder needs to assemble the right team if they want to scale.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+        "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+        "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta to cut 10% of jobs, or 8,000 employees, report says",
+        "link": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
+        "summary": "According to an internal memo, Meta plans to begin its sweeping layoffs on May 20.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bluesky now supports better-quality photos",
+        "link": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/",
+        "summary": "The max size is now 2MB and max resolution is 4000 x 4000.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft offers buyout for up to 7% of US employees",
+        "link": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
+        "summary": "If a worker's years of service at Microsoft plus their age equals 70 or more, they will be eligible for a voluntary retirement buyout.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Era raises $11M to build a software platform for AI gadgets",
+        "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+        "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Morgan Stanley launches money market fund for stablecoin reserves",
+        "link": "https://www.investing.com/news/cryptocurrency-news/morgan-stanley-launches-money-market-fund-for-stablecoin-reserves-4634056",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Japan inflation rebounds as Middle East tension spikes transport costs; core inflation quickens as expected",
+        "link": "https://seekingalpha.com/news/4579174-japan-inflation-rebounds-as-middle-east-tension-spikes-transport-costs-core-inflation-quickens-as-expected?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Spire Global files for resale offering of 5M shares held by stockholders",
+        "link": "https://seekingalpha.com/news/4579162-spire-global-files-for-resale-offering-of-5m-shares-held-by-stockholders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

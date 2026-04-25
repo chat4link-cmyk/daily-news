@@ -1,0 +1,284 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T14:07:32.878898+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Three reasons why DeepSeek’s new model matters",
+        "link": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+        "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: supercharged scams and studying AI healthcare",
+        "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+        "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+        "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "How Project Maven taught the military to love AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+        "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
+        "link": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
+        "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+        "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+        "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prio…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Prestigious photo contest answers ‘what is a photo?’",
+        "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+        "summary": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+        "link": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+        "summary": "Isomorphic Labs president Max Jaderberg said at WIRED Health in London that the startup has built a “broad and exciting pipeline of new medicines.”",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
+        "link": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
+        "summary": "Tim Cook was a great CEO, but he didn’t crack AI.  It’s job number 1 for John Ternus.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "These AI Thirst Trap Creators Say They’re Misunderstood",
+        "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+        "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+        "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+        "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Star Wars: Galactic Racer Release Date Seemingly Leaked on Steam",
+        "link": "https://www.ign.com/articles/star-wars-galactic-racer-release-date-leaked-steam",
+        "summary": "Star Wars: Galactic Racer, the upcoming arcade racing game featuring podracers, speeder bikes, landspeeders, and more fast rides from the Star Wars universe will apparently be released on October 6. The release date was posted to Steam and quickly removed.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ellen DeGeneres Returns as Dory in New Finding Nemo Pixar Short",
+        "link": "https://www.ign.com/articles/ellen-degeneres-returns-as-dory-in-new-finding-nemo-pixar-short",
+        "summary": "Disney is bringing back former talk show host Ellen DeGeneres to reprise her role as Dory in a new Finding Nemo short from Pixar Animation.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Mummy 4 Moved Up to 2027 as Miami Vice '85 Is Pushed to 2028",
+        "link": "https://www.ign.com/articles/the-mummy-4-moved-up-to-2027-as-miami-vice-85-is-pushed-to-2028",
+        "summary": "Universal Pictures announced Friday that it has changed the release dates for two of its biggest upcoming movies, the next installment in The Mummy franchise and Miami Vice '85.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Prime Minister of South Korea Hails Crimson Desert, Say It Has 'Opened a New Chapter for K-Content'",
+        "link": "https://www.ign.com/articles/prime-minister-of-south-korea-hails-crimson-desert-say-it-has-opened-a-new-chapter-for-k-content",
+        "summary": "Crimson Desert is a smash hit for developer Pearl Abyss, which has now won praise from the Prime Minister of South Korea.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Final Fantasy XIV Is Coming to Nintendo Switch 2 in August With a Separate Subscription",
+        "link": "https://www.ign.com/articles/final-fantasy-xiv-is-coming-to-nintendo-switch-2-in-august-with-a-separate-subscription",
+        "summary": "Square Enix has announced plans to bring Final Fantasy XIV to Nintendo Switch 2 this August – but there is a catch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Invincible Creator Robert Kirkman Says Tech Jacket was Gender-Swapped to Address a Comic Book 'Shortcoming'",
+        "link": "https://www.ign.com/articles/invincible-creator-robert-kirkman-says-tech-jacket-was-gender-swapped-to-address-a-comic-book-shortcoming",
+        "summary": "Invincible creator Robert Kirkman has explained why the Prime Video show chose to go a new direction in Season 4 by introducing a gender-swapped version of Tech Jacket.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Boys’ Spin-off Series Gen V Canceled",
+        "link": "https://www.ign.com/articles/the-boys-spinoff-gen-v-canceled",
+        "summary": "Gen V, a spin-off from Amazon's The Boys, isn't getting a Season 3.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Neon Genesis Evangelion Is Coming to Final Fantasy XIV With a Crossover Raid Series Called Ghosts of Desire",
+        "link": "https://www.ign.com/articles/neon-genesis-evangelion-is-coming-to-final-fantasy-xiv-with-a-crossover-raid-series-called-ghosts-of-desire",
+        "summary": "Endgame content for the upcoming FFXIV Evercold expansion includes Evangelion-themed raid dungeons in Patch 8.1 and on.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Noah Hawley Confirms Alien: Earth Season 2 Starts Filming This Summer, Promises 'Bigger Show'",
+        "link": "https://www.ign.com/articles/noah-hawley-confirms-alien-earth-season-2-starts-filming-this-summer-promises-bigger-show",
+        "summary": "Noah Hawley, the man behind Fargo, the upcoming Far Cry TV adaptation, and Alien: Earth has revealed that Season 2 of the science fiction show is close to beginning to film at Pinewood Studios in London.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Noah Hawley Explains Why His Far Cry TV Show Won't Adapt Existing Games",
+        "link": "https://www.ign.com/articles/noah-hawley-explains-why-his-far-cry-tv-show-wont-adapt-existing-games",
+        "summary": "Noah Hawley, the man behind prestige TV hits like Fargo and Alien: Earth, has shared a little about his plans for the Far Cry TV show",
+        "source": "IGN News"
+      },
+      {
+        "title": "Slay the Spire 2 Patch Notes Address Base Game Difficulty and the Doormaker",
+        "link": "https://www.ign.com/articles/slay-the-spire-2-patch-notes-address-base-game-difficulty-and-the-doormaker",
+        "summary": "Mega Crit has published Slay the Spire 2 patch notes for beta version 0.104.0 as it attempts to fine-tune balance to make the experience \"more accessible for a wide range of players.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Square Enix Cafes Set to Open in Los Angeles and Shinjuku",
+        "link": "https://www.ign.com/articles/square-enix-cafe-set-to-open-los-angeles-shinjuku",
+        "summary": "Los Angeles, California and Shinjuku, Japan will be the first recipients of Square Enix's officially licensed cafes. The veteran game publisher announced today that it would open locations on both sides of the Pacific, with both locations set to open this spring.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Battlefield Movie in the Works: Michael B. Jordan and Christopher McQuarrie Team Up",
+        "link": "https://www.ign.com/articles/battlefield-movie-in-the-works-michael-b-jordan-and-christopher-mcquarrie-team-up",
+        "summary": "Michael B. Jordan and Christopher McQuarrie are reportedly attached to a feature film adaptation of Electronic Arts’ bestselling military video game Battlefield. McQuarrie will write, direct and produce. Jordan is attached to produce and possibly star.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Next Final Fantasy XIV Expansion Revealed, FFXIV Evercold Coming January 2027",
+        "link": "https://www.ign.com/articles/next-final-fantasy-xiv-expansion-revealed-ffxiv-evercold-coming-january-2027",
+        "summary": "FFXIV Evercold marks the arrival of Patch 8.0 and the start of The Godless Realms Saga.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Astarion Is Getting a Prequel Novel Set During His Time in Servitude to the Vampire Lord Cazador Szarr in the Years Leading Up to the Events of Baldur's Gate 3",
+        "link": "https://www.ign.com/articles/astarion-is-getting-a-prequel-novel-set-during-his-time-in-servitude-to-the-vampire-lord-cazador-szarr-in-the-years-leading-up-to-the-events-of-baldurs-gate-3",
+        "summary": "A number of official Bladur’s Gate 3 books have been announced, including an Astarion prequel, a ‘faithful’ reproduction of the Necromancy of Thay, a coloring book, and a cookbook.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+        "link": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+        "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+        "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+        "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+        "link": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+        "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
+        "link": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+        "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
+        "link": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
+        "summary": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta’s loss is Thinking Machines’ gain",
+        "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+        "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X-energy stock pops 27% on first day of trading following upsized IPO",
+        "link": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
+        "summary": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+        "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+        "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X launches stand-alone XChat app on iOS",
+        "link": "https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/",
+        "summary": "X's new app promises private chats, disappearing messages, audio and video calls, and more.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google to invest up to $40B in Anthropic in cash and compute",
+        "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+        "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+        "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+        "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
+        "link": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
+        "summary": "Amazon-backed X-energy was able to raise around 20% more money in its IPO as demand for nuclear power surges.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Another spyware maker caught distributing fake Android snooping apps",
+        "link": "https://techcrunch.com/2026/04/24/another-spyware-maker-caught-distributing-fake-android-snooping-apps/",
+        "summary": "Researchers have found a new case where government authorities used a fake Android app to plant spyware on a target’s phone. The company that allegedly developed the spyware was not previously known to sell this type of software.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+        "link": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+        "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss op…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tim Cook is stepping down. What happens to Apple now?",
+        "link": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+        "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a very different ecosystemthan the one Cook spent decades shaping. The App Store’s 30% cut i…",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+        "link": "https://www.cnbc.com/2026/04/24/will-he-stay-or-will-he-go-with-criminal-probe-over-fed-chair-powell-faces-big-decision.html",
+        "summary": "The decision could have important ramifications for policymaking at an especially delicate time.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "What’s next for UnitedHealth Group after Q1 earnings beat and guidance raise",
+        "link": "https://seekingalpha.com/news/4578901-what-s-next-for-unitedhealth-group-after-q1-earnings-beat-and-guidance-raise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Gold turns higher after DoJ ends Powell probe, still lower for the week",
+        "link": "https://seekingalpha.com/news/4579694-gold-turns-higher-after-doj-ends-powell-probe-still-lower-for-the-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T15:57:28.689757+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+        "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+        "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The missing step between hype and profit",
+        "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Rebuilding the data stack for AI",
+        "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+        "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+        "link": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the mod…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+        "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+        "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google is testing AI chatbot search for YouTube",
+        "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+        "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+        "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+        "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+        "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, d…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+        "summary": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-st…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+        "summary": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn't supposed to make visible alterations to user designs, but it was found by X user @ros_ie9 to autom…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The AI-designed car is taking shape",
+        "link": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+        "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the di…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+        "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+        "summary": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
+        "link": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+        "summary": "The move comes as the trial for Elon Musk’s lawsuit against OpenAI kicks off in federal court in Oakland.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
+        "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+        "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Helldivers 2 Dev Promises Action and Communication After Players Deliver 'Fair' and 'Painful' Criticism During Reddit AMA",
+        "link": "https://www.ign.com/articles/helldivers-2-dev-promises-action-and-communication-after-players-deliver-fair-and-painful-criticism-during-reddit-ama",
+        "summary": "Arrowhead said it has heard the \"fair\" but \"painful to read\" criticisms from the Helldivers 2 community and has made the promise to take action with more frequent communication in the future.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gerry Conway, Punisher Co-Creator and Spider-Man Writer, Dies at 73",
+        "link": "https://www.ign.com/articles/gerry-conway-punisher-co-creator-and-spider-man-writer-dies-at-73",
+        "summary": "Legendary comic book writer Gerry Conway, whose co-creations include The Punisher, Firestorm, Ms. Marvel, and former Robin Jason Todd, has died at 73.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Django/Zorro Crossover Movie Based on Quentin Tarantino Comic Book in the Works at Sony",
+        "link": "https://www.ign.com/articles/djangozorro-crossover-movie-based-on-quentin-tarantino-comic-book-in-the-works-at-sony",
+        "summary": "A crossover movie based on the Django/Zorro comic book co-written by Quentin Tarantino and Matt Wagner is reportedly in development.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man: Brand New Day Marvel Legends Figures Reveal Savage Hulk’s MCU Return",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-marvel-legends-figures-reveal-savage-hulks-mcu-return",
+        "summary": "Hasbro's upcoming Marvel Legends figures give us a better idea of what to expect from Spider-Man: Brand New Day, including the return of Savage Hulk to the MCU.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Disney Reimagined and Animated Songs From Frozen 2, Moana 2, and Encanto in American Sign Language for National Deaf History Month",
+        "link": "https://www.ign.com/articles/disney-reimagined-and-animated-songs-from-frozen-2-moana-2-and-encanto-in-american-sign-language-for-national-deaf-history-month",
+        "summary": "In celebration of National Deaf History Month, Disney+ has debuted Disney Animation's Songs in Sign Language, which reimagined and animated Frozen 2's 'The Next Right Thing,' Moana 2's 'Beyond,' and Encanto's 'We Don't Talk About Bruno' with American Sign Language (ASL).",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Boys Season 5, Episode 5 Video Teases a Supernatural Reunion and an Up Close View of Homelander's Ass",
+        "link": "https://www.ign.com/articles/the-boys-season-5-episode-5-video-teases-a-supernatural-reunion-and-an-up-close-view-of-homelanders-ass",
+        "summary": "With The Boys nearing its conclusion, Prime Video has released a teaser video for this week’s episode, confirming the introduction of two new characters with just a few episodes left of the entire series. Oh, and we also get a closer look at Homelander's ass than anyone asked for.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Resident Evil 2 Director Hideki Kamiya Confirms Leon S. Kennedy Is Named After 1994 Movie Leon: The Professional",
+        "link": "https://www.ign.com/articles/resident-evil-2-director-hideki-kamiya-confirms-leon-s-kennedy-is-named-after-1994-movie-leon-the-professional",
+        "summary": "After nearly 30 years of speculation, Resident Evil 2 director Hideki Kamiya has confirmed that, yes, Leon S. Kennedy is named after the Léon: The Professional movie.",
+        "source": "IGN News"
+      },
+      {
+        "title": "For the Steam Machine, Valve Is Waiting for the Price to Be Right",
+        "link": "https://www.ign.com/articles/for-the-steam-machine-valve-is-waiting-for-the-price-to-be-right",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Valve Confirms Steam Controller Price and Release Date, Promises More News on Steam Machine Soon",
+        "link": "https://www.ign.com/articles/valve-confirms-steam-controller-price-and-release-date-promises-more-news-on-steam-machine-soon",
+        "summary": "Valve has confirmed the Steam Controller price and release date, while promising to announce news on the hotly anticipated Steam Machine soon.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Valve Says It's 'Hard at Work' on Steam Deck 2, but There's Still No Release Window",
+        "link": "https://www.ign.com/articles/valve-says-its-hard-at-work-on-steam-deck-2-but-theres-still-no-release-window",
+        "summary": "Valve has said it’s “hard at work” on Steam Deck 2, while continuing to work on getting the Steam Machine, Steam Controller, and Steam Frame out the door.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ubisoft Plays Down Report of Assassin's Creed Hexe Staff Leaving Project",
+        "link": "https://www.ign.com/articles/ubisoft-plays-down-report-of-assassins-creed-hexe-staff-leaving-project",
+        "summary": "Ubisoft has responded to a report that suggested 50 staff members had recently been moved from their work on the upcoming Assassin's Creed Hexe — and that their jobs had now potentially been left at risk.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Resident Evil Requiem Sales Prompt Capcom to Raise Profit Forecast",
+        "link": "https://www.ign.com/articles/resident-evil-requiem-sales-prompt-capcom-to-raise-profit-forecast",
+        "summary": "The success of Resident Evil Requiem means Capcom is raising its earning forecast for the year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Arc Raiders Riven Tides Trailer Reveals Massive Beach-Themed Update With New Seaside Map and Turbine Enemy",
+        "link": "https://www.ign.com/articles/arc-raiders-riven-tides-trailer-reveals-massive-beach-themed-update-with-new-seaside-map-and-turbine-enemy",
+        "summary": "Embark has revealed a first look at the new Riven Tides map, the Arc Turbine enemy, and everything else included in what looks like the biggest Arc Raiders update yet.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jackass: Best and Last Trailer Features New Creatively Painful Stunts and a Brief Look at Bam Margera in Previously Unseen Footage",
+        "link": "https://www.ign.com/articles/jackass-best-and-last-trailer-features-new-creatively-painful-stunts-and-a-brief-look-at-bam-margera-in-previously-unseen-footage",
+        "summary": "The first trailer for Jackass: Best and Last has arrived with a sneak peek at Johnny Knoxville and the gang setting up new stunts like the \"Escape Room from Hell\" while reliving some of their most painful memories.",
+        "source": "IGN News"
+      },
+      {
+        "title": "James Gunn Explains Why The Authority Fell by the Wayside: 'It Didn't Work in Terms of the Larger DCU'",
+        "link": "https://www.ign.com/articles/james-gunn-explains-why-the-authority-fell-by-the-wayside-it-didnt-work-in-terms-of-the-larger-dcu",
+        "summary": "DC Universe chief James Gunn has insisted TV series Booster Gold and Paradise Lost are still alive, but confirmed The Authority movie has fallen by the wayside.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Drizzle on top: a new high-end dog food brand is coming for the 1%",
+        "link": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
+        "summary": "Golden Child is launching with two \"five-star\" products: a fresh frozen meal system and, more intriguingly, a \"drizzle.\" It has also raised $37 million in funding.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "India’s Snabbit closes $56M round as investor interest in on-demand home services heats up",
+        "link": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
+        "summary": "Snabbit now processes over 40,000 daily jobs and has cut costs sharply as it expands across cities and services.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Letterboxd, the social platform for film buffs, reportedly looking for new owner",
+        "link": "https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/",
+        "summary": "Potential buyers of Letterboxd include Versant, the parent company of CNBC and MS NOW, and Hollywood media company The Ankler, according to Semafor.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
+        "link": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
+        "summary": "The agency reports that losses from social media scams have increased eightfold and that social media scams resulted in higher losses than any other method scammers used to contact consumers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+        "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+        "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+        "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+        "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hacker who allegedly carried out cyberattacks for China is extradited to US",
+        "link": "https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/",
+        "summary": "Xu Zewei is accused of participating in a Chinese government hacking group that broke into thousands of U.S. organizations and stole COVID-19-related research.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+        "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+        "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Data center demand drives 66% surge in natural gas power plant costs",
+        "link": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
+        "summary": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What’s behind Europe’s efforts to ditch US software in favor of sovereign tech",
+        "link": "https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/",
+        "summary": "Governments across Europe are looking to rely less on American tech providers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+        "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+        "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI could be making a phone with AI agents replacing apps",
+        "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+        "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Critical infrastructure giant Itron says it was hacked",
+        "link": "https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/",
+        "summary": "The American technology giant provides water and energy monitoring and utility meters to hundreds of millions of homes and businesses.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify’s next frontier: Fitness content",
+        "link": "https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/",
+        "summary": "Spotify is adding fitness as its next major category, launching workout videos, playlists, and Peloton classes inside the app for free and Premium users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta inks deal for solar power at night, beamed from space",
+        "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+        "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin dips below $77k as oil surge weighs; central bank decisions in focus",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-below-77k-as-oil-surge-weighs-central-bank-decisions-in-focus-4640352",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bernstein sees signs of an improving and fundamentally stronger crypto market",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bernstein-sees-signs-of-an-improving-and-fundamentally-stronger-crypto-market-4638905",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "ING sees Brent hitting $150 on re-escalation of Hormuz crisis",
+        "link": "https://seekingalpha.com/news/4580387-ing-sees-brent-hitting-150-on-re-escalation-of-hormuz-crisis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

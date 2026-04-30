@@ -1,0 +1,302 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T15:54:16.120520+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: storing nuclear waste and orchestrating agents",
+        "link": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is th…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "It’s time to make a plan for nuclear waste",
+        "link": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+        "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it’s time to …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Elon Musk’s worst enemy in court is Elon Musk",
+        "link": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+        "summary": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement over yesterday - even if his lawyer kept asking leading questions to cue him in how to answer. But that…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google Search queries hit an ‘all time high’ last quarter",
+        "link": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+        "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "All the evidence unveiled so far in Musk v. Altman",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+        "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some hig…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
+        "link": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+        "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bri…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google Photos launches an AI try-on feature for clothes you already have",
+        "link": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+        "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Goog…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Tumbler Ridge families are suing OpenAI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
+        "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity. The families allege O…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI&#8217;s IPO",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
+        "summary": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienced a 132 percent increase in uninstalls year over year in April. Its uninstall rate was even higher …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Larry’s risky business",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+        "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthrop…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+        "summary": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate re…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+        "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+        "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Emergency First Responders Say Waymos Are Getting Worse",
+        "link": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+        "summary": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+        "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+        "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Attack on Titan Creator Reveals Ending Regrets: 'I Feel There Remains a Sense of Insincerity in the Story's Conclusion'",
+        "link": "https://www.ign.com/articles/attack-on-titan-creator-reveals-ending-regrets-i-feel-there-remains-a-sense-of-insincerity-in-the-storys-conclusion",
+        "summary": "Attack on Titan manga artist Hajime Isayama has said he has some regrets about how he handled the hit manga’s divisive ending, feeling that his sympathy for Eren Yeager’s character made the conclusion somewhat unfaithful to the tone of the overall story.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ideals Like Full-Time Employment and Job Security Are ‘Too Romantic’ in Game Dev, Says Monument Valley Studio CEO",
+        "link": "https://www.ign.com/articles/ideals-like-full-time-employment-and-job-security-are-too-romantic-in-game-dev-says-monument-valley-studio-ceo",
+        "summary": "Ustwo CEO explains contractors will be used to lower development budgets.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Xbox Boss Says 'We Know We Have Work to Do' as Console Revenue Continues to Plummet",
+        "link": "https://www.ign.com/articles/new-xbox-boss-says-we-know-we-have-work-to-do-as-console-revenue-continues-to-plummet",
+        "summary": "New Xbox boss Asha Sharma has acknowledged the ongoing financial struggles of Microsoft’s gaming business, amid a shakeup and repositioning of the brand around its core fans.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Tony Hawk Once Modded His Friend’s PS1 to Get Early THPS Feedback",
+        "link": "https://www.ign.com/articles/tony-hawk-once-modded-his-friends-ps1-to-get-early-thps-feedback",
+        "summary": "Back in 1998, Tony Hawk had his friend's modded PS1 to play early builds of the original THPS, and word began circulating in the skating community.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation Addresses PS5 DRM Concerns in New Statement",
+        "link": "https://www.ign.com/articles/playstation-addresses-ps5-drm-concerns-in-new-statement",
+        "summary": "PlayStation has broken its silence on the drama surrounding DRM concerns with the PS4 and PS5.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dexter: Resurrection Season 2 Casts Friday the 13th's Kane Hodder in Mystery Role",
+        "link": "https://www.ign.com/articles/dexter-resurrection-season-2-kane-hodder-casting",
+        "summary": "Horror icon Kane Hodder will be joining the cast of Dexter: Resurrection Season 2. Writer-producer Scott Reynolds confirmed on his social media that the Friday the 13 actor has joined up: “We cast Kane Hodder and let fate do the rest.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Thor Director Wants a Logan-Style Final Film for Chris Hemsworth",
+        "link": "https://www.ign.com/articles/thor-director-wants-a-logan-style-final-film-for-chris-hemsworth",
+        "summary": "Thor director Kenneth Branagh wants to see a Logan-esque finale for Marvel’s God of Thunder.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Casper the Friendly Ghost Coming Back to Haunt Disney+",
+        "link": "https://www.ign.com/articles/casper-the-friendly-ghost-coming-back-to-haunt-disney",
+        "summary": "Casper the Friendly Ghost, is getting a new live-action series at Disney+",
+        "source": "IGN News"
+      },
+      {
+        "title": "Undisputed Developer Ends Support to Focus on Sequel; Adds Talent from Rockstar and EA Sports",
+        "link": "https://www.ign.com/articles/undisputed-developer-ends-support-to-focus-on-sequel-adds-talent-from-rockstar-and-ea-sports",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Amazon Confirms a Major Change to Prime Day Dates This Year",
+        "link": "https://www.ign.com/articles/amazon-confirms-a-major-change-to-prime-day-dates-this-year",
+        "summary": "Prime Day has almost always happened in July over the years, but Amazon has just announced a change to that schedule.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GreedFall Developer Is Shutting Down",
+        "link": "https://www.ign.com/articles/greedfall-developer-is-shutting-down",
+        "summary": "GreedFall developer Spiders has confirmed that it is shutting down and will cease operations immediately.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Real-Life Emily From The Devil Wears Prada Comes Forward, Says Original Novel Was 'Mean' and 'Hurtful'",
+        "link": "https://www.ign.com/articles/real-life-emily-from-the-devil-wears-prada-comes-forward-says-original-novel-was-mean-and-hurtful",
+        "summary": "Leslie Fremar, a celebrity stylist who claims to be the inspiration behind the The Devil Wears Prada character Emily, recently opened up about her feelings toward the book that the now classic 2006 comedy was based on.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Far Cry 4 Director Says Fans Just Want Games 'Respected Not Dismissed,' After TV Adaptation Boss Suggests Players Skip the Cutscenes Anyway",
+        "link": "https://www.ign.com/articles/far-cry-4-director-says-fans-just-want-games-respected-not-dismissed-after-tv-adaptation-boss-suggests-players-skip-the-cutscenes-anyway",
+        "summary": "Far Cry 4 creative director Alex Hutchinson has spoken out after comments from Fargo and Alien: Earth creator Noah Hawley drew ire from video game fans online.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Garry's Mod Creator Wants to Push 'AI Slop' Off the S&box Main Page Amid 'Mixed' Steam User Review Rating",
+        "link": "https://www.ign.com/articles/garrys-mod-creator-wants-to-push-ai-slop-off-the-sbox-main-page-amid-mixed-steam-user-review-rating",
+        "summary": "The successor to Garry’s Mod, S&box, is getting slammed with AI-generated content, much to the dismay of its creator.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Malcolm in the Middle Star Calls on Paparazzi to Leave Original Dewey Actor Alone After He Turned Down Reboot Series",
+        "link": "https://www.ign.com/articles/malcolm-in-the-middle-star-calls-on-paparazzi-to-leave-original-dewey-actor-alone-after-he-turned-down-reboot-series",
+        "summary": "Former Malcolm in the Middle star Erik Per Sullivan, who played youngest bro Dewey in the original series, has put his foot down about not wanting to participate in the upcoming reboot series Malcolm in the Middle: Life’s Still Unfair — and his former costars feel for him when it comes to the attent…",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+        "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+        "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
+        "link": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
+        "summary": "PhonePe and Google Pay command 80% of India's UPI instant payments network. Rivals are set to meet with regulators to lobby for restrictions.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon’s cloud business is surging — and so is its capital spending",
+        "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+        "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+        "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+        "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "On the stand, Elon Musk can’t escape his own tweets",
+        "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+        "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta is still burning money on AR/VR",
+        "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+        "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+        "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+        "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+        "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+        "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+        "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+        "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+        "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+        "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fusion power startup Zap Energy pulls a partial pivot, adding nuclear fission to the mix",
+        "link": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
+        "summary": "Surprise! Fusion startup Zap Energy says it will be developing fission reactors alongside its fusion devices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+        "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+        "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+        "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+        "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "More Gemini features are coming to Google TV",
+        "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+        "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government",
+        "link": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/",
+        "summary": "On Wednesday, Pursuit announced a $22 million Series A round led by Mike Rosengarten, the co-founder of OpenGov, with big-name VCs participating.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin slips below $76k on renewed Iran conflict fears, hawkish Fed view",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-76k-on-renewed-iran-conflict-fears-hawkish-fed-view-4647782",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bitcoin slips under $76k after Fed holds rates steady; U.S.-Iran tensions persist",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-77k-as-fed-decision-looms-hormuz-tensions-persist-4643699",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "France inflation expected to rise to 2.2%, GDP growth stalled",
+        "link": "https://seekingalpha.com/news/4582484-france-inflation-expected-to-rise-to-22-gdp-growth-stalled?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

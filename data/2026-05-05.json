@@ -1,0 +1,236 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T15:32:45.686601+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+        "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging tha…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Tailoring AI solutions for health care needs",
+        "link": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+        "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cance…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+        "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high sc…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The creator of Roomba is back with a furry robot companion",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+        "summary": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines & Magic, is a dog-sized robotic pet that rese…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
+        "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
+        "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Avengers: Doomsday Director Says Spoilers Can Be 'Over-Policed' as Fans Fear Ruined Surprises",
+        "link": "https://www.ign.com/articles/avengers-doomsday-director-says-spoilers-can-be-over-policed-as-fans-fear-ruined-surprises",
+        "summary": "As Avengers: Doomsday looms, co-director Joe Russo has admitted that spoilers are going to happen because \"you can't control everything.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Star Wars Mandalorian Crocs Just Dropped and They Look Pretty Sleek",
+        "link": "https://www.ign.com/articles/new-mandalorian-star-wars-crocs-just-dropped",
+        "summary": "Choose between a metallic Mandalorian’s helmet, Grogu silhouette or classic Hyperspace clogs.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty 2026 Won't Be Releasing on Last-Gen Consoles",
+        "link": "https://www.ign.com/articles/call-of-duty-2026-wont-be-releasing-on-last-gen-consoles",
+        "summary": "Call of Duty fans can breathe a sigh of relief as this year's entry will not release on last-gen consoles.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fallout Co-Creator Says Some Players Watch Influencers So They Can Be Told What to Think About Games",
+        "link": "https://www.ign.com/articles/fallout-co-creator-says-some-players-watch-influencers-so-they-can-be-told-what-to-think-about-games",
+        "summary": "Fallout co-creator Tim Cain has shared his fear that some gamers are watching influencers just so they can be \"handed an opinion from the online channel they're watching.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Take-Two CEO Explains Why GTA 6 Isn't Coming to PC on Day One",
+        "link": "https://www.ign.com/articles/take-two-ceo-explains-why-gta-6-isnt-coming-to-pc-on-day-one",
+        "summary": "Grand Theft Auto VI won't be coming to PC when the game releases on November 19th, and Take-Two CEO Strauss Zelnick has a reason.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pokémon Scalpers Are Now Reselling Limited Edition Pop-Tarts",
+        "link": "https://www.ign.com/articles/pokmon-scalpers-are-now-reselling-limited-edition-pop-tarts",
+        "summary": "Pokémon scalpers are ensuring that fans can't even enjoy the little things in life, as they are snatching up new limited edition Pop-Tarts.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Wars Streaming Ratings Reveal the Top 10 Shows and Movies from May the 4th 2025",
+        "link": "https://www.ign.com/articles/star-wars-streaming-ratings-reveal-the-top-10-shows-and-movies-from-may-the-4th-2025",
+        "summary": "Nielsen celebrated Star Wars Day 2026 with a breakdown of the galaxy-sized amount of content fans streamed for last year's May the 4th festivities.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Disney+ Subscribers Can Get an Exclusive Marvel Rivals Skin for Free",
+        "link": "https://www.ign.com/articles/disney-plus-perks-loki-marvel-rivals-skin-may-2026",
+        "summary": "The Disney+ Perks program is offering an exclusive variant of \"The Avengers\" Loki costume for Marvel Rivals.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dishonored Fans Are Hopeful for a Third Game After Social Media Resurgence",
+        "link": "https://www.ign.com/articles/dishonored-fans-are-hopeful-for-a-third-game-after-social-media-resurgence",
+        "summary": "There has been a ton of buzz around Dishonored's future, following a rather innocuous post on X.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Leon Could Be 70 and Still Be a Great Character, Resident Evil Director Says",
+        "link": "https://www.ign.com/articles/leon-could-be-70-and-still-be-a-great-character-resident-evil-director-says",
+        "summary": "Capcom wants players to know that old age won't keep Leon Kennedy out of games set after Resident Evil Requiem because he'll probably \"still be a great character\" even \"when he's 70.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Netflix's The Night Agent Ending With Season 4",
+        "link": "https://www.ign.com/articles/netflixs-the-night-agent-ending-with-season-4",
+        "summary": "FBI action thriller The Night Agent will end with the upcoming season 4.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Returns to IGN Live June 7",
+        "link": "https://www.ign.com/articles/xbox-ign-live-2026-showcase-watch-party",
+        "summary": "Join Xbox at IGN Live on June 7, 2026, for an exclusive Showcase watch party, deep dives into upcoming 2026 titles, and hands-on gameplay demos in downtown LA.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Resident Evil Requiem Producer Sees DLSS 5 AI Backlash as 'a Positive' Because 'It Meant We Got the Design Right'",
+        "link": "https://www.ign.com/articles/resident-evil-requiem-producer-sees-dlss-5-ai-backlash-as-a-positive-because-it-meant-we-got-the-design-right",
+        "summary": "Resident Evil Requiem producer Masato Kumazawa has said Capcom sees the drama surrounding the DLSS 5 AI version of Grace Ashcroft as a \"positive\" because it proved Capcom \"got the design right\" the first time around.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Isa Briones Blasts 'Disrespectful' Fans for Yelling Pitt References During Her Broadway Show",
+        "link": "https://www.ign.com/articles/isa-briones-blasts-disrespectful-fans-for-yelling-pitt-references-during-her-broadway-show",
+        "summary": "The Pitt star Isa Briones has called out \"f**king disrespectful\" fans for yelling references while at her Broadway show, Just in Time.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GameStop Makes $55.5 Billion Offer to Buy eBay",
+        "link": "https://www.ign.com/articles/gamestop-makes-555-billion-offer-to-buy-ebay",
+        "summary": "GameStop has announced it has made a $55.5 billion offer to buy eBay at $125.00 per share in cash and stock.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+        "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+        "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+        "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+        "summary": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+        "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+        "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+        "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+        "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Image AI models now drive app growth, beating chatbot upgrades",
+        "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+        "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Katie Haun raises $1B for new venture funds",
+        "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+        "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+        "link": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+        "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+        "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+        "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+        "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+        "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+        "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+        "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+        "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+        "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
+        "link": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
+        "summary": "Acorn lets organizations build and run their own online communities using decentralized tech, with custom feeds, moderation, and analytics tools.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+        "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+        "summary": "Virginia and Washington, D.C. paused the data collection and sharing, after Bloomberg's investigation found their health insurance marketplaces were sharing users' information with advertisers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon opens up its global logistics network to all businesses",
+        "link": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/",
+        "summary": "The new service, called Amazon Supply Chain Services, pits the e-commerce giant directly against UPS and FedEx.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+        "link": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+        "summary": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin upbeat near $81k with Iran tensions, Strategy earnings in focus",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-upbeat-near-81k-with-iran-tensions-strategy-earnings-in-focus-4657857",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

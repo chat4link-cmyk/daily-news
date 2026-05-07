@@ -1,0 +1,308 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T17:45:44.948989+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "What’s next for IVF",
+        "link": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
+        "summary": "Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Millions more IVF babies have entered the world since then. And that’s partly thanks to advances in technology that have made IVF safer and more effective. But it’s still n…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: seafloor science and military chatbots",
+        "link": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters i…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Musk’s biggest loyalist became his biggest liability",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+        "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's the best way to […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google shuts down Project Mariner",
+        "link": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+        "summary": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page now contains a message that says: \"Thank you for using Project Mariner. It was shut down on May 4th, …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "How David Sacks crashed and burned in the White House",
+        "link": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+        "summary": "Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You really should become one, and to save you a Google search, here is the direct link to do so! And do …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+        "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman trial on Wednesday, Murati said Altman falsely stated that OpenAI's legal department determined a ne…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google&#8217;s AI search summaries will now quote Reddit",
+        "link": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+        "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search q…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+        "link": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
+        "summary": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslan…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+        "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+        "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering t…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
+        "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+        "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+        "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+        "summary": "In an unexpected turn, the two companies signed a deal for Anthropic to use computing resources from Elon Musk’s xAI.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+        "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+        "summary": "New research suggests that reliance on AI assistants can have a negative impact on people’s ability to think and problem solve.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
+        "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+        "summary": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Hackers Hate AI Slop Even More Than You Do",
+        "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+        "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Everything We Learned about Stranger Than Heaven During the Xbox Presents Showcase",
+        "link": "https://www.ign.com/articles/everything-we-learned-about-stranger-than-heaven-during-the-xbox-presents-showcase",
+        "summary": "RGG Studio has lifted the lid on its next big game, Stranger Than Heaven, at a special Xbox Presents showcase. Here's everything you need to know.",
+        "source": "IGN News"
+      },
+      {
+        "title": "2K's NFL Game Is Dead, Take-Two CEO Rules Out Return to Baseball Games",
+        "link": "https://www.ign.com/articles/2ks-nfl-game-is-dead-take-two-ceo-rules-out-return-to-baseball-games",
+        "summary": "If you were holding out hope for a return to NFL 2K or MLB 2K, you probably shouldn't hold your breath.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Planet of the Apes Reboot in the Works from The Fantastic Four: First Steps Director Matt Shakman",
+        "link": "https://www.ign.com/articles/planet-of-the-apes-reboot-in-the-works-from-the-fantastic-four-first-steps-director-matt-shakman",
+        "summary": "A new Planet of the Apes film is in the works from The Fantastic Four: First Steps director Matt Shakman.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Fox Remake Announced for Nintendo Switch 2",
+        "link": "https://www.ign.com/articles/star-fox-remake-announced-for-nintendo-switch-2",
+        "summary": "A new Star Fox remake has just been announced for Switch 2, in a shadow-dropped Nintendo Direct broadcast.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pokémon Fans Are Building Their Own LEGO Cubone With Pieces From a $30 Cute Puppy Set",
+        "link": "https://www.ign.com/articles/pokemon-fans-are-building-their-own-lego-cubone-with-pieces-from-a-3-in-1-cute-puppy-set",
+        "summary": "Fans have been looking for alternative ways to build Pokémon LEGO sets for years now.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mortal Kombat II Looks Set to Launch Big at the Box Office With Mortal Kombat III Already in Development",
+        "link": "https://www.ign.com/articles/mortal-kombat-ii-looks-set-to-launch-big-at-the-box-office-with-mortal-kombat-iii-already-in-development",
+        "summary": "Mortal Kombat II looks on course for a big opening at the global box office, with various reports indicating it will make its money back during its theatrical run.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Take-Two CEO Is 'Deeply Disappointed' by BioShock 4's Delays",
+        "link": "https://www.ign.com/articles/take-two-ceo-is-deeply-disappointed-by-bioshock-4s-delays",
+        "summary": "Take-Two CEO Strauss Zelnick is just as disappointed as the rest of us when it comes to the never-ending development of the next BioShock game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "HBO Renews Harry Potter for Season 2 With Imminent Production Start",
+        "link": "https://www.ign.com/articles/hbo-renews-harry-potter-for-season-2-with-imminent-production-start",
+        "summary": "HBO is feeling confident in its new Harry Potter TV series, as it has renewed the show for a second season.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Superman Sequel Man of Tomorrow Adds Matthew Lillard to Cast in Mystery Role",
+        "link": "https://www.ign.com/articles/superman-sequel-man-of-tomorrow-adds-matthew-lillard-to-cast-in-mystery-role",
+        "summary": "Scream and Daredevil: Born Again actor Matthew Lillard is joining the all-star cast of the Superman sequel, Man of Tomorrow.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Tom Holland's Spider-Man Isn't Responsible for Uncle Ben's Death in the MCU, Russo Brothers Confirm",
+        "link": "https://www.ign.com/articles/tom-hollands-spider-man-isnt-responsible-for-uncle-bens-death-in-the-mcu-russo-brothers-confirm",
+        "summary": "The directors of Captain America: Civil War and the last two Avengers films have addressed Uncle Ben’s influence on Tom Holland’s version of Spider-Man.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ed Boon Would Love to See a Street Fighter Character in Mortal Kombat, Plays Down Rivalry",
+        "link": "https://www.ign.com/articles/ed-boon-would-love-to-see-a-street-fighter-character-in-mortal-kombat-plays-down-rivalry",
+        "summary": "Mortal Kombat co-creator Ed Boon has revealed his wishlist for future guest characters in the fighting game series.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Barack Obama Insists the Government Isn't Hiding Aliens, and 'It Would Leak' if They Were",
+        "link": "https://www.ign.com/articles/barack-obama-insists-the-government-isnt-hiding-aliens-and-it-would-leak-if-they-were",
+        "summary": "Barack Obama has again insisted that the government isn't covering up any extra-terrestrial life — and now said that, if it were, it would definitely have leaked.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Batman #9 Redefines Batgirl’s Role in the DC Universe",
+        "link": "https://www.ign.com/articles/batman-major-status-quo-shifts-batgirl-wayne-manor",
+        "summary": "DC delivers two major bombshells in Batman #9, including a twist that completely redefines Batgirl's place in the DC Universe.",
+        "source": "IGN News"
+      },
+      {
+        "title": "We Visited Disneyland's Galaxy's Edge to Experience the Original Trilogy Timeline and Here's What We Thought",
+        "link": "https://www.ign.com/articles/we-visited-disneylands-galaxys-edge-to-experience-the-original-trilogy-timeline-and-heres-what-we-thought",
+        "summary": "This past weekend, we had the chance to visit Disneyland's Galaxy's Edge to experience the arrival of the Original Trilogy Timeline to the land, and we discovered it to be an emotional and exciting new chapter for the planet of Batuu with such legendary characters as Darth Vader, Luke Skywalker, Han…",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Xbox Boot Up Sequence Revealed",
+        "link": "https://www.ign.com/articles/new-xbox-boot-up-sequence-revealed",
+        "summary": "Newly-installed Xbox boss Asha Sharma has revealed the company's new console bootup sequence, which is set to go live via a firmware update next week.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Five architects of the AI economy explain where the wheels are coming off",
+        "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+        "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tec…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+        "link": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+        "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+        "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+        "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+        "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+        "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Is xAI a neocloud now?",
+        "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+        "summary": "xAI's real business may be more about building data centers than training AI models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+        "link": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
+        "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+        "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
+        "summary": "The push for new data centers at Microsoft is putting its key clean power goals at risk.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+        "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+        "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+        "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+        "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DOJ says ransomware gang tapped into Russian government databases",
+        "link": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
+        "summary": "U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+        "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+        "summary": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+        "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+        "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DeepSeek could hit $45B valuation from its first investment round",
+        "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+        "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chrome on Android now supports approximate instead of precise location sharing",
+        "link": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
+        "summary": "The new feature is a small win for Android users, as it gives them more control over how much location data they share with websites.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google updates AI search to include quotes from Reddit and other sources",
+        "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+        "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Surging gas prices are hitting lower-income households harder, New York Fed study shows",
+        "link": "https://www.cnbc.com/2026/05/06/surging-gas-prices-are-hurting-lower-income-households-harder-study-shows.html",
+        "summary": "Lower-income consumers are compensating for higher gas prices by buying less.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
+        "link": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
+        "summary": "The report provided more evidence of a stable labor market and less incentive for the Fed to lower interest rates.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin slips below $81k as markets watch Iran progress, Strategy sales",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-81k-as-markets-watch-iran-progress-strategy-sales-4666250",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Roobet Launches Prediction Markets on May 6, The First Major Crypto Casino to Integrate the Format",
+        "link": "https://www.investing.com/news/cryptocurrency-news/roobet-launches-prediction-markets-on-may-6-the-first-major-crypto-casino-to-integrate-the-format-4664480",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

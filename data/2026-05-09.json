@@ -1,0 +1,278 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T11:44:15.943666+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+        "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+        "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+        "link": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rat…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: AI malaise and babymaking tech",
+        "link": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society? Will…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Here’s how technology transformed babymaking",
+        "link": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
+        "summary": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "All the latest updates on AI data centers",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+        "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.  From…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+        "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+        "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - a…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+        "link": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+        "summary": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top exe…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Everybody wants to rule the AI world",
+        "link": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+        "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such wa…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
+        "link": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+        "summary": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+        "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+        "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
+        "source": "Wired AI"
+      },
+      {
+        "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+        "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+        "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The New Wild West of AI Kids’ Toys",
+        "link": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+        "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "DC Studios Reportedly Eyes Superbad’s Greg Mottola for Bane and Deathstroke Movie",
+        "link": "https://www.ign.com/articles/greg-mottola-dc-bane-deathstroke-movie",
+        "summary": "DC Studios reportedly has its eye on Superbad and Peacemaker filmmaker Greg Mottola to direct an untitled Bane and Deathstroke movie.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Brendan Fraser Is Training for The Mummy 4 and Asks Fans for Luck",
+        "link": "https://www.ign.com/articles/brendan-fraser-training-the-mummy-4",
+        "summary": "Brendan Fraser said he's doing his best to get in shape as he trains for the long-awaited return of Rick O'Connell in The Mummy 4.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pentagon Reveals First Wave of UFO Files as the Internet Tries to Make Any Sense of Them",
+        "link": "https://www.ign.com/articles/pentagon-reveals-first-wave-of-ufo-files-as-the-internet-tries-to-make-any-sense-of-them",
+        "summary": "The Pentagon has revealed a series of images, videos, and other files from what are said to be \"unresolved cases\" related to UFO sightings over the last 80 years, and the internet seems to be reacting accordingly.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Prime Video Finds Its Sex Criminals: Imogen Poots and John Reynolds to Star in New Series",
+        "link": "https://www.ign.com/articles/prime-video-finds-its-sex-criminals-imogen-poots-and-john-reynolds-to-star-in-new-series",
+        "summary": "Prime Video's Sex Criminals series has taken a big step forward, as Imogen Poots and John Reynolds have been tapped to star in the adaptation of the hit Image Comics book.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Slay the Spire 2 Patch Rips Act 3 Boss Doormaker Out the Game, Developer Explains Decision",
+        "link": "https://www.ign.com/articles/slay-the-spire-2-patch-rips-act-3-boss-doormaker-out-the-game-developer-explains-decision",
+        "summary": "Slay the Spire 2 developer Mega Crit has released a new major patch for the roguelike deckbuilder sequel that pulls an Act 3 boss out of the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "IGN, Atomic Monster & Blumhouse Are Teaming Up for Mortal Kombat II",
+        "link": "https://www.ign.com/articles/ign-atomic-monster-blumhouse-mortal-kombat-ii",
+        "summary": "Mortal Kombat II in theaters now, and IGN is partnering with Atomic Monster and Blumhouse to give you an opportunity to take home a cool collectible.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Trumpets Enormous Pokémon FireRed and LeafGreen Switch Sales, Despite Online Pricing Backlash",
+        "link": "https://www.ign.com/articles/nintendo-trumpets-enormous-pokemon-firered-and-leafgreen-switch-sales-despite-online-pricing-backlash",
+        "summary": "Nintendo has trumpeted the results of its controversial decision to sell Game Boy Advance titles Pokémon FireRed and LeafGreen via the eShop for $20 each.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Looks Like PlayStation 2 Will Remain Best-Selling Console of All Time, as Nintendo Switch Sales Drop Off",
+        "link": "https://www.ign.com/articles/looks-like-playstation-2-will-remain-best-selling-console-of-all-time-as-nintendo-switch-sales-drop-off",
+        "summary": "Nintendo has forecasted just 2 million more sales for its aging Switch 1 console over the coming financial year, leaving it still several million short of PlayStation 2's record-breaking total.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Crimson Desert's Next Major Patch Adds a Much Requested Feature That Will Help Players Max Out Their Gear",
+        "link": "https://www.ign.com/articles/crimson-deserts-next-major-patch-adds-a-much-requested-feature-that-will-help-players-max-out-their-gear",
+        "summary": "The Crimson Desert patches continue, this time with a major update due out in the next few days. Here's what to expect.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Helldivers 2 Dev Promises More Content Is on the Way as Disgruntled Players Drag Steam Reviews Down to 'Mostly Negative'",
+        "link": "https://www.ign.com/articles/helldivers-2-dev-promises-more-content-is-on-the-way-as-disgruntled-players-drag-steam-reviews-down-to-mostly-negative",
+        "summary": "Helldivers 2 developer Arrowhead has addressed significant concern within the game’s community, teasing new upcoming content amid ‘mostly negative’ Steam reviews.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Warhorse Knows They May Lose Some Players Because Kingdom Come: Deliverance Is Intentionally Difficult, but That's What Makes It Special",
+        "link": "https://www.ign.com/articles/warhorse-knows-they-may-lose-some-players-because-kingdom-come-deliverance-is-intentionally-difficult-but-thats-what-makes-it-special",
+        "summary": "The new creative director at Warhorse Studios, the developer of the Kingdom Come: Deliverance series, has opened up about its approach to development and explained why their games are deliberately difficult.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Devil May Cry Season 3 Reportedly Greenlit at Netflix",
+        "link": "https://www.ign.com/articles/devil-may-cry-season-3-reportedly-greenlit-at-netflix",
+        "summary": "Netflix has reportedly greenlit Devil May Cry Season 3 ahead of Season 2's release.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation Details AI Use, Insists Tools Are 'Not a Replacement for Artists or Creators'",
+        "link": "https://www.ign.com/articles/playstation-details-ai-use-insists-tools-are-not-a-replacement-for-artists-or-creators",
+        "summary": "Sony has detailed its strategy for using AI tools in game development, while stating that \"human creativity must remain at the center\" of PlayStation's creative efforts.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Path of Exile 2 Reveals Return of the Ancients, the Final Major Update Before 1.0 Launch Later in 2026",
+        "link": "https://www.ign.com/articles/path-of-exile-2-reveals-return-of-the-ancients-the-final-major-update-before-10-launch-later-in-2026",
+        "summary": "Path of Exile 2 is \"redefining\" its endgame with an all-new update coming later this month.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Says It Hasn't Decided When to Launch PS6, Nor How Much It Will Cost, With Memory Shortages Set to Continue",
+        "link": "https://www.ign.com/articles/sony-says-it-hasnt-decided-when-to-launch-ps6-nor-how-much-it-will-cost-with-memory-shortages-set-to-continue",
+        "summary": "Sony has said it has yet to decide when to launch the PlayStation 6, nor how much it will cost, as memory shortages continue to hit hard.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+        "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+        "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "San Francisco’s housing market has lost its mind",
+        "link": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
+        "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
+        "link": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
+        "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Intel’s comeback story is even wilder than it seems",
+        "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+        "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+        "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+        "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
+        "link": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
+        "summary": "More than 500 people will be affected by the closures. “We must refocus on our core business,” Porsche CEO and executive chair Michael Leiters said in a statement. \"This is the indispensable foundation for a successful strategic realignment. This forces us to make painful cuts — including our subsid…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mother Ventures is looking at moms as the ‘economic engine’",
+        "link": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
+        "summary": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber partner Avride is under investigation for self-driving crashes",
+        "link": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
+        "summary": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Poland says hackers breached water treatment plants, and the US is facing the same threat",
+        "link": "https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/",
+        "summary": "A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers",
+        "link": "https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/",
+        "summary": "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pentagon releases UFO files on new website",
+        "link": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
+        "summary": "The initial set of files housed on the site will include those containing unidentified anomalous phenomena (UAP) videos, photos, and original source documents from across the entire U.S. government. The materials have been reviewed for security purposes, but many have \"not yet been analyzed for reso…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Truecaller slashes 70 jobs amid declining ad sales",
+        "link": "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
+        "summary": "Truecaller's ad revenue declined by 44%, leading to the layoffs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
+        "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
+        "summary": "Learn what it takes to build a Series A in 2027 from top VCs at TechCrunch Disrupt 2026, taking place at San Francisco’s Moscone West on October 13-15. Register today to hear this session live on the Builders Stage.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+        "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lime, the Uber-backed micromobility company, files for IPO",
+        "link": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
+        "summary": "After years of hints and preparation, Lime plans to enter the public markets. The company intends to list on ​Nasdaq under the ticker symbol \"LIME.\" Lime did not share terms of the offering.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+        "link": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
+        "summary": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
+        "link": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
+        "summary": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus.",
+        "source": "CNBC Markets"
+      }
+    ]
+  }
+}

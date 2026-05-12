@@ -1,0 +1,284 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T11:55:42.084486+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Three things in AI to watch, according to a Nobel-winning economist",
+        "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Fostering breakthrough AI innovation through customer-back engineering",
+        "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+        "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Innovation abounds in device charging",
+        "link": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+        "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Implementing advanced AI technologies in finance",
+        "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+        "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+        "link": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavi…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "OpenAI just released its answer to Claude Mythos",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+        "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely v…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+        "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collabor…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google stopped a zero-day hack that it says was developed with AI",
+        "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+        "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed th…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Joanna Stern is not a robot, but she lived with them",
+        "link": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+        "summary": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my very closest friends. I mention that becau…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+        "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+        "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "CUDA Proves Nvidia Is a Software Company",
+        "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+        "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+        "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+        "summary": "For screenwriters like me—and job seekers all over—AI gig work is the new waiting tables. In eight months, I’ve done 20 of these soul-crushing contracts for five different platforms. It’s bad.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "The X-Files Reboot Adds Steve Buscemi, Amy Madigan, Ben Foster, and More to Its Cast",
+        "link": "https://www.ign.com/articles/the-x-files-reboot-adds-steve-buscemi-amy-madigan-ben-foster-and-more-to-its-cast",
+        "summary": "Ryan Coogler's The X-Files reboot show has reportedly added Steve Buscemi, Amy Madigan, Ben Foster, and more actors to its cast.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Rings of Power Season 3 Premiere Date and New First-Look Photo Revealed",
+        "link": "https://www.ign.com/articles/rings-of-power-season-3-premiere-date-photo",
+        "summary": "The third season of The Lord of the Rings: The Rings of Power will premiere on November 11, 2026, Prime Video announced Monday at Amazon’s annual Upfront presentation. The streamer also released a new image from Season 3",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Boys Season 5, Episode 7 Teaser Finally Brings Back Gen V Heroes as Homelander Takes the Oval Office",
+        "link": "https://www.ign.com/articles/the-boys-season-5-episode-7-teaser-finally-brings-back-gen-v-heroes-as-homelander-takes-the-oval-office",
+        "summary": "Prime Video has published a The Boys Season 5, Episode 7 teaser trailer, revealing that some members of the Gen V cast will soon return, as a refreshed Homelander takes the Oval Office.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Uncharted 4 Video Finally Reveals Details About Amy Hennig's Scrapped Version",
+        "link": "https://www.ign.com/articles/uncharted-4-video-finally-reveals-details-about-amy-hennigs-scrapped-version",
+        "summary": "A new video has revealed a ton of exciting new information on the original, scrapped version of Uncharted 4 by Amy Hennig.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Universal Invites Audiences on a Digital Odyssey for Christopher Nolan’s The Odyssey via Discord",
+        "link": "https://www.ign.com/articles/universal-invites-audiences-on-a-digital-odyssey-for-christopher-nolans-the-odyssey-via-discord",
+        "summary": "Universal Pictures is inviting audiences to embark on a “digital odyssey” for director Christopher Nolan’s The Odyssey by joining the movie’s official Discord server.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The New Dungeon Crawler Carl Book Releases Tomorrow on All Formats",
+        "link": "https://www.ign.com/articles/dungeon-crawler-carl-a-parade-of-horribles-release-date-where-to-buy",
+        "summary": "It's off to the races in the eighth Dungeon Crawler Carl novel.",
+        "source": "IGN News"
+      },
+      {
+        "title": "007 First Light Will Run at 60fps on PS5 Pro",
+        "link": "https://www.ign.com/articles/007-first-light-will-run-at-60fps-on-ps5-pro",
+        "summary": "007 First Light have addressed the frame rate concerns for the game an confirmed the game can hit 60 FPS with certain settings/hardware.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fast & Furious Has 4 TV Shows Coming to Peacock, According to Vin Diesel",
+        "link": "https://www.ign.com/articles/fast-furious-has-4-tv-shows-coming-to-peacock-according-to-vin-diesel",
+        "summary": "The Fast & Furious universe is getting not one, but a whopping *four* shows at Peacock.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gamble With Your Friends Dev Celebrates 1 Million Sales, Says 'Friendslop' Is No Longer a Derogatory Term",
+        "link": "https://www.ign.com/articles/gamble-with-your-friends-dev-celebrates-1-million-sales-says-friendslop-is-no-longer-a-derogatory-term",
+        "summary": "Gamble With Your Friends has reached 1 million copies sold just one week after its launch on PC, so we checked in with developer TENSTACK to talk about why it's not treating its 'friendslop' game as a \"live service.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Wordle Game Show Hosted by Savannah Guthrie Gets the Green Light at NBC",
+        "link": "https://www.ign.com/articles/wordle-game-show-hosted-by-savannah-guthrie-gets-the-green-light-at-nbc",
+        "summary": "NBC has greenlit a Wordle game show hosted by Today anchor Savannah Guthrie.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fallout Season 3 Adds Breaking Bad Star Aaron Paul to Cast",
+        "link": "https://www.ign.com/articles/fallout-season-3-adds-breaking-bad-star-aaron-paul-to-cast",
+        "summary": "Breaking Bad star Aaron Paul has been tapped to join the next season of the highly successful video game adaptation in an undisclosed role.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Friday the 13th Prequel Series Crystal Lake Gets Release Date",
+        "link": "https://www.ign.com/articles/friday-the-13th-prequel-series-crystal-lake-gets-release-date",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Sent a Cease and Desist to WWE Champion Cody Rhodes",
+        "link": "https://www.ign.com/articles/nintendo-sent-a-cease-and-desist-to-wwe-champion-cody-rhodes",
+        "summary": "Undisputed WWE Champion Cody Rhodes has revealed a love of Zelda so deep that it got him into trouble with Nintendo’s lawyers.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Confirms It Has Under-Wraps Switch 2 Games Due Later This Year, as Share Price Drops Following Console Price Hike",
+        "link": "https://www.ign.com/articles/nintendo-confirms-it-has-under-wraps-switch-2-games-due-later-this-year-as-share-price-drops-following-console-price-hike",
+        "summary": "Nintendo has confirmed it has multiple unannounced Switch 2 games set for launch later this year, as the company responds to questions about its decision to raise console prices.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Update Leak Suggests Four Steam Machine Packages Available at Launch, Alongside Reservation Queue",
+        "link": "https://www.ign.com/articles/steam-update-suggests-four-versions-of-the-steam-machine-will-be-available",
+        "summary": "",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+        "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+        "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+        "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
+        "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
+        "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+        "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
+        "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bravo is creating unscripted microdramas for the Peacock app",
+        "link": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
+        "summary": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that it is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Digg tries again, this time as an AI news aggregator",
+        "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+        "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
+        "link": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
+        "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "NYT’s Wordle to become a TV game show",
+        "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
+        "summary": "This will be the first time that The Times has collaborated with a TV broadcaster for an entertainment-based program, representing yet another pivot in the media company's attempt to build a sustainable digital subscription business as print revenue continues to decline.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TikTok launches an ad-free subscription plan in the UK",
+        "link": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
+        "summary": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+        "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+        "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
+        "link": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
+        "summary": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass and discounts from Logitech, SteelSeries, and other gaming brands.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Venmo’s biggest makeover in years comes at a very interesting time",
+        "link": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
+        "summary": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a stand-alone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
+        "link": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
+        "summary": "Instead of building robots themselves, the team is focused on a simpler goal — providing data that robots need to learn and operate. They believe that better data will be key to making robots more useful.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Linux bitten by second severe vulnerability in as many weeks",
+        "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+        "summary": "Production-version patches are coming online and should be installed pronto.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
+        "link": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
+        "summary": "Audi made sure to consult American tastes for its first full-size SUV.",
+        "source": "Ars Technica"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+        "link": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
+        "summary": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "MultiBank Group’s crypto arm mb.io brings Ghana gold on-chain with Kings Orbis, EON3 & Mavryk",
+        "link": "https://www.investing.com/news/cryptocurrency-news/multibank-groups-crypto-arm-mbio-brings-ghana-gold-onchain-with-kings-orbis-eon3--mavryk-4677665",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

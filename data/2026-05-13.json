@@ -1,0 +1,308 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T12:03:57.685390+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "World Models: 10 Things That Matter in AI Right Now",
+        "link": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+        "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, “Can AI Learn to Understa…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+        "link": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a pa…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Sam Altman was winning on the stand, but it might not be enough",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+        "summary": "After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt asked him how it felt to be accused of stealing a charity. \"We created, through a ton of hard work, [……",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta won’t let you block its AI account on Threads",
+        "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+        "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+        "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"tak…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The 9 biggest new features in Android 17",
+        "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
+        "summary": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google ha…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Gemini&#8217;s latest updates are all about controlling your phone",
+        "link": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
+        "summary": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want. …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
+        "summary": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose. In the lawsuit filed on Tuesday, Sam Nelson's parents allege ChatGPT \"encouraged\" the teen to \"consume a combination of substances that any licensed medical prof…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sam Altman takes the stand in trial against Elon Musk",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
+        "summary": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant in the trial brought by Musk. Altman, Brockman, and Musk were all part of the initial founding team…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "George Clooney, Tom Hanks, and Meryl Streep back new &#8216;Human Consent Standard&#8217; for AI licensing",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
+        "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, includ…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Rivian’s AI-powered voice assistant is ready to roll",
+        "link": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
+        "summary": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a y…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+        "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+        "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+        "link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+        "summary": "Emails show that Elon Musk’s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
+        "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
+        "summary": "China’s Unitree, famous for making low-cost dancing robots, will now sell you a giant, wall-smashing mecha.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Conan O’Brien Will Return to Host the Oscars for Third Consecutive Year",
+        "link": "https://www.ign.com/articles/conan-obrien-will-return-to-host-the-oscars-for-third-consecutive-year",
+        "summary": "Guess they weren’t kidding with that “Oscars host for life” sketch at last year’s show. Conan O’Brien is officially back to host next year’s Oscars, the Academy of Motion Pictures Arts and Sciences announced Tuesday. The 99th Annual Academy Awards will be the third time that O’Brien has hosted the c…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Christopher Nolan Confirms Casting Twist for The Odyssey, With One Actor Playing Dual Roles",
+        "link": "https://www.ign.com/articles/christopher-nolan-confirms-casting-twist-for-the-odyssey-with-one-actor-playing-dual-roles",
+        "summary": "Christopher Nolan has confirmed a casting twist for his upcoming \"mythic action epic,\" The Odyssey.",
+        "source": "IGN News"
+      },
+      {
+        "title": "UK Politicians Say GTA 6 Developer Rockstar 'Refused to Properly Engage' With Appeal Processes After Firing Staff Last Year",
+        "link": "https://www.ign.com/articles/uk-politicians-say-gta-6-developer-rockstar-refused-to-properly-engage-with-appeal-processes-after-firing-staff-last-year",
+        "summary": "UK politicians have strongly criticized GTA 6 developer Rockstar for its firing of 34 workers last October, as legal wrangling continues over the staff dismissals.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Christopher Nolan Defends The Odyssey From Historical Accuracy Complaints After Some Said Agamemnon Looks Like Batman",
+        "link": "https://www.ign.com/articles/christopher-nolan-defends-the-odyssey-from-historical-accuracy-complaints-after-some-said-agamemnon-looks-like-batman",
+        "summary": "Christopher Nolan has defended his upcoming movie, The Odyssey, from complaints about historical accuracy, after some said Agamemnon’s armor looks like Batman’s.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel’s Midnight Line Reinvents the X-Men, Spider-Man, and Fantastic Four via Horror",
+        "link": "https://www.ign.com/articles/marvel-midnight-line-horror-xmen-spiderman-fantastic-four",
+        "summary": "Marvel has revealed a brand new universe called Midnight, one that completely reimagines the X-Men, Spider-Man, and Fantastic Four through a horror lens.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Subnautica 2 Gameplay Appears to Have Leaked, Just Days After Forza Horizon 6 and LEGO Batman",
+        "link": "https://www.ign.com/articles/subnautica-2-gameplay-appears-to-have-leaked-just-days-after-forza-horizon-6-and-lego-batman",
+        "summary": "The early access launch of Subnautica 2 appears to be the latest game hit by pre-release leaks in a matter of days, after players managed to access both LEGO Batman: Legacy of the Dark Knight and Forza Horizon 6.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Former Tekken Lead Katsuhiro Harada Sets Up Own Company, VS Studio",
+        "link": "https://www.ign.com/articles/former-tekken-lead-katsuhiro-harada-sets-up-own-company-vs-studio",
+        "summary": "Former Tekken director, Katsuhiro Harada, has established his own game development company, VS Studio.",
+        "source": "IGN News"
+      },
+      {
+        "title": "As GTA 6 Trailer 3 Hype Intensifies, Rockstar Tweets About Red Dead Online — And the Internet's Reaction Is Exactly as You'd Expect",
+        "link": "https://www.ign.com/articles/as-gta-6-trailer-3-hype-intensifies-rockstar-tweets-about-red-dead-online-and-the-internets-reaction-is-exactly-as-youd-expect",
+        "summary": "Fans expecting Rockstar to drop Grand Theft Auto 6 Trailer 3 today have reacted in dismay at a new social post from the company — advertising a new event in Red Dead Online.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Nintendo Switch 2 Bundles Will Let You Beat the Console's Price Rise and Get a Cheaper Game",
+        "link": "https://www.ign.com/articles/new-nintendo-switch-2-bundles-will-let-you-beat-the-consoles-price-rise-and-get-a-cheaper-game",
+        "summary": "Nintendo has announced a new \"Choose Your Game\" Switch 2 console bundle, which will launch in early June, priced at $499.99.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Project Hail Mary Lands on Digital After Massive Box Office Run",
+        "link": "https://www.ign.com/articles/project-hail-mary-streaming",
+        "summary": "Journey among the stars from the comfort of your own couch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bioshock creator Ken Levine Reveals Why Judas Took a Decade to Develop: 'We Kissed Many Frogs'",
+        "link": "https://www.ign.com/articles/bioshock-creator-ken-levine-reveals-why-judas-took-a-decade-to-develop-we-kissed-many-frogs",
+        "summary": "In a recent interview with IGN, Ken Levine explained why his next game Judas has been 10 years in the making.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ken Levine Explains Why Judas Isn't Focused on Cutting-Edge Tech",
+        "link": "https://www.ign.com/articles/ken-levine-explains-why-judas-isnt-focused-on-cutting-edge-tech",
+        "summary": "IGN recently spoke to Bioshock developer Ken Levine about his new game Judas and his thoughts on the ever-changing world of game development. He explained why cutting-edge tech and ultrarealism weren't appealing to him as a creator.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Subnautica 2 Global Release Times, Preload Details Confirmed",
+        "link": "https://www.ign.com/articles/subnautica-2-global-release-times-preload-details-confirmed",
+        "summary": "It's been quite the journey, I know, but it's almost here — Subnautica 2 is dragging us back down beneath the waves on May 14. Here are the global release times as well as preload details.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dead Space Producer Doubts Dead Space 4 Will Ever Be Made: 'The Numbers Just Aren't There'",
+        "link": "https://www.ign.com/articles/dead-space-producer-doubts-dead-space-4-will-ever-be-made-the-numbers-just-arent-there",
+        "summary": "I have bad news for fans of EA's unsettling horror series, Dead Space — former writer and producer, Chuck Beaver, thinks a fourth instalment of the acclaimed sci-fi series is unlikely due to low sales despite its \"fervent fan base.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Forza Horizon 6 Dev Bans Pirate Who Leaked Gameplay Footage Until the Year 10,000 — but Faces Uphill Battle Plugging the Leak",
+        "link": "https://www.ign.com/articles/forza-horizon-6-dev-bans-pirate-who-leaked-gameplay-footage-until-the-year-10000-but-faces-uphill-battle-plugging-the-leak",
+        "summary": "Forza Horizon 6 developer Playground Games is following through on its threat after the game was leaked online ahead of the official release date, with one pirate reporting a hardware ban until the year 10,000.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+        "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+        "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Kevin Hartz’s A* just closed its third fund with $450M",
+        "link": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+        "summary": "The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million and $5 million, with the aim to back at least 30 startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+        "link": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+        "summary": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+        "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+        "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually d…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+        "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+        "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
+        "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
+        "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+        "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+        "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+        "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+        "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+        "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+        "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+        "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+        "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Android adds a feature to stop you from doomscrolling",
+        "link": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/",
+        "summary": "Google’s new Android feature, Pause Point, forces you to wait before opening distracting apps in an effort to curb addictive scrolling habits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google unveils Googlebook, a new line of AI-native laptops",
+        "link": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
+        "summary": "The company says Googlebooks, which are launching this fall, are the first laptops designed from the ground up for Gemini Intelligence to offer personal and proactive help.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+        "link": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+        "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google brings agentic AI and vibe-coded widgets to Android",
+        "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+        "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google launches new Android security feature to help uncover spyware attacks",
+        "link": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
+        "summary": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Markets raise chances for a Fed rate hike following hot inflation report",
+        "link": "https://www.cnbc.com/2026/05/12/markets-raise-chances-for-a-fed-rate-hike-following-hot-inflation-report.html",
+        "summary": "Market pricing took virtually any chance of a cut off the table between now and the end of 2027.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
+        "link": "https://www.cnbc.com/2026/05/12/iran-oil-energy-inflation-shelter-food-trump.html",
+        "summary": "Here's some of the places where prices are rising fast for consumers.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
+        "link": "https://www.cnbc.com/2026/05/12/cpi-inflation-april-2026-.html",
+        "summary": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin slips to around $80.5k after hot CPI data boosts rate hike bets",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-81k-with-iran-tensions-us-cpi-in-focus-4678972",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Fuse Network Doubles Down on Its veteran L1 Blockchain to Power AI-Enabled Payments and Last-Mile Commerce",
+        "link": "https://www.investing.com/news/cryptocurrency-news/fuse-network-doubles-down-on-its-veteran-l1-blockchain-to-power-aienabled-payments-and-lastmile-commerce-4681753",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

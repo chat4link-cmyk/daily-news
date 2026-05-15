@@ -1,0 +1,302 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T12:08:03.237398+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Data readiness for agentic AI in financial services",
+        "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+        "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+        "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+        "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, u…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+        "link": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition p…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Tesla Semi could be a big deal for electric trucking",
+        "link": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
+        "summary": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the truck in late 2017. And now we’ve got final battery specs, official pr…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The shock of seeing your body used in deepfake porn",
+        "link": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+        "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Closing time",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+        "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Behold, the Elon Musk jackass trophy",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+        "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI emp…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+        "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft starts canceling Claude Code licenses",
+        "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+        "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me t…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Use this map to find the data centers in your backyard",
+        "link": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+        "summary": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Americans do not want AI data centers in their backyards",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
+        "summary": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers. According to Gallup, data centers are so strongly disliked that Americans would prefer to live near a nuclear power …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "You can make an app for that",
+        "link": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+        "summary": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs create. The features are the features. The design is the design. Want something else, something better…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The Real Losers of the Musk v. Altman Trial",
+        "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+        "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+        "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+        "summary": "Meta employees in the US and UK are organizing against corporate software that tracks workers’ keystrokes and mouse activity.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Xbox Elite 3 Controller Leaks Online",
+        "link": "https://www.ign.com/articles/xbox-elite-3-controller-leaks-online",
+        "summary": "Xbox's Elite 3 controller has leaked ahead of its summer showcase event.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Batman Part II: Matt Reeves Reveals Full Cast Including Scarlett Johansson and Sebastian Stan",
+        "link": "https://www.ign.com/articles/the-batman-part-ii-cast-scarlett-johansson-sebastian-stan",
+        "summary": "Director Matt Reeves has revealed the full cast for The Batman Part II, confirming several rumored actors and announcing surprise additions like Brian Tyree Henry.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marathon Reveals New PVE Mode and Big Plans for the Future",
+        "link": "https://www.ign.com/articles/marathon-reveals-new-pve-mode-and-big-plans-for-the-future",
+        "summary": "Marathon is attempting to broaden its playerbase with new offerings, such as a PVE-only mode.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox's Cloud Gaming Controller Leaks and It's Pretty Small",
+        "link": "https://www.ign.com/articles/xboxs-cloud-gaming-controller-leaks-and-its-pretty-small",
+        "summary": "The design of Xbox's upcoming cloud gaming controller has leaked online and it looks pretty different from your average Xbox controller.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Next James Bond: Casting Director of Game of Thrones and Star Wars Sequels Leading the Search for Daniel Craig’s Replacement",
+        "link": "https://www.ign.com/articles/nina-gold-casting-james-bond-26-auditions",
+        "summary": "The casting search for the next actor to play James Bond is officially underway. Nina Gold has reportedly been hired as the casting director for James Bond 26, which is said to be looking for a \"fresh face\" to play 007. Gold is responsible for Daisy Ridley, John Boyega, Emilia Clarke, Claire Foy and…",
+        "source": "IGN News"
+      },
+      {
+        "title": "DC’s Absolute Universe Dominates the 2026 Eisner Award Nominations",
+        "link": "https://www.ign.com/articles/dc-absolute-universe-2026-eisner-nominations",
+        "summary": "DC Comics dominates this year's list of nominees for the 2026 Eisner Awards, with a lot of help from the Absolute Universe.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Brandon Sanderson Confirms a Connection Between Apple TV's Murderbot and His Stormlight Archive Series",
+        "link": "https://www.ign.com/articles/brandon-sanderson-confirms-a-connection-between-apple-tvs-murderbot-and-his-stormlight-archive-series",
+        "summary": "The Cosmere author confirms that an exec that worked on Murderbot is part of the Stormlight Archive adaptation.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Subnautica 2 Lures In Nearly Half a Million Concurrent Players on Steam Within First Hour of Release",
+        "link": "https://www.ign.com/articles/subnautica-2-lures-in-nearly-half-a-million-concurrent-players-on-steam-within-first-hour-of-release",
+        "summary": "Subnautica 2 has attracted almost half a million concurrent players on Steam in its first hour of release.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Doctor Who Lands New AMC+ Streaming Home Following Collapse of Disney Deal",
+        "link": "https://www.ign.com/articles/doctor-who-lands-new-amc-streaming-home-following-collapse-of-disney-deal",
+        "summary": "Veteran British sci-fi series Doctor Who will have a new streaming home on AMC+ from next month onwards.",
+        "source": "IGN News"
+      },
+      {
+        "title": "EC Comics Explores the Horrors of War in New Shellshock Anthology",
+        "link": "https://www.ign.com/articles/ec-comics-explores-the-horrors-of-war-in-new-shellshock-anthology",
+        "summary": "Oni Press and EC Comics are teaming up again for Shellshock, a chilling new anthology book that explores the horrors of war.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Moss: The Forgotten Relic Announced for PC and Consoles – No VR Headset Needed",
+        "link": "https://www.ign.com/articles/moss-the-forgotten-relic-announced-for-pc-and-consoles-no-vr-headset-needed",
+        "summary": "Polyarc, a studio founded by ex-Bungie developers that's made a name for itself with two stellar VR games in its Moss series, is bringing both games to PC and consoles – no VR headset needed – in the form of Moss: The Forgotten Relic. The puzzle-platformer/action-adventure is due out this summer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Final Fantasy 7 Rebirth Director 'Very Aware' Square Enix Needs to Figure Out How to Get the Next-Generation of Fans Into the Franchise",
+        "link": "https://www.ign.com/articles/final-fantasy-7-rebirth-director-very-aware-square-enix-needs-to-figure-out-how-to-get-the-next-generation-of-fans-into-the-franchise",
+        "summary": "The director of the Final Fantasy 7 remake trilogy, Naoki Hamaguchi, recognizes that there is challenge with getting younger players interested in the franchise.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fortnite Nerfs Lethal Fall Damage in Big Gameplay Shakeup as Overwatch Update Arrives",
+        "link": "https://www.ign.com/articles/fortnite-nerfs-lethal-fall-damage-in-big-gameplay-shakeup-as-overwatch-update-arrives",
+        "summary": "Fortnite's big Overwatch update is here, bringing Tracer, Genji and the gang to Epic Games' battle royale Island. But the changes only begin there — with a major shakeup to gameplay, in Zero Build mode in particular.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man: Brand New Day Behind the Scenes Footage Shows Off Movie's Practical Effects",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-behind-the-scenes-footage-shows-off-movies-practical-effects",
+        "summary": "Sony and Marvel have today revealed just a little bit more of Spider-Man: Brand New Day, with just over two months left to go until the movie's arrival in theaters.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Rock, Paper, Severed Announced for PC",
+        "link": "https://www.ign.com/articles/rock-paper-severed-announced-for-pc",
+        "summary": "Introducing Rock, Paper, Severed – a dark new horror game for 1-4 players that takes the classic game Rock, Paper, Scissors and dials it up to deadly levels. It's all presided over by the mysterious Entity. It's in development for PC and due out later this year.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+        "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+        "summary": "Here's what the biggest tech court case of the year is all about.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+        "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+        "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI says Codex is coming to your phone",
+        "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+        "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+        "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+        "summary": "Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+        "link": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+        "summary": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet 10 years ago before agreeing to hear Cerebras' pitch.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What happens when AI starts building itself?",
+        "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+        "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+        "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+        "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+        "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+        "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
+        "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
+        "summary": "Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+        "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+        "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI says hackers stole some data after latest code security issue",
+        "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+        "summary": "OpenAI said the damage was limited to the employees’ devices and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
+        "link": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
+        "summary": "Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+        "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+        "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared",
+        "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
+        "summary": "While the Meta-owned social network billed Instants as a new format to share real-life moments as they’re happening, many users are looking for a way  to turn off the feature, especially those who have accidentally sent images to others, not fully understanding how the feature works.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts",
+        "link": "https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/",
+        "summary": "A group of likely Russian government hackers tried to hack a security researcher who investigates spyware attacks. He was then able to turn the tables on the hackers and reveal details of their espionage campaign.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
+        "link": "https://www.cnbc.com/2026/05/14/bond-market-fed-inflation-warsh-powell.html",
+        "summary": "Bond traders are hoping that the central bank's easing bias is replaced with a skewed view toward tightening.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
+        "link": "https://www.cnbc.com/2026/05/14/bessent-sees-substantial-disinflation-ahead-as-warsh-takes-over-the-fed.html",
+        "summary": "Bessent said the energy-fed inflation surge recently is likely to reverse as the U.S. is \"going to keep pumping.\"",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Americans still feel pessimistic about the economy. When will it get better?",
+        "link": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
+        "summary": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic. Inflation, wars and Trump's tariffs are to blame, economists say.",
+        "source": "CNBC Markets"
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T11:50:15.705080+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+        "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+        "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+        "link": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for smartphone scro…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The world is on track to miss its health targets",
+        "link": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
+        "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we’re on track to reach ambitious goals set in 2015. It’s a bit like a health grade. The 2026 report was published on Wednesday.…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "How Chinese short dramas became AI content machines",
+        "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+        "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an hei…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+        "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+        "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ArXiv will ban researchers who upload papers full of AI slop",
+        "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+        "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" l…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+        "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the compa…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+        "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Goog…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Does Trump Mobile know how many stripes are on the American flag?",
+        "link": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
+        "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials. This has b…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+        "link": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+        "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search sys…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI now wants ChatGPT to access your bank accounts",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+        "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutio…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The promises and pitfalls of personalized health",
+        "link": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+        "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. A few days ago, my esthetician was smearing hot wax on my face. The two…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI research papers are getting better, and it’s a big problem for scientists",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+        "summary": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these. Published in 2017, the paper had assessed the accuracy of a particular type of stat…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+        "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+        "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+        "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+        "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Sam Raimi Set to Direct Magic Remake With Script from Send Help Writers",
+        "link": "https://www.ign.com/articles/sam-raimi-directing-magic-remake-with-send-help-writers",
+        "summary": "Sam Raimi has been tapped as director for a remake of the 1978 puppet horror movie, Magic, and some of the crew behind Send Help is coming with him.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Seems to Be Testing a New Feature That Reveals PS5 Player Counts to the Public",
+        "link": "https://www.ign.com/articles/sony-testing-new-feature-ps5-player-count",
+        "summary": "Sony has seemingly started testing a new PlayStation 5 feature that will allow users to see player counts for games like Call of Duty, Battlefield 6, Minecraft, and more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Wars: The Fall of Kylo Ren Concludes Marvel’s Epic Comic Trilogy",
+        "link": "https://www.ign.com/articles/star-wars-the-fall-of-kylo-ren-concludes-marvels-epic-comic-trilogy",
+        "summary": "Marvel Comics will cap off an epic trilogy about the life and struggles of Ben Solo with the new series Star Wars: The Fall of Kylo Ren.",
+        "source": "IGN News"
+      },
+      {
+        "title": "NFL's Los Angeles Chargers Reveal 2026 Schedule Using Halo",
+        "link": "https://www.ign.com/articles/nfls-los-angeles-chargers-reveal-2026-schedule-using-halo",
+        "summary": "NFL teams have been coming up with creative ways to announce their season schedules in recent years, from using memes to parodies to celebrities. For 2026, the Los Angeles Chargers have turned to Halo in order to tell everyone who they'll be playing in the upcoming season.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Warhammer 40,000's Most Famous Player, Henry Cavill, Presented With a Gift Fit for the Emperor Himself While Filming Highlander in Poland",
+        "link": "https://www.ign.com/articles/warhammer-40000s-most-famous-player-henry-cavill-presented-with-a-gift-fit-for-the-emperor-himself-while-filming-highlander-in-poland",
+        "summary": "No matter where Henry Cavill goes, Warhammer 40,000 seems to follow. The former Superman actor, who is a huge fan of Games Workshop’s tabletop wargame and is set to star in the Warhammer 40,000 Cinematic Universe for Amazon, was chatting with fans during a break from filming Highlander in Poland, wh…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Forza Horizon 6 Is Only Officially Playable Now to Those Who Bought Its Pricier Premium Edition, but It's Still Putting Up Big Numbers on Steam",
+        "link": "https://www.ign.com/articles/forza-horizon-6-is-only-officially-playable-now-to-those-who-bought-its-pricier-premium-edition-but-its-still-putting-up-big-numbers-on-steam",
+        "summary": "Forza Horizon 6 has already reached an impressive player count on Steam despite its official launch still being days away.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Forza Horizon 6 Dev Explains Why Shrines, Temples, and Cherry Blossom Trees Are Indestructible",
+        "link": "https://www.ign.com/articles/forza-horizon-6-dev-explains-why-shrines-temples-and-cherry-blossom-trees-are-indestructible",
+        "summary": "Forza Horizon 6 makes cherry blossom trees and shrines indestructible — here's why.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lego 2K Drive Set to be Delisted Next Week With Multiplayer Shutdown Scheduled for 2027",
+        "link": "https://www.ign.com/articles/lego-2k-drive-set-to-be-delisted-next-week-with-multiplayer-shutdown-scheduled-for-2027",
+        "summary": "2K has announced its brick racing game Lego 2K Drive will be delisted from digital storefronts on PC and console starting May 19, 2026.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Subnautica 2 User Outs Themselves as Having Pirated the Game After Contacting the Developer for Support",
+        "link": "https://www.ign.com/articles/subnautica-2-user-outs-themselves-as-having-pirated-the-game-after-contacting-the-developer-for-support",
+        "summary": "The owner of a leaked copy of Subnautica 2 appears to have accidentally revealed themselves — after contacting the game's developer for support.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Subnautica 2 Dev Reveals Early Access Roadmap, Teases New Region, New Vehicle, and Next Chapter of the Story",
+        "link": "https://www.ign.com/articles/subnautica-2-dev-reveals-early-access-roadmap-teases-new-region-new-vehicle-and-next-chapter-of-the-story",
+        "summary": "Fresh from its huge launch, underwater survival and crafting adventure Subnautica 2 now has an early access roadmap detailing the updates players can expect to see over the next few months.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Game of Thrones Star Emilia Clarke Feared She'd 'Cheated Death' Living Through Her Brain Aneurysms, and Thought She'd Collapse Live on MTV",
+        "link": "https://www.ign.com/articles/game-of-thrones-star-emilia-clarke-feared-shed-cheated-death-living-through-her-brain-aneurysms-and-thought-shed-collapse-live-on-mtv",
+        "summary": "Game of Thrones star Emilia Clarke has discussed her fears in the aftermath of having multiple brain aneurysms — and her belief that she might experience another just as she was giving a live interview on MTV.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dutton Ranch: How the Yellowstone Spin-off References Kevin Costner’s John Dutton",
+        "link": "https://www.ign.com/articles/dutton-ranch-yellowstone-kevin-costner-references",
+        "summary": "The first two episodes of the new Yellowstone spin-off series Dutton Ranch have premiered on Paramount+ and the show almost immediately addressed the Kevin Costner-sized elephant in the room.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Forza Horizon 6’s First Festival Playlist Rewards Revealed, Begins May 21",
+        "link": "https://www.ign.com/articles/forza-horizon-6s-first-festival-playlist-rewards-revealed-begins-may-21",
+        "summary": "Includes the 2008 Mazda Furai.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Avengers: Infinity War Star Reveals How Marvel Hid the Movie's Mass Character Deaths From Its Actors",
+        "link": "https://www.ign.com/articles/avengers-infinity-war-star-reveals-how-marvel-hid-the-movies-mass-character-deaths-from-its-actors",
+        "summary": "Marvel star Paul Bettany has said the cast of Avengers: Infinity War only discovered the movie's heart-breaking ending as it was shot, and their beloved MCU characters were turned to dust.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Expendabelles, the All-Female Spinoff of The Expendables, Is Officially Back On",
+        "link": "https://www.ign.com/articles/expendabelles-the-all-female-spinoff-of-the-expendables-is-officially-back-on",
+        "summary": "Expendabelles, the “female-driven” spinoff of The Expendables, is officially back on a decade after the first attempt to get it off the ground crashed and burned.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+        "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
+        "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+        "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+        "summary": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
+        "link": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
+        "summary": "The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+        "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+        "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
+        "link": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+        "summary": "Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+        "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+        "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers",
+        "link": "https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/",
+        "summary": "The price spike is a reminder of a deeper problem: The U.S. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what the industry needs is widening.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
+        "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+        "summary": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+        "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+        "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Even GoPro is pivoting to defense",
+        "link": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/",
+        "summary": "The action camera maker, like so many other companies these days, is looking to defense applications as it evaluates a possible sale.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meridian Ventures launched a $35M fund with a focus on MBA-deferred founders",
+        "link": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
+        "summary": "This new fund will back founders building enterprise technology in the United States. Meridian is agnostic, co-founder Devon Gethers said, noting that the firm has already invested in companies in fintech, logistics, healthcare, and of course, AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Osaurus brings both local and cloud AI models to your Mac",
+        "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+        "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
+        "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+        "summary": "Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and auto-rickshaws.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Russia pressures university students to become wartime drone pilots",
+        "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
+        "summary": "Universities promise no frontline duty and perks if students enlist in military.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+        "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+        "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+        "source": "Ars Technica"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Traders now see next Fed interest rate move as a hike following inflation surge",
+        "link": "https://www.cnbc.com/2026/05/15/traders-now-see-next-fed-interest-rate-move-as-a-hike-following-inflation-surge.html",
+        "summary": "The fed funds futures market is pricing in an increase as soon as December.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+        "link": "https://www.cnbc.com/2026/05/15/inflation-rate-projected-to-hit-6percent-in-the-second-quarter-top-economic-forecasters-say.html",
+        "summary": "The recent surge in inflation is likely to get worse over the next several months, according to a survey Friday.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Americans still feel pessimistic about the economy. When will it get better?",
+        "link": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
+        "summary": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic. Inflation, wars and Trump's tariffs are to blame, economists say.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "U.S. crude ripped 10% higher this week as Iran impasse worries market burning through safety net",
+        "link": "https://seekingalpha.com/news/4594146-us-crude-ripped-10-higher-this-week-as-iran-impasse-worries-market-burning-through-safety-net?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

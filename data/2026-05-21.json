@@ -1,0 +1,290 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T12:24:56.187491+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Green steel startup Boston Metal is doubling down on critical metals",
+        "link": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+        "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.   The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenhouse emissions toda…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: fully artificial chicken eggs and why Musk lost",
+        "link": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But not from an…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+        "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+        "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track o…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "‘Solve all diseases,’ you say?",
+        "link": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage. You can expect our next i…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Vibe coding is coming to your phone",
+        "link": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+        "summary": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "You can now remix other people’s YouTube Shorts with AI",
+        "link": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+        "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google Search’s AI evolution includes more ads",
+        "link": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+        "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one. The update comes just one day after Google revealed a ne…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "It&#8217;s make or break time for AI labeling systems",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+        "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting thei…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "If Google can’t make AI agents useful, maybe no one can",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+        "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chas…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The biggest data center ever is becoming a huge problem in Utah",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
+        "summary": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Stratos Project: a 40,000-acre data center stretching across the county's Hansel Valley. It's supposed …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
+        "link": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+        "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
+        "link": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
+        "summary": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "I Gave My OpenClaw Agent a Physical Body",
+        "link": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+        "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Here's What Time You Can Play 007 First Light",
+        "link": "https://www.ign.com/articles/heres-what-time-you-can-play-007-first-light",
+        "summary": "IO Interactive has confirmed the exact second you can start playing 007 First Light next week.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Expanse: Osiris Reborn Is Recasting its Protagonist After Negative Fan Feedback",
+        "link": "https://www.ign.com/articles/the-expanse-osiris-reborn-is-recasting-its-protagonist-after-negative-fan-feedback",
+        "summary": "The Expanse: Osiris Reborn will be recasting its male protagonist and his twin brother, according to developer Owlcat Games.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Forza Horizon 6 Players Are Using Exploits to Farm Easy Credits and Unlock Every Car",
+        "link": "https://www.ign.com/articles/forza-horizon-6-players-are-using-exploits-to-farm-easy-credits-and-unlock-every-car",
+        "summary": "Forza Horizon 6 players are exploiting certain parts of the game so that they can quickly and easily unlock every vehicle in the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Brandon Sanderson Says He'll Start Working on His Mistborn Era 3 Book Again in July",
+        "link": "https://www.ign.com/articles/brandon-sanderson-says-hell-start-working-on-his-mistborn-era-3-book-again-in-july",
+        "summary": "Ghostbloods is due to release in December 2028.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Supergirl Confirmed for Man of Tomorrow as a \"Major Part\" of the DCU Going Forward",
+        "link": "https://www.ign.com/articles/supergirl-confirmed-man-of-tomorrow-dcu",
+        "summary": "Supergirl will appear in Man of Tomorrow, as she will be a key piece of the DC universe going forward. In a new interview, DC Studios co-CEO Peter Safran emphasized that Supergirl is \"a major part of what we’re doing.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Boys Is Officially Over, and the Internet Has Plenty of Thoughts",
+        "link": "https://www.ign.com/articles/the-boys-is-officially-over-and-the-internet-has-plenty-of-thoughts",
+        "summary": "Late last night, Amazon released the long-awaited series finale for The Boys, and it has led to a wide variety of reactions from fans.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Adventures of Cliff Booth Lands IMAX Release Date Ahead of Netflix Debut",
+        "link": "https://www.ign.com/articles/adventures-of-cliff-booth-imax-netflix-release",
+        "summary": "David Fincher's sequel to Once Upon a Time in Hollywood is coming to IMAX theaters this fall. Netflix has announced that The Adventures of Cliff Booth will get a two-week exclusive run in IMAX starting November 25th before eventually making its way to Netflix on December 23rd.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ubisoft Promises New Assassin's Creed, Far Cry, and Ghost Recon Games All by March 2029",
+        "link": "https://www.ign.com/articles/ubisoft-promises-new-assassins-creed-far-cry-and-ghost-recon-games-all-by-march-2029",
+        "summary": "Ubisoft has promised to release new Assassin’s Creed, Far Cry and Ghost Recon games all by the end of March 2029.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'People Enjoy Surprises' — Valve Is Trying to Dismiss New York's Counter-Strike Loot Box Lawsuit",
+        "link": "https://www.ign.com/articles/people-enjoy-surprises-valve-is-trying-to-dismiss-new-yorks-counter-strike-loot-box-lawsuit",
+        "summary": "Valve has moved to dismiss the New York Attorney General’s lawsuit against the company, which claims loot boxes in its games such as Counter-Strike 2 promote illegal gambling and threaten to addict children.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Detroit: Become Human Dev Quantic Dream Kills Live Service Game 3 Months After Early Access Launch, Insists Star Wars Eclipse ‘Continues as Planned’",
+        "link": "https://www.ign.com/articles/detroit-become-human-dev-quantic-dream-kills-live-service-game-3-months-after-early-access-launch-insists-star-wars-eclipse-continues-as-planned",
+        "summary": "Detroit: Become Human developer Quantic Dream has canceled its live service game, Spellcasters Chronicles, just three months after its early access launch. Star Wars Eclipse, however, remains on track.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Subnautica 2 Outlines Changes Coming to the Game in Response to No Killing Fish Debate",
+        "link": "https://www.ign.com/articles/subnautica-2-outlines-changes-coming-to-the-game-in-response-to-no-killing-fish-debate",
+        "summary": "Subnautica 2 developer has issued an open letter to the game’s community, apologizing for some of the comments staff made recently on the killing fish debate, but ruling out ever adding actual weapons to the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "EXCLUSIVE: Monopoly F1 Edition Board Game Revealed With Its Own Monopoly Grand Prix",
+        "link": "https://www.ign.com/articles/exclusive-monopoly-f1-edition-board-game-revealed-with-its-own-monopoly-grand-prix",
+        "summary": "IGN is proud to exclusively reveal the Monopoly F1 Edition Board Game, an adventure where each player chooses their favorite Formula 1 team, competes in the Monopoly Grand Prix, fights for the Drivers' and Constructors' Championships, and much more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hellraiser: Revival Continues to Look Absolutely Disgusting in New Gameplay Trailer",
+        "link": "https://www.ign.com/articles/hellraiser-revival-continues-to-look-absolutely-disgusting-in-new-gameplay-trailer",
+        "summary": "We’ve been given a brand-new look at the ultraviolent survival horror game, Hellraiser: Revival, and, yes, it still looks disgusting.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Confirms State of Play June Date, Teases Fresh Look at Wolverine and More Games for PS5",
+        "link": "https://www.ign.com/articles/sony-confirms-state-of-play-june-date-teases-fresh-look-at-wolverine-and-more-games-for-ps5",
+        "summary": "Sony has confirmed a State of Play showcase for June 2 at 2pm PT / 5pm ET / 10pm UK time / 11pm CEST. Here's what to expect.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Subnautica 2 Early Access Hotfix 1 Released, 'Adjustments' to Controversial Terms of Service Promised",
+        "link": "https://www.ign.com/articles/subnautica-2-early-access-hotfix-1-released-adjustments-to-controversial-terms-of-service-promised",
+        "summary": "Subnautica 2 has its first early access hotfix, which makes a small number of changes to the game. But the big news is the promise of changes to its controversial Terms of Service amid a backlash to the End User License Agreement (EULA).",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+        "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+        "summary": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+        "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+        "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic says it’s about to have its first profitable quarter",
+        "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+        "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+        "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+        "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Clouted wants to take the guesswork out of making short videos go viral",
+        "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+        "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+        "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+        "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+        "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+        "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+        "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+        "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic will pay xAI $1.25B per month for compute",
+        "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+        "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+        "link": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+        "summary": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
+        "link": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+        "summary": "Slapping “AI” on your startup’s pitch deck is basically table stakes right now. When a founder raised $20 million from Cathie Wood’s ARK Invest for an eSports gamification loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started — especially w…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft’s carbon-removal plans aren’t dead after all",
+        "link": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
+        "summary": "Microsoft is responsible for over 90% of the carbon-removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fears of CDR startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+        "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+        "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+        "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+        "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla’s Full Self-Driving software is creeping into Europe",
+        "link": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
+        "summary": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver-assistance system.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
+        "link": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html",
+        "summary": "Putin is expected to hold talks with Chinese leader Xi Jinping on Wednesday, with the long-stalled Power of Siberia 2 natural gas pipeline topping the agenda.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Why is the crypto market up today?",
+        "link": "https://www.investing.com/news/cryptocurrency-news/why-is-the-crypto-market-up-today-4702359",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Devon Energy biggest buyer in record $4B U.S. government oil and gas auction",
+        "link": "https://seekingalpha.com/news/4595527-devon-energy-biggest-buyer-in-record-4b-u-s-government-oil-and-gas-auction?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

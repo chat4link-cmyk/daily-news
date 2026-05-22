@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T12:19:48.120594+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Roundtables: Can AI Learn to Understand the World?",
+        "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+        "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Scaling creativity in the age of AI",
+        "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+        "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representatio…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+        "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+        "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was comp…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: online safety’s future and climate tech’s big pivot",
+        "link": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who stu…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Climate tech companies are pivoting to critical minerals",
+        "link": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
+        "summary": "We’re over a year into the second Trump administration here in the US, and support for climate causes is weak. But climate tech companies are finding ways to survive and even thrive in this new environment, including by focusing on potential benefits outside decarbonization. Suddenly, it feels like …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Tech researchers are suing the Trump administration over the future of online safety",
+        "link": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
+        "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online.  Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercussi…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+        "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+        "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencement speakers like former Google CEO Eric …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "This AI guitar pedal let me roll my own effects",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+        "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built grooveboxes around ol…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Spotify is launching AI-generated remixes",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+        "summary": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do partic…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+        "link": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+        "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Sp…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI video is moving beyond clip slop",
+        "link": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
+        "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated c…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Musk v. Altman: Much ado about nothing",
+        "link": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+        "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests of one kind or another happening outside every day. Both Elon Musk and Sam Altman are big personali…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+        "link": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+        "summary": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO filing, we have more details about that deal, including how much Anthropic is paying to Elon Musk's co…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "I can’t believe how fast Google vibe coded my first Android app",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
+        "summary": "Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked away. Ten minutes later, I had an entire new app on my actual Android phone. I did have to prep that phone by enabling a […]",
+        "source": "The Verge – AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Bungie Is Reportedly Planning 'Significant' Layoffs, Destiny 3 Not in the Works",
+        "link": "https://www.ign.com/articles/bungie-is-reportedly-planning-significant-layoffs-destiny-3-not-in-the-works",
+        "summary": "A new report from Bloomberg claims that Bungie will suffer \"significant\" layoffs in the near future and that Destiny 3 is not actively in the works.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Odyssey's Runtime Has Been Revealed and It's One of Christopher Nolan's Longest Films",
+        "link": "https://www.ign.com/articles/the-odysseys-runtime-revealed-one-of-christopher-nolans-longest-films",
+        "summary": "Christopher Nolan's The Odyssey won't be three hours long... but it will be pretty dang close.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Destiny 2 Fans React to Bungie Ending Support for the Game",
+        "link": "https://www.ign.com/articles/destiny-2-fans-react-to-bungie-ending-support-for-the-game",
+        "summary": "Bungie announced earlier today that Destiny 2 support is coming to an end as its next update will be its last and natrually, fans are pretty upset.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Files Trademark for a Mysterious New Game Called Break In",
+        "link": "https://www.ign.com/articles/sony-files-trademark-for-new-game-called-break-in",
+        "summary": "It seems like PlayStation is preparing to announce a game called Break In.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Red Dead Redemption 2 Overtakes Wii Sports in Best-Selling Games of All Time List",
+        "link": "https://www.ign.com/articles/red-dead-redemption-2-overtakes-wii-sports-in-best-selling-games-of-all-time-list",
+        "summary": "All eyes are on GTA 6, but Red Dead Redemption 2 continues its remarkable success, selling more copies in the last year than during any 12-month period since its launch year back in 2018.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Take-Two Says All Entertainment Properties Need Pre-Release Marketing, as the Wait for GTA 6 Trailer 3 Goes On",
+        "link": "https://www.ign.com/articles/take-two-says-all-entertainment-properties-need-pre-release-marketing-as-the-wait-for-gta-6-trailer-3-goes-on",
+        "summary": "Does GTA 6 even need a Trailer 3 to be successful? Is GTA 6 uniquely positioned to get away with not showing gameplay footage before launch? We asked Take-Two boss Strauss Zelnick.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 November 2026 Release Date Is Happening, Take-Two Boss Says, Pouring Cold Water on Delay Fears",
+        "link": "https://www.ign.com/articles/gta-6-november-2026-release-date-is-happening-take-two-boss-says-pouring-cold-water-on-delay-fears",
+        "summary": "GTA 6 will launch on November 19, 2026, Take-Two has said, reaffirming the announced release date and putting to bed delay fears.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lupita Nyong’o Responds to Backlash Over Helen of Troy Casting in The Odyssey",
+        "link": "https://www.ign.com/articles/lupita-nyongo-responds-odyssey-casting-backlash",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bungie Walks Away From Destiny 2, Final Content Update Coming in June",
+        "link": "https://www.ign.com/articles/bungie-walks-away-from-destiny-2-final-content-update-coming-in-june",
+        "summary": "Bungie has announced the end of content updates for live service shooter Destiny 2, nearly nine years after launch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Big Warhammer 40,000: Dawn of War IV Interview: Year 1 Roadmap, New Playable Factions, and More",
+        "link": "https://www.ign.com/articles/the-big-warhammer-40000-dawn-of-war-iv-interview-year-1-roadmap-new-playable-factions-and-more",
+        "summary": "IGN interviews the developer of Warhammer 40,000: Dawn of War IV to find out more about its post-launch plans and DLC.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Warhammer 40,000: Chaos Gate – Deathwatch Announced at Warhammer Skulls 2026",
+        "link": "https://www.ign.com/articles/warhammer-40000-chaos-gate-deathwatch-announced-at-warhammer-skulls-2026",
+        "summary": "Fresh from Warhammer Skulls comes confirmation that the well received strategy game Warhammer 40,000: Chaos Gate – Daemonhunters is getting a sequel all about the Deathwatch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Helldivers 2 Is Getting a Warhammer 40,000 Legendary Warbond",
+        "link": "https://www.ign.com/articles/helldivers-2-is-getting-a-warhammer-40000-legendary-warbond",
+        "summary": "Helldivers 2 is getting a Warhammer 40,000 Legendary Warbond later this year, which finally makes one of its most-requested crossovers a reality.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Everything Announced at Warhammer Skulls 2026",
+        "link": "https://www.ign.com/articles/everything-announced-at-warhammer-skulls-2026",
+        "summary": "Check out all the game announcements, updates, trailers, and reveals from Warhammer Skulls 2026.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Warhammer 40,000: Space Marine 2 Shadowdrops Purgation Update, Patch 13 Adds New PvE Mission and a Lot More",
+        "link": "https://www.ign.com/articles/warhammer-40000-space-marine-2-shadowdrops-purgation-update-patch-13-adds-new-pve-mission-and-a-lot-more",
+        "summary": "Warhammer 40,000: Space Marine 2 Purgation Update out now, check out the patch notes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New ‘Paradox Drive’ Expansion Coming to Pokémon TCG Pocket",
+        "link": "https://www.ign.com/articles/pokemon-tcg-pocket-announces-new-paradox-drive-expansion",
+        "summary": "The next Pokémon TCG Pocket expansion is all about the Scarlet and Violet generation.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+        "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+        "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+        "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+        "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+        "link": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+        "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
+        "link": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
+        "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+        "link": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
+        "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+        "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+        "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How Elon Musk will increase his power through the SpaceX IPO",
+        "link": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
+        "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
+        "link": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
+        "summary": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+        "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+        "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+        "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+        "summary": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+        "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+        "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
+        "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
+        "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify takes on Google’s NotebookLM with its new app",
+        "link": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+        "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+        "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+        "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+        "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+        "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Perps and Prediction Markets Are Now Available in NOW Wallet",
+        "link": "https://www.investing.com/news/cryptocurrency-news/perps-and-prediction-markets-are-now-available-in-now-wallet-4704222",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "S&P SmallCap 600 to add Peloton, Universal Technical",
+        "link": "https://seekingalpha.com/news/4596124-sp-smallcap-600-to-add-peloton-universal-technical?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

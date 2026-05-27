@@ -1,0 +1,296 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T12:38:53.107818+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Rethinking organizational design in the age of agentic AI",
+        "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+        "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: puncturing the AI jobs panic",
+        "link": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has h…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "A reality check on the AI jobs hysteria",
+        "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+        "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "It’s time to address the looming crisis in entry-level work.",
+        "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+        "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Did the Pope use AI to write about the dangers of AI?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+        "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular A…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+        "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+        "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and th…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+        "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day.…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI warfare is already here",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+        "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculati…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Uber president says AI spending is getting ‘harder to justify’",
+        "link": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+        "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a co…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Pope Leo Schooled the Tech Bros on Tolkien",
+        "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+        "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+        "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+        "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+        "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+        "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+        "link": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+        "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Quiz: Will AI Destroy Your Career?",
+        "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+        "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI Is Taking Over the Most Cursed Job in the World",
+        "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+        "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "The New Dungeon Crawler Carl Book Has a LEGO Joke Fellow Brick Builders Will Appreciate",
+        "link": "https://www.ign.com/articles/the-new-dungeon-crawler-carl-book-has-a-lego-joke-fellow-brick-builders-will-appreciate",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation Delists and Shuts Down Servers for Destruction AllStars",
+        "link": "https://www.ign.com/articles/playstation-delists-and-shuts-down-servers-for-destruction-allstars",
+        "summary": "PlayStation has unexpectedly pulled the plug on Destruction AllStars, a live-service game released during the PS5's launch window.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Henry Cavill's Live-Action Voltron Movie Skips Theaters for Prime Video Release",
+        "link": "https://www.ign.com/articles/henry-cavill-voltron-movie-streaming-release",
+        "summary": "Don’t expect to see the Henry Cavill-led Voltron movie in cinemas when it’s finally released in 2027. IGN has confirmed that the live-action movie based on the animated franchise will premiere exclusively on Prime Video.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Official Metal Gear Solid 4 Remaster Retains Classic Real-World Brands and Meta Jokes",
+        "link": "https://www.ign.com/articles/official-metal-gear-solid-4-remaster-retains-classic-real-world-brands-and-meta-jokes",
+        "summary": "The remaster of Metal Gear Solid 4 is finally coming to current gen consoles this August as part of Metal Gear Solid: Master Collection Vol 2. A recent reveal of gameplay not only showed off the enhanced graphics, but also suggests that many in-jokes and brand tie-ins from the 2008 original will sti…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Alan Wake and Control 'Should Have Sold More,' New Remedy CEO Says, as He Accepts Skepticism of His Former EA Background",
+        "link": "https://www.ign.com/articles/alan-wake-and-control-should-have-sold-more-new-remedy-ceo-says-as-he-accepts-skepticism-of-his-former-ea-background",
+        "summary": "Remedy franchises such as Alan Wake and Control \"should have sold more,\" the company's new CEO has said.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Doctor Who Christmas Special Could Be Delayed, Report Suggests, Amid Hunt for New Series Star",
+        "link": "https://www.ign.com/articles/doctor-who-christmas-special-could-be-delayed-report-suggests-amid-hunt-for-new-series-star",
+        "summary": "Doctor Who may no longer return this Christmas as previously announced, according to a new report.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Batman's New Butler Revealed: Meet DC’s Replacement for Alfred Pennyworth",
+        "link": "https://www.ign.com/articles/batman-new-female-butler-alfred-replacement",
+        "summary": "Seven years after the death of Alfred Pennyworth, Batman is finally getting a new butler. But who is this mysterious young woman?",
+        "source": "IGN News"
+      },
+      {
+        "title": "Florida Man Accused of Using Chainsaw to Steal $12,000 of Pokémon Cards",
+        "link": "https://www.ign.com/articles/florida-man-accused-of-using-chainsaw-to-steal-12000-of-pokemon-cards",
+        "summary": "A Florida man has been arrested after $12,000 of Pokémon cards were stolen from a local store, during a break-in that involved a battery-powered chainsaw.",
+        "source": "IGN News"
+      },
+      {
+        "title": "CD Projekt Announces Official The Witcher 3: Blood and Wine Special Anniversary Stream as DLC Rumors Swirl",
+        "link": "https://www.ign.com/articles/cd-projekt-announces-official-the-witcher-3-blood-and-wine-special-anniversary-stream-as-dlc-rumors-swirl",
+        "summary": "CD Projekt has announced an official special anniversary stream for The Witcher 3’s much-loved expansion, Blood and Wine, sparking speculation the studio may tease more DLC for the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "China Executes Man Who Poisoned Billionaire Boss Behind Game of Thrones Video Game, 3 Body Problem Netflix Series",
+        "link": "https://www.ign.com/articles/china-executes-man-who-poisoned-billionaire-boss-behind-game-of-thrones-video-game-3-body-problem-netflix-series",
+        "summary": "China has executed a man who murdered his billionaire boss after a disagreement over the management of Netflix's 3 Body Problem series.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pope Leo Quotes Gandalf From The Lord of the Rings as He Issues Stark AI Warning",
+        "link": "https://www.ign.com/articles/pope-leo-quotes-gandalf-from-the-lord-of-the-rings-as-he-issues-stark-ai-warning",
+        "summary": "Pope Leo has issued a warning about AI and called for regulation, quoting Gandalf from The Lord of the Rings in the process.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PS Plus Extra and Premium Get Destiny 2 on the Same Day Its Final Content Update Is Released",
+        "link": "https://www.ign.com/articles/ps-plus-extra-and-premium-get-destiny-2-on-the-same-day-its-final-content-update-is-released",
+        "summary": "Sony has announced plans to put Destiny 2 Legacy Collection, including The Final Shape expansion, into PlayStation Plus Extra and Premier tiers on the day it receives its final update.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026",
+        "link": "https://www.ign.com/articles/jackass-best-and-last-ign-live-2026",
+        "summary": "The Jackass gang is coming to IGN Live 2026. Steve-O, Wee Man (Jason Acuña), Poopies (Sean McInerney), and Jasper will attend IGN Live on Saturday, June 6th to promote their new movie, Jackass: Best and Last.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Confirms PlayStation Plus Monthly Games for June 2026, First Lineup Announcement Since Price Rise",
+        "link": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-june-2026-first-lineup-announcement-since-price-rise",
+        "summary": "Sony has confirmed the PlayStation Plus monthly games for June 2026 — and it includes one of the best Warhammer 40,000 games around.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Was Supposed to Come Out Today, May 26 — and According to Rockstar's Official Twitter Account, It Still Does",
+        "link": "https://www.ign.com/articles/gta-6-was-supposed-to-come-out-today-may-26-and-according-to-rockstars-official-twitter-account-it-still-does",
+        "summary": "“Grand Theft Auto VI is now set to release on May 26, 2026.” That was the announcement Rockstar Games issued on May 2, 2025, confirming a delay from the game’s original fall 2025 release window. Today is May 26, and fans are marking the occasion with memes, jokes, and plenty of hope for a fresh upda…",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
+        "link": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+        "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
+        "link": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
+        "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+        "link": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+        "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
+        "link": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
+        "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+        "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+        "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+        "link": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
+        "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+        "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+        "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+        "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+        "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This startup is betting India’s gig economy can train the world’s robots",
+        "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+        "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
+        "link": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
+        "summary": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
+        "link": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
+        "summary": "A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
+        "link": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
+        "summary": "An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches after the start of the war in Iran.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ferrari’s first EV is not for you",
+        "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
+        "summary": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+        "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+        "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify now lets you stream narrated magazine articles, too",
+        "link": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
+        "summary": "The streaming service said that, starting today, there will be over 650 long-form magazine articles (available in English only) from publications like Rolling Stone, The Atlantic, Vogue, Variety, Billboard, Vibe, GQ, Wired, Vanity Fair, and Pitchfork.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "ECB 'will do what is necessary' to tame inflation, Bank of France governor tells CNBC",
+        "link": "https://www.cnbc.com/2026/05/26/ecb-villeroy-inflation-iran-war.html",
+        "summary": "Markets are overwhelmingly pricing in a rate hike from the central bank at its next meeting.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Taiwan cracks down on smuggling of Nvidia AI chips to China via Japan: report",
+        "link": "https://seekingalpha.com/news/4597203-taiwan-cracks-down-on-smuggling-of-nvidia-ai-chips-to-china-via-japan-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T12:18:40.913621+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: keeping up with AI, and the future of IVF",
+        "link": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "AI tried to bury this politician — now people have actually heard of him",
+        "link": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+        "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+        "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "This smart bird feeder captures more of my backyard drama",
+        "link": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
+        "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over m…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "YouTube is putting AI labels where you’ll actually see them",
+        "link": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+        "summary": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Shorts and long-form videos to make them easier to spot and will start automatically identifying and la…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The AI fight brewing inside The New York Times",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+        "summary": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing u…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The Pope isn’t AGI-pilled",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+        "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opp…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+        "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+        "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
+        "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
+        "summary": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+        "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+        "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "The First Wheel of Time Board Game Adaptation Has Already Blown Past Its Goals on Kickstarter",
+        "link": "https://www.ign.com/articles/the-first-wheel-of-time-board-game-adaptation-has-already-blown-past-its-goals-on-kickstarter",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dragon Quest 12: Beyond Dreams Update",
+        "link": "https://www.ign.com/articles/dragon-quest-12-beyond-dreams-update",
+        "summary": "Square Enix issued a significant update on Dragon Quest 12 today, giving fans a quick look at the long-awaited RPG sequel. The Japanese company also dropped the bombshell that the game’s development was restarted from scratch. As a result, Dragon Quest 12's original subtitle, The Flames of Fate, was…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Steam Deck Price Increase Announced by Valve",
+        "link": "https://www.ign.com/articles/steam-deck-price-increase-announced-by-valve",
+        "summary": "Valve has announced a substantial price increase for the Steam Deck. The company announced today that all new OLED models are officially back in stock after months of being out of stock, but they will be getting a price increase.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Brandon Sanderson Explains Why He Chose the One Piece Studio to Adapt His Epic Sci-Fi Series",
+        "link": "https://www.ign.com/articles/brandon-sanderson-explains-why-he-chose-the-one-piece-studio-to-adapt-his-epic-sci-fi-book-series",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Adventure Time: Side Quests to Premiere First 2 Episodes at IGN Live 2026",
+        "link": "https://www.ign.com/articles/adventure-time-side-quests-ign-live-2026",
+        "summary": "Fans attending IGN Live 2026 will have the opportunity to be the first to watch the first two episodes of the new animated series Adventure Time: Side Quests on Saturday, June 7th at 12:45pm PT.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel Legend Stan Lee to Be 'Resurrected' Through AI, With His Voice and Likeness Licensed for Commercial Use",
+        "link": "https://www.ign.com/articles/marvel-legend-stan-lee-to-be-resurrected-through-ai-with-his-voice-and-likeness-licensed-for-commercial-use",
+        "summary": "The late Marvel comics legend Stan Lee will have his voice and likeness replicated by an AI company for commercial use, it's been announced.",
+        "source": "IGN News"
+      },
+      {
+        "title": "X-Men '97 Season 2 Disney+ Release Date Confirmed, Debut Trailer Released",
+        "link": "https://www.ign.com/articles/x-men-97-season-2-disney-release-date-confirmed-debut-trailer-released",
+        "summary": "X-Men ’97 Season 2 finally has a release date — July 1 on Disney+ — and a debut trailer confirming the appearance of a long list of new characters, and a big reversal in fortunes for Wolverine.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Destiny 2 Fans Plan Mass Protest to 'Crash the Servers' and Beat Marathon's All-Time Player Record",
+        "link": "https://www.ign.com/articles/destiny-2-fans-plan-mass-protest-to-crash-the-servers-and-beat-marathons-all-time-player-record",
+        "summary": "Destiny 2 fans distraught over Bungie's decision to end support for the franchise are planning to try and \"crash the servers\" to demonstrate that there's still huge interest in the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Blizzard Boss Wouldn't Rule Out Overwatch Animated Series, Knows Fans Have Wanted It for Years",
+        "link": "https://www.ign.com/articles/blizzard-boss-wouldnt-rule-out-overwatch-animated-series-knows-fans-have-wanted-it-for-years",
+        "summary": "Blizzard intends to expand the Overwatch universe beyond the recent Fortnite collab, with an animated series not ruled out.",
+        "source": "IGN News"
+      },
+      {
+        "title": "10 Billion Pokémon Cards Were Printed Last Year — and It Still Wasn't Enough to Stop Shortages and Scalping",
+        "link": "https://www.ign.com/articles/10-billion-pokemon-cards-were-printed-last-year-and-it-still-wasnt-enough-to-stop-shortages-and-scalping",
+        "summary": "The Pokémon Company manufactured more than 10 billion Pokémon trading cards last year alone, and has now produced a staggering total of 85 billion cards to date.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man: Brand New Day Toy Leak Reveals Hulk Plotline",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-toy-leak-reveals-hulk-plotline",
+        "summary": "Hulk's return in Spider-Man: Brand New Day might be an open secret, but a new toy leak has spilled fresh detail on how Bruce Banner will suddenly lose control.",
+        "source": "IGN News"
+      },
+      {
+        "title": "IGN Shorts Is a New Way to Experience the Biggest Gaming and Entertainment News",
+        "link": "https://www.ign.com/articles/ign-shorts-is-a-new-way-to-experience-the-biggest-gaming-and-entertainment-news",
+        "summary": "We have just launched IGN Shorts, a brand-new way to experience everything we do here at IGN. Designed specifically for gamers, tech enthusiasts, and entertainment fans who want high-quality content delivered fast, IGN Shorts promise to deliver pure, unfiltered gaming and entertainment content to yo…",
+        "source": "IGN News"
+      },
+      {
+        "title": "YouTube Now Automatically Adds Disclosures to Videos With 'Significant Photorealistic AI Use'",
+        "link": "https://www.ign.com/articles/youtube-now-automatically-adds-disclosures-to-videos-with-significant-photorealistic-ai-use",
+        "summary": "YouTube has announced improved AI labels for videos as part of a movie to add transparency to content made with generative AI.",
+        "source": "IGN News"
+      },
+      {
+        "title": "No Man's Sky Launches The Swarm Update, Adds Mysterious Death Star Like Construct to the Game",
+        "link": "https://www.ign.com/articles/no-mans-sky-launches-the-swarm-update-adds-mysterious-death-star-like-construct-to-the-game",
+        "summary": "No Man’s Sky developer Hello Games has announced The Swarm update, which adds a “mysterious Death Star like construct” to the sci-fi adventure.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Zorro: Exclusive New Trailer for French Series Starring Jean Dujardin",
+        "link": "https://www.ign.com/articles/zorro-french-series-jean-dujardin-trailer",
+        "summary": "IGN can exclusively reveal the new trailer for Zorro, a French-language TV series reimagining of the iconic swashbuckling hero starring Oscar winner Jean Dujardin (The Artist).",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+        "link": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+        "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why Google’s AI can’t spell Google (or anything else)",
+        "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+        "summary": "Google is embarrassing itself, again.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian will deliver the first R2 SUVs on June 9",
+        "link": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
+        "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+        "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+        "summary": "The Series B round was led by Battery Ventures.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+        "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+        "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+        "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+        "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
+        "link": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+        "summary": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the website sent attorneys.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+        "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+        "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
+        "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
+        "summary": "Thea Energy's pixel-inspired magnets could give its power plant plans a boost. The fusion startup hopes to get a commercial reactor working by 2034.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CrowdStrike and Google take down botnet used by hackers to target open source software developers",
+        "link": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
+        "summary": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+        "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+        "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
+        "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+        "summary": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
+        "link": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+        "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt stag…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
+        "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+        "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify now lets you ‘clip’ moments from your favorite podcast",
+        "link": "https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/",
+        "summary": "With the new scissors icon, you can clip favorite moments from podcasts and share them with your audience.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Energy inflation has been more persistent than expected: Fed's Goolsbee",
+        "link": "https://www.cnbc.com/2026/05/28/goolsbee-iran-energy-inflation-asia-stagflation-shock-ai-artificial-intelligence-jobs.html",
+        "summary": "While oil prices have recently fallen on news that a peace deal between the U.S. and Iran could come, prices are still significantly higher than before the war.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Fed’s Kashkari says inflation fight takes priority as labor market is 'in decent shape'",
+        "link": "https://www.cnbc.com/2026/05/28/fed-reserve-neel-kashkari-inflation-job-market.html",
+        "summary": "The Minneapolis Fed President warned that persistently high inflation risks becoming embedded in consumer expectations, potentially forcing tougher policy action later.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "FedEx Freight to join Dow Transports, replacing American Airlines",
+        "link": "https://seekingalpha.com/news/4597711-fedex-freight-to-join-dow-transports-replacing-american-airlines?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Google employee faces fraud charges over $1.2M Polymarket bet",
+        "link": "https://seekingalpha.com/news/4597710-google-employee-faces-fraud-charges-over-12m-polymarket-bet?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Nio stock jumps 9% as new ES9 flagship EV debuts",
+        "link": "https://seekingalpha.com/news/4597708-nio-stock-jumps-9-as-new-es9-flagship-ev-debuts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

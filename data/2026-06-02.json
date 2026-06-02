@@ -1,0 +1,284 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T12:49:45.486014+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: China’s brain implant ambitions",
+        "link": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s Henan province last October,…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+        "link": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+        "summary": "One day last October, sitting in the courtyard of his house in China’s Henan province, Dong Hui decided to see if he could hold a pen to write.  Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but determinedly, he wr…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+        "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+        "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up un…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Gemini’s new AI agent is about as good as Google’s demo",
+        "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+        "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+        "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+        "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic has officially filed to go public",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+        "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fu…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+        "link": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+        "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entir…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI is blowing up music. How should the Grammys handle it?",
+        "link": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+        "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.  Well, it’s been…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+        "link": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+        "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In an update on its deve…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+        "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+        "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+        "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
+        "summary": "Dozens of people have complained to the Federal Trade Commission about Norse Atlantic Airways’ tech-first customer service operation. Some said they lost thousands of dollars.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Maverick Games’ New Open-World Driving Game Will Be Revealed in Under 12 Hours",
+        "link": "https://www.ign.com/articles/maverick-games-new-open-world-driving-game-will-be-revealed-in-under-12-hours",
+        "summary": "Debut details imminent on Maverick Games' first project, a AAA open-world action-driving game led by former Forza Horizon 5 creative director Mike Brown.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation 'Shovelware' Crackdown Continues as Major Publisher Warns Its Games Will Soon Be Pulled",
+        "link": "https://www.ign.com/articles/playstation-shovelware-crackdown-continues-as-major-publisher-warns-its-games-will-soon-be-pulled",
+        "summary": "It looks like Sony is continuing its mission to clear the PlayStation Store of 'shovelware' games after publisher Webnetic announced its \"journey on PlayStation\" will soon \"come to an end.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Escape from New York Remake Finds Director and Writer in Zack Snyder",
+        "link": "https://www.ign.com/articles/escape-from-new-york-remake-finds-director-and-writer-in-zack-snyder",
+        "summary": "Man of Steel and 300 Director Zack Snyder has reportedly signed on to write and direct an Escape from New York remake.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Subnautica 2 Dev Addresses 'Misunderstanding' Around Decision Not to Let Players Kill Predators",
+        "link": "https://www.ign.com/articles/subnautica-2-dev-addresses-misunderstanding-around-decision-not-to-let-players-kill-predators",
+        "summary": "Subnautica 2 design lead Anthony Gallegos has opened up about the reaction to Unknown Worlds’ decision to prevent players from killing predators in the underwater survival game, explaining the developers’ true intent.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Streets of Rage Movie Finds Director and Writers After Years of Silence",
+        "link": "https://www.ign.com/articles/streets-of-rage-movie-finds-director-and-writers-after-years-of-silence",
+        "summary": "Sega and Lionsgate have announced that their long-in-development Streets of Rage movie has just picked up Jeymes Samuel as director and Pat Casey and Josh Miller as writers.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Taylor Swift Reveals Original Song 'I Knew It, I Knew You' for Toy Story 5",
+        "link": "https://www.ign.com/articles/taylor-swift-reveals-original-song-i-knew-it-i-knew-you-for-toy-story-5",
+        "summary": "Pop-music superstar Taylor Swift has ended weeks of teases with the reveal of an original song for Pixar's Toy Story 5.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fortnite Fans Are at War Over a Controversial Streamer's Inclusion, and the Toxic Backlash It's Created",
+        "link": "https://www.ign.com/articles/fortnite-fans-are-at-war-over-a-controversial-streamers-inclusion-and-the-toxic-backlash-its-created",
+        "summary": "Fortnite players are warring over a collaboration with a controversial streamer in the battle royale game's next season.",
+        "source": "IGN News"
+      },
+      {
+        "title": "007 First Light Budget Reportedly More Than $200 Million",
+        "link": "https://www.ign.com/articles/007-first-light-budget-reportedly-more-than-200-million",
+        "summary": "Developer IO Interactive's 007 First Light reportedly had a budget of more than $200 million and took seven years to make.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Man of Tomorrow Set Image Reveals First Look at Lex Luthor in Full Body Armor for Superman Sequel",
+        "link": "https://www.ign.com/articles/man-of-tomorrow-set-image-reveals-first-look-at-lex-luthor-in-full-body-armor-for-superman-sequel",
+        "summary": "James Gunn has posted a first look at Nicholas Hoult suited up in full body armor as Lex Luthor on the set of his Superman sequel, Man of Tomorrow.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Asus Goes OLED With the New ROG Xbox Ally X20",
+        "link": "https://www.ign.com/articles/asus-goes-oled-with-the-new-rog-xbox-ally-x20",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nvidia Announces the RTX Spark, Claims to Reinvent the PC",
+        "link": "https://www.ign.com/articles/nvidia-announces-the-rtx-spark-claims-to-reinvent-the-pc",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Avengers: Doomsday Trailer Imminent, Fans Believe, Following Teaser from Former Fortnite Boss",
+        "link": "https://www.ign.com/articles/avengers-doomsday-trailer-imminent-fans-believe-following-teaser-from-former-fortnite-boss",
+        "summary": "Marvel fans eager to see more of Avengers: Doomsday may not have long to wait, following a tease from former Fortnite boss Donald Mustard.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pokémon Trading Card Game's 30th Anniversary Set Features All Foil Cards and 30 New Pikachu Designs",
+        "link": "https://www.ign.com/articles/pokemon-trading-card-games-30th-anniversary-set-features-all-foil-cards-and-30-new-pikachu-designs",
+        "summary": "Pokémon has announced an eye-catching all-holo set of trading cards to celebrate the TCG's 30th anniversary, featuring the return of classics such as Base Set Charizard, plus Mew and Mewtwo ex cards, and 30 new illustrations featuring Pikachu.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Official Baldur's Gate 2 Remake Reportedly in Development at Wizards of the Coast",
+        "link": "https://www.ign.com/articles/official-baldurs-gate-2-remake-reportedly-in-development-at-wizards-of-the-coast",
+        "summary": "An official Baldur’s Gate 2 remake is reportedly in the works at Wizards of the Coast.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Video Games Could Have Movie-Style Product Placement to Counter Rising Costs, Ex-Dragon Age Boss Says",
+        "link": "https://www.ign.com/articles/video-games-could-have-movie-style-product-placement-to-counter-rising-costs-ex-dragon-age-boss-says",
+        "summary": "As big budget video game development gets more costly, including TV and movie-style product placement could help make up the shortfall, BioWare's former Dragon Age boss Mark Darrah has said.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+        "link": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+        "summary": "Every founder who applies to Startup Battlefield wants the same thing: the Disrupt Main Stage. Here’s how to get there and why the opportunity starts well before the main stage.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Alphabet plans to raise $80B to pay for AI buildout",
+        "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+        "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+        "link": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+        "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+        "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+        "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+        "link": "https://techcrunch.com/2026/06/01/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+        "summary": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build Mode: The Founder Survival Guide, TechCrunch's podcast for founders at every stage.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+        "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+        "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+        "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+        "summary": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Water access is now a risk factor in SpaceX’s IPO",
+        "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+        "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A new app, The Mall, is building a universal feed for online shopping",
+        "link": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
+        "summary": "The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers",
+        "link": "https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/",
+        "summary": "Hackers stole usernames, hashed passwords, and other data from a service that allowed players to cheat in Grand Theft Auto V.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+        "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+        "summary": "Mike Schroepfer's Gigascale Capital has raised a large fund to back founders building climate-friendly solutions for the world's energy and material shortages.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic files to go public",
+        "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+        "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX says it may issue ‘significant’ equity in ‘future transactions’",
+        "link": "https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/",
+        "summary": "The company added a warning to prospective investors that a major dilution could be in the cards after it goes public.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This AI weather startup is out-forecasting government agencies",
+        "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+        "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collec…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+        "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+        "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Michael Saylor’s Strategy stock falls as firm makes first Bitcoin sale since 2022",
+        "link": "https://www.investing.com/news/cryptocurrency-news/michael-saylors-strategy-stock-falls-as-firm-makes-first-bitcoin-sale-since-2022-4719301",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "NOWPayments Redefines Crypto Payouts: Zero-Fee, 1-Second Infrastructure Built for Partner Earnings",
+        "link": "https://www.investing.com/news/cryptocurrency-news/nowpayments-redefines-crypto-payouts-zerofee-1second-infrastructure-built-for-partner-earnings-4719837",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Cryptocurrency stocks fall as Bitcoin drops on Middle East tensions",
+        "link": "https://www.investing.com/news/cryptocurrency-news/cryptocurrency-stocks-fall-as-bitcoin-drops-on-middle-east-tensions-93CH-4719657",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Oil pulls back from biggest losses as Trump says Israel, Hezbollah to stop attacks",
+        "link": "https://seekingalpha.com/news/4599515-oil-pulls-back-from-biggest-losses-as-trump-says-israel-hezbollah-to-stop-attacks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

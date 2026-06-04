@@ -1,0 +1,290 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T12:52:46.231616+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "How virtual power plants could provide energy for data centers",
+        "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+        "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+        "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising t…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "As AI gets better, it reveals an empty promise",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+        "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of th…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+        "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+        "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a bl…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+        "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI has a water problem — Google thinks it has a fix",
+        "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+        "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, i…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google must let publishers opt out of AI Search features, rules UK",
+        "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+        "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+        "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+        "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+        "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+        "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+        "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+        "summary": "Spencer Huang, Nvidia’s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "This Is How Trump Finally Signed the AI Executive Order",
+        "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+        "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
+        "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+        "summary": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
+        "link": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
+        "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
+        "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
+        "summary": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "IO Interactive Won't Self-Publish Future James Bond Games; Amazon Will Have More Control",
+        "link": "https://www.ign.com/articles/io-interactive-wont-self-publish-future-james-bond-games-amazon-will-have-more-control",
+        "summary": "Future sequels to 007 First Light will be published by Amazon and MGM, not IO Interactive.",
+        "source": "IGN News"
+      },
+      {
+        "title": "You Can Now Fight Take-Two CEO Strauss Zelnick in WWE 2K26",
+        "link": "https://www.ign.com/articles/you-can-now-fight-take-two-ceo-strauss-zelnick-in-wwe-2k26",
+        "summary": "If you've ever wanted to fight a gaming CEO, now you can. Take-Two Interactive CEO Strauss Zelnick is now a playable character in WWE 2K26.",
+        "source": "IGN News"
+      },
+      {
+        "title": "IGN Live In Person Event Schedule 2026",
+        "link": "https://www.ign.com/articles/ign-live-in-person-event-schedule-2026",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Control Resonant Has a 2-Day Early Access Period via the Digital Deluxe Edition — but Only on PS5",
+        "link": "https://www.ign.com/articles/control-resonant-has-a-2-day-early-access-period-via-the-digital-deluxe-edition-but-only-on-ps5",
+        "summary": "Control Resonant will have a two-day PS5-exclusive early access, leading to frustration from some fans.",
+        "source": "IGN News"
+      },
+      {
+        "title": "IGN Live 2026: Full Guest Lineup and Celebrity Appearances Revealed",
+        "link": "https://www.ign.com/articles/ign-live-2026-guest-lineup",
+        "summary": "Get ready for IGN Live 2026 in Los Angeles with the full celebrity and special guest lineup, featuring talent from Jackass, Avatar, Rick and Morty, WWE, and more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Boss of Patreon Just Publicly Shamed a LEGO Reseller Embroiled in One of the Wildest Internet Dramas in Years",
+        "link": "https://www.ign.com/articles/the-boss-of-patreon-just-publicly-shamed-a-lego-reseller-embroiled-in-one-of-the-wildest-internet-dramas-in-years",
+        "summary": "The CEO and co-founder of Patreon has intervened in one of the wildest internet dramas in years — which all centers on a \"stolen\" collection of Star Wars LEGO worth more than $200,000.",
+        "source": "IGN News"
+      },
+      {
+        "title": "From 19 Inches of Venom to... Nothing — There's No Marvel's Wolverine Collector's Edition and Insomniac Fans Don't Know Why",
+        "link": "https://www.ign.com/articles/from-19-inches-of-venom-to-nothing-theres-no-marvels-wolverine-collectors-edition-and-insomniac-fans-dont-know-why",
+        "summary": "If you were expecting a flashy collector's edition for Marvel's Wolverine, don't hold your breath.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Persona 5 Royal Headlines Xbox Game Pass June 2026 Wave 1",
+        "link": "https://www.ign.com/articles/persona-5-royal-headlines-xbox-game-pass-june-2026-wave-1",
+        "summary": "Microsoft has confirmed the lineup of games coming to Xbox Game Pass during the first half of June, which is headlined by the arrival of Persona 5 Royal.",
+        "source": "IGN News"
+      },
+      {
+        "title": "As GTA 6 Hype Hits New Levels, YouTuber Tries to Walk Inside Rockstar — Prompting the Inevitable Response",
+        "link": "https://www.ign.com/articles/as-gta-6-hype-hits-new-levels-youtuber-tries-to-walk-inside-rockstar-prompting-the-inevitable-response",
+        "summary": "As hype around Grand Theft Auto 6 grows, the game's community is discussing a YouTuber who recently tried walking into developer Rockstar's offices — prompting an intervention by the police.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Stuntman Series Returns After Almost 20 Years, With Fast & Furious, Back to the Future, and More",
+        "link": "https://www.ign.com/articles/the-stuntman-series-returns-after-almost-20-years-with-fast-furious-back-to-the-future-and-more",
+        "summary": "Stuntman is back from the dead with Stuntman: Hollywood, which brings real movies to the classic action-driving series.",
+        "source": "IGN News"
+      },
+      {
+        "title": "John Blanche, the Legendary Illustrator Who Defined the Look of Warhammer 40,000, Has Died",
+        "link": "https://www.ign.com/articles/john-blanche-the-legendary-illustrator-who-defined-the-look-of-the-warhammer-40000-setting-has-died",
+        "summary": "John Blanche, the legendary illustrator whose art helped define the grimdark Warhammer 40,000 setting, has died.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Confirms PS2 Games Coming to the PlayStation Plus Classics Catalog Over the Next Few Months",
+        "link": "https://www.ign.com/articles/sony-confirms-ps2-games-coming-to-the-playstation-plus-classics-catalog-over-the-next-few-months",
+        "summary": "During the State of Play showcase, Sony revealed three classic PS2 games coming to PlayStation Plus Premium over the next three months, as well as a day one Game Catalog title for PlayStation 5.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Stargate Veteran Disputes Reason for Amazon's Shock Cancellation of Series Revival",
+        "link": "https://www.ign.com/articles/stargate-veteran-disputes-reason-for-amazons-shock-cancellation-of-series-revival",
+        "summary": "As the dust settles on Amazon's shock decision to scrap its in-development Stargate revival series, its consulting producer has disputed a claim that the show would not have appealed to a broad enough audience.",
+        "source": "IGN News"
+      },
+      {
+        "title": "God of War Laufey Isn't a Prequel — Here's Why",
+        "link": "https://www.ign.com/articles/god-of-war-laufey-isnt-a-prequel-heres-why",
+        "summary": "Cory Barlog tells IGN why God of War Laufey is set in parallel to the timeline of God of War 2018 and Ragnarok rather than being a prequel.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 5 Actor Ned Luke Celebrates as Swatting Perpetrator Sentenced to 4 Years",
+        "link": "https://www.ign.com/articles/gta-5-actor-ned-luke-celebrates-as-swatting-perpetrator-sentenced-to-4-years",
+        "summary": "Grand Theft Auto 5 actor Ned Luke has celebrated the sentencing of an online swatter who will now serve four years in jail.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+        "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+        "summary": "The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+        "link": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+        "summary": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+        "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+        "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Defense tech is flooded with money, but who’s built to last?",
+        "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+        "summary": "Defense tech is red hot right now. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S. government is proposing a 40% increase in defense budget. A wave of new startups is chasing those government contracts, but according to Ross Fubini, the venture in…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber to put 500 data-collection vehicles on the road this year",
+        "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
+        "summary": "The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+        "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+        "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it",
+        "link": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
+        "summary": "Meta appears to have listened to the Supernatural users who protested the app's sad fate after sweeping layoffs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
+        "link": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/",
+        "summary": "Substack's new Reply Rules feature is currently available for all English-language publications and is designed to give creators greater control over how their audiences respond.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+        "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+        "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
+        "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+        "summary": "The breach at wearable ring maker Ultrahuman stemmed from credentials stolen from a malware-infected employee laptop.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
+        "link": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/",
+        "summary": "Carvana was granted a warrant to buy shares in Slate last year, according to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily invested in both companies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+        "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+        "summary": "Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accounts.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon will show AI product images when you search for some reason",
+        "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+        "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
+        "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+        "summary": "The prominent AI music-generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+        "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+        "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Cardano Falls 10% In Selloff",
+        "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4725573",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "BNB Chain, CoinMarketCap, and Trust Wallet Launch $36,000 BNB HACK: AI Trading Agent Edition",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bnb-chain-coinmarketcap-and-trust-wallet-launch-36000-bnb-hack-ai-trading-agent-edition-4724234",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

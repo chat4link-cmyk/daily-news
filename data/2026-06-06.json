@@ -1,0 +1,284 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T12:10:08.755263+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+        "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Are AI chatbots making us lose control of our brains?",
+        "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+        "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital techno…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Meta hack shows there’s more to AI security than Mythos",
+        "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+        "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "This is your laptop… on AI",
+        "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+        "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way o…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "New York lawmakers pass one-year ban on new data centers",
+        "link": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+        "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the e…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "This AI startup says it can tell if a script will make a hit film",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+        "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Has Microsoft Lost Its Mojo (Again)?",
+        "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+        "summary": "Microsoft’s AI products aren’t selling, and Github’s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+        "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+        "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+        "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+        "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI Has Come for Serif Fonts",
+        "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
+        "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Fortnite Live Event Stuns Fans as The Rock's Fate Is Revealed and Ben Starr's Character Is Unmasked in Shock Twist",
+        "link": "https://www.ign.com/articles/fortnite-live-event-stuns-fans-as-the-rocks-fate-is-revealed-and-ben-starrs-character-is-unmasked-in-shock-twist",
+        "summary": "Fortnite has just concluded a stunning live event that saw the game's storyline propelled forward in dramatic style.",
+        "source": "IGN News"
+      },
+      {
+        "title": "God of War Laufey Director 'Understands' Skepticism Following Reveal, but Hopes Fans Give It a Chance",
+        "link": "https://www.ign.com/articles/god-of-war-laufey-director-understands-skepticism-following-reveal-but-hopes-fans-give-it-a-chance",
+        "summary": "God of War Laufey's director, Ariel Lawrence, has addressed \"skepticism\" following the game's reveal, hoping fans give it a chance.",
+        "source": "IGN News"
+      },
+      {
+        "title": "007 First Light Reveals Road Map; Story DLC, New Game+, and More Coming Soon",
+        "link": "https://www.ign.com/articles/007-first-light-reveals-road-map-story-dlc-new-game-and-more-coming-soon",
+        "summary": "007 First Light is getting an impressive amount of post-launch support, according to the game's year one road map.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Telltale CEO Explains Why The Wolf Among Us 2 Has Taken So Long, And What Happened With That Split With Dispatch Maker Ad Hoc",
+        "link": "https://www.ign.com/articles/telltale-ceo-explains-why-the-wolf-among-us-2-has-taken-so-long-and-what-happened-with-that-split-with-dispatch-maker-ad-hoc",
+        "summary": "IGN interviews Telltale Games CEO Jamie Ottilie to discover why the company restarted work on The Wolf Among Us 2, what became of its partnership with Dispatch maker AdHoc, and whether we'll ever see a Wolf Among Us 3.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Wolf Among Us 2 Now Due in 2027, Following Remaster of Telltale's Original Game",
+        "link": "https://www.ign.com/articles/the-wolf-among-us-2-now-due-in-2027-following-remaster-of-telltales-original-game",
+        "summary": "Telltale Games will finally launch The Wolf Among Us 2 in 2027, after a remaster of the beloved original game arrives later this year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Super Yooka-Laylee Kart Announced, With SNES Mario Kart Vibes",
+        "link": "https://www.ign.com/articles/super-yooka-laylee-kart-announced-with-snes-mario-kart-vibes",
+        "summary": "Playtonic Games has announced Super Yooka-Laylee Kart, a retro arcade racer fuelled by a new revenge mechanic, as well as SNES vibes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "First Alien: Isolation 2 Footage Revealed at Summer Game Fest 2026",
+        "link": "https://www.ign.com/articles/first-alien-isolation-2-footage-revealed-at-summer-game-fest-2026",
+        "summary": "The first trailer for Alien: Isolation 2 has been show at SGF 2026, revealing a new planet and the return of the galaxy's deadliest predator.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Among Us Animated Series Shadow Drops on Paramount+",
+        "link": "https://www.ign.com/articles/among-us-animated-series-shadow-drops-on-paramount",
+        "summary": "All 10 episodes of the Among Us animated series have dropped on Paramount+.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Final Fantasy VII Remake Part 3 Called Revelation, Out Simultaneously Across All Platforms",
+        "link": "https://www.ign.com/articles/final-fantasy-vii-remake-part-3-called-revelation-out-simultaneously-across-all-platforms",
+        "summary": "Square Enix has finally revealed Final Fantasy VII Remake part three, called Revelation. It’s due out simultaneously across PlayStation 5, Xbox Series X and S, and PC.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Palworld Is Finally Getting Its Full 1.0 Release, Coming in July",
+        "link": "https://www.ign.com/articles/palworld-is-finally-getting-its-full-10-release-coming-in-july",
+        "summary": "Palworld has been in early access for over two years and come July 10, 2026, it'll have its official Palworld 1.0 release.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Stellar Blade Blood Rain Revealed With Debut Trailer",
+        "link": "https://www.ign.com/articles/stellar-blade-bloodrain-revealed-with-debut-trailer",
+        "summary": "Shift Up has announced Stellar Blade 2 alongside a debut trailer at Summer Game Fest 2026.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Maverick Game’s Open-World Racer Clutch Is Set on the French Riviera, Features Monaco",
+        "link": "https://www.ign.com/articles/maverick-games-open-world-racer-clutch-is-set-on-the-french-riviera-features-monaco",
+        "summary": "Location, cast, and story revealed for open-world action-driving game, Clutch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hot Wheels Infinite Rush Takes the Racing Game Series Open World",
+        "link": "https://www.ign.com/articles/hot-wheels-infinite-rush-takes-the-racing-game-series-open-world",
+        "summary": "Hot Wheels Infinite Rush is the next game in the Hot Wheels racing series, and this time it’s going open world.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mafia: The Old Country Is Getting a Story DLC Very Soon",
+        "link": "https://www.ign.com/articles/mafia-the-old-country-is-getting-a-story-dlc-very-soon",
+        "summary": "Mafia: The Old Country is getting a surprise story expansion this August.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Assassin's Creed Co-Creator Re-Reveals 1666 Amsterdam, 30-Minute Demo Playable Now",
+        "link": "https://www.ign.com/articles/assassins-creed-co-creator-re-reveals-1666-amsterdam-30-minute-demo-playable-now",
+        "summary": "Once-abandoned historical action adventure 1666 Amsterdam has been re-announced at Summer Game Fest by Assassin's Creed co-creator Patrice Désilets.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+        "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+        "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Founders share VC horror stories, and some are naming names",
+        "link": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+        "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+        "link": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+        "summary": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Startup Battlefield 200 applications officially close in 3 days",
+        "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+        "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google will pay SpaceX $920M per month for compute",
+        "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+        "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM’s electric future depends on a new battery — and this facility",
+        "link": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
+        "summary": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
+        "link": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
+        "summary": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The most interesting startups right now want to get you off your phone",
+        "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+        "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going vir…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Supabase doubles valuation to $10B in 8 months",
+        "link": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+        "summary": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+        "link": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
+        "summary": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+        "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+        "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
+        "link": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
+        "summary": "The space agency said Roscosmos discovered new leaks in the Russian service module.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+        "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+        "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+        "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+        "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mira Murati steps back into the spotlight, carefully",
+        "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+        "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Crypto stocks fall as bitcoin drops to lowest level since October",
+        "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-fall-as-bitcoin-drops-to-lowest-level-since-october-93CH-4728998",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "BTCC Exchange Turns 15: Kicking Off the Anniversary with The World Cup Showdown",
+        "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-turns-15-kicking-off-the-anniversary-with-the-world-cup-showdown-4728615",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Crude oil slides ahead of the weekend as traders bet against renewed U.S.-Iran fighting",
+        "link": "https://seekingalpha.com/news/4601198-crude-oil-slides-ahead-of-weekend-as-traders-bet-against-renewed-us-iran-fighting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Sell-the-news hits space stocks after Starfighters Space Russell 3000 entry",
+        "link": "https://seekingalpha.com/news/4601184-sell-the-news-hits-space-stocks-after-starfighters-space-russell-3000-entry?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Gold plunges, nearly wiping out YTD gains, as U.S. jobs data raises rate-hike bets",
+        "link": "https://seekingalpha.com/news/4601189-gold-plunges-nearly-wiping-out-ytd-gains-as-us-jobs-data-raises-rate-hike-bets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

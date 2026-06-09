@@ -1,0 +1,290 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T12:14:04.240319+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+        "link": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Why this year’s World Cup ball may not fly as far",
+        "link": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+        "summary": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball with …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Apple is using AI to fix Safari’s extension problem",
+        "link": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+        "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a dem…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI files for IPO, following Anthropic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+        "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Amazon is launching AI-generated custom merch",
+        "link": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+        "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+        "link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+        "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri. Apple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+        "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+        "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to int…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+        "link": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+        "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "WWDC 2026: How to watch and what to expect",
+        "link": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+        "summary": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event could also include a major overhaul for Siri. Here's how you can watch along live. When WWDC will ha…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+        "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+        "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Apple’s New Siri AI Is Ready to Get Personal",
+        "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+        "summary": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+        "link": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+        "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+        "link": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+        "summary": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether it’s coming back.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+        "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+        "summary": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Call of Duty: Black Ops 1 and 2 Ports Have Apparently Leaked",
+        "link": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-ports-have-apparently-leaked",
+        "summary": "It would seem as though Call of Duty: Black Ops 1 and 2 may be coming to modern platforms.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Helldivers Movie Loses Jason Momoa as Its Star",
+        "link": "https://www.ign.com/articles/helldivers-movie-loses-jason-momoa-as-its-star",
+        "summary": "Jason Momoa has exited the live-action Helldivers movie.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Halo: Campaign Evolved Collector's Edition Includes a Relic of a Bygone Gaming Era",
+        "link": "https://www.ign.com/articles/halo-campaign-evolved-collectors-edition-includes-a-relic-of-a-bygone-gaming-era",
+        "summary": "Halo: Campaign Evolved isn't just remaking a 25 year old game, it's remaking the entire era it comes from.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Says Gears of War: E-Day PS5 Port Was Not Pulled 'Last-Minute' After Art With PS5 Logo Leaks",
+        "link": "https://www.ign.com/articles/xbox-says-gears-of-war-e-day-ps5-port-was-not-pulled-last-minute-after-art-with-ps5-logo-leaks",
+        "summary": "Xbox says Gears of War: E-Day was not pulled from PlayStation \"last-minute\" after the company accidentally published an image showing Gears of War: E-Day with PS5 as one of its launch platforms.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Is Unable to Meet Demand for New Consoles, Rethinking Approach to Project Helix",
+        "link": "https://www.ign.com/articles/xbox-is-unable-to-meet-demand-for-new-consoles-rethinking-approach-to-project-helix",
+        "summary": "Xbox isn't able to keep up with the demand for new consoles as a result of component shortages, which is prompting Microsoft to rethink the strategy for its next console.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Game Pass Shed 'Millions of Subscribers' Following October 2025 Price Hike",
+        "link": "https://www.ign.com/articles/xbox-game-pass-shed-millions-of-subscribers-following-october-2025-price-hike",
+        "summary": "Microsoft says Xbox Game Pass lost \"millions of subscribers\" after it increased prices by 50% with a price hike in October 2025.",
+        "source": "IGN News"
+      },
+      {
+        "title": "WWDC 2026: Everything Announced at Apple's Annual Developers Conference",
+        "link": "https://www.ign.com/articles/wwdc-2026-everything-announced-at-apples-annual-developers-conference",
+        "summary": "Apple's WWDC conference gives us a sneak peek at the updates coming to iOS, macOS, watchOS and more. What will Apple have in store for 2026?",
+        "source": "IGN News"
+      },
+      {
+        "title": "Masters of the Universe Struggles at the Box Office With $54 Million Debut",
+        "link": "https://www.ign.com/articles/masters-of-the-universe-struggles-at-the-box-office-with-54-million-debut",
+        "summary": "He-Man struggled to find an audience in theaters, as Masters of the Universe pulled in a disappointing $54 million at the box office in its opening weekend.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Official Halo: Campaign Evolved Cinematic Story Trailer Marked 'Captured on PS5 Pro' — So What Happened?",
+        "link": "https://www.ign.com/articles/official-halo-campaign-evolved-cinematic-story-trailer-marked-captured-on-ps5-pro-so-what-happened",
+        "summary": "Microsoft has published a new Halo: Campaign Evolved cinematic story trailer that, oddly, is labelled as having been captured on PS5 Pro.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man: Brand New Day Runtime Revealed, And It's One of The Longest Marvel Films Ever",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-runtime-revealed-and-its-one-of-the-longest-marvel-films-ever",
+        "summary": "AMC Theatres has revealed the runtime of Spider-Man: Brand New Day — which is set to be the longest Spidey film ever.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Only 2 Games Are Brave Enough to Go Up Against the Might of GTA 6 This November",
+        "link": "https://www.ign.com/articles/only-2-games-are-brave-enough-to-go-up-against-the-might-of-gta-6-this-november",
+        "summary": "The video game industry is running scared of GTA 6. Given how packed September is, that much is clear. But there are two video games that are throwing caution to the wind and braving the behemoth that is Rockstar’s next epic — and they’re unlikely comrades in arms indeed.",
+        "source": "IGN News"
+      },
+      {
+        "title": "France Slaps Nintendo With $46 Million Fine Over Switch Joy-Con Drift",
+        "link": "https://www.ign.com/articles/france-slaps-nintendo-with-46-million-fine-over-switch-joy-con-drift",
+        "summary": "Nintendo must pay a €35 million ($46 million) penalty in France, after being sanctioned by the country's consumer rights office over the issue of Joy-Con drift.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Netflix Reveals the Real Dog Playing Scooby-Doo in Upcoming Origins Series",
+        "link": "https://www.ign.com/articles/netflix-scooby-doo-origins-series-real-dog",
+        "summary": "Netflix has revealed the first look at the real dog portraying Scooby-Doo in their upcoming streaming series Scooby-Doo: Origins. This is the first time in the franchise's history that an actual canine plays the role.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Japan Gets Dating Sim Where Hot Anime Guys Turn Into Swole Cockroaches",
+        "link": "https://www.ign.com/articles/japan-gets-dating-sim-where-hot-anime-guys-turn-into-swole-cockroaches",
+        "summary": "A Japanese company has released a promotional dating sim with a difference: your love interests are actually sneaky cockroaches.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Direct Announced for This Week, as Fans Expect Huge Switch 2 Reveals",
+        "link": "https://www.ign.com/articles/nintendo-direct-announced-for-this-week-as-fans-expect-huge-switch-2-reveals",
+        "summary": "Nintendo has announced its next Nintendo Direct broadcast, which will stream online later this week.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+        "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+        "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+        "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+        "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+        "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+        "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+        "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+        "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI files confidentially for IPO, following Anthropic",
+        "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+        "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple plays catch-up at WWDC",
+        "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+        "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple bets cheaper AI will woo small developers",
+        "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+        "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
+        "link": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
+        "summary": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+        "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "summary": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+        "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+        "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
+        "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
+        "summary": "The Trump administration released the updated version of the list four months ago and then quickly pulled it without explaining why",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+        "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+        "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+        "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+        "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s Image Playground doesn’t suck anymore",
+        "link": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+        "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s Photos app is getting new AI editing features",
+        "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+        "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
+        "link": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html",
+        "summary": "While the central bank's monthly survey showed the inflation outlook mostly unchanged, the general perception of conditions deteriorated.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Vail projects fiscal 2026 resort EBITDA of $735M-$755M amid spring pass units down 10%",
+        "link": "https://seekingalpha.com/news/4601616-vail-projects-fiscal-2026-resort-ebitda-of-735m-755m-amid-spring-pass-units-down-10-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

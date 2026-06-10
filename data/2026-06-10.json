@@ -1,0 +1,302 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T12:24:48.156876+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+        "link": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted that, one day,…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Learning to lead in a hybrid human-AI enterprise",
+        "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+        "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinati…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+        "link": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+        "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral “reprogramming” drug as part of a $101 milli…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Five things you need to know about AI",
+        "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+        "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "I tried Siri AI, and so far it actually works",
+        "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+        "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+        "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+        "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its curr…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+        "link": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+        "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic releases its first Mythos-class model Claude Fable",
+        "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+        "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple is embracing the fantasy of AI photo editing",
+        "link": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+        "summary": "Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accurately capture reality. At WWDC 2026, the company announced a host of new AI-powered photo editing tools.…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+        "link": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+        "summary": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete tasks, rather than do their…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple’s AI promises are finally, almost, sort of here",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+        "summary": "Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be \"introducing new technologies and innovations that push the limits on what's possible.\" But its slew of announcements - centered on a brand-new \"Siri AI\" - had more to do with catch…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple’s best AI idea looks a lot like vibe coding",
+        "link": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+        "summary": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation tools. The company spent most of its WWDC keynote playing catch-up with the state of the AI art, ann…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple’s AI pitch will live or die by its privacy promise",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+        "summary": "As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do things right. In this case, \"right\" means \"with more privacy than anyone else.\" It's a good pitch - …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Amazon employees ask Seattle to put the brakes on new data centers",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
+        "summary": "On Tuesday, the Seattle City Council will vote on whether to enact a one-year moratorium on new data centers - just two months after several companies proposed building five large-scale centers in the city. Among the moratorium's fiercest supporters are current employees from the city's biggest tech…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+        "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+        "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Fire Emblem: Fortune's Weave Sets Standard Physical Price at $80",
+        "link": "https://www.ign.com/articles/fire-emblem-fortunes-weave-sets-standard-physical-price-at-80",
+        "summary": "A launch date for Fire Emblem: Fortune's Weave has finally been revealed – and so has its USD $80 price tag.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Will 'Try and Do More' Exclusives Once the 'Business is Healthy', Says Asha Sharma",
+        "link": "https://www.ign.com/articles/xbox-will-try-and-do-more-exclusives-once-the-business-is-healthy-says-asha-sharma",
+        "summary": "Xbox's future with exclusivity may be conditional.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Deltarune Chapter 5 Release Date Revealed as Toby Fox Offers Promising Update for the Future",
+        "link": "https://www.ign.com/articles/deltarune-chapter-5-release-date-revealed-as-toby-fox-offers-promising-update-for-the-future",
+        "summary": "Deltarune Chapter 5 finally has a release date, and Undertale mastermind Toby Fox has used the opportunity to give fans a progress update on Chapter 6.",
+        "source": "IGN News"
+      },
+      {
+        "title": "YouTuber Reckless Ben Says He Will Go to Jail If He Continues to Talk About LEGO Reseller Bricks & Minifigs",
+        "link": "https://www.ign.com/articles/youtuber-reckless-ben-says-he-will-go-to-jail-if-he-continues-to-talk-about-lego-reseller-bricks-minifigs",
+        "summary": "Reckless Ben claims he is now legally forbidden from investigating LEGO reseller Bricks & Minifigs, or else he will go to jail.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jujutsu Kaisen Rumble: Survivaton Revealed as Unexpected Collab From the Vampire Survivors Team",
+        "link": "https://www.ign.com/articles/jujutsu-kaisen-rumble-survivaton-revealed-as-unexpected-collab-from-the-vampire-survivors-team",
+        "summary": "Vampire Survivors developer Poncle is mixing its laidback shoot-'em-up gameplay with one of the most popular anime out there for a new game called Jujutsu Kaisen Rumble: Survivaton.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Destiny 2 Hits Highest Player Count in Two Years Following Final Update's Release, Shatters Marathon's All-Time Peak",
+        "link": "https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak",
+        "summary": "Destiny 2 is seeing a massive resurgence with the release of its final update.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Internet Reacts to The Legend of Zelda: Ocarina of Time Remake",
+        "link": "https://www.ign.com/articles/the-internet-reacts-to-the-legend-of-zelda-ocarina-of-time-remake",
+        "summary": "There is no doubt The Legend of Zelda: Ocarina of Time remake is the biggest announcement coming out of today's Nintendo Direct, and fans have plenty to say about it.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Kingdom Hearts 4 Gameplay Gets Surprise Reveal at June 2026 Nintendo Direct",
+        "link": "https://www.ign.com/articles/kingdom-hearts-4-gameplay-gets-surprise-reveal-at-june-2026-nintendo-direct",
+        "summary": "Kingdom Hearts 4 made a surprise appearance at the June 2026 Nintendo Direct to reveal a first look at gameplay.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Rollcage Successor Grip Returns With Sequel, Grip XR",
+        "link": "https://www.ign.com/articles/rollcage-successor-grip-returns-with-sequel-grip-xr",
+        "summary": "Developer Caged Element seeking support for sequel via Kickstarter, demo available now on Steam.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Legend of Zelda: Ocarina of Time Remake Revealed for Nintendo Switch 2",
+        "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-revealed-for-nintendo-switch-2",
+        "summary": "The rumors were true: Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2 is real.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Duskbloods Trailer Reveals Closed Network Test for Summer 2026",
+        "link": "https://www.ign.com/articles/the-duskbloods-trailer-reveals-closed-network-test-for-summer-2026",
+        "summary": "FromSoftware re-emerged at the June 2026 Nintendo Direct to reveal a quick look at its new multiplayer game, The Duskbloods, promising to launch a closed network test this summer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xenoblade Genesis Revealed for Nintendo Switch 2 With 2027 Release Window",
+        "link": "https://www.ign.com/articles/xenoblade-genesis-revealed-for-nintendo-switch-2-with-2027-release-window",
+        "summary": "Nintendo has revealed that the next Xenoblade game is called Xenoblade Genesis, and it’s coming to Nintendo Switch 2 in 2027.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Fox Demo Available Later Today",
+        "link": "https://www.ign.com/articles/star-fox-demo-announced",
+        "summary": "A demo for the new Star Fox remake will soon be available.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Final Fantasy Resonance Revealed, A New HD-2D Turn-Based RPG Coming This Year",
+        "link": "https://www.ign.com/articles/final-fantasy-resonance-revealed-a-new-hd-2d-turn-based-rpg-coming-this-year",
+        "summary": "The first HD-2D entry for Final Fantasy brings back turn-based combat and is coming in October this year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Switch Sports Resort Announced, Releasing This October",
+        "link": "https://www.ign.com/articles/nintendo-switch-sports-resort-announced-releasing-this-october",
+        "summary": "Nintendo Switch Sports Resort is coming to Nintendo Switch 2 this October.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
+        "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
+        "summary": "The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google just fired a warning shot in the AI subscription price wars",
+        "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+        "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+        "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+        "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM joins race to build batteries for AI data centers and the grid",
+        "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+        "summary": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hey, Siri, here’s what I actually want from AI",
+        "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+        "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+        "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+        "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Can tech companies learn to love cheaper AI models?",
+        "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+        "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+        "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+        "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+        "link": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
+        "summary": "Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+        "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+        "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian starts deliveries of its all-important R2 SUV",
+        "link": "https://techcrunch.com/2026/06/09/rivian-starts-deliveries-of-its-all-important-r2-suv/",
+        "summary": "Founder and CEO RJ Scaringe has called it \"maybe the most important thing we've launched to date.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s foldable iPhone could be just around the corner",
+        "link": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
+        "summary": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "It’s not FAANG anymore. It’s MANGOS.",
+        "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+        "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
+        "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+        "summary": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "iOS 27 features we didn’t see onstage",
+        "link": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
+        "summary": "While iOS 27 isn't bringing major changes, it's still got many small features that could improve everyday usage for iPhone users.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "The May inflation numbers are due out Wednesday morning. Here's what to expect",
+        "link": "https://www.cnbc.com/2026/06/09/the-may-inflation-numbers-are-due-out-wednesday-morning-heres-what-to-expect.html",
+        "summary": "If the Wall Street consensus is correct, the consumer price index is expected to show inflation running at a 4.2% annual rate.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Analyst sees Bitcoin hitting $227K-$378K amid monetary scarcity, gold flows",
+        "link": "https://www.investing.com/news/cryptocurrency-news/analyst-sees-bitcoin-hitting-227k378k-amid-monetary-scarcity-gold-flows-4733694",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Rockwell Automation declares $1.38 dividend; approves $1B for stock repurchase",
+        "link": "https://seekingalpha.com/news/4602019-rockwell-automation-declares-138-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

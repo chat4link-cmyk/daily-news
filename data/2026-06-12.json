@@ -1,0 +1,290 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T12:50:12.512392+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+        "link": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+        "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Job titles of the future: Nature’s drug designer",
+        "link": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+        "summary": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use.  For Merck, he’d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he was …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Inside soccer’s data renaissance",
+        "link": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+        "summary": "Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally send the ball all the way down the pitch and right out of bounds on the opponent’s end. Casual fans might scratch their heads. Where’s the logic in surrendering possession seconds into a game? If you were…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Why China is betting on big nuclear reactors",
+        "link": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+        "summary": "It’s a tale of two nuclear industries. In China, large reactors are coming together at a stunning pace. The country has nearly doubled its nuclear fleet since 2016, reaching nearly 60 gigawatts of total power capacity. The new facilities are nearly all gigawatt-scale pressurized-water reactors. Mean…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+        "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+        "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amaz…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Deezer launches an AI music detector for other streaming services",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+        "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own det…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
+        "link": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
+        "summary": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
+        "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+        "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+        "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+        "link": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+        "summary": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Forza Support Team Recommends Xbox Players Disable Quick Resume for Forza Horizon 6",
+        "link": "https://www.ign.com/articles/forza-support-team-recommends-xbox-players-disable-quick-resume-for-forza-horizon-6",
+        "summary": "Lost save file issues in Forza Horizon 6 are currently being investigated but, for now, the Forza support team has a list of tips to hopefully avoid being struck with a lost save file.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Valor Mortis Gets Short Delay to Avoid September's Onslaught of Game Releases",
+        "link": "https://www.ign.com/articles/valor-mortis-gets-short-delay-to-avoid-septembers-onslaught-of-game-releases",
+        "summary": "Valor Mortis has conceded defeat when it comes to the September gaming arms race and announced a short delay.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Yellowstone, Tulsa King Video Games Are \"Priorities\" for Paramount Games",
+        "link": "https://www.ign.com/articles/yellowstone-tulsa-king-video-games-are-priorities-for-paramount-games",
+        "summary": "Paramount Games is extremely interested in making video games based on Taylor Sheridan's various TV shows, including Yellowstone and The Tulsa King.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jason Momoa Won't Make a Lobo Movie Unless It's R-Rated",
+        "link": "https://www.ign.com/articles/jason-momoa-wont-make-a-lobo-movie-unless-its-r-rated",
+        "summary": "Jason Momoa has one condition for a Lobo solo movie: It must be rated R.",
+        "source": "IGN News"
+      },
+      {
+        "title": "X-Men Star Tyler Mane Diagnosed With Rare Form of Breast Cancer",
+        "link": "https://www.ign.com/articles/x-men-star-tyler-mane-diagnosed-with-rare-form-of-breast-cancer",
+        "summary": "X-Men actor Tyler Mane has been diagnosed with a rare form of breast cancer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Last of Us Season 3 Casts Peter Sarsgaard as an Original Character, Unseen in the Games",
+        "link": "https://www.ign.com/articles/the-last-of-us-season-3-casts-peter-sarsgaard-as-an-original-character-unseen-in-the-games",
+        "summary": "Peter Sarsgaard (The Batman) is joining the cast of The Last of Us Season 3 as the leader of the Seraphites.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Stranger Than Heaven Director Addresses Concerns Over Tupac's Inclusion",
+        "link": "https://www.ign.com/articles/stranger-than-heaven-director-addresses-concerns-over-tupacs-inclusion",
+        "summary": "The director of Stranger Than Heaven has addressed concerns around the casting of Tupac Shakur.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Boss Asha Sharma Asked Her Chief Strategy Officer if The Brand Was 'Fixable' — Here's His Response",
+        "link": "https://www.ign.com/articles/xbox-boss-asha-sharma-asked-her-chief-strategy-officer-if-the-brand-was-fixable-heres-his-response",
+        "summary": "Xbox's new chief strategy officer Matthew Ball says he was asked a direct question about the brand's future by recently-installed CEO Asha Sharma: \"Is it fixable?\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Award-Winning Adventure Game The Drifter Will Arrive on Nintendo Switch Later This Month",
+        "link": "https://www.ign.com/articles/award-winning-adventure-game-the-drifter-will-arrive-on-nintendo-switch-later-this-month",
+        "summary": "The Drifter is coming to both Nintendo Switch and Nintendo Switch 2 in June, 2026.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ninja Scroll Gets Exclusive 4K Restoration and New Trailer Ahead of Theatrical Re-Release",
+        "link": "https://www.ign.com/articles/ninja-scroll-4k-restoration-trailer-release-news",
+        "summary": "IGN can exclusively reveal that Iconic Events Releasing and AMC Global Media’s HIDIVE will release a new 4K restoration of the critically acclaimed samurai film Ninja Scroll in North American theaters in October.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dead by Daylight the 'Most-Played Horror Game in History,' Its Developer Has Said",
+        "link": "https://www.ign.com/articles/dead-by-daylight-the-most-played-horror-game-in-history-its-developer-has-said",
+        "summary": "Dead by Daylight is “the most played horror game in history,” developer Behavior Interactive has said ahead of its 10th birthday.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Avatar: The Last Airbender Toph Actress Wore Contacts That Completely Blocked Her Vision on Set",
+        "link": "https://www.ign.com/articles/avatar-the-last-airbender-toph-actress-wore-contacts-that-completely-blocked-her-vision-on-set",
+        "summary": "Netflix's Avatar: The Last Airbender used contacts to simulate blindness for Toph's actress, Miya Cech.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Doctor Who Likely Now Off Air For Years, as Report Suggests Production Companies Cautious About Continuing Series",
+        "link": "https://www.ign.com/articles/doctor-who-likely-now-off-air-for-years-as-report-suggests-production-companies-cautious-about-continuing-series",
+        "summary": "Doctor Who is unlikely to return on-screen for up to five years, a new report has suggested.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Penguin Is in The Batman 2 for Just 2 Scenes, Colin Farrell Reveals Script Impressions",
+        "link": "https://www.ign.com/articles/penguin-is-in-the-batman-2-for-just-2-scenes-colin-farrell-reveals-script-impressions",
+        "summary": "The Batman 2 remains shrouded in mystery, but based on comments from Colin Farrell, who has read the entire script, fans can expect something truly dark. Just don't go in expecting Penguin to play a major role in the story.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Trek: Shadow Frontier — Paramount Says 'The Goal Is for Bloober to Make the Best Star Trek Game of All Time'",
+        "link": "https://www.ign.com/articles/star-trek-shadow-frontier-paramount-says-the-goal-is-for-bloober-to-make-the-best-star-trek-game-of-all-time",
+        "summary": "Paramount has high hopes for Star Trek: Shadow Frontier. It's aiming for it to be the best Star Trek video game of all time.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+        "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+        "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+        "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+        "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+        "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+        "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+        "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+        "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+        "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+        "summary": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+        "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+        "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bluesky launches group chats, as company shifts focus to community features",
+        "link": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
+        "summary": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+        "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+        "summary": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Coinbase’s new tool can help agents trade and pay for premium research",
+        "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+        "summary": "Coinbase's agent can use x402 protocol to get access to data and APIs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
+        "link": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
+        "summary": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+        "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+        "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These are the countries moving to ban social media for children",
+        "link": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
+        "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
+        "link": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
+        "summary": "Members of the program, called \"Waymo Premier,\" will have to pony up $29.99 per month.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pool’s new app turns your screenshots into something useful",
+        "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+        "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
+        "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+        "summary": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Wholesale prices rose 1.1% in May, more than expected, on surge in energy",
+        "link": "https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html",
+        "summary": "The producer price index was expected to increase 0.7% in May, according to the Dow Jones consensus forecast.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+        "link": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html",
+        "summary": "The European Central Bank also raised its inflation forecasts and cut its growth outlook.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Energy prices take center stage as the ECB prepares to decide on rates",
+        "link": "https://www.cnbc.com/2026/06/10/ecb-rate-hike-energy-prices-inflation.html",
+        "summary": "The ECB is expected to raise rates by 25 basis points as higher energy prices drive inflation and raise concerns about broader price pressures.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin squeezes resistance in downtrend: Live levels",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-63970-resistance-in-vshaped-rally-live-levels-93CH-4729724",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

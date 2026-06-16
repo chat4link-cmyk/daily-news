@@ -1,0 +1,284 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T13:19:52.265910+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Why do South Koreans love AI so much?",
+        "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face an…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+        "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+        "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: cutting AC emissions, and nature’s drug designer",
+        "link": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, air-conditio…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+        "link": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+        "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 p…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Inside the fight over Claude Mythos 5",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+        "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Myt…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Facebook’s new AI Mode search gets its info from public posts",
+        "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+        "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including p…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+        "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable 5’s capabilities ex…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+        "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block access for all foreign nationals, including its own employees. Abroad, the incident offered a sober…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Big Tech’s desperate last push at AI regulation",
+        "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+        "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
+        "link": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+        "summary": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay Area from Adam’s laptop in our podcast studio in New York and fly an indoor drone around our office…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit",
+        "link": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+        "summary": "In a bid to dismiss a lawsuit over xAI’s polluting gas turbines, the Justice Department claimed the company is integral to military operations—including the Iran War.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+        "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+        "summary": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+        "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+        "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+        "link": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+        "summary": "Rank One, whose board includes a former CIA deputy director and a former FBI science chief, supplied face recognition to Meta for internal development of its smart glasses app.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Obsession Director Curry Barker Says Gen Z Is 'Tired of Slop' and 'Will Show Up' for Good Movies",
+        "link": "https://www.ign.com/articles/obsession-director-curry-barker-says-gen-z-is-tired-of-slop-and-will-show-up-for-good-movies",
+        "summary": "Obsession director Curry Barker has said that, if there's anything he's learned in the last month, it's that \"Gen Z will show up\" to theaters if the films are good enough.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Harry Potter TV Series Casts Peter Serafinowicz in Role Not Featured in the Films",
+        "link": "https://www.ign.com/articles/harry-potter-tv-series-casts-peter-serafinowicz-in-role-not-featured-in-the-films",
+        "summary": "HBO's Harry Potter series has cast Peter Serafinowicz as Peeves the Poltergeist.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Why Turn-Based RPGs Are Resurging, According to Final Fantasy Resonance Devs",
+        "link": "https://www.ign.com/articles/why-turn-based-rpgs-are-resurging-according-to-final-fantasy-resonance-devs",
+        "summary": "When asked why turn-based RPGs are having a resurgence, Final Fantasy Resonance director says, \"A lot of us creators who had grown up playing turn-based games are now creating games ourselves.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Lord of the Rings: The Hunt for Gollum Adds Anya Taylor-Joy to Its Cast",
+        "link": "https://www.ign.com/articles/the-lord-of-the-rings-the-hunt-for-gollum-adds-anya-taylor-joy-to-cast",
+        "summary": "The Queen's Gambit star Anya Taylor-Joy has joined the cast of The Lord of the Rings: The Hunt for Gollum as a new elf character named Seren.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Treyarch Head Mark Gordon Steps Down from Call of Duty Studio",
+        "link": "https://www.ign.com/articles/treyarch-head-mark-gordon-steps-down-from-call-of-duty-studio",
+        "summary": "Treyarch studio head Mark Gordon will be leaving the studio after 22 years.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ninja Theory and Double Fine Also Reportedly Under Threat of Closure as Xbox Studios Fight for Survival",
+        "link": "https://www.ign.com/articles/ninja-theory-and-double-fine-also-reportedly-under-threat-of-closure-as-xbox-studios-fight-for-survival",
+        "summary": "Hellblade developer Ninja Theory and Psychonauts developer Double Fine are reportedly among the studios fighting to avoid closure as Microsoft makes significant cuts to its Xbox business.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Meccha Chameleon, the New Hide-and-Seek Paint Game, Reaches 2 Million Copies Sold",
+        "link": "https://www.ign.com/articles/meccha-chameleon-the-new-hide-and-seek-paint-game-reaches-2-million-copies-sold",
+        "summary": "Viral hide-and-seek paint game Meccha Chameleon is celebrating 2 million copies sold with the launch of a new map later this week.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Muppets Take the Marvel Universe: Marvel Reveals Kooky Crossover Special",
+        "link": "https://www.ign.com/articles/the-muppets-take-the-marvel-universe-marvel-reveals-kooky-crossover-special",
+        "summary": "Kermit and Spider-Man are about to become the newest Dynamic Duo, as Marvel Comics reveals The Muppets Take the Marvel Universe.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fox Is Buying Roku for $22 Billion",
+        "link": "https://www.ign.com/articles/fox-is-buying-roku-for-22-billion",
+        "summary": "Fox's approach to the streaming wars seems to be taking over the free streaming landscape.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Obsession Director Curry Barker Says He's in No Rush to Make Obsession 2",
+        "link": "https://www.ign.com/articles/obsession-director-curry-barker-says-hes-in-no-rush-to-make-obsession-2",
+        "summary": "As Obsession continues to control the box office after its fifth weekend, director Curry Barker has confirmed he has no intention of moving on to a sequel too quickly.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man: Brand New Day Official Synopsis Teases Mysterious New Villain That 'No One Can See'",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-official-synopsis-teases-mysterious-new-villain-that-no-one-can-see",
+        "summary": "Spider-Man: Brand New Day's official plot synopsis is now availale, and it teases the villain fans will see in the upcoming Marvel movie.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ubisoft Bids Farewell to Assassin's Creed Shadows With Final Story Update",
+        "link": "https://www.ign.com/articles/ubisoft-bids-farewell-to-assassins-creed-shadows-with-final-story-update",
+        "summary": "The final Assassin's Creed Shadows content update will add one last chapter to the story of Naoe and Yasuke, a tough new challenge mode, and let you dress up as Edward Kenway from Assassin's Creed Black Flag Resynced.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The First-Ever Official Studio Ghibli Store in the U.S. Is Opening Later This Month in Los Angeles",
+        "link": "https://www.ign.com/articles/exclusive-the-first-ever-official-studio-ghibli-store-in-the-us-is-opening-later-this-month-in-los-angeles",
+        "summary": "IGN can exclusively reveal that the official Studio Ghibli store, also known as Donguri Republic, is opening for the first time in the U.S. in Los Angeles on June 23. The shop will feature over 400 officially licensed products from such beloved films as My Neighbor Totoro, Kiki's Delivery Service, S…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Microsoft Has Reportedly Shut Down South of Midnight Developer Compulsion Games",
+        "link": "https://www.ign.com/articles/microsoft-has-reportedly-shut-down-south-of-midnight-developer-compulsion-games",
+        "summary": "Microsoft is reportedly planning to shut down South of Midnight and We Happy Few developer Compulsion Games.",
+        "source": "IGN News"
+      },
+      {
+        "title": "LEGO Reveals First Look at KPop Demon Hunters Set",
+        "link": "https://www.ign.com/articles/lego-reveals-first-look-at-kpop-demon-hunters-set",
+        "summary": "LEGO has revealed a first look at its upcoming KPop Demon Hunters set, featuring Derpy the supernatural blue tiger.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+        "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+        "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+        "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+        "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+        "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+        "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX is public: Everything you need to know post-IPO",
+        "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+        "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These are the countries moving to ban social media for children",
+        "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+        "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+        "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+        "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
+        "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
+        "summary": "SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "UK unveils sweeping social media ban for users under 16",
+        "link": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
+        "summary": "The ban would apply to a range of social media platforms, including Snapchat, TikTok, YouTube, Instagram, Facebook, and X.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+        "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+        "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+        "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+        "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fox to acquire Roku in $22B deal",
+        "link": "https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/",
+        "summary": "Fox says the deal will create the third-largest television company in the United States.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+        "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+        "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A satellite just learned to find things on its own — here’s what that means",
+        "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+        "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The AI layoff wave is becoming a powder keg",
+        "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+        "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Key mission for Europe's commercial space enterprise scrubbed again",
+        "link": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+        "summary": "Isar Aerospace is not hurting for money, but it is sorely lacking in the currency of flight experience.",
+        "source": "Ars Technica"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "RBA keeps benchmark rate unchanged at 4.35%, warns inflation risks remain elevated",
+        "link": "https://seekingalpha.com/news/4603856-rba-keeps-benchmark-rate-unchanged-at-435-warns-inflation-risks-remain-elevated?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

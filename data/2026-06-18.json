@@ -1,0 +1,314 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T12:48:46.604648+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: a reality check for geoengineering and the science of interoception",
+        "link": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate syste…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Entrepreneurs in Nairobi make the case for going solar",
+        "link": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+        "summary": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+        "link": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+        "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you c…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Anthropic got hit by export rules nobody understands",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+        "summary": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 f…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Two-thirds of Americans think AI is advancing too quickly",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+        "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+        "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+        "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
+        "link": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
+        "summary": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computing into the world\" and \"make it more human.\" He positioned them as a device to h…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI search grounded in Facebook posts? What could go wrong?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+        "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google’s first smart speaker in six years arrives next week",
+        "link": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
+        "summary": "Google's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has changed hardware-wise in the nine months since the $99 speaker was announced. It has the same sligh…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The next humanoid robot might not look human at all",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+        "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+        "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+        "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+        "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+        "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+        "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+        "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
+        "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
+        "summary": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Reality Series Survivor Is Spawning an Animated Movie Featuring Animal Contestants",
+        "link": "https://www.ign.com/articles/reality-series-survivor-is-spawning-an-animated-movie-featuring-animal-contestants",
+        "summary": "Paramount Animation is developing a big screen movie based on long-running reality TV juggernaut Survivor, with host Jeff Probst producing.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel's Spider-Man 2 Is Adding New Suit from Brand New Day for Free",
+        "link": "https://www.ign.com/articles/marvels-spider-man-2-is-adding-new-suit-from-brand-new-day-for-free",
+        "summary": "Marvel's Spider-Man 2 is adding content for the first time in years, and it's completely free.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty: Black Ops 1 and 2 Are Officially Being Ported to New Platforms Next Month",
+        "link": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-are-officially-being-ported-to-new-platforms-next-month",
+        "summary": "Call of Duty: Black Ops 1 and 2 are being brought to new platforms in July, courtesy of Iron Galaxy.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Spider-Man: Brand New Day Trailer Reveals a Very Angry Hulk",
+        "link": "https://www.ign.com/articles/new-spider-man-brand-new-day-trailer-reveals-a-very-angry-hulk",
+        "summary": "We have a new Spider-Man: Brand New Day trailer, and it reveals a first look at Hulk in the movie, as well as a glimpse at Sadie Sink's mystery character.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA Online Is Adding a Massive New Heist in July, to Keep You Busy Until GTA 6 Arrives",
+        "link": "https://www.ign.com/articles/gta-online-is-adding-a-massive-new-heist-in-july-to-keep-you-busy-until-gta-6-arrives",
+        "summary": "GTA Online is getting its next big update in just a few weeks.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Assassin's Creed Black Flag Resynced Achievements All Available Offline, At Any Difficulty Setting",
+        "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-achievements-all-available-offline-at-any-difficulty-setting",
+        "summary": "Ubisoft has detailed the full list of achievements available in Assassin's Creed Black Flag Resynced, and stated that all will be available offline after the game's installation is complete.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dispatch Developer Addresses Controversial Switch Censorship With New Patch — Though 'Some Hard Requirements From Nintendo' Remain",
+        "link": "https://www.ign.com/articles/dispatch-developer-addresses-controversial-switch-censorship-with-new-patch-though-some-hard-requirements-from-nintendo-remain",
+        "summary": "Dispatch developer AdHoc Studio has issued a patch to unlock more nudity options on Nintendo Switch and Switch 2, after unexpected in-game censorship was discovered by players earlier this year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Disney Dreamlight Valley 2026 Summer Showcase: Everything Announced",
+        "link": "https://www.ign.com/articles/disney-dreamlight-valley-summer-showcase-2026-everything-announced",
+        "summary": "Every game, reveal, and surprise from today's Disney Dreamlight Valley 2026 Summer Showcase.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Warframe Creative Director Says New Characters Were Inspired by Super Smash Bros.",
+        "link": "https://www.ign.com/articles/warframe-jade-shadows-constellations-super-smash-bros-characters",
+        "summary": "Warframe's Rebecca Ford reveals how Super Smash Bros. inspired the new 2-in-1 characters in Jade Shadows, plus an exclusive look at Ryuko’s Railjack.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mike Myers Says Austin Powers 4 Will Happen",
+        "link": "https://www.ign.com/articles/mike-myers-says-austin-powers-4-will-happen",
+        "summary": "Oh behave! Austin Powers will return for a fourth movie, creator Mike Myers has said.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Rockstar Dishes Out Free GTA 5 Current-Gen Upgrades to PS4 and Xbox One Owners",
+        "link": "https://www.ign.com/articles/rockstar-dishes-out-free-gta-5-current-gen-upgrades-to-ps4-and-xbox-one-owners",
+        "summary": "If you own a digital copy of Grand Theft Auto V on Xbox One or PS4, you'll be entitled to a free upgrade to the current-gen versions of the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Microsoft Insists It Won’t Flip Flop on Exclusives as Fans Say They're Finding It Hard to Trust Xbox",
+        "link": "https://www.ign.com/articles/microsoft-insists-it-wont-flip-flop-on-exclusives-as-fans-say-theyre-finding-it-hard-to-trust-xbox",
+        "summary": "Microsoft has insisted it will not “reverse course” on its recently announced plan to return to exclusive Xbox games, but fans say they are finding it hard to trust what the company says.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Doctor Who Cancellation Avoided Episode Becoming 'Christmas-Shaped Bomb' For Show's Future, Insider Says",
+        "link": "https://www.ign.com/articles/doctor-who-cancellation-avoided-episode-becoming-christmas-shaped-bomb-for-shows-future-insider-says",
+        "summary": "The shock cancellation of Doctor Who's upcoming one-off special has been described as necessary to avoid the episode becoming a \"Christmas-shaped bomb\" in plans to secure the series' future.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Billionaire Valve Boss Gabe Newell Buys Florida Super Mansion With Its Own Underground Tunnel for $70.8 Million",
+        "link": "https://www.ign.com/articles/billionaire-valve-boss-gabe-newell-buys-florida-super-mansion-with-its-own-underground-tunnel-for-708-million",
+        "summary": "Gabe Newell has splashed out $70.8 million on a Florida super mansion that comes with its own tunnel to the sea.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Former Top Gear Star Jeremy Clarkson Reveals 'Aggressive' Cancer Diagnosis",
+        "link": "https://www.ign.com/articles/former-top-gear-star-jeremy-clarkson-reveals-aggressive-cancer-diagnosis",
+        "summary": "Former Top Gear presenter Jeremy Clarkson has been diagnosed with \"aggressive\" prostate cancer, it's been revealed.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "How to turn off AI in your Google Docs",
+        "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+        "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+        "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+        "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+        "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+        "summary": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Roelof Botha joins SpaceX’s board of directors",
+        "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+        "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+        "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+        "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+        "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+        "summary": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Me…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
+        "link": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
+        "summary": "A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+        "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+        "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+        "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+        "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world",
+        "link": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/",
+        "summary": "An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Social media’s next evolution: user-controlled algorithms",
+        "link": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+        "summary": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+        "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+        "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mastodon looks to newsletters to help revive the open social web",
+        "link": "https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web/",
+        "summary": "Mastodon’s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+        "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+        "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
+        "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
+        "summary": "Clair Health will track inflammation and bloating markers, energy levels, and cycle phase classification to give insights into cycle irregularities and perimenopause, as well as hormonal fluctuations, and how to navigate those changes.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
+        "link": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
+        "summary": "The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "UK inflation holds steady at 2.8% in May",
+        "link": "https://www.cnbc.com/2026/06/17/inflation-uk-cpi-interest-rates-bank-of-england.html",
+        "summary": "The Bank of England is due to update its monetary policy on Thursday.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Three Iranian tankers exit U.S. blockade for first time in months as shipowners eye Hormuz in 'wary disbelief'",
+        "link": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html",
+        "summary": "At least three Iranian tankers carrying nearly five million barrels of crude oil have exited the U.S. Navy blockade.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin slips as Fed’s updated dot plot shows hawkish tilt, hitting risk sentiment",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-65k-with-fed-meeting-in-focus-uniswap-surges-4746500",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Asia markets mixed: Nikkei and KOSPI touch record highs on historic US-Iran peace accord",
+        "link": "https://seekingalpha.com/news/4604630-asia-markets-mixed-nikkei-and-kospi-touch-record-highs-on-historic-us-iran-peace-accord?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Wall Street pushes US regulators to further ease Basel capital rules, FT reports",
+        "link": "https://seekingalpha.com/news/4604628-wall-street-pushes-us-regulators-to-further-ease-basel-capital-rules-ft-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

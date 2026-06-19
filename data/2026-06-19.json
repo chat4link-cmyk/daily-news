@@ -1,0 +1,320 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T13:09:15.542168+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+        "link": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate for …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Geoengineering still faces major practical challenges",
+        "link": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+        "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicate…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The search for dark matter has been blown wide open",
+        "link": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+        "summary": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sought…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Barret Zoph is out at OpenAI again after just five months",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+        "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Amazon employees say they’re facing termination for backing data center limits",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+        "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating a…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Who decides when AI is too dangerous?",
+        "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+        "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Photoshop and Premiere now have AI assistants",
+        "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+        "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assi…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+        "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+        "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, an…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
+        "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
+        "summary": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The White House Is Making Up Its Rules for AI in Real Time",
+        "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+        "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+        "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
+        "link": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+        "summary": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
+        "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
+        "summary": "Internal Home Office tests of age-verification technology show the risks of life-altering errors. It’s moving forward anyway.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "PlayStation Reportedly Pulled Out of PC Ports Due to 'Inconsistent' Releases and Lack of Revenue",
+        "link": "https://www.ign.com/articles/playstation-reportedly-pulled-out-of-pc-ports-due-to-inconsistent-releases-and-lack-of-revenue",
+        "summary": "PlayStation reportedly dropped its plans for future PC games due to the inconsistency of previous releases and the lack of revenue they were pulling in.",
+        "source": "IGN News"
+      },
+      {
+        "title": "A New Free Steam Game Is Topping the Most-Played Charts, But It's Also Leading to False Bans",
+        "link": "https://www.ign.com/articles/a-new-free-steam-game-is-topping-the-most-played-charts-but-its-also-leading-to-false-bans",
+        "summary": "A new game called TBH: Task Bar Hero has emerged out of nowhere as one of Steam's most played games, but there's also a lot of drama surrounding it.",
+        "source": "IGN News"
+      },
+      {
+        "title": "How the Grinch Stole Christmas Sequel in the Works with Jim Carrey and Ron Howard",
+        "link": "https://www.ign.com/articles/how-the-grinch-stole-christmas-sequel-in-the-works-with-jim-carrey-and-ron-howard",
+        "summary": "According to The Hollywood Reporter, Jim Carrey is in talks to star in a sequel to How the Grinch Stole Christmas with Ron Howard returning to direct.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Grow a Garden 2 Hits 300 Million Roblox Visits in First Week",
+        "link": "https://www.ign.com/articles/grow-a-garden-2-hits-300-million-roblox-visits-in-first-week",
+        "summary": "Hold onto your Sheckles. Grow A Garden 2 was released just last week on Roblox but has already amassed over 300 million visits.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel Comics Unveils First-Look Preview of Amazing Spider-Man #1000",
+        "link": "https://www.ign.com/articles/marvel-amazing-spider-man-1000-preview",
+        "summary": "The Amazing Spider-Man is about to become the first Marvel series to reach 1000 issues, and Marvel is teasing this massive book with a gorgeous lineup of artwork.",
+        "source": "IGN News"
+      },
+      {
+        "title": "DC Revives Three Fan-Favorite Superhero Teams for DC Next Level Initiative",
+        "link": "https://www.ign.com/articles/dc-next-level-legion-of-super-heroes-teen-titans-doom-patrol",
+        "summary": "DC's Next Level initiative keeps getting more ambitious, with the publisher revealing new series for the Legion of Super Heroes, Teen Titans, and Doom Patrol.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Evolution of Grand Theft Auto's Iconic Cover Art, Now Including GTA 6",
+        "link": "https://www.ign.com/articles/the-evolution-of-grand-theft-autos-iconic-cover-art-now-including-gta-6",
+        "summary": "With Rockstar finally pulling back the curtain on the GTA 6 cover art, we thought we'd take a trip down memory lane and run through the history of the Grand Theft Auto franchise's iconic cover art.",
+        "source": "IGN News"
+      },
+      {
+        "title": "7 Burning Questions for the GTA 6 Pre-Order Launch",
+        "link": "https://www.ign.com/articles/7-burning-questions-for-the-gta-6-pre-order-launch",
+        "summary": "GTA 6 is alive! Rockstar has confirmed that pre-orders launch on June 25, which means we’re just a week away from finally getting some meaningful answers on what to expect when the most anticipated video game of all time comes out this November.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Rockstar Fans Rejoice, as It Now Looks Certain GTA 6 Won't Get Delayed Again",
+        "link": "https://www.ign.com/articles/rockstar-fans-rejoice-as-it-now-looks-certain-gta-6-wont-get-delayed-again",
+        "summary": "Grand Theft Auto fans are reacting in shock and relief after today's surprise announcement that GTA 6 pre-orders will begin next week — all but confirming that the game won't get delayed once more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Exclusive: No Gods, No Masters Is A New Kaiju Action 5-Issue Mini-Series From BOOM! Studios and an Eisner-Nominated Creative Team",
+        "link": "https://www.ign.com/articles/exclusive-no-gods-no-masters-is-a-new-kaiju-action-5-issue-mini-series-from-boom-studios-and-an-eisner-nominated-creative-team",
+        "summary": "IGN can exclusively reveal No Gods, No Masters, an upcoming new Kaiju action 5-issue mini-series from BOOM! Studios and an Eisner-nominated creative team that includes writer Julio Anta and artist Jacoby Salcedo.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Garfield - Escape From Monday Gameplay Trailer Teases the Terror of 'The Curse of the Spinach Lasagna'",
+        "link": "https://www.ign.com/articles/garfield-escape-from-monday-gameplay-trailer-teases-the-terror-of-the-curse-of-the-spinach-lasagna",
+        "summary": "IGN can exclusively reveal a brand-new gameplay trailer for Garfield - Escape From Monday, and it teases the terror of \"The Curse of the Spinach Lasagna\" and that vegetables may not be as good for us we once thought!",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pokémon Pokopia Adds Mythical Pokémon Event, as Fans Believe Shiny and Costume Creatures May Follow",
+        "link": "https://www.ign.com/articles/pokemon-pokopia-adds-mythical-pokmon-event-as-fans-believe-shiny-and-costume-creatures-may-follow",
+        "summary": "Pokémon Pokopia has announced a new in-game event where players can encounter the Mythical creature Jirachi, with much more seemingly on the horizon.",
+        "source": "IGN News"
+      },
+      {
+        "title": "No Law's Dense Cybergrunge City Might Just Be the Most Alive Open World Ever Created",
+        "link": "https://www.ign.com/articles/no-laws-dense-cybergrunge-city-might-just-be-the-most-alive-open-world-ever-created",
+        "summary": "No Law interview with developer Neon Giant.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Cover Art and Pre-Order Reveal Comes With a Fresh Look at Vice City",
+        "link": "https://www.ign.com/articles/gta-6-cover-art-and-pre-order-reveal-comes-with-a-fresh-look-at-vice-city",
+        "summary": "Rockstar didn’t just reveal the GTA 6 cover art and the date pre-orders go live, it also added a new image to its official website offering a fresh look at Vice City.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Cover Artwork Revealed, Pre-Orders Begin June 25",
+        "link": "https://www.ign.com/articles/gta-6-cover-artwork-revealed-pre-orders-begin-june-25",
+        "summary": "Rockstar has just revealed the cover artwork for GTA 6, and announced that pre-orders will begin on June 25.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+        "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+        "summary": "Telegram argues India should block specific content, not an entire platform used by millions.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+        "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+        "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+        "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+        "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+        "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+        "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+        "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+        "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
+        "link": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
+        "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+        "link": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/",
+        "summary": "Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+        "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+        "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+        "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+        "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mivo’s new app takes a mindful approach to managing screen time",
+        "link": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/",
+        "summary": "Notably, unlike other apps that might just try to pull you away from your phone, Mivo lets the user decide if they want to continue, encouraging users to become more aware of how and why they’re using it instead.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI data centers just got a government-mandated fast lane to the grid",
+        "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+        "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The smartphone era created an attention crisis — slow tech is fixing it",
+        "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+        "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Texas government data breach allowed hackers to steal 3 million driver’s licenses and passports",
+        "link": "https://techcrunch.com/2026/06/18/texas-government-data-breach-allowed-hackers-to-steal-3-million-drivers-licenses-and-passports/",
+        "summary": "A data breach involving government-issued ID documents affects over 3 million people in Texas.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+        "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+        "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple opens up App Store to new competition in Brazil",
+        "link": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
+        "summary": "Apple’s grip on iPhone app distribution is loosening in another major market: Brazil.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
+        "link": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html",
+        "summary": "The Bank of England's Monetary Policy Committee voted 7-2 to keep rates on hold.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
+        "link": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
+        "summary": "The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin falls below $63k as hawkish Fed rattles speculative assets like crypto",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-63k-on-hawkish-fed-signals-iran-peace-deal-offers-limited-cheer-4748990",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Exclusive: Tether Gold joins Ledn, lets investors borrow against gold",
+        "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-tether-gold-joins-ledn-as-collateral-4750169",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Fed proposes customer ID rules for stablecoin issuers",
+        "link": "https://www.investing.com/news/cryptocurrency-news/fed-proposes-customer-id-rules-for-stablecoin-issuers-93CH-4750204",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Japan's inflation edges to 1.5%, core CPI holds at 1.4%; BOJ defends recent rate hike to 1%",
+        "link": "https://seekingalpha.com/news/4605158-japan-inflation-edges-to-15-core-cpi-holds-at-14-boj-defends-recent-rate-hike-to-1?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Goldman Sachs cuts year-end gold forecast by $500 on fading Fed rate cut hopes",
+        "link": "https://seekingalpha.com/news/4605156-goldman-sachs-cuts-year-end-gold-forecast-by-500-on-fading-fed-rate-cut-hopes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Peace deal gives Iran chance to earn more than $60B in annual oil sales - WSJ",
+        "link": "https://seekingalpha.com/news/4605152-peace-deal-gives-iran-chance-to-earn-more-than-60b-in-annual-oil-sales---wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

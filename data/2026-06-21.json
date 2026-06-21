@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T13:05:22.553078+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Atlantic created a searchable database of the music used to train AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+        "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+        "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+        "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "X-Men Star Famke Janssen Thinks Marvel 'Made a Mistake' By Not Bringing Her Jean Grey Back for Avengers: Doomsday",
+        "link": "https://www.ign.com/articles/x-men-star-famke-janssen-thinks-marvel-made-a-mistake-by-not-bringing-her-jean-grey-back-for-avengers-doomsday",
+        "summary": "X-Men star Famke Janssen has said that Marvel Studios \"made a mistake\" by neglecting to send her an invitation to reprise her role as Jean Grey in Avengers: Doomsday.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Epic Games Store Roadmap Promises 5x Faster Boot Times, User Reviews, and More",
+        "link": "https://www.ign.com/articles/epic-games-store-roadmap-promises-5x-faster-boot-times-user-reviews-and-more",
+        "summary": "The Epic Games Store will soon receive many long-requested features and a major launcher redesign if a newly revealed roadmap pans out accordingly.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Cheers Co-Creator James Burrows Dies at 85",
+        "link": "https://www.ign.com/articles/cheers-co-creator-james-burrows-dies-at-85",
+        "summary": "Cheers co-creator and Friends director James Burrows has died at 85.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Halo: Campaign Evolved Split-Screen Co-Op on PS5 Will Not Require PlayStation Plus, Halo Studios Clarifies",
+        "link": "https://www.ign.com/articles/halo-campaign-evolved-split-screen-co-op-on-ps5-requires-playstation-plus-for-both-players",
+        "summary": "Halo Studios has clarified that a PlayStation Plus subscription will not be required for Halo: Campaign Evolved split-screen co-op on PS5 after all.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ubisoft Co-Founder Claude Guillemot Dead at 69 After Plane Crash in France",
+        "link": "https://www.ign.com/articles/ubisoft-co-founder-claude-guillemot-dead-at-69-after-plane-crash-in-france",
+        "summary": "Claude Guillemot, one of five co-founders behind Assassin's Creed publisher Ubisoft, has died in a plane crash.",
+        "source": "IGN News"
+      },
+      {
+        "title": "My Favorite Baseball Team Can Make Me Love MLB The Show, Or Absolutely Hate It",
+        "link": "https://www.gamespot.com/articles/my-favorite-baseball-team-can-make-me-love-mlb-the-show-or-absolutely-hate-it/",
+        "summary": "It's a 5-4 game in the bottom of the ninth inning in Pittsburgh, and it looks like the Pirates might drop one to the struggling Minnesota Twins. But Spencer Horwitz gets on base with a scrappy infield single. With one out, Bryan Reynolds steps up to the plate . On a 2-2 count, he absolutely demolish…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Hot off the Guild Wars 3 reveal, the long-running MMO series is getting its first-ever CCG in Mistbound",
+        "link": "https://www.eurogamer.net/mistbound-guild-wars-card-game-ccg-announce",
+        "summary": "Guild Wars, the legendary MMO series from ArenaNet, somehow never expanded into the collectible card game (CCG) genre. This will soon change, however, as Mistbound: Guild Wars Card Game was just revealed. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Doom soundtrack composer Bobby Prince dies aged 81",
+        "link": "https://www.eurogamer.net/doom-composer-bobby-prince-dies",
+        "summary": "Robert Prince III – best known as Bobby Prince, the man behind the iconic score of the original Doom game – has died aged 81. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Halo: Campaign Evolved PS5 players will require an Xbox account and gamertag to play – as well as PS Plus to play split-screen co-op",
+        "link": "https://www.eurogamer.net/halo-campaign-evolved-ps5-xbox-account-gamertag-psplus",
+        "summary": "Players will require an Xbox account and gamertag to Halo: Campaign Evolved on PS5. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Brendan \"PlayerUnknown\" Greene \"moves forward with a smaller team\", as Prologue: Go Wayback! studio struggles to find funding",
+        "link": "https://www.eurogamer.net/playerunknown-free-prologue-go-wayback-funding",
+        "summary": "Brendan \"PlayerUnknown\" Greene, the creator of PUBG and Prologue: Go Wayback!, has publicly thanked the team at PlayerUnknown Productions for its \"professionalism\" as it \"move[s] forward with a smaller team\" following issues securing additional funding. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "What we've been playing - \"And no I don't mean sexy Barry White songs\"",
+        "link": "https://www.eurogamer.net/what-weve-been-playing-and-no-i-dont-mean-sexy-barry-white-songs",
+        "summary": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Victoria perseveres and finally sees the end of Split Fiction , and is delighted she has done so; Bertie seems a little obsessed about mating, which is a sentence I thought I'd never …",
+        "source": "Eurogamer"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+        "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "In the Weights is your new AI-centric vanity search",
+        "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "summary": "So ... what's your In the Weights score?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Founders Fund’s outlier bet on humanely killed fish",
+        "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+        "summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Every new iOS 27 feature that’s worth knowing about",
+        "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+        "summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+        "link": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+        "summary": "Tests of age-verification technology show the risks of life-altering errors.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "The Atlantic created a searchable database of the music used to train AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+        "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+        "link": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+        "summary": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production t…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+        "link": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+        "summary": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of the most creative roleplaying games I've seen in years, even …",
+        "source": "The Verge"
+      },
+      {
+        "title": "Toy Story has the right take on tech",
+        "link": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+        "summary": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Sam Bankman-Fried and PE Guy and admi…",
+        "source": "The Verge"
+      },
+      {
+        "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
+        "link": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+        "summary": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot. As the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Renting a sewing machine from the library",
+        "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+        "summary": "Article URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland Comments URL: https://news.ycombinator.com/item?id=48613755 Points: 155 # Comments: 76",
+        "source": "Hacker News Front Page"
+      },
+      {
+        "title": "Slow breathing modulates brain function and risk behavior",
+        "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+        "summary": "Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9 Comments URL: https://news.ycombinator.com/item?id=48613555 Points: 104 # Comments: 22",
+        "source": "Hacker News Front Page"
+      },
+      {
+        "title": "Supermarket giant Tesco sues VMware for breach of contract (2025)",
+        "link": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
+        "summary": "Article URL: https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651 Comments URL: https://news.ycombinator.com/item?id=48613008 Points: 118 # Comments: 31",
+        "source": "Hacker News Front Page"
+      },
+      {
+        "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+        "link": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+        "summary": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/lin... Comments URL: https://news.ycombinator.com/item?id=48612943 Points: 133 # Comments: 109",
+        "source": "Hacker News Front Page"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "SA Asks: Is now a good time to invest in gold or silver?",
+        "link": "https://seekingalpha.com/news/4605292-sa-asks-is-now-a-good-time-to-invest-in-gold-or-silver?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

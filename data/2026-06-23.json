@@ -1,0 +1,266 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T12:11:04.335897+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Three things to watch amid Anthropic’s latest feud with the government",
+        "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+        "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weir…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Inside the world’s deepest and longest subsea road tunnel",
+        "link": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+        "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just abov…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+        "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+        "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI is cursing renters with the promise of impossible homes",
+        "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+        "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Read this before you vibe-code another app",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+        "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+        "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+        "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+        "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+        "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+        "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+        "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Some Electricians Think Building Data Centers Is for Sellouts",
+        "link": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+        "summary": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it’s worth it.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "World Cup Scams Are Getting Harder to Spot",
+        "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+        "summary": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Powerpuff Girls Movie in the Works at Warner Bros. Animation",
+        "link": "https://www.ign.com/articles/powerpuff-girls-movie-in-the-works-at-warner-bros-animation",
+        "summary": "Warner Bros. has dipped into its stash of Chemical X in hopes of reuniting Blossom, Bubbles, and Buttercup for a new animated Powerpuff Girls movie.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Meccha Chameleon Players Are Recreating the Mona Lisa as the Hide-and-Seek Paint Game Passes 7 Million Sales",
+        "link": "https://www.ign.com/articles/meccha-chameleon-players-are-recreating-the-mona-lisa-as-the-hide-and-seek-paint-game-passes-7-million-sales",
+        "summary": "As hide-and-seek paint game Meccha Chameleon rockets past 7 million copies sold, some players have gotten so invested in finding the perfect hiding spot that they've started recreating the Mona Lisa in-game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Fans Spot Tommy Vercetti Easter Egg Over a Year After Trailer 2's Release",
+        "link": "https://www.ign.com/articles/gta-6-fans-spot-tommy-vercetti-easter-egg-over-a-year-after-trailer-2s-release",
+        "summary": "Grand Theft Auto 6 fans have spotted a cheeky nod to Vice City protagonist Tommy Vercetti in the game's second trailer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Tom Holland and Zendaya Are Huge Fans of PlayStation's Spider-Man Games, Insomniac Invites Them for Studio Tour",
+        "link": "https://www.ign.com/articles/tom-holland-and-zendaya-are-huge-fans-of-playstations-spider-man-games-insomniac-invites-them-for-studio-tour",
+        "summary": "Spider-Man: Brand New Day stars Tom Holland and Zendaya really enjoy Insomniac Games' Spider-Man games.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Last of Us Part 2 Multiplayer Lives On as PvP Mod Due Out Later This Year",
+        "link": "https://www.ign.com/articles/the-last-of-us-part-2-multiplayer-lives-on-as-pvp-mod-due-out-later-this-year",
+        "summary": "Naughty Dog may have canceled its The Last of Us Part 2 multiplayer project, but Factions fans can now at least have a new PvP mode to look forward to… if they're on PC.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Warframe Dev Says 'No One Is Celebrating' as Destiny 2 Support Comes to a 'Heartbreaking' End",
+        "link": "https://www.ign.com/articles/warframe-dev-says-no-one-is-celebrating-as-destiny-2-support-comes-to-a-heartbreaking-end",
+        "summary": "Warframe community director Megan Everett has said that \"no one is celebrating\" the \"heartbreaking\" news that Sony pulled the plug on Destiny 2 support.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel's Wolverine Actor Confirms Role in GTA 6",
+        "link": "https://www.ign.com/articles/marvels-wolverine-actor-confirms-role-in-gta-6",
+        "summary": "A handful of actors have started confirming they have roles in Grand Theft Auto VI, including one of the stars of Marvel's Wolverine.",
+        "source": "IGN News"
+      },
+      {
+        "title": "It’s Finally Happened — You Can Play As Nicolas Cage in Call of Duty",
+        "link": "https://www.ign.com/articles/its-finally-happened-you-can-play-as-nicolas-cage-in-call-of-duty",
+        "summary": "It’s finally happened — you can play as Nicolas Cage in Call of Duty.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Love and Deepspace Drops New Wolfy Love Interest And I'm Not Well",
+        "link": "https://www.ign.com/articles/love-and-deepspace-drops-new-wolfy-love-interest",
+        "summary": "Love and Deepspace: new werewolf character Valko revealed.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bethesda Boss Todd Howard Saw Marvel's Blade in May, Says Arkane 'Doing a Really, Really Great Job'",
+        "link": "https://www.ign.com/articles/bethesda-boss-todd-howard-saw-marvels-blade-in-may-says-arkane-doing-a-really-really-great-job",
+        "summary": "Bethesda Game Studios head Todd Howard has offered an update on the long-in-development Marvel's Blade, which is based on Marvel's vampire-slaying superhero.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fortnite's Popular Pokémon-Like Sprites Are Fueling a Player Surge — and 5 More Species Get Added This Week",
+        "link": "https://www.ign.com/articles/fortnites-popular-pokemon-like-sprites-are-fueling-a-player-surge-and-5-more-species-get-added-this-week",
+        "summary": "Fortnite's popular battle royale mode is enjoying an influx of players keen to hunt the game's Pokémon-like Sprites — and five more species arrive this week.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Netflix's Gears of War Movie Is an 'Origin Story' for Delta Squad",
+        "link": "https://www.ign.com/articles/netflixs-gears-of-war-movie-is-an-origin-story-for-delta-squad",
+        "summary": "We finally have the first details on the upcoming Gears of War film, which may not directly adapt the games.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Steam Machine Costs $1049, Is That Too Much?",
+        "link": "https://www.ign.com/articles/steam-machine-price",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Steam Machine Was Originally Meant to Cost About $750",
+        "link": "https://www.ign.com/articles/the-steam-machine-was-originally-meant-to-cost-about-750",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Valve Says Steam Deck 2 Is Getting Closer, but Still Not Ready Yet",
+        "link": "https://www.ign.com/articles/valve-says-steam-deck-2-is-getting-closer-but-still-not-ready-yet",
+        "summary": "",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+        "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+        "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+        "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+        "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+        "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+        "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+        "summary": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The AI world is getting ‘loopy’",
+        "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+        "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+        "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+        "summary": "Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+        "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+        "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+        "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+        "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+        "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+        "summary": "The incident comes as Tata Electronics expands its role in global technology supply chains.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
+        "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+        "summary": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPhones.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+        "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+        "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic says Claude may want to see your ID",
+        "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+        "summary": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon is testing Alexa+ in India with Hindi support",
+        "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+        "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+        "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+        "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup",
+        "link": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+        "summary": "WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Crude oil adds to losses on potential progress in U.S.-Iran talks",
+        "link": "https://seekingalpha.com/news/4605863-crude-oil-adds-to-losses-on-potential-progress-in-us-iran-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

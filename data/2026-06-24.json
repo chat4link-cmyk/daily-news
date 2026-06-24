@@ -1,0 +1,308 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T12:14:04.566298+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Heads in the game",
+        "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+        "summary": "The Argentina v. France final of the 2022 Men’s World Cup in Qatar was shaping up to be one of the most epic games in soccer history. With just 12 minutes remaining in the extra time added to the game to break a tie, the referee had a critical decision to make—and fast. Lionel Messi,…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Super Mario is mathier than you think",
+        "link": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
+        "summary": "Here’s a problem you probably didn’t solve in school: You’re an ambitious young plumber from Brooklyn in a world inhabited by violent human-size mushrooms called Goombas. The love of your life has been kidnapped, so you embark on a quest to rescue her, venturing through stretches of pipe-filled and …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "A man of many words",
+        "link": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
+        "summary": "Brian Sietsema has a favorite word. It’s somewhat surprising that he can choose just one. He’s the person spellers rely on to confirm pronunciations and answer questions about the roots of the words they’re given at the Scripps National Spelling Bee—arguably the world’s most prestigious competition …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Sharing a love for calculus",
+        "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+        "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.  Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned chall…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Stand Up for Research, Innovation, and Education",
+        "link": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+        "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and t…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
+        "link": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+        "summary": "Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures. So far, robots have been notoriously bad at mimicking that dexterity, in part because researchers struggle to capture what is ac…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Reinventing the zipper",
+        "link": "https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/",
+        "summary": "With an adaptable fastener designed at CSAIL, pitching a tent or adjusting the cast for a broken bone could be almost as easy as zipping your coat. The researchers, led by associate professor Stefanie Mueller, were inspired by an abandoned prototype for a three-sided zipper that William Freeman, PhD…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Engineered “mini livers” could be injected as an alternative to transplantation",
+        "link": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/",
+        "summary": "A technology developed by Professor Sangeeta Bhatia, SM ’93, PhD ’97, and colleagues could offer new hope to the thousands of Americans with chronic liver disease who are waiting for an organ transplant or not strong enough to tolerate one. The liver is involved in regulating blood clotting, removin…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Plants appear to detect the patter of falling rain",
+        "link": "https://www.technologyreview.com/2026/06/23/1138288/plants-appear-to-detect-the-patter-of-falling-rain/",
+        "summary": "MIT engineers have found the first direct evidence that plant seeds can sense sounds in nature: Rice submerged in shallow water germinated 30% to 40% more quickly when exposed to vibrations from water dripping on the surface. They think other types of seeds may respond similarly. When a raindrop hit…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "A breath test could diagnose pneumonia in minutes",
+        "link": "https://www.technologyreview.com/2026/06/23/1138291/a-breath-test-could-diagnose-pneumonia-in-minutes/",
+        "summary": "With a test being developed at MIT, diagnosing pneumonia and other lung conditions could someday be as easy as breathing into a tube.  The test, dubbed PlasmoSniff, is a portable, chip-scale sensor that traps and detects biomarkers, synthetic compounds indicating disease. The idea is that a person w…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Google Home will soon get better at recognizing you",
+        "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+        "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Hollywood is bending the knee to OpenAI",
+        "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+        "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Why corporate AI super PACs spent $27 million on a local election",
+        "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+        "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
+        "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+        "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+        "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+        "summary": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, remin…",
+        "source": "The Verge – AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Supergirl Producer Says David Ellison Is a 'Big Fan' of DC Studios As Paramount and Warner Bros Merger Looms",
+        "link": "https://www.ign.com/articles/supergirl-producer-says-david-ellison-is-a-big-fan-of-dc-studios-as-paramount-and-warner-bros-merger-looms",
+        "summary": "David Ellison, the CEO of Paramount Skydance, is a big fan of what DC Studios is cooking up.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marathon Confirms New PvE Mode Release Date, Season 3 Begins September 2026",
+        "link": "https://www.ign.com/articles/marathon-confirms-new-pve-mode-release-date-season-3-begins-september-2026",
+        "summary": "Marathon has set a release date for its upcoming PvE mode, Vault Breaker, as well as the start of Season 3.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bungie Developers Repeatedly Pitched a Destiny Dating Sim, but Leadership Rejected It",
+        "link": "https://www.ign.com/articles/bungie-developers-repeatedly-pitched-a-destiny-dating-sim-but-leadership-rejected-it",
+        "summary": "Bungie developers were apparently very passionate about a Destiny dating simulator, but leadership had no interest.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lords of the Fallen 2 Delayed to 2027",
+        "link": "https://www.ign.com/articles/lords-of-the-fallen-2-delayed-to-2027",
+        "summary": "Lords of the Fallen 2 will no longer release this year, as the game has been pushed to early 2027.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Batman: Knightfall Part 1: Knightfall Exclusive Trailer and Voice Cast Revealed",
+        "link": "https://www.ign.com/articles/batman-knightfall-part-1-trailer-voice-cast",
+        "summary": "IGN can exclusively reveal the new trailer for Batman: Knightfall Part 1: Knightfall, the first entry in a three-part animated feature film adaptation of the classic DC Comics storyline. The movie stars the voices of Anson Mount as Batman/Bruce Wayne, Michael Mando as Bane, and Pablo Schreiber as Je…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Disney Wanted to Buy Twitter and James Bond, Considered Merger With Apple",
+        "link": "https://www.ign.com/articles/disney-wanted-to-buy-twitter-and-james-bond-considered-merger-with-apple",
+        "summary": "Disney's expensive buying spree hoped to snag James Bond and Twitter in addition to a merger with Apple.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Netflix Horror Game Starring Sadie Sink and Zoë Kravitz from Oxenfree Developer Night School Studio",
+        "link": "https://www.ign.com/articles/netflix-horror-game-starring-sadie-sink-and-zo-kravitz-from-oxenfree-developer-night-school-studio",
+        "summary": "Netflix is dipping its toe back into narrative adventure with the upcoming launch of Unhinged, a horror game from Oxenfree developer Night School Studio.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Arnold Schwarzenegger AI Game is an Amazon Luna Exclusive",
+        "link": "https://www.ign.com/articles/arnold-schwarzenegger-ai-game-is-an-amazon-luna-exclusive",
+        "summary": "Arnold Schwarzenegger game announced as Luna exclusive, as Amazon clarifies its stance on generative AI.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Toy Story 5 Producer Rules Out Live-Action Toy Story Movie: 'Please God No'",
+        "link": "https://www.ign.com/articles/toy-story-5-producer-rules-out-live-action-toy-story-movie-please-god-no",
+        "summary": "The creative team behind Toy Story has no interest in a live-action version of the iconic Pixar franchise.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Blair Witch Project Movie Conjures Up 2027 Release Date",
+        "link": "https://www.ign.com/articles/new-blair-witch-project-movie-conjures-up-2027-release-date",
+        "summary": "The Blair Witch Project series will return to theaters next year, with a fresh installment due in the fall.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Warhammer 40,000: Darktide Gets Free Update Alongside Skitarii Class, Adds a New Enemy",
+        "link": "https://www.ign.com/articles/warhammer-40000-darktide-gets-free-update-alongside-skitarii-class-adds-a-new-enemy",
+        "summary": "Warhammer 40,000: Darktide has today received a huge free update alongside the Skitarii class DLC.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Michael Caine Announces He's Narrating The Odyssey — But Not the Christopher Nolan Movie, And Also His Voice Is Actually AI",
+        "link": "https://www.ign.com/articles/michael-caine-announces-hes-narrating-the-odyssey-but-not-the-christopher-nolan-movie-and-also-his-voice-is-actually-ai",
+        "summary": "93-year-old Michael Caine has announced he will narrate his own version of The Odyssey — launched via an AI company that has officially licensed and reproduced his voice.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Shaolin Soccer Spinoff Kung Fu Soccer From Stephen Chow Heads for North American Theaters",
+        "link": "https://www.ign.com/articles/shaolin-soccer-spinoff-kung-fu-soccer-from-stephen-chow-heads-for-north-american-theaters",
+        "summary": "25 years after Shaolin Soccer came out, spinoff Kung Fu Soccer is confirmed to be getting a theatrical release in North America.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mars Attacks! 30th Anniversary 4K Blu-ray and Digital Release Announced",
+        "link": "https://www.ign.com/articles/mars-attacks-30th-anniversary-4k-bluray-release",
+        "summary": "Ack! Ack! IGN can exclusively reveal that director Tim Burton’s cult classic alien invasion comedy Mars Attacks! will get a 4K Blu-ray and digital release in honor of its 30th anniversary.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Why Valve Refuses to Subsidize Its $1,049 Steam Machine",
+        "link": "https://www.ign.com/articles/why-valve-refuses-to-subsidize-its-1049-steam-machine",
+        "summary": "Valve has explained why it refuses to subsidize the Steam Machine, which launched yesterday priced at least $1,049.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+        "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+        "summary": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+        "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+        "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Superhuman acquires AI detection startup GPTZero",
+        "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+        "summary": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+        "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+        "summary": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+        "link": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
+        "summary": "It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+        "link": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+        "summary": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+        "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+        "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
+        "link": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+        "summary": "This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+        "link": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+        "summary": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta debuts new, cheaper smart glasses under its own brand",
+        "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+        "summary": "The smart glasses are available in several countries starting today in a variety of color and lens combinations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+        "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+        "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ribbie turns real-time baseball stats into arcade-like, pixel-art broadcasts",
+        "link": "https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/",
+        "summary": "Ribbie lets you follow along live with MLB games with a delightful, arcade-inspired interface.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+        "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+        "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+        "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+        "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+        "link": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+        "summary": "Climate.us has now restored everything taken down by the government.",
+        "source": "Ars Technica"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
+        "link": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html",
+        "summary": "Though the firm's manufacturing index ran better than expected for June, it came largely from an inventory rebuild and despite sharp job cuts.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
+        "link": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
+        "summary": "The U.S. issued a sweeping rollback of sanctions on Iranian oil, offering Tehran an economic lifeline as negotiations toward a peace deal proceed.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "FedEx outlines CY 2026 adjusted EPS of $16.90-$18.10 as it targets $3.9B CapEx and up to $1B in buybacks",
+        "link": "https://seekingalpha.com/news/4606451-fedex-outlines-cy-2026-adjusted-eps-of-16_90-18_10-as-it-targets-3_9b-capex-and-up-to-1b-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Crude oil extends decline on prospects of increased Middle East supply",
+        "link": "https://seekingalpha.com/news/4606450-crude-oil-extends-decline-on-prospects-of-increased-middle-east-supply?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T12:14:21.556812+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Europe’s extreme heat is shutting down power plants",
+        "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+        "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: introducing the Engineering issue",
+        "link": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human ingenui…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+        "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+        "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.  To understand this challenge, consider the foundation of…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "This flying solar-powered platform could deliver better internet from the air",
+        "link": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+        "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan.  Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, i…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "All challenges big and small",
+        "link": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+        "summary": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up the…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Congresswoman denies staff used AI to write defense funding amendment",
+        "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+        "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amen…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+        "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional dist…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Figma now has AI motion graphics and shader tools",
+        "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+        "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing te…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI reveals its first AI processor: Jalapeño",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+        "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday. Jalapeño is an ASIC (Application-Specific Integrated Cir…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
+        "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+        "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones h…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "How to Opt Out of Google Search’s New AI Data Training Feature",
+        "link": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+        "summary": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "A24 Knows You’re Mad About the Google AI Collab",
+        "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+        "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
+        "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+        "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
+        "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
+        "summary": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "New DLC Character Coming to BlazBlue: Central Fiction a Decade After It Was Released",
+        "link": "https://www.ign.com/articles/new-dlc-character-coming-to-blazblue-central-fiction-a-decade-after-it-was-released",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Micron CEO Expects RAM Shortage to Last Through 2027, Start to Ease in 2028",
+        "link": "https://www.ign.com/articles/micron-ceo-expects-ram-shortage-to-last-through-2027-start-to-ease-in-2028",
+        "summary": "Micron, one of the largest global manufacturers of semiconductors, expects the ongoing RAM shortage to last through 2027. That's according to Micron CEO Sanjay Mehrotra, who said in the company's Q3 2026 earnings report today that the unprecedented demand facing the semiconductor industry isn't lett…",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 May Be Borrowing a Major Mechanic from Red Dead Redemption 2",
+        "link": "https://www.ign.com/articles/gta-6-may-be-borrowing-a-major-mechanic-from-red-dead-redemption-2",
+        "summary": "Grand Theft Auto 6 may be taking a major mechanic from Red Dead Redemption 2, which may bother some GTA fans.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bungie Communications Manager Says Destiny 2 fans Shouldn't Blame Themselves for Game Coming to an End",
+        "link": "https://www.ign.com/articles/bungie-communications-manager-says-destiny-2-fans-shouldnt-blame-themselves-for-game-coming-to-an-end",
+        "summary": "Destiny 2 fans shouldn't \"blame\" themselves for Bungie choosing to end support for the game, says the company's comms manager.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Some Retailers Are Refusing to Sell GTA 6 Due to the Lack of a Disc",
+        "link": "https://www.ign.com/articles/some-retailers-are-refusing-to-sell-gta-6-due-to-the-lack-of-a-disc",
+        "summary": "Two retailers have announced that they will not be selling Grand Theft Auto 6 due to the game not releasing on a disc.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Fans Think They Spotted a Lore Mistake, but It's Likely on Purpose",
+        "link": "https://www.ign.com/articles/gta-6-fans-think-they-spotted-a-lore-mistake-but-its-likely-on-purpose",
+        "summary": "Grand Theft Auto VI fans think Rockstar may have messed up when it comes to its own lore, but there may be more than meets the eye.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Has $80 GTA 6 Opened the Door to More Expensive Games? Analysts Respond",
+        "link": "https://www.ign.com/articles/has-80-gta-6-opened-the-door-to-more-expensive-games-analysts-respond",
+        "summary": "Rockstar has ended months of speculation by confirming that GTA 6 will cost at $80 — but how prevalent will $80 games now become, and can other video game publishers succeed at this price point?",
+        "source": "IGN News"
+      },
+      {
+        "title": "Actors Like Callum Turner and Jacob Elordi Reportedly 'Fit the Prototype' for Amazon's New James Bond",
+        "link": "https://www.ign.com/articles/actors-like-callum-turner-and-jacob-elordi-reportedly-fit-the-prototype-for-amazons-new-james-bond",
+        "summary": "Amazon is getting closer to finding the next James Bond, as director Denis Villeneuve has reportedly begun informing actors of the next step in the audition process.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fortnite Begins Reselling Old Battle Pass Skins in Next Update",
+        "link": "https://www.ign.com/articles/fortnite-begins-reselling-old-battle-pass-skins-in-next-update",
+        "summary": "Fortnite will begin reselling content from old battle passes as part of its next update.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Invincible Renewed for Season 6",
+        "link": "https://www.ign.com/articles/invincible-renewed-for-season-6",
+        "summary": "Invincible Season 6 is in the works ahead of Season 5's release.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Story Features Distinct 'Chapters' — Could Red Dead Redemption 2 Hold the Clue to How It Works?",
+        "link": "https://www.ign.com/articles/gta-6-story-features-distinct-chapters-could-red-dead-redemption-2-hold-the-clue-to-how-it-works",
+        "summary": "GTA fans are discussing how the story in Grand Theft Auto 6 will be structured, following the apparent confirmation that it will be separated into chapters, similar to Red Dead Redemption 2.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6: Everything Rockstar Announced and Confirmed on Preorder Day",
+        "link": "https://www.ign.com/articles/gta-6-everything-rockstar-announced-and-confirmed-on-preorder-day",
+        "summary": "It’s been a big day of GTA 6 news, with Rockstar confirming fresh details for what is perhaps the most anticipated video game of all time ahead of preorders going live. IGN has plenty of coverage for you to dig into, but here we’ve rounded up everything announced and confirmed, including new screens…",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Is a 'Single-Player Experience,' Rockstar Confirms — What Now for GTA Online?",
+        "link": "https://www.ign.com/articles/gta-6-is-a-single-player-experience-rockstar-confirms-what-now-for-gta-online",
+        "summary": "GTA 6 is a “single-player experience,” Rockstar has confirmed in a note sent to IGN, as well as on storefronts where you can now preorder the game. This suggests the $80 base game does not include any new version of GTA Online, should such an experience be in the works.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Some Fear GTA 6 Physical Version Marks the End of the Video Game Disc",
+        "link": "https://www.ign.com/articles/some-fear-gta-6-physical-version-marks-the-end-of-the-video-game-disc",
+        "summary": "Rockstar has come under fire for releasing the physical version of GTA 6 with a download code only, with some saying the decision is the final nail in the coffin for video game discs.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Grand Theft Auto 6 'Plays Best on PS5,' Sony Boasts — Here's Why",
+        "link": "https://www.ign.com/articles/grand-theft-auto-6-plays-best-on-ps5-sony-boasts-heres-why",
+        "summary": "Grand Theft Auto 6 will \"play best on PS5\" as it makes use of various immersive console features, Sony has said, boasting of its \"close partnership\" with Rockstar Games.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Europe is pushing back on Washington’s chip war",
+        "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+        "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+        "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+        "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon suffers another day short of trillionaire status",
+        "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+        "summary": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+        "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+        "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+        "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+        "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI researchers continue to leave Google for its rivals",
+        "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+        "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The memory chip crunch is paying off for this US company",
+        "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+        "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "New website names and shames companies that still don’t offer passkeys to users",
+        "link": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
+        "summary": "According to a new site, 24% of the most popular websites in the world don't offer support for passkeys, which are considered the most secure way to log in to apps and services.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+        "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+        "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Here’s why Slate changed the battery in its cheap EV truck",
+        "link": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
+        "summary": "While there was probably a moment when Slate’s leadership had to green-light the switch from one battery type to another, the momentum toward that decision had been building for years.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Facebook rolls out an AI companion app for creators",
+        "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+        "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Deezer says its new feature lets fans remix songs with artist consent",
+        "link": "https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/",
+        "summary": "Global music streaming service Deezer is taking a contrarian approach to AI, even as it adds a feature that lets fans remix songs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+        "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+        "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "NTSB launches probe into fatal Texas Tesla crash",
+        "link": "https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/",
+        "summary": "The safety board, known for its thorough investigations, is probing the crash alongside the National Highway Traffic Safety Administration.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Figma adds code layers, support for animations, more AI features in new update",
+        "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+        "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin hovers under $61k amid falling tech stocks, rate fears, and ETF outflows",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-63k-amid-little-relief-from-rate-fears-etf-outflows-4757413",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

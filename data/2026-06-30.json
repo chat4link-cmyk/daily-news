@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T12:15:28.822373+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "AI agents are not your “coworkers”",
+        "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Agent confidence on the technical frontier",
+        "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+        "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: metric weaknesses and AI elephant warnings",
+        "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+        "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+        "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI is teasing new hardware… for Codex",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+        "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Lawmakers want to ban AI companies from selling your health data",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+        "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new v…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+        "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+        "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+        "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+        "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Persona Live-Action TV Show in the Works at Netflix",
+        "link": "https://www.ign.com/articles/persona-live-action-tv-show-in-the-works-at-netflix",
+        "summary": "A live-action Persona TV show is reportedly in development at Netflix.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Cyberpunk: Edgerunners 2 Teaser Features Cyberpunk 2077 Locations Set to Show Up in New Season",
+        "link": "https://www.ign.com/articles/cyberpunk-edgerunners-2-teaser-features-cyberpunk-2077-locations-set-to-show-up-in-new-season",
+        "summary": "The first Cyberpunk: Edgerunners 2 teaser is here, and fans have already found some of the locations the new season pulled from Cyberpunk 2077.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'We're Done Paying for Executives' Failures' — Unionized Xbox Developers Hold Press Conference to Make Their Point as Microsoft Reportedly Readies Massive Layoffs",
+        "link": "https://www.ign.com/articles/were-done-paying-for-executives-failures-unionized-xbox-developers-hold-press-conference-to-make-their-point-as-microsoft-reportedly-readies-massive-layoffs",
+        "summary": "Unionized Xbox employees are pushing back against the company's looming layoffs and have outlined various demands.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Box Office Disaster Supergirl Could Reportedly Lose Warner Bros. $100 Million During Its Theatrical Run",
+        "link": "https://www.ign.com/articles/box-office-disaster-supergirl-could-reportedly-lose-warner-bros-100-million-during-its-theatrical-run",
+        "summary": "Supergirl is reportedly projected to close its theatrical run with a global box office total that could lose Warner Bros. more than $100 million.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Steam Machine Companion Cube Canceled Because Dbrand Didn't Ask Valve for Permission",
+        "link": "https://www.ign.com/articles/steam-machine-companion-cube-canceled-because-dbrand-didnt-ask-valve-for-permission",
+        "summary": "Tech accessory company dbrand has canceled its Steam Machine Companion Cube enclosure effective immediately because it didn't ask Valve for permission to make it in the first place.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'60fps Feels Like a Bridge Too far' — Tech Experts Cast Doubt on Those GTA 6 Quality and Performance Mode 'Leaks'",
+        "link": "https://www.ign.com/articles/60fps-feels-like-a-bridge-too-far-tech-experts-cast-doubt-on-those-gta-6-quality-and-performance-mode-leaks",
+        "summary": "You might have seen reports doing the rounds that GTA 6 will come with a mode that lets you play it at 60 frames per second, based on retailer listings that have emerged online. Well, like so many things around Rockstar’s upcoming gaming behemoth, do not believe everything you read.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Unionized Xbox Workers Demand Layoff Protections Ahead of Expected Cuts to Microsoft's Gaming Business",
+        "link": "https://www.ign.com/articles/unionized-xbox-workers-demand-layoff-protections-ahead-of-expected-cuts-to-microsofts-gaming-business",
+        "summary": "Unionized Xbox workers have demanded layoff protections ahead of what is reportedly a significant round of cuts to Microsoft’s gaming business.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Roblox Reveals 6 New Exclusive 18+ Games, Including an Extraction Shooter From the Co-Founder of Bungie",
+        "link": "https://www.ign.com/articles/roblox-reveals-6-new-exclusive-18-games-including-an-extraction-shooter-from-the-co-founder-of-bungie",
+        "summary": "Roblox has pulled back the curtain on a selection of six new 18+ games, including Drifters, an extraction shooter developed by Bungie co-founder Alexander Seropian.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Extended Cut of Backrooms Hits Theaters Soon With Additional 15 Minutes of 'Theatrically Exclusive' Footage After the Credits",
+        "link": "https://www.ign.com/articles/extended-cut-of-backrooms-hits-theaters-soon-with-additional-15-minutes-of-theatrically-exclusive-footage-after-the-credits",
+        "summary": "Backrooms is getting an extended cut very soon, and it's coming to theaters.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Will PS6 Be Like a Nintendo Switch? Sony Says Its Next-Gen Console Will Enable 'A Seamless Experience That Can Be Enjoyed Naturally Beyond the Living Room'",
+        "link": "https://www.ign.com/articles/will-ps6-be-like-a-nintendo-switch-sony-says-its-next-gen-console-will-enable-a-seamless-experience-that-can-be-enjoyed-naturally-beyond-the-living-room",
+        "summary": "Sony has suggested its next-gen console — widely assumed to be the PlayStation 6 — could work like the Nintendo Switch by enabling “a seamless experience that can be enjoyed naturally beyond the living room.”",
+        "source": "IGN News"
+      },
+      {
+        "title": "Steam Hit Meccha Chameleon Was Made by Just 2 People in 2 Months — and Now It's Sold Over 10 Million Copies With Zero Marketing",
+        "link": "https://www.ign.com/articles/steam-hit-meccha-chameleon-was-made-by-just-2-people-in-2-months-and-now-its-sold-over-10-million-copies-with-zero-marketing",
+        "summary": "Launching on June 10, Meccha Chameleon is a Japanese indie game that has exploded in popularity on Steam. In just 16 days, the game surpassed over 10 million sales. Over on X, one of the developers has spilled some surprising behind-the-scenes details on the making of this breakthrough indie hit.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'It Is Not Realistic for Us to Absorb All Component Cost Increases' — Sony Says It Won't Sell Hardware at a 'Significant' Loss as Concern Grows Over PS6 Price",
+        "link": "https://www.ign.com/articles/it-is-not-realistic-for-us-to-absorb-all-component-cost-increases-sony-says-it-wont-sell-hardware-at-a-significant-loss-as-concern-grows-over-ps6-price",
+        "summary": "Sony has insisted it has no plans to sell hardware at a “significant” loss, with concern growing over the potential price of the PlayStation 6 amid the ongoing RAMpocalypse.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Japanese Theme Park Gets Escape Room Experience in Which Participants Wear a 'Bomb Collar' That Gives a Real Electric Shock",
+        "link": "https://www.ign.com/articles/japanese-theme-park-gets-escape-room-experience-in-which-participants-wear-a-bomb-collar-that-gives-a-real-electric-shock",
+        "summary": "A theme park in Japan is getting an escape room experience in which participants will wear a “bomb collar” that gives a real electric shock.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fallout: New Vegas Director Says Amazon's Fallout Show Is 'One of the Best Adaptations of a Video Game Franchise' — and No, He Isn't Bothered by Dinky Facing the Wrong Way",
+        "link": "https://www.ign.com/articles/fallout-new-vegas-director-says-amazons-fallout-show-is-one-of-the-best-adaptations-of-a-video-game-franchise-and-no-he-isnt-bothered-by-dinky-facing-the-wrong-way",
+        "summary": "Fallout: New Vegas director Josh Sawyer has given Amazon’s Fallout show the thumbs up, saying it’s one of the best video game adaptations ever seen on film or television.",
+        "source": "IGN News"
+      },
+      {
+        "title": "With the Threat of Layoffs Looming, Quantic Dream Staff Say They're Going on Strike to Save Star Wars Eclipse From Cancelation",
+        "link": "https://www.ign.com/articles/with-the-threat-of-layoffs-looming-quantic-dream-staff-say-theyre-going-on-strike-to-save-star-wars-eclipse-from-cancelation",
+        "summary": "A new report has shed light on the goings on at French studio Quantic Dream and revealed concern about the future of Star Wars Eclipse.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "The AI jobs debate just got messier",
+        "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+        "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+        "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+        "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+        "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+        "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Gemini’s personalized AI image generation is now free for US users",
+        "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+        "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
+        "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+        "summary": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo and Uber quietly part ways in Phoenix",
+        "link": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+        "summary": "Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+        "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+        "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+        "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+        "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+        "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+        "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+        "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump administration threatens 92 GW of new electricity supply with red tape",
+        "link": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
+        "summary": "The Trump administration's moves threaten $121 billion in new solar and wind power, two energy sources that are the biggest contributors to new capacity in the U.S.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TIDAL cracks down on AI music by cutting off monetization",
+        "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+        "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
+        "link": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
+        "summary": "The Supreme Court's decision to limit geofence warrants is a win for privacy advocates, who called their use unconstitutional but sought an outright ban.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "WhatsApp now lets you reserve usernames",
+        "link": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/",
+        "summary": "WhatsApp username can be between 3 to 35 characters.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
+        "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
+        "summary": "The all-stock deal values Iridium at $8 billion and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Nuvectis Pharma shares slide 19% on pricing of $100M stock offering",
+        "link": "https://seekingalpha.com/news/4608283-nuvectis-pharma-shares-slide-19-on-pricing-of-100m-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Persian Gulf producers keep pushing oil, LNG loadings despite ship attacks",
+        "link": "https://seekingalpha.com/news/4608278-persian-gulf-producers-keep-pushing-oil-lng-loadings-despite-ship-attacks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

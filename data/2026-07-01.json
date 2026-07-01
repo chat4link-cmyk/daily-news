@@ -1,0 +1,278 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T12:43:46.987525+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Claude Science is Anthropic’s newest flagship product",
+        "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+        "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+        "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+        "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers:…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: AI “coworkers” and stratospheric internet",
+        "link": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Agriculture is ready for AI, but its data isn’t",
+        "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+        "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.  The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Building tech in the world’s secret R&D hub",
+        "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+        "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however,…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+        "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+        "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google detai…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+        "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+        "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI f…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Libby will filter out AI content, kind of",
+        "link": "https://www.theverge.com/column/959433/libby-ai-filter",
+        "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meet the lawyer who beat Elon Musk — twice",
+        "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+        "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to tric…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+        "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+        "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Bernie Sanders Saw This Coming",
+        "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+        "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Reacher Season 4 Returns in August, Neagley Spin-Off Lands the Following Month",
+        "link": "https://www.ign.com/articles/reacher-season-4-returns-in-august-neagley-spin-off-lands-the-following-month",
+        "summary": "Premiere dates set for Prime’s ex-MP MVPs.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ex-PlayStation Boss Defends PC Strategy as Sony Pivots Away from Multiplatform Releases",
+        "link": "https://www.ign.com/articles/ex-playstation-boss-defends-pc-strategy-as-sony-pivots-away-from-multiplatform-releases",
+        "summary": "Shawn Layden, the former President and CEO of Sony Interactive Entertainment of America, has explained why PlayStation's PC strategy made sense.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Christopher Nolan's The Odyssey Gets Official Roblox Tie-In Game",
+        "link": "https://www.ign.com/articles/christopher-nolans-the-odyssey-gets-official-roblox-tie-in-game",
+        "summary": "Christopher Nolan's The Odyssey now has an official Roblox tie-in game, which you can play right now.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hyperkin's Drakong Goes Super-Cheap With a New Pro-Style Xbox Controller",
+        "link": "https://www.ign.com/articles/hyperkins-drakong-goes-super-cheap-with-a-new-pro-style-xbox-controller",
+        "summary": "Hyperkin's young sub-brand Drakong is putting out a new Xbox and PC controller, called The Challenger, that's planted firmly in budget territory at just $35. And, somehow, it's packed with pro controller creature comforts that could make it a real contender in a crowded field of great controllers.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Card Shop Suspends Yu-Gi-Oh Tournaments Over Smelly Players",
+        "link": "https://www.ign.com/articles/card-shop-suspends-yu-gi-oh-tournaments-over-smelly-players",
+        "summary": "An Oregon card shop has halted its Yu-Gi-Oh tournaments for a week after receiving multiple complaints and bad reviews due to smelly players.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hideo Kojima's Xbox Horror Game, OD, Is Safe From Microsoft's 'Reset' Plan, but Other Games Are on the Chopping Block",
+        "link": "https://www.ign.com/articles/hideo-kojimas-xbox-horror-game-od-is-safe-from-microsofts-reset-plan-but-other-games-are-on-the-chopping-block",
+        "summary": "Hideo Kojima’s OD is set to survive Microsoft’s big “reset” of the Xbox business, IGN understands.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Developers Ask Rockstar for Union Recognition — and They're Prepared to Go to the UK Government if Necessary",
+        "link": "https://www.ign.com/articles/gta-6-developers-ask-rockstar-for-union-recognition-and-theyre-prepared-to-go-to-the-uk-government-if-necessary",
+        "summary": "Rockstar developers have applied for voluntary recognition of the IWGB Game Workers Union in a bid to make the Grand Theft Auto 6 developer the second UK games studio with a recognized union.",
+        "source": "IGN News"
+      },
+      {
+        "title": "007 First Light, Hitman Developer IO Interactive Announces Layoffs After 'Relationship With an External Partner' on Fantasy Project Ends",
+        "link": "https://www.ign.com/articles/007-first-light-hitman-developer-io-interactive-announces-layoffs-after-relationship-with-an-external-partner-on-fantasy-project-ends",
+        "summary": "007 First Light and Hitman developer IO Interactive has announced layoffs after an unexpected setback revolving around its upcoming fantasy game, which was reportedly set to be published by Xbox.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Netflix Using AI to Resurrect Gene Wilder's Voice for Willy Wonka Reality Series The Golden Ticket",
+        "link": "https://www.ign.com/articles/netflix-using-ai-to-resurrect-gene-wilders-voice-for-willy-wonka-reality-series-the-golden-ticket",
+        "summary": "Netflix has used AI technology to revive the voice of Gene Wilder for its new Willy Wonka reality show, Wonka's The Golden Ticket.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Microsoft Reportedly Considering Canceling Marvel's Blade and Shutting Arkane Down",
+        "link": "https://www.ign.com/articles/microsoft-reportedly-considering-canceling-marvels-blade-and-shutting-arkane-down",
+        "summary": "Microsoft is reportedly considering canceling Marvel’s Blade and shutting its developer, Arkane, down.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Love and Deepspace Cancels New Wolfy Love Interest Valko",
+        "link": "https://www.ign.com/articles/love-and-deepspace-cancels-new-wolfy-love-interest-valko",
+        "summary": "Otome game Love and Deepspace will no longer add new love interest Valko to its roster of potential partners.",
+        "source": "IGN News"
+      },
+      {
+        "title": "ESA Claims Private Minecraft Servers Are 'Illegal' and 'Piracy' in Stop Killing Games Hearing",
+        "link": "https://www.ign.com/articles/esa-claims-private-minecraft-servers-are-illegal-and-piracy-in-stop-killing-games-hearing",
+        "summary": "The ESA has made the head-scratching claim that private Minecraft servers are \"illegal\" and considered a form of \"piracy\" in a recent hearing.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Elder Scrolls IV: Oblivion Remastered Nintendo Switch 2 Physical Edition Includes a Proper Cartridge, Bethesda Confirms Alongside Release Date and Technical Specs",
+        "link": "https://www.ign.com/articles/the-elder-scrolls-iv-oblivion-remastered-nintendo-switch-2-physical-edition-includes-a-proper-cartridge-bethesda-confirms-alongside-release-date-and-technical-specs",
+        "summary": "Bethesda will launch The Elder Scrolls IV: Oblivion for Nintendo Switch 2 on August 11, and its physical edition will include the full base game on a cartridge.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lionel Messi Swings Alongside Tom Holland in Latest Spider-Man: Brand New Day Trailer for Some Reason",
+        "link": "https://www.ign.com/articles/lionel-messi-swings-alongside-tom-holland-in-latest-spider-man-brand-new-day-trailer-for-some-reason",
+        "summary": "Lionel Messi has appeared in the latest Spider-Man: Brand New Day trailer, which sees the World Cup superstar swinging through Manhattan alongside Tom Holland.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bananya and Crunchyroll Are Celebrating the Franchise's 10th Anniversary With a New Mobile Game and Anime Special - Exclusive",
+        "link": "https://www.ign.com/articles/bananya-and-crunchyroll-are-celebrating-the-franchises-10th-anniversary-with-a-new-mobile-game-and-anime-special-exclusive",
+        "summary": "Bananya and Crunchyroll are celebrating the beloved franchise's 10th anniversary by releasing a new mobile cat-collecting game this summer called Bananya Buddies and an anime special that will premiere at Anime Expo on July 4 before streaming on Crunchyroll on July 9.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "The “Father of the Internet” is finally retiring",
+        "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+        "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+        "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+        "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+        "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+        "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
+        "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+        "summary": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenClaw is finally available on Android and iOS",
+        "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+        "summary": "The free open source agentic program is finally invading your phone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+        "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+        "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
+        "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
+        "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+        "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+        "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
+        "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
+        "summary": "A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+        "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+        "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+        "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+        "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Acti puts AI agents directly into your smartphone keyboard",
+        "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+        "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Threads adds new features to Live Chats as it expands access",
+        "link": "https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/",
+        "summary": "The updates include translations, new tools for hosts, and more.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+        "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+        "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Blue Origin still doesn’t know why its New Glenn rocket blew up last month",
+        "link": "https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/",
+        "summary": "But the company is still claiming that New Glenn will return to flight this year.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Nike outlines revenue down low- to mid-single digits as it expects gross margin expansion to begin in Q1",
+        "link": "https://seekingalpha.com/news/4608697-nike-outlines-revenue-down-low-to-mid-single-digits-as-it-expects-gross-margin-expansion-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "FedEx in advanced talks to sell logistics business to CMA CGM for $1.4B: report",
+        "link": "https://seekingalpha.com/news/4608694-fedex-in-advanced-talks-to-sell-logistics-business-to-cma-cgm-for-14b-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

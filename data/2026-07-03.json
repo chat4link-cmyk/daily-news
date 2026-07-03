@@ -1,0 +1,272 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T11:57:32.950181+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Achieving operational excellence with AI",
+        "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Teaching AI to run with the turbines",
+        "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+        "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: a startup has a solution for AI’s groupthink problem",
+        "link": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random n…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Why California’s carbon manure math doesn’t add up",
+        "link": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+        "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s b…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+        "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+        "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+        "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
+        "link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
+        "summary": "You bought the hardware. Now you’ll need to subscribe for “expanded access” to the most advanced features.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Moana 3 Is in the Works, According to The Rock",
+        "link": "https://www.ign.com/articles/moana-3-is-in-the-works-according-to-the-rock",
+        "summary": "Moana 3 is in development at Disney, according to Dwayne 'The Rock' Johnson.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'It's Not a Comedy' — Danny McBride Details New G.I. Joe Movie, Aiming to Film in 2027",
+        "link": "https://www.ign.com/articles/its-not-a-comedy-danny-mcbride-details-new-gi-joe-movie-aiming-to-film-in-2027",
+        "summary": "Danny McBride has offered up the first details on his new G.I. Joe movie, which he confirms is not a comedy.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Steven Spielberg to Produce Film Adaptation of YouTube Horror Series The Mandela Catalogue",
+        "link": "https://www.ign.com/articles/steven-spielberg-to-produce-film-adaptation-of-youtube-horror-series-the-mandela-catalogue",
+        "summary": "Steven Spielberg is set to produce a feature film adaptation of the viral YouTube horror series The Mandela Catalogue with original creator Alex Kister attached as director.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Millie Bobby Brown Reveals She Auditioned for X-23 in Logan",
+        "link": "https://www.ign.com/articles/millie-bobby-brown-reveals-she-auditioned-for-x-23-in-logan",
+        "summary": "Stranger Things actress Millie Bobby Brown has revealed that she auditioned for the role of X-23 in Logan.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Final Fantasy 7 Revelation Getting Story Expansion Pass, Store Leak Suggests",
+        "link": "https://www.ign.com/articles/final-fantasy-7-revelation-getting-story-expansion-pass-store-leak-suggests",
+        "summary": "Final Fantasy 7 fans are getting excited for a new Story Expansion pass that has been glimpsed as part of a new store leak.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Avowed, The Outer Worlds, and Fallout: New Vegas Developer Obsidian Entertainment Reportedly NOT at Risk of Closure Amid Xbox 'Reset'",
+        "link": "https://www.ign.com/articles/avowed-the-outer-worlds-and-fallout-new-vegas-developer-obsidian-entertainment-reportedly-also-at-risk-of-closure-amid-xbox-reset",
+        "summary": "Bloomberg's Jason Schreier has said The Game Business report about Obsidian is incorrect, and that the studio is not in negotiations to avoid shutting down.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Even KFC Is Dunking on Sony as the Dust Settles on PlayStation's Shock Decision to Kill Physical Game Discs",
+        "link": "https://www.ign.com/articles/even-kfc-is-dunking-on-sony-as-the-dust-settles-on-playstations-shock-decision-to-kill-physical-game-discs",
+        "summary": "Yesterday's bombshell news from Sony that it will stop releasing new PlayStation games on disc from 2028 onwards has generated a predictively negative response online — to the extent that celebrities and major brands from beyond the world of gaming have also joined in.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'He Was on the Valium or Something': Matt Smith Can't Believe Keanu Reeves Was Spotted Watching the Infamously Terrible Movie Morbius on a Flight",
+        "link": "https://www.ign.com/articles/he-was-on-the-valium-or-something-matt-smith-cant-believe-keanu-reeves-was-spotted-watching-the-infamously-terrible-movie-morbius-on-a-flight",
+        "summary": "Doctor Who and House of the Dragon star Matt Smith can't believe that Matrix legend Keanu Reeves was recently spotted watching his infamously terrible superhero movie Morbius while on a flight.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Apple TV Teases Neuromancer Adaptation With an Iconic Line From William Gibson's Influential Cyberpunk Novel",
+        "link": "https://www.ign.com/articles/apple-tv-teases-neuromancer-adaptation-with-an-iconic-line-from-william-gibsons-influential-cyberpunk-novel",
+        "summary": "\"The sky above the port was the color of television, tuned to a dead channel.\" That’s the iconic opening sentence of William Gibson’s influential novel, Neuromancer, which charted a path forward for the cyberpunk genre that continues even now, over four decades later. And it is a line Apple TV has u…",
+        "source": "IGN News"
+      },
+      {
+        "title": "'I'll Do a Time Capsule for Them': How Long Will Hugh Jackman Play Wolverine? Marvel Star Suggests There's No Need to Think About Handing Over The Role Just Yet",
+        "link": "https://www.ign.com/articles/ill-do-a-time-capsule-for-them-how-long-will-hugh-jackman-play-wolverine-marvel-star-suggests-theres-no-need-to-think-about-handing-over-the-role-just-yet",
+        "summary": "X-Men star Hugh Jackman has suggested he won't be done playing Wolverine anytime soon.",
+        "source": "IGN News"
+      },
+      {
+        "title": "ESRB Leaks Warhammer 40,000: Space Marine - Master Crafted Edition for PS5 and Nintendo Switch 2",
+        "link": "https://www.ign.com/articles/esrb-leaks-warhammer-40000-space-marine-master-crafted-edition-for-ps5-and-nintendo-switch-2",
+        "summary": "Warhammer 40,000: Space Marine - Master Crafted Edition looks set for PlayStation 5 and Nintendo Switch 2, having launched on PC, Xbox Series X and S, and straight into Xbox Game Pass in June last year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA Online Beginner’s Guide",
+        "link": "https://www.gamespot.com/articles/gta-online-beginners-guide/",
+        "summary": "With the GTA 6 release date creeping up ever faster, you might want to scratch the GTA-shaped itch that we're all getting. GTA Online has been around for years, but there's never been a better time to jump into the sprawling sandbox. If you've never stepped foot in Rockstar's shared open-world multi…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "GTA Online Doesn’t Tell You These Things, But It Should",
+        "link": "https://www.gamespot.com/articles/gta-online-doesnt-tell-you-these-things-but-it-should/",
+        "summary": "If you've been playing GTA Online for a little while now, you might be familiar with the basics but there's so much more hidden under the surface. The game has come a long way since its 2013 launch, adding new businesses, heists, vehicles, and other improvements that make Los Santos more accessible …",
+        "source": "GameSpot"
+      },
+      {
+        "title": "What To Buy First In GTA Online",
+        "link": "https://www.gamespot.com/articles/what-to-buy-first-in-gta-online/",
+        "summary": "If you're new to GTA Online, or just coming back ahead of the GTA 6 release date , you might want to know the best first purchases. Joining, or rejoining, the game can feel a bit overwhelming due to its size and the number of regular updates GTA Online has had since its release in 2013. While it mig…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "All Phasmophobia Difficulty Levels And Differences Explained",
+        "link": "https://www.gamespot.com/articles/all-phasmophobia-difficulty-levels-and-differences-explained/",
+        "summary": "Phasmophobia offers five preset difficulty options, plus a custom and challenge mode, for you to choose from. But these difficulty levels don’t simply dictate how aggressive the ghost will be; they also influence critical aspects such as how much official evidence you can gather, how quickly your Sa…",
+        "source": "GameSpot"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+        "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+        "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Private space pilots are flying orbital missions for the US Space Force",
+        "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+        "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+        "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+        "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+        "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+        "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+        "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+        "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+        "summary": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta quietly launches vibe-coded gaming app Pocket",
+        "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+        "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
+        "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+        "summary": "Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the costs and benefits of services.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+        "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+        "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
+        "summary": "A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
+        "link": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
+        "summary": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+        "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+        "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+        "summary": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
+        "link": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
+        "summary": "The company announced a new slate of executive hires meant to help turn things around, as Gravity SUV sales are not taking off as expected.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+        "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+        "summary": "A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+        "link": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html",
+        "summary": "Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Strategy’s bitcoin trading policy creates risks for broader markets, says JPMorgan",
+        "link": "https://www.investing.com/news/cryptocurrency-news/strategys-bitcoin-trading-policy-creates-risks-for-broader-markets-says-jpmorgan-4773820",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "BTCC Exchange Sees Trading Volume Surge Ahead of Argentina Match Days as World Cup Showdown Campaign Heats Up",
+        "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-sees-trading-volume-surge-ahead-of-argentina-match-days-as-world-cup-showdown-campaign-heats-up-4773293",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Natural gas set to surpass oil as top U.S. energy source by 2030",
+        "link": "https://seekingalpha.com/news/4609802-natural-gas-set-to-surpass-oil-as-top-u-s-energy-source-by-2030?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Grupo Aeroméxico reports 9% drop in June passengers amid domestic slowdown",
+        "link": "https://seekingalpha.com/news/4609796-grupo-aeromexico-reports-9-drop-in-june-passengers-amid-domestic-slowdown?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

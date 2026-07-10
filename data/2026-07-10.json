@@ -1,0 +1,302 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T12:00:33.565750+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+        "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Four nuclear reactors hit a big milestone in the US",
+        "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+        "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Microsoft’s carbon emissions went up 25 percent last year",
+        "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+        "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Micro…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+        "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The ChatGPT browser is already dead",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+        "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is target…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google will now tell you if an ad was made with AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+        "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft’s patch Tuesdays are about to get bigger",
+        "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+        "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+        "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam Altman called it \"the b…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta says its new AI model is ready to compete on coding",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+        "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvem…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Say hello to Claude Wrapped",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+        "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Character.AI wants a piece of the microdrama pie",
+        "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+        "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+        "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+        "summary": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gop…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+        "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+        "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+        "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+        "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "'To Continue Being Produced Long Term, Games Need to Succeed, Not Just Be Beloved' — John Carmack Responds to id Software Layoffs",
+        "link": "https://www.ign.com/articles/to-continue-being-produced-long-term-games-need-to-succeed-not-just-be-beloved-john-carmack-responds-to-id-software-layoffs",
+        "summary": "John Carmack has responded to the significant layoffs at Doom developer id Software, expressing sadness but not “anger or outrage.”",
+        "source": "IGN News"
+      },
+      {
+        "title": "Naruto Live-Action Movie Director, Studio Launch Worldwide Casting Search for Lead Roles",
+        "link": "https://www.ign.com/articles/naruto-live-action-movie-global-casting-search",
+        "summary": "Lionsgate and live-action Naruto movie director Destin Daniel Cretton announced via social media Thursday that they will launch a global casting search for the roles of Team 7’s three young shinobi Naruto, Sasuke and Sakura.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox CEO Asha Sharma Is Advising the Federal Reserve on the Economic Impact of AI as Part of a 'Productivity and Jobs' Taskforce",
+        "link": "https://www.ign.com/articles/xbox-ceo-asha-sharma-is-advising-the-federal-reserve-on-the-economic-impact-of-ai-as-part-of-a-productivity-and-jobs-taskforce",
+        "summary": "The Federal Reserve has called on Xbox CEO Asha Sharma to help it assess the economic impact of new technologies, including AI, as part of a 'Productivity and Jobs' taskforce.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty: Black Ops 1 and 2 Ports Out Now on PS5, But They Come at a High Cost",
+        "link": "https://www.ign.com/articles/call-of-duty-black-ops-1-and-2-ports-out-now-on-ps5-but-they-come-at-a-high-cost",
+        "summary": "Call of Duty: Black Ops 1 and 2 are now available on PS4 and PS5, but they won't come cheap.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Assassin's Creed Black Flag Resynced Has Already Earned the Series' Biggest Player Peak on Steam",
+        "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-has-already-earned-the-series-biggest-player-peak-on-steam",
+        "summary": "Assassin's Creed Black Flag Resynced is off to a strong start on Steam, with around 100,000 concurrent players — more than any other title in the franchise to date.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Love and Deepspace Fans Continue Calls for Valko's Return After Update Excludes Him",
+        "link": "https://www.ign.com/articles/love-and-deepspace-fans-continue-calls-for-valkos-return-after-update-excludes-him",
+        "summary": "Despite a passionate campaign from fans, the maker of the romance game Love and Deepspace appears to be – at least for now – sticking with its decision to exclude the new love interest Valko from the latest update.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Everything Announced at the Pokémon Go 10 Year Anniversary Celebration Livestream",
+        "link": "https://www.ign.com/articles/everything-announced-at-the-pokmon-go-10-year-anniversary-celebration-livestream",
+        "summary": "Pokémon Go celebrated its 10th anniversary with a very special livestream — and we covered all of the announcements and surprises as they happened.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA Online's Next Big Update, the Kortz Center Heist, Releases Next Week, and Fans Have Already Spotted a Few Rockstar-Related Easter Eggs",
+        "link": "https://www.ign.com/articles/gta-onlines-next-big-update-the-kortz-center-heist-releases-next-week-and-fans-have-already-spotted-a-few-rockstar-related-easter-eggs",
+        "summary": "GTA Online's next big update, The Kortz Center Heist, will officially release next week, and fans have already spotted a few Rockstar-related Easter eggs.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Godzilla Minus Zero Teaser Trailer Shows That Dropping a Nuke on the Legendary King of the Monsters Might Just Make It Angry",
+        "link": "https://www.ign.com/articles/godzilla-minus-zero-teaser-trailer-shows-that-dropping-a-nuke-on-the-legendary-king-of-the-monsters-might-just-make-it-angry",
+        "summary": "The hotly anticipated Godzilla Minus Zero has a new teaser trailer, this time showing a desperate humanity dropping a nuke on the main monster itself.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nickelodeon’s San Diego Comic-Con 2026 Plans Include a Slime-Fueled Outdoor Experience",
+        "link": "https://www.ign.com/articles/nickelodeon-san-diego-comic-con-2026-plans",
+        "summary": "Nickelodeon will be back at this year’s San Diego Comic-Con in a big, slime-soaked way. Attendees can visit Nick’s Fun-Ergy Factory on the convention center floor as well as the huge outdoor activation called “Fun Flows Here” at The New Children’s Museum’s park. Full details within.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Scream Operator: Haunted House Manager Announced for PC",
+        "link": "https://www.ign.com/articles/scream-operator-haunted-house-manager-announced-for-pc",
+        "summary": "If you've ever wanted to operate Disneyland's classic Haunted Mansion ride, this game's for you. Introducing Scream Operator: Haunted House Manager, a game that, as the name suggests, lets you operate, manage, upgrade, and maintain a successful haunted house – all from the control booth of the ride.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Former Dragon Age Lead Writer Says BioWare's Fantasy Series is Unlikely to Ever Return Under EA — Though He Knows What He'd Do With Dragon Age 5 if He Made It",
+        "link": "https://www.ign.com/articles/former-dragon-age-lead-writer-says-biowares-fantasy-series-is-unlikely-to-ever-return-under-ea-though-he-knows-what-hed-do-with-dragon-age-5-if-he-made-it",
+        "summary": "Former Dragon Age lead writer David Gaider doesn't think BioWare's fantasy series will return while owned by publisher EA — though knows what he'd do if a fifth game was ever made.",
+        "source": "IGN News"
+      },
+      {
+        "title": "MobLand Season 2 Trailer Confirms Paramount+ Release Date and a First Look at the Returning Tom Hardy — but Will He Appear in Season 3?",
+        "link": "https://www.ign.com/articles/mobland-season-2-trailer-confirms-paramount-release-date-and-a-first-look-at-the-returning-tom-hardy-but-will-he-appear-in-season-3",
+        "summary": "MobLand Season 2 has its debut trailer and a release date, showing a first look at Tom Hardy’s Harry Da Souza following the events of Season 1.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Doubts Microsoft Would Be Able to Sell Off Xbox in Its Entirety Even if It Wanted To, but Big Companies May Try to Buy Parts of It",
+        "link": "https://www.ign.com/articles/doubts-microsoft-would-be-able-to-sell-off-xbox-in-its-entirety-even-if-it-wanted-to-but-big-companies-may-try-to-buy-parts-of-it",
+        "summary": "One of the big questions emerging from Asha Sharma’s appointment as Xbox CEO earlier this year, and the subsequent layoffs and restructuring that have occurred in recent days, revolves around the long-term future of Microsoft’s gaming business. Will Microsoft sell off Xbox? Are the changes that star…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Laid-Off MindsEye Developers Plan Protest Outside Company Office Over 'All-Expenses-Paid Playtest Day'",
+        "link": "https://www.ign.com/articles/laid-off-mindseye-developers-plan-protest-outside-company-office-over-all-expenses-paid-playtest-day",
+        "summary": "MindsEye developers who have lost their jobs will protest outside the studio’s office over what they have described as an “all-expenses-paid playtest day.”",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+        "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+        "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
+        "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+        "summary": "The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+        "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+        "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI launches its new family of models with GPT-5.6",
+        "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+        "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "An AI agent startup just let its agent run its $100M fundraise",
+        "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+        "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+        "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+        "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+        "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+        "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Can AI answer the $3 trillion question?",
+        "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+        "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+        "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+        "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
+        "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
+        "summary": "In this week’s episode of Build Mode,  Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders should avoid in order to get funded.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+        "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+        "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Slate Auto teams up with Crayola to color its EV truck",
+        "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/",
+        "summary": "Slate has an answer for owners who have always want to drive a truck with bright crayon colors.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
+        "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
+        "summary": "The video call highlights the murky relationship between professional athletes and gambling apps.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mercor is in talks for a $20B valuation",
+        "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
+        "summary": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google will now disclose which ads are made with AI",
+        "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+        "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+        "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+        "summary": "A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin rises nearly 2%, tops $63k as risk sentiment improves, oil prices fall",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-nurses-losses-near-62k-as-usiran-conflict-reescalates-4782988",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Crude oil drops on expectations that renewed U.S.-Iran fighting will not last",
+        "link": "https://seekingalpha.com/news/4612789-crude-oil-drops-on-expectations-that-renewed-us-iran-fighting-will-not-last?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

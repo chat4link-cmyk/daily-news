@@ -1,0 +1,290 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T11:25:44.006924+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+        "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Why heat pumps are still so hot in the US",
+        "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+        "summary": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+        "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a…",
+        "source": "VentureBeat AI"
+      },
+      {
+        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+        "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+        "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents stil…",
+        "source": "VentureBeat AI"
+      },
+      {
+        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+        "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+        "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define th…",
+        "source": "VentureBeat AI"
+      },
+      {
+        "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+        "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+        "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated ev…",
+        "source": "VentureBeat AI"
+      },
+      {
+        "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+        "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] po…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google is renaming NotebookLM to Gemini Notebook",
+        "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+        "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Claude can now use your 1Password credentials for you",
+        "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+        "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing onlin…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google ordered to open Android and Search to rivals in Europe",
+        "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+        "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Computer cops",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+        "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told m…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+        "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+        "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+        "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+        "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Please Stop Making Me Opt Out of AI",
+        "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+        "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "God of War Show Filming Paused After Kratos Actor Ryan Hurst Tears Bicep Filming Stunt",
+        "link": "https://www.ign.com/articles/god-of-war-show-filming-paused-after-kratos-actor-ryan-hurst-tears-bicep-filming-stunt",
+        "summary": "Kratos suffered a big injury while filming for Amazon MGM and Sony Pictures’ God of War show, with TMZ reporting that star Ryan Hurst tore his bicep, putting production on hold.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Game of Thrones: War for Westeros Release Date Delayed to Early 2027",
+        "link": "https://www.ign.com/articles/game-of-thrones-war-for-westeros-release-date-delayed-to-early-2027",
+        "summary": "PlaySide Studios has pushed back the release window for Game of Thrones: War for Westeros, a real-time strategy game set in the universe of the HBO series adaptation.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Assassin's Creed Black Flag Resynced Director Reveals Why Ubisoft Ditched Edward's Hidden Blade Combat",
+        "link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-director-reveals-why-ubisoft-ditched-edwards-hidden-blade-combat",
+        "summary": "Richard Knight, director of Assassin’s Creed Black Flag Resynced, explained why Edward Kenway is missing some of his most beloved fighting moves — and why fans shouldn’t lose hope that they’ll never come back.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Google Pixel 11 Specs Leak Ahead of Next Month’s Unveiling",
+        "link": "https://www.ign.com/articles/google-pixel-11-specs-leak-ahead-of-next-months-unveiling",
+        "summary": "Early leaks for the Google Pixel 11, Pro, and Pro Fold reveal potential specs, a variety of new colors, and a price increase across the lineup.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Backrooms Director Kane Parsons Promises He’s 'Looking Into' A24 Copyright Strikes on Fan Art",
+        "link": "https://www.ign.com/articles/backrooms-director-kane-parsons-promises-hes-looking-into-a24-copyright-strikes-on-fan-art",
+        "summary": "Kane Parsons has promised Backrooms fans that he’s investigating copyright strikes from A24 against content creators for artwork inspired by the creepypasta-turned-blockbuster.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Hacker Moved to Prison for Retrial Two Years After Indefinite Sentence to Secure Hospital",
+        "link": "https://www.ign.com/articles/gta-6-hacker-moved-to-prison-for-retrial-two-years-after-indefinite-sentence-to-secure-hospital",
+        "summary": "The hacker behind the massive GTA 6 leak in September 2022 has been released from indefinite imprisonment at a secure hospital and is now awaiting a retrial.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Robert Pattinson Thought Matt Damon Was a 'Complete Psycho' When He Heard Him 'Screaming' to Prepare for The Odyssey",
+        "link": "https://www.ign.com/articles/robert-pattinson-thought-matt-damon-was-a-complete-psycho-when-he-heard-him-screaming-to-prepare-for-the-odyssey",
+        "summary": "Robert Pattinson has recalled a moment when he thought Matt Damon was \"a complete psycho\" before learning he was \"screaming and screaming and screaming\" to prepare for his role in The Odyssey.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lost Fan Simon Pegg 'Loved' the Show But Has at Least One Idea to Fix Its Ending",
+        "link": "https://www.ign.com/articles/lost-fan-simon-pegg-loved-the-show-but-has-at-least-one-idea-to-fix-its-ending",
+        "summary": "Shaun of the Dead star Simon Pegg has said he \"loved\" ABC's 2000s TV show Lost, but he's got at least one idea that he thinks would fix its ending.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Microsoft Restores Player's 25-Year-Old Account With Son's Baby Photos After Nuking It Due to Hacker",
+        "link": "https://www.ign.com/articles/microsoft-restores-players-25-year-old-account-with-sons-baby-photos-after-nuking-it-due-to-hacker",
+        "summary": "Microsoft has restored a player’s access to his 25-year-old account, which contained photos of his son and thousands of dollars worth of games.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GameStop CEO Ryan Cohen Insists Sony Killing Physical Discs 'Doesn't Matter at All' Because Video Game Sales Make Up So Little of His Business",
+        "link": "https://www.ign.com/articles/gamestop-ceo-ryan-cohen-insists-sony-killing-physical-discs-doesnt-matter-at-all-because-video-game-sales-make-up-so-little-of-his-business",
+        "summary": "GameStop CEO Ryan Cohen has sparked a fiery debate in the gaming community after remarking that sales of physical games are “totally irrelevant\" to his business.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pro Jank Footy Release Date Confirmed, Arrives August",
+        "link": "https://www.ign.com/articles/pro-jank-footy-release-date-confirmed-arrives-august",
+        "summary": "Insanity-fuelled, NBA Jam-inspired take on Australian Rules Football less than a month away.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Official Street Fighter 6 Fragrances Let You Smell Just Like Juri, Ed, and Ingrid",
+        "link": "https://www.ign.com/articles/official-street-fighter-6-fragrances-let-you-smell-just-like-juri-ed-and-ingrid",
+        "summary": "Wanna smell like a fighter (minus all the blood and sweat, that is)? Well then, you’re in luck, because three characters from Street Fighter 6 are getting their own official scents, courtesy of a special collaboration between Capcom and Gaming Fragrances.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel's Wolverine Trailer Features First Look at Lady Deathstrike",
+        "link": "https://www.ign.com/articles/marvels-wolverine-trailer-features-first-look-at-lady-deathstrike",
+        "summary": "PlayStation and Insomniac Games have unleashed a new trailer for Marvel's Wolverine, revealing more about the PS5 game as Logan meets up with Sabretooth and Lady Deathstrike.",
+        "source": "IGN News"
+      },
+      {
+        "title": "God of War Laufey Star Deborah Ann Woll 'Totally Unbothered' by Online Hate Surrounding the Game",
+        "link": "https://www.ign.com/articles/god-of-war-laufey-star-deborah-ann-woll-totally-unbothered-by-online-hate-surrounding-the-game",
+        "summary": "God of War Laufey star Deborah Ann Woll says she's \"totally unbothered\" by the online hate surrounding her new PS5 exclusive because she knows \"it's great.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "OnePlus Is Exiting the U.S. Market",
+        "link": "https://www.ign.com/articles/oneplus-is-exiting-the-us-market",
+        "summary": "OnePlus has announced its departure from the U.S. and European mobile phone markets, though the company confirms it will continue to support existing devices with software updates and warranties.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+        "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+        "summary": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+        "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+        "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+        "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+        "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+        "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+        "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google Vids now lets you star in your own AI videos",
+        "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+        "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+        "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+        "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Oil giant BP shutters its corporate venture arm after 20 years",
+        "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
+        "summary": "BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
+        "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
+        "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outside China.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+        "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+        "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X cracks down on creators who steal content",
+        "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
+        "summary": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
+        "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+        "summary": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s AI Mode now lets you link and interact with select apps",
+        "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+        "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
+        "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
+        "summary": "Google said users can soon access their notebooks through AI Mode in Search.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Yes, you can now order DoorDash from the command line",
+        "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+        "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
+        "link": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
+        "summary": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London’s metropolitan transit system.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin dips amid slide in tech stocks, U.S.-Iran tensions, and hawkish rate cues",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-645k-as-markets-parse-cooling-rate-jitters-iran-tensions-4794658",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Oil pipelines bypassing Strait of Hormuz would not end threat to Middle East crude exports",
+        "link": "https://seekingalpha.com/news/4614734-oil-pipelines-bypassing-strait-of-hormuz-would-not-end-threat-to-middle-east-crude-exports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

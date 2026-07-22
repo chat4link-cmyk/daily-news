@@ -1,0 +1,290 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T11:28:00.837092+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+        "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insul…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Advancing next-gen AI with materials science innovation",
+        "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+        "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+        "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+        "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features charact…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+        "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to g…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Substack adds an AI detector to help spot blogs written by no one",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+        "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post publis…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+        "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Martínez-Olguín writes that the settlement will provide \"meanin…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+        "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+        "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such a…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Halliday’s latest smart glasses feature a much-improved display",
+        "link": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+        "summary": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, espec…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "America needs to stop getting shocked by Chinese AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+        "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+        "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+        "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+        "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+        "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+        "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+        "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+        "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+        "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Halliday’s New Smart Glasses Skip the Camera",
+        "link": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
+        "summary": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
+        "link": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
+        "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Former Tekken Director Katsuhiro Harada Reveals He Totally Misunderstood What Getting Invited To the Cookout Meant After Fans Loved the Leroy Smith Reveal",
+        "link": "https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-reveals-he-totally-misunderstood-what-getting-invited-to-the-cookout-meant-after-fans-loved-the-leroy-smith-reveal",
+        "summary": "Katsuhiro Harada, former director of the Tekken series, opened up about a hilarious misunderstanding he had with his international fans after revealing Leroy Smith for Tekken 7.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ed Harris Reveals Dutton Ranch Scene Producers Cut That Made Him Want to Quit the Yellowstone Spinoff",
+        "link": "https://www.ign.com/articles/ed-harris-reveals-dutton-ranch-scene-producers-cut-that-made-him-want-to-quit-the-yellowstone-spinoff",
+        "summary": "Ed Harris felt “misled” by his role on Yellowstone spinoff series Dutton Ranch, saying he nearly wanted to void his contract over issues with how his character, Everett McKinney, was used… or rather, how he wasn’t used.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New La La Land Poster Finally Fixes Issue That Bothered Ryan Gosling for Years",
+        "link": "https://www.ign.com/articles/new-la-la-land-poster-finally-fixes-issue-that-bothered-ryan-gosling-for-years",
+        "summary": "An updated version of the La La Land movie poster has finally fixed an issue that’s haunted Ryan Gosling for nearly a decade.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ghost in the Shell Fans Can't Decide if the New Prime Video Series Is Better Than the 1995 Movie",
+        "link": "https://www.ign.com/articles/ghost-in-the-shell-fans-cant-decide-if-the-new-prime-video-series-is-better-than-the-1995-movie",
+        "summary": "Fans of Masamune Shirow’s Ghost in the Shell manga are at odds with 1995 film adaptation truthers after Science Saru’s 2026 Prime Video anime sparked a heated debate in the community.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Metal Gear Solid Creator Hideo Kojima Quips That He Wants to Die in a Movie Theater, Just as the Film Itself Is About to Start",
+        "link": "https://www.ign.com/articles/metal-gear-solid-creator-hideo-kojima-quips-that-he-wants-to-die-in-a-movie-theater-just-as-the-film-itself-is-about-to-start",
+        "summary": "Veteran game director and self-confessed movie buff Hideo Kojima revealed that he’d like to pass away in a movie theater, just as the film itself is about to start.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lara Croft’s Acrobatics Were So Important to Tomb Raider: Legacy of Atlantis That Actress Alix Wilton Regan Started Rock-Climbing to Get Into Character",
+        "link": "https://www.ign.com/articles/lara-crofts-acrobatics-were-so-important-to-tomb-raider-legacy-of-atlantis-that-actress-alix-wilton-regan-started-rock-climbing-to-get-into-character",
+        "summary": "The minds at Crystal Dynamics and Flying Wild Hog explained why bringing back Lara Croft’s iconic acrobatics and movement was so important to Tomb Raider: Legacy of Atlantis, and fans couldn’t be happier about it.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dbrand's Steam Machine Wraps Are Here",
+        "link": "https://www.ign.com/articles/dbrands-steam-machine-wraps-are-here",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "A Free Dungeon Crawler Carl Flash Game Is Now Available to Play Online",
+        "link": "https://www.ign.com/articles/a-free-dungeon-crawler-carl-flash-game-is-now-available-to-play-online",
+        "summary": "Dungeon Crawler Carl just got its first free Flash game that stars none other than Princess Donut.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Robocop Gets New Reboot Series Coming to Prime Video",
+        "link": "https://www.ign.com/articles/robocop-gets-new-reboot-series-coming-to-prime-video",
+        "summary": "An eight-episode Robocop series is coming to Prime Video, with The Conjuring creator James Wan set to executive produce.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'No Banner, Only Hulk': The Final Spider-Man: Brand New Day Trailer Is Here, With a Few New Shots",
+        "link": "https://www.ign.com/articles/no-banner-only-hulk-the-final-spider-man-brand-new-day-trailer-is-here-with-a-few-new-shots",
+        "summary": "With just two weeks to go until Spider-Man: Brand New Day, today brings the film's final trailer — which contains a few new shots from the upcoming blockbuster.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Disney Layoffs Hit Hundreds of Staff, With Pixar Cuts Reportedly in Part Due to Underperformance of Hoppers",
+        "link": "https://www.ign.com/articles/disney-layoffs-hit-hundreds-of-staff-with-pixar-cuts-reportedly-in-part-due-to-underperformance-of-hoppers",
+        "summary": "Disney has today laid off hundreds of staff, with workers at Toy Story and Inside Out animation studio Pixar particularly impacted.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Kaylee Hottle, Who Played Jia in Godzilla vs. Kong and Godzilla X Kong: The New Empire, Dies Aged 18",
+        "link": "https://www.ign.com/articles/kaylee-hottle-who-played-jia-in-godzilla-vs-kong-and-godzilla-x-kong-the-new-empire-dies-aged-18",
+        "summary": "Godzilla vs. Kong actress Kaylee Hottle has died aged 18.",
+        "source": "IGN News"
+      },
+      {
+        "title": "San Diego Comic-Con 2026: How to Watch and What to Expect",
+        "link": "https://www.ign.com/articles/san-diego-comic-con-2026-how-to-watch-and-what-to-expect",
+        "summary": "San Diego Comic-Con is nearly here and this watch guide will ensure you don't miss a thing, from the biggest moments from the show floor, Marvel's Hall H Presentation, and more, to IGN's live shows that will bring you exclusive reveals from the biggest names in gaming and entertainment.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The X-Files LEGO Set Has Gillian Anderson Snapping on a Pair of Latex Gloves Once More",
+        "link": "https://www.ign.com/articles/the-x-files-lego-set-has-gillian-anderson-snapping-on-a-pair-of-latex-gloves-once-more",
+        "summary": "X-Files star Gillian Anderson has unveiled the series' long-awaited LEGO set, which goes on sale next month priced $200.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'We've Been Going Full Speed Ahead for Over 11 years': Nintendo Explains Why It Hasn't Made Splatoon 4 — Yet",
+        "link": "https://www.ign.com/articles/weve-been-going-full-speed-ahead-for-over-11-years-nintendo-explains-why-it-hasnt-made-splatoon-4-yet",
+        "summary": "Nintendo's brand new Switch 2 exclusive Splatoon Raiders is receiving rave reviews — but where's Splatoon 4? Speaking in a behind-the-scenes interview, the series' developers have explained why they wanted to launch a co-operative spinoff first.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+        "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+        "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+        "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+        "summary": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta is testing an AI bedtime story app for people with no imagination",
+        "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+        "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These are the countries moving to ban social media for children",
+        "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+        "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI says Hugging Face was breached by its pre-release models",
+        "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+        "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+        "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+        "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI and the rise of the universal entertainment app",
+        "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+        "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+        "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
+        "summary": "Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Einride bets $38M on EV charging as it scales electric trucking",
+        "link": "https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/",
+        "summary": "The acquisition — Einride's first as a publicly traded company — will expand its EV-charging ecosystem as it works to scale its electric trucking business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+        "link": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
+        "summary": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Data centers expected to use 4x more electricity by 2035",
+        "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+        "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+        "link": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+        "summary": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google releases three new Gemini models — but no 3.5 Pro",
+        "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+        "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Instagram now lets you swap out the music in your old posts",
+        "link": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
+        "summary": "With the new \"Replace Audio\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, and reach intact.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Threads rolls out parental supervision tools",
+        "link": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
+        "summary": "With the new tools, parents and guardians will be able to view their teen's time spent on Threads, set daily time limits, adjust sleep mode, and manage their privacy settings.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "World still has 'substantial' emergency oil reserves after record release, IEA says",
+        "link": "https://seekingalpha.com/news/4616270-world-still-has-substantial-emergency-oil-reserves-after-record-release-iea-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

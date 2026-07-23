@@ -1,0 +1,272 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T11:32:58.625000+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+        "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the en…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+        "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+        "summary": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a st…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+        "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+        "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Park…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AMD commits up to $5 billion to  Anthropic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+        "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios r…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta made its own AI detection system. It should have just used Google’s",
+        "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+        "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Utility companies promise to spare us from AI’s energy bill",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+        "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+        "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+        "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+        "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+        "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Don't Watch the Brilliantly Disgusting Clayface Trailer While You're Eating",
+        "link": "https://www.ign.com/articles/dont-watch-the-brilliantly-disgusting-clayface-trailer-while-youre-eating",
+        "summary": "DC Studios has released a new trailer for Clayface, and while it looks super cool, I wouldn’t recommend watching it while eating.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Shenmue Fans Get Count Binface — a Man Dressed as a Trash Can Who's Going Up Against Nigel Farage in a UK Election — to Call on Sega to Make Shenmue 4",
+        "link": "https://www.ign.com/articles/shenmue-fans-get-count-binface-a-man-dressed-as-a-trash-can-whos-going-up-against-nigel-farage-in-a-uk-election-to-call-on-sega-to-make-shenmue-4",
+        "summary": "Count Binface has called on Sega to make Shenmue 4.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Trek Legend William Shatner and His Daughter Melanie Reveal They Battled Stage 4 Cancer at the Same Time",
+        "link": "https://www.ign.com/articles/star-trek-legend-william-shatner-and-his-daughter-melanie-reveal-they-battled-stage-4-cancer-at-the-same-time",
+        "summary": "William Shatner and his daughter Melanie have said they battled stage 4 cancer at the same time.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Microsoft Announces Xbox Backward Compatibility on PC, With New Features and Achievements",
+        "link": "https://www.ign.com/articles/microsoft-announces-xbox-backward-compatibility-on-pc-with-new-features-and-achievements",
+        "summary": "Microsoft has announced Xbox Backward Compatibility on PC, allowing you to play classic console games on PC and handhelds such as the Xbox Ally X for the first time.",
+        "source": "IGN News"
+      },
+      {
+        "title": "[UPDATE] Stalker 2 Dev Hits Out at Founder's Comments on Xbox Exclusivity, Insist He Doesn't Know What He's Talking About",
+        "link": "https://www.ign.com/articles/stalker-2-turned-a-profit-before-it-came-out-thanks-to-money-microsoft-paid-for-xbox-exclusivity",
+        "summary": "The founder of Stalker 2 developer GSC Game World has said the game turned a profit before it even came out thanks to the money Microsoft paid for Xbox exclusivity.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Kevin Feige Says Marvel Has Movies Planned 'All the Way Up to 2042,' Including a Major X-Men Push and Live-Action Miles Morales",
+        "link": "https://www.ign.com/articles/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to-2042-including-a-major-x-men-push-and-live-action-miles-morales",
+        "summary": "Marvel has mapped out its movie plans up to 2042, studio boss Kevin Feige has said, hinting at a \"streamlined, simplified\" universe post-Avengers: Secret Wars, a big push for the new X-Men, and plans to eventually unveil a live-action Miles Morales.",
+        "source": "IGN News"
+      },
+      {
+        "title": "How Luke and Anakin's Missing Hands Reshaped Kylo Ren's Lightsaber - Exclusive",
+        "link": "https://www.ign.com/articles/why-kylo-ren-lightsaber-has-crossguard",
+        "summary": "Star Wars: The Force Awakens 3D modeling supervisor Jet Cooper exclusively reveals how Luke Skywalker and Darth Vader’s severed hands directly inspired the design of Kylo Ren’s crossguard lightsaber.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Avengers: Doomsday Trailer Has Some Fans Saying Marvel Should Have Built Up Towards Doctor Doom's Appearance Like It Did for Thanos — but There's a Clear Counterpoint",
+        "link": "https://www.ign.com/articles/avengers-doomsday-trailer-has-some-fans-saying-marvel-should-have-built-up-towards-doctor-dooms-appearance-like-it-did-for-thanos-but-theres-a-clear-counterpoint",
+        "summary": "The Avengers: Doomsday trailer has some fans saying Marvel should have built up towards Doctor Doom's appearance like it did for Thanos — but there's a clear counterpoint.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Black Lake Horror Game Announced for PC",
+        "link": "https://www.ign.com/articles/black-lake-horror-game-announced-for-pc",
+        "summary": "First-person horror games are some of our favorite kind, as they bring the scary stuff right in front of your character's eyes. In Black Lake, developer Polydin Studio ups that ante by setting this spooky psychological/survival horror game not just in an abandoned orphanage in search of your missing…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Elon Musk Claims That Before the End of 2026, Grok Will Make a Full-Length AI Movie of The Odyssey 'That Is Historically Accurate and True to the Art of Homer'",
+        "link": "https://www.ign.com/articles/elon-musk-claims-that-before-the-end-of-2026-grok-will-make-a-full-length-ai-movie-of-the-odyssey-that-is-historically-accurate-and-true-to-the-art-of-homer",
+        "summary": "Elon Musk has claimed that Grok will make an AI movie of The Odyssey “that is historically accurate and true to the art of Homer,” by the end of 2026. He did not make any claim about whether it would be any good.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Working With Harry Potter Child Actors is 'Brutal,' HBO Cinematographer Says, Because They Have to Mostly Attend School",
+        "link": "https://www.ign.com/articles/working-with-harry-potter-child-actors-is-brutal-hbo-cinematographer-says-because-they-have-to-mostly-attend-school",
+        "summary": "Working with child actors on HBO's Harry Potter TV series is a \"brutal\" experience, the show's cinematographer has said, as the young stars have to spend most of their time off set, in school classes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man Producer Hopes Tom Holland Sticks Around in His Role 'Forever' — Even Though He's Already Discussed Handing Over the Marvel Character to a Younger Star",
+        "link": "https://www.ign.com/articles/spider-man-producer-hopes-tom-holland-sticks-around-in-his-role-forever-even-though-hes-already-discussed-handing-over-the-marvel-character-to-a-younger-star",
+        "summary": "Veteran Spider-Man producer Amy Pascal has said she hopes Tom Holland will play the role \"forever\" — despite the actor having already discussed handing over the part to a younger star.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Total War: Warhammer 40,000 Named Character List Swells With Another Ork Warboss — and a Hint at How They Will Work in the Game",
+        "link": "https://www.ign.com/articles/total-war-warhammer-40000-named-character-list-swells-with-another-ork-warboss-and-a-hint-at-how-they-will-work-in-the-game",
+        "summary": "Games Workshop has confirmed that Ork Warboss Nazdreg Ug Urdgrub is not only getting a new miniature for the Warhammer 40,000 tabletop game, but that he’s also in Creative Assembly’s upcoming strategy game, Total War: Warhammer 40,000.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Starfield Modder is Trying to Make The Game's Spaceship Take-Offs as Seamless as Possible, But Admits Landings 'Probably Won't Ever Happen'",
+        "link": "https://www.ign.com/articles/starfield-modder-is-trying-to-make-the-games-spaceship-take-offs-as-seamless-as-possible-but-admits-landings-probably-wont-ever-happen",
+        "summary": "A talented Starfield modder is working to improve one of the game's most disappointing features — its disjointed spaceship take-off and flight sequence.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Global Second-Hand Video Game Market Is Valued at $7.2 Billion, but Sony's Decision to Kill PlayStation Discs Threatens to Destroy It, Analysts Say",
+        "link": "https://www.ign.com/articles/the-global-second-hand-video-game-market-is-valued-at-72-billion-but-sonys-decision-to-kill-playstation-discs-threatens-to-destroy-it-analysts-say",
+        "summary": "Sony’s decision to end production of PlayStation discs for new games from 2028 threatens to destroy the second-hand market, analysts have said.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+        "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+        "summary": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Social media addiction lawsuit against Meta is dropped",
+        "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+        "summary": "A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+        "link": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+        "summary": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent musicians.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+        "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+        "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+        "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Science Corporation’s vision-restoring chip wins EU approval",
+        "link": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
+        "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+        "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+        "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+        "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+        "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic’s $500M Series …",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Monday.com lays off hundreds to focus on AI",
+        "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+        "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google is making it easier to switch from iPhone to Android",
+        "link": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
+        "summary": "The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+        "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+        "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+        "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+        "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+        "link": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
+        "summary": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin coils at $65,865 as MACD flips bearish: Live levels",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-64k-range-doji-at-resistance-live-levels-93CH-4800901",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Squad Gold Rush Offers Top Bybit Referral Teams a Share of Up to 100,000 USDT Airdrop, Plus XAUT Lucky-Draw Rewards",
+        "link": "https://www.investing.com/news/cryptocurrency-news/squad-gold-rush-offers-top-bybit-referral-teams-a-share-of-up-to-100000-usdt-airdrop-plus-xaut-luckydraw-rewards-4805822",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bybit Presents Exclusive $1M Prize Pool for Stock-Themed Trading As Wall Street Enters Earnings Season",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bybit-presents-exclusive-1m-prize-pool-for-stockthemed-trading-as-wall-street-enters-earnings-season-4805346",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Aevo Puts One-Tap Downside Protection in Traders’ Pockets With PERPS+ on Mobile",
+        "link": "https://www.investing.com/news/cryptocurrency-news/aevo-puts-onetap-downside-protection-in-traders-pockets-with-perps-on-mobile-4804902",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

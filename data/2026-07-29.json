@@ -1,0 +1,266 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T11:21:46.606908+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+        "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.  —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+        "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+        "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "AI leaders sign a statement asking the government to do something about automated AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+        "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance e…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI’s finally expensive enough to make Wall Street nervous",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+        "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company h…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+        "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Smart rings are looking like my kind of AI gadget",
+        "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+        "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots o…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Hugging Face is being used to easily undress women and children",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+        "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+        "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+        "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+        "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+        "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+        "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+        "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Hugging Face Has a Deepfake Nudes Problem",
+        "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+        "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Destin Daniel Cretton Admits He Was 'Sad' When Avengers: Kang Dynasty Got Canceled",
+        "link": "https://www.ign.com/articles/destin-daniel-cretton-admits-he-was-sad-when-avengers-kang-dynasty-got-canceled",
+        "summary": "The Spider-Man: Brand New Day director admitted to feeling disappointed when Marvel’s carefully-crafted buildup to Kang the Conqueror didn’t pan out as originally planned.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Vast Majority of Capcom's 2026 Game Sales Have Been Digital",
+        "link": "https://www.ign.com/articles/the-vast-majority-of-capcoms-2026-game-sales-have-been-digital",
+        "summary": "Capcom’s Q1 report for the 2026 fiscal year is out, and it’s making a lot of players uneasy.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Battling Spider-Man: Brand New Day Post-Credit Scene Leaks, Scrubbing Social Media Via Copyright Claims",
+        "link": "https://www.ign.com/articles/sony-battling-spider-man-brand-new-day-post-credit-scene-leaks-scrubbing-social-media-via-copyright-claims",
+        "summary": "Sony is battling a major Spider-Man: Brand New Day leak, and using copyright claims to scrub the movie's post-credits scene from social media.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fortnite Adds New Spider-Man, Hulk, and Punisher Skins in Brand New Day Crossover",
+        "link": "https://www.ign.com/articles/fortnite-adds-new-spider-man-hulk-and-punisher-skins-in-brand-new-day-crossover",
+        "summary": "Spider-Man: Brand New Day is taking over Fortnite as part of a brand new crossover.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Michael B. Jordan Says He 'Can't Wait' to See David Jonsson as the Next Black Panther",
+        "link": "https://www.ign.com/articles/michael-b-jordan-says-he-cant-wait-to-see-david-jonsson-as-the-next-black-panther",
+        "summary": "Michael B. Jordan has given his approval for the casting of David Jonsson as the next Black Panther in the MCU.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Speaks Out After Double Fine Lays Off 25 Percent of Staff in Transition to Independent Status",
+        "link": "https://www.ign.com/articles/xbox-speaks-out-after-double-fine-lays-off-25-percent-of-staff-in-transition-to-independent-status",
+        "summary": "Double Fine, best known for creating the 2005 platform game Psychonauts, has laid off 25.6% of its staff three weeks after Xbox’s massive restructuring efforts were revealed.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Demon Slayer: Infinity Castle Is Finally Streaming on Crunchyroll",
+        "link": "https://www.ign.com/articles/how-to-watch-demon-slayer-kimetsu-no-yaiba-movie-infinity-castle-streaming",
+        "summary": "Demon Slayer: Kimetsu No Yaiba Infinity Castle is finally streaming on Crunchyroll.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dexter: Resurrection Season 2 First Look Teases Return of Quinn, New Kills, and More",
+        "link": "https://www.ign.com/articles/dexter-resurrection-season-2-first-look-teases-return-of-quinn-new-kills-and-more",
+        "summary": "The first official look at Dexter: Resurrection Season 2 has been released, and it seems like Dex will be reckoning with his past once again.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty: Black Ops Fans Can't Agree on Which Map to Play",
+        "link": "https://www.ign.com/articles/call-of-duty-black-ops-fans-cant-agree-on-which-map-to-play",
+        "summary": "Call of Duty: Black Ops fans are growing frustrated by players who refuse to vote for different maps.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Confirms PlayStation Plus Monthly Games for August 2026, Headlined by Dying Light 2: Stay Human",
+        "link": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-august-2026-headlined-by-dying-light-2-stay-human",
+        "summary": "Sony has confirmed the PlayStation Plus monthly games lineup for August 2026 — and it includes Dying Light 2: Stay Human: Reloaded Edition.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Warhammer 40,000 Maker Games Workshop Confirms It Investigated 'A Few Human Errors' on Product Images to Make Sure Its Staff Hadn't Used AI",
+        "link": "https://www.ign.com/articles/warhammer-40000-maker-games-workshop-confirms-it-investigated-a-few-human-errors-on-product-images-to-make-sure-its-staff-hadnt-used-ai",
+        "summary": "Warhammer company Games Workshop has said it investigated what it called “a few human errors” on the depiction of its products to make sure its staff hadn’t used AI.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Cyberpunk: Edgerunners 2.5 Brawler Reportedly in Development From CD Projekt and Shantae Studio WayForward",
+        "link": "https://www.ign.com/articles/cyberpunk-edgerunners-25-brawler-reportedly-in-development-from-cd-projekt-and-shantae-studio-wayforward",
+        "summary": "Cyberpunk: Edgerunners is being turned into a 2.5D brawler by Shantae developer WayForward, it's been reported.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sauron Uses a Legendary Item From The Lord of the Rings Lore to Fend Off the Balrog in The Rings of Power Season 3",
+        "link": "https://www.ign.com/articles/sauron-uses-a-legendary-item-from-the-lord-of-the-rings-lore-to-fend-off-the-balrog-in-the-rings-of-power-season-3",
+        "summary": "Prime Video has revealed a first look at Sauron taking on the Balrog in Season 3 of The Rings of Power, and in doing so confirmed that the Dark Lord uses a legendary item from The Lord of the Rings lore in the fight.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'I Thought This Would Be Drama Free, How Wrong I Was' — Games Workshop Secured a £7.8 Million Refund on Donald Trump's Tariffs, but Iran War Threatens Supply Chain",
+        "link": "https://www.ign.com/articles/i-thought-this-would-be-drama-free-how-wrong-i-was-games-workshop-secured-a-78-million-refund-on-donald-trumps-tariffs-but-iran-war-threatens-supply-chain",
+        "summary": "The boss of Warhammer maker Games Workshop has said the company managed to secure a £7.8 million (approx. $10.3 million) refund on Donald Trump’s tariffs, but other issues, such as the Iran War, threaten its supply chain.",
+        "source": "IGN News"
+      },
+      {
+        "title": "After 15 Years, Resident Evil 5 Has Finally Been Dethroned as The Series' Best-Selling Game",
+        "link": "https://www.ign.com/articles/after-15-years-resident-evil-5-has-finally-been-dethroned-as-the-series-best-selling-game",
+        "summary": "After 15 years, Resident Evil 5 is no longer the highest-selling entry in Capcom's survival horror series, the publisher has revealed.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+        "summary": "The deal is Cyera's third acquisition this year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bot-detection startup Spur nabs $200M from Insight",
+        "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+        "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+        "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+        "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sam Altman is ready to decelerate",
+        "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+        "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
+        "link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+        "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
+        "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
+        "summary": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+        "link": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+        "summary": "Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
+        "link": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
+        "summary": "Ina and David Steiner inspired the ire of high-level eBay executives after occasionally criticizing the company in their newsletter. In 2019, a plot was concocted to intimidate the couple into halting their negative coverage.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+        "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+        "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding to your Home Screen.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
+        "link": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
+        "summary": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form content on platforms like TikTok and Instagram Reels.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Saudi prince buys 5% stake in Lucid Motors",
+        "link": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
+        "summary": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+        "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+        "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+        "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+        "summary": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk’s X Money app is rolling out in the US",
+        "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+        "summary": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "WhatsApp now lets you make calls using its web app",
+        "link": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
+        "summary": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin briefly slips below $62k amid tech sell-off, Fed decision uncertainty",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-10day-low-near-63k-as-tech-selloff-fed-uncertainty-weigh-4815471",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

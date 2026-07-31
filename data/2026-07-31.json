@@ -1,0 +1,302 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T11:38:12.574005+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+        "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+        "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: tricking LLMs, and reviving geothermal plants",
+        "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a fundamental…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+        "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+        "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+        "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+        "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The loss of Situational Awareness",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+        "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+        "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+        "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+        "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announ…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+        "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+        "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This mo…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+        "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+        "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+        "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+        "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+        "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+        "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+        "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+        "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The New Friend AI Pendant Can Now Talk Back to You",
+        "link": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+        "summary": "Avi Schiffmann has a new version of his controversial AI companion. It’s more expensive, and you can’t change its personality.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+        "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+        "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
+        "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+        "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "How a Skyrim Username Error Left an Innocent Man to Serve 18 Months in Jail",
+        "link": "https://www.ign.com/articles/how-a-skyrim-username-error-left-an-innocent-man-to-serve-18-months-in-jail",
+        "summary": "An innocent Canadian wrongly served 18 months in prison after Wisconsin police misspelled his Skyrim-inspired internet username.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Elder Scrolls Online Content Delayed to 2027 Following Xbox Layoffs",
+        "link": "https://www.ign.com/articles/the-elder-scrolls-online-content-delayed-to-2027-following-xbox-layoffs",
+        "summary": "The Elder Scrolls Online is undergoing some setbacks as a result of Xbox's recent reset and associated layoffs.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Valve Says Steam Machine Reservations Will Be Filled By End of 2026",
+        "link": "https://www.ign.com/articles/valve-says-steam-machine-reservations-will-be-filled-by-end-of-2026",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Neon Genesis Evangelion Is Coming to Criterion Channel in September",
+        "link": "https://www.ign.com/articles/neon-genesis-evangelion-criterion-channel-september",
+        "summary": "Hideaki Anno’s legendary anime Neon Genesis Evangelion will officially stream on the Criterion Channel this September. Get the release details here.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Of Course Jason Momoa's Blanka Does the Electrocution X-Ray Skeleton Attack in the Street Fighter Movie",
+        "link": "https://www.ign.com/articles/of-course-jason-momoas-blanka-does-the-electrocution-x-ray-skeleton-attack-in-the-street-fighter-movie",
+        "summary": "We have a new look at the upcoming Street Fighter movie, this time showing off a decent chunk of a fight between Ryu and Blanka.",
+        "source": "IGN News"
+      },
+      {
+        "title": "After Pathfinder and One of the Best Warhammer 40,000 Games Ever Made, Owlcat's Next Step Is to Top Them All — and It's Grown to 600 People to Do It",
+        "link": "https://www.ign.com/articles/after-pathfinder-and-one-of-the-best-warhammer-40000-games-ever-made-owlcats-next-step-is-to-top-them-all-and-its-grown-to-600-people-to-do-it",
+        "summary": "After Pathfinder and one of the best Warhammer 40,000 games ever made, Owlcat's next step is to top them all — and it's grown to 600 people to do it.",
+        "source": "IGN News"
+      },
+      {
+        "title": "EXCLUSIVE: How The Expanse: Osiris Reborn's Progression System Works, Plus Brand New Screenshots",
+        "link": "https://www.ign.com/articles/exclusive-how-the-expanse-osiris-reborns-progression-system-works-plus-brand-new-screenshots",
+        "summary": "The Expanse: Osiris Reborn is a third-person action RPG that has major Mass Effect vibes. But what’s different with this game is that your gear, not your class, defines the way you fight — and we’ve got exclusive details and screenshots to tell you how it all works.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'We Are a Little Bit Masochistic' — Developers Are Running Scared of Baldur's Gate 4, but Warhammer 40,000: Rogue Trader Studio Owlcat Would Consider It a 'Great Challenge'",
+        "link": "https://www.ign.com/articles/we-are-a-little-bit-masochistic-developers-are-running-scared-of-baldurs-gate-4-but-warhammer-40000-rogue-trader-studio-owlcat-would-consider-it-a-great-challenge",
+        "summary": "Baldur’s Gate 4 appears to have developers running scared because they’re worried about meeting expectations set by Larian’s Baldur’s Gate 3. But one developer has said they would consider making the game a “great challenge” — although they’d avoid simply replicating what had gone before.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Helldivers 2 x Warhammer 40,000 Castellan's Creed Legendary Warbond Fully Revealed, Weapons and Armor Shown Off, Release Date Confirmed",
+        "link": "https://www.ign.com/articles/helldivers-2-x-warhammer-40000-castellans-creed-legendary-warbond-fully-revealed-weapons-and-armor-shown-off-release-date-confirmed",
+        "summary": "As promised, we have the full reveal of the Helldivers 2 x Warhammer 40,000 Legendary Warbond today, a first look at the weapons and armor it will include, and a release date.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Long-Lost Pokémon Game Apparently Pops Up on eBay After 20 Years — Though You'll Need $9,000 to Buy It",
+        "link": "https://www.ign.com/articles/long-lost-pokemon-game-apparently-pops-up-on-ebay-after-20-years-though-youll-need-9000-to-buy-it",
+        "summary": "A long-lost Pokémon game briefly available in Japan 20 years ago appears to have popped up on eBay, priced at around $9,000.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Christopher Nolan's The Odyssey Sparks Assassin's Creed: Odyssey Player Count Spike, Gives Ubisoft 'Great Ammunition' for a Remake",
+        "link": "https://www.ign.com/articles/christopher-nolans-the-odyssey-sparks-assassins-creed-odyssey-player-count-spike-gives-ubisoft-great-ammunition-for-a-remake",
+        "summary": "Ubisoft's excellent Assassin's Creed Odyssey is enjoying a big spike in active players, following the launch of Christopher Nolan's The Odyssey.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Cyberpunk 2077 Quest The Hunt, With Its Creepy Cartoon and Disturbing Braindance, Was Meant to Feel Like True Detective",
+        "link": "https://www.ign.com/articles/cyberpunk-2077-quest-the-hunt-and-its-creepy-cartoon-was-meant-to-feel-like-true-detective",
+        "summary": "Cyberpunk 2077 is nearly six years old, but fans are still reminiscing about some of its best parts, and its developers are still revealing fresh insights into its creation.",
+        "source": "IGN News"
+      },
+      {
+        "title": "In a Bid for New Viewers, The Lord of the Rings: The Rings of Power Season 3 Begins With a Fellowship-Style Prologue",
+        "link": "https://www.ign.com/articles/in-a-bid-for-new-viewers-the-lord-of-the-rings-rings-of-power-season-3-begins-with-a-fellowship-style-prologue",
+        "summary": "The Lord of the Rings: The Rings of Power will begin its third season with a Fellowship of the Ring-style prologue, designed to explain the series' status quo to new or lapsed viewers.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Divisive Harfoots Take a 'Backseat' in The Lord of the Rings: The Rings of Power Season 3",
+        "link": "https://www.ign.com/articles/the-divisive-harfoots-take-a-backseat-in-the-lord-of-the-rings-the-rings-of-power-season-3",
+        "summary": "Don’t expect to see the Harfoots in The Lord of the Rings: The Rings of Power Season 3. They’re taking a “backseat,” co-showrunner J.D. Payne has said.",
+        "source": "IGN News"
+      },
+      {
+        "title": "EA Says Saudi Takeover Deal Is Set To Close Next Week",
+        "link": "https://www.gamespot.com/articles/ea-says-saudi-takeover-deal-is-set-to-close-next-week/",
+        "summary": "Electronic Arts will become a private company again very soon, with the gaming giant set to be acquired by an investors' group led by the Saudi Arabian government. As revealed in today's SEC filing , \"all regulatory approvals required to complete the Merger have been obtained. Electronic Arts curren…",
+        "source": "GameSpot"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+        "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+        "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+        "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+        "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+        "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+        "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Investors love AI, as long as you’re a cloud host",
+        "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+        "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+        "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+        "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+        "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+        "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+        "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+        "summary": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+        "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+        "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+        "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+        "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+        "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+        "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+        "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+        "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+        "summary": "Add another member to the fast-and-furious AI unicorn club: Simile.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
+        "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
+        "summary": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Okta buys AI security startup Permiso — source says for about $200M",
+        "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+        "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+        "link": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+        "summary": "While the GDP number was below expectations, the miss appeared to come from a decline in federal government spending and inventories.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin caught up in broader risk asset rally; Strategy swings to quarterly loss",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-64k-amid-rates-iran-jitters-strategy-earnings-on-tap-4822491",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Exclusive: Bitget Wallet to launch Assetback, with cashback pays out in BTC, Gold",
+        "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-wallet-to-launch-assetback-with-cashback-pays-out-in-bitcoin-4823045",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

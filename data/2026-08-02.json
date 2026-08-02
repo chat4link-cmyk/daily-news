@@ -1,0 +1,176 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T11:37:43.393827+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Is this Billboard Hot 100 hit AI slop?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+        "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many specula…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+        "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+        "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+        "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+        "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Spider-Man: Brand New Day Beats Avengers: Endgame Record to Claim Biggest Domestic Opening Day of All Time",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-beats-avengers-endgame-record-to-claim-biggest-domestic-opening-day-of-all-time",
+        "summary": "Marvel Studios' Spider-Man: Brand New Day has broken yet another record after webbing up a whopping $168 million at the domestic box office on its opening day.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Game of Thrones: The Mad King Reveals Full Stage Cast and First Portrait",
+        "link": "https://www.ign.com/articles/game-of-thrones-the-mad-king-cast-first-look",
+        "summary": "See the first official cast photo for Game of Thrones: The Mad King stage play, featuring King Aerys II, Rhaegar Targaryen, Young Ned Stark, and more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Vincent Pastore, The Sopranos Actor, Dies at 80",
+        "link": "https://www.ign.com/articles/vincent-pastore-the-sopranos-actor-dies-at-80",
+        "summary": "Vincent Pastore, the actor best known for playing Salvatore Bonpensiero in the groundbreaking TV series The Sopranos, has died at 80.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Elden Ring Players Are Hoping for Godwyn DLC After FromSoftware Shares Cryptic Social Media Post",
+        "link": "https://www.ign.com/articles/elden-ring-players-are-hoping-for-godwyn-dlc-after-fromsoftware-shares-cryptic-social-media-post",
+        "summary": "It's been two years since FromSoftware released its Shadow of the Erdtree expansion, but a new post from the developer has some fans believing that even more Elden Ring DLC is on the way.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Barbie 2 Will Have to Start from Scratch if Warner Bros. Can't Make a Deal With Talent by December",
+        "link": "https://www.ign.com/articles/barbie-2-will-have-to-start-from-scratch-if-warner-bros-cant-make-a-deal-with-talent-by-december",
+        "summary": "Negotiations for Barbie 2 have come to a halt, and if Warner Bros. can't make a deal by December 2026, it will lose director Greta Gerwig, writer Noah Baumbach, and stars Margot Robbie and Ryan Gosling.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Palworld TCG Prices Skyrocket as eBay Scalpers Profit Off of Card Game Launch",
+        "link": "https://www.ign.com/articles/palworld-tcg-prices-skyrocket-as-ebay-scalpers-profit-off-of-card-game-launch",
+        "summary": "The Palworld TCG has officially launched, and so too has a wave of scalpers looking to make a quick buck on developer Pocketpair's new collectible cards.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Preorder Beast of Reincarnation At A Discount And Get Some DLC For Free",
+        "link": "https://www.gamespot.com/articles/preorder-beast-of-reincarnation-at-a-discount-and-get-some-dlc-for-free/",
+        "summary": "Beast of Reincarnation is an interesting action RPG. Developed by Game Freak, the studio behind the beloved Pokemon series, it's a chance for the developer to step out from Pikachu's enormous shadow and create something fresh. If you're looking to give it a chance, you can preorder a Steam key at a …",
+        "source": "GameSpot"
+      },
+      {
+        "title": "What we've been playing - \"The dev team all moved to Hawaii to make this one, and you can tell\"",
+        "link": "https://www.eurogamer.net/what-weve-been-playing-dev-team-moved-to-hawaii",
+        "summary": "Hello, pinch, punch and all that, and welcome back to our regular feature where we write a little about the games we've been playing. This week, Marie goes thrifting, Connor discovers the virtues of oxcarts, Dom goes back to an all-time favourite, and Kelsey gets cosy with... nautical horror? Sounds…",
+        "source": "Eurogamer"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Inside the London hacker house taking a stand against founder burnout",
+        "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+        "summary": "How one founder house is betting work-life balance can beat burnout .",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+        "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+        "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+        "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sam Altman is still making the case for parenting via ChatGPT",
+        "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+        "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This $9 key physically locks your most addictive apps",
+        "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+        "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+        "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+        "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apps that help you break free from doomscrolling and get active",
+        "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+        "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What’s the best handheld mini fan?",
+        "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+        "summary": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+        "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+        "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+        "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+        "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+        "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+        "summary": "Reddit may still be considering ending its licensing deal with Google.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
+        "link": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
+        "summary": "Autonomous vehicle giant disturbs residents' sleep.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Defcon's new badge is a security key you can see inside",
+        "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
+        "summary": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+        "link": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+        "summary": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+        "source": "Ars Technica"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Data center power boom in focus as 12 of 16 utility stocks beat EPS estimates this week: Earnings Scorecard",
+        "link": "https://seekingalpha.com/news/4623050-12-out-of-16-utility-stocks-deliver-eps-wins-this-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

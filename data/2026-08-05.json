@@ -1,0 +1,290 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T11:19:11.161244+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell  Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite a…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+        "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+        "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings ca…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "SpaceX made more revenue as an AI company than a space company",
+        "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+        "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "How an OpenAI influencer trip backfired",
+        "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+        "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and pro…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "‘Not healthy’ LLM use is more common than you think",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+        "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestor…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Texas says data centers must pass an audit before connecting to the grid",
+        "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+        "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+        "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"carele…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Can Reddit fend off a new wave of AI SEO spam?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+        "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't pers…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+        "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+        "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+        "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+        "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Is This Poker Player Bluffing? The AI Thinks So",
+        "link": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+        "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
+        "source": "Wired AI"
+      },
+      {
+        "title": "How One Startup Built a (Mostly) China-Free Robot",
+        "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+        "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+        "link": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+        "summary": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "How Data Centers Broke American Politics",
+        "link": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
+        "summary": "What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Mistral Is in the Right Place at the Right Time",
+        "link": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+        "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Joke Game Priced at 200 Dollars Rakes In $1.3 Million on Steam Before Thousands of Players Refund It",
+        "link": "https://www.ign.com/articles/joke-game-priced-at-200-dollars-rakes-in-13-million-on-steam-before-thousands-of-players-refund-it",
+        "summary": "The teenaged developer of a joke game titled This Game Costs 200 Dollars almost made over $1 million before thousands of players refunded it.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man Theory May Change How You See Brand New Day's Ending",
+        "link": "https://www.ign.com/articles/spider-man-theory-may-change-how-you-see-brand-new-days-ending",
+        "summary": "A new Spider-Man: Brand New Day fan theory may help explain the ending of the film.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man: Brand New Day Reportedly Cut a Scene With a Fan-Favorite Daredevil Character And It Might've Fixed a Plot Hole",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-reportedly-cut-a-scene-with-a-fan-favorite-daredevil-character-and-it-mightve-fixed-a-plot-hole",
+        "summary": "Spider-Man: Brand New Day almost had even more MCU cameos, and one of them may have fixed a slight plot hole.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Tom Holland and Zendaya Are On an Unprecedented Box Office Run",
+        "link": "https://www.ign.com/articles/tom-holland-and-zendaya-are-on-an-unprecedented-box-office-run",
+        "summary": "Tom Holland and Zendaya could set some astonishing records this year thanks to Spider-Man: Brand New Day and The Odyssey.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Halo: Campaign Evolved Reportedly Had a Troubled Development That Impacted a Now-Canceled Multiplayer Project",
+        "link": "https://www.ign.com/articles/halo-campaign-evolved-reportedly-had-a-troubled-development-that-impacted-a-now-canceled-multiplayer-project",
+        "summary": "A new report suggests that Halo: Campaign Evolved had a fairly troubled development.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Oded Fehr Gives First Look at Ardeth Bay in The Mummy 4",
+        "link": "https://www.ign.com/articles/oded-fehr-gives-first-look-at-ardeth-bay-in-the-mummy-4",
+        "summary": "Ardeth Bay is returning in The Mummy 4, as is his original actor Oded Fehr, who gave fans a sneak peek at what the character looks like after all these years.",
+        "source": "IGN News"
+      },
+      {
+        "title": "EA Acquisition by Saudi Arabia's PIF, Silver Lake, and Jared Kushner's Affinity Partners Is Now Complete",
+        "link": "https://www.ign.com/articles/ea-acquisition-by-saudi-arabias-pif-silver-lake-and-jared-kushners-affinity-partners-is-now-complete",
+        "summary": "EA has officially completed its $55 billion acquisition to an investor group comprised of Saudia Arabia's Public Investment Fund, Silver Lake, and Affinity Partners.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Naoki Hamaguchi Doubles Down on Connecting All Final Fantasy VII Spin-Offs Into Revelation’s Ending",
+        "link": "https://www.ign.com/articles/naoki-hamaguchi-doubles-down-on-connecting-all-final-fantasy-vii-spinoffs-into-revelations-ending",
+        "summary": "Final Fantasy VII Revelation director Naoki Hamaguchi opened up on the game’s connection to the Advent Children film, saying that more than one of FF7’s spin-offs are going to tie into the game’s ending.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man: Brand New Day Loses Place in the Top 10 MCU Movies on Rotten Tomatoes Following Record-Breaking Opening",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-loses-place-in-the-top-10-mcu-movies-on-rotten-tomatoes-following-record-breaking-opening",
+        "summary": "Spider-Man: Brand New Day is no longer among the top 10 highest-rated MCU films on Rotten Tomatoes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Capcom Is Making a Life-Sized Leon Kennedy Statue for Resident Evil’s 30th Anniversary, and of Course the Internet Is Being Totally Normal About It",
+        "link": "https://www.ign.com/articles/capcom-is-making-a-life-sized-leon-kennedy-statue-for-resident-evils-30th-anniversary-and-of-course-the-internet-is-being-totally-normal-about-it",
+        "summary": "Capcom is preparing for Resident Evil’s 30th anniversary exhibition in Shibuya, and to celebrate, it’s commissioning a life-sized statue of the beloved horror series’ poster boy, Leon S. Kennedy.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Microsoft Reportedly Planned to Continue Disc Support Before the Xbox 'Reset'",
+        "link": "https://www.ign.com/articles/xbox-will-reportedly-continue-to-support-physical-discs-following-ps6-backlash",
+        "summary": "Digital Foundry's John Linneman says Microsoft planned to continue to support physical discs before the recent \"reset\" of the Xbox business, but it is unclear if the company will now do so with its next-gen console, Project Helix.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The RAM Crisis Seems to Be Expanding to Motherboards Now",
+        "link": "https://www.ign.com/articles/the-ram-crisis-seems-to-be-expanding-to-motherboards-now",
+        "summary": "According to a post on Board Channels, Motherboards will be going up in price during Q3 2026, making for yet another PC component to go up in price this year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'Obviously It's Hugely Disappointing': Doctor Who Ex-Showrunner Says That Solving The Show's 'Knotty Problems' Will Take 'Time'",
+        "link": "https://www.ign.com/articles/obviously-its-hugely-disappointing-doctor-who-ex-showrunner-says-that-solving-the-shows-knotty-problems-will-take-time",
+        "summary": "Solving the \"problems\" currently plaguing Doctor Who will take time, the series' former showrunner Chris Chibnall has cautioned, explaining that the show's most pressing issue now is \"primarily about money.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "'It Would Be a Real Shame for That Culture to Disappear': Final Fantasy 7 Revelation Director Says Physical Game Releases Must Continue",
+        "link": "https://www.ign.com/articles/it-would-be-a-real-shame-for-that-culture-to-disappear-final-fantasy-7-revelation-director-says-physical-game-releases-must-continue",
+        "summary": "Final Fantasy 7 Remake trilogy director Naoki Hamaguchi has said that the end of physical games risked part of our culture disappearing, in the wake of Sony's controversial decision to kill PlayStation 5 discs.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gears of War: E-Day Open Beta Leads Xbox Game Pass August 2026 Lineup",
+        "link": "https://www.ign.com/articles/gears-of-war-e-day-open-beta-leads-xbox-game-pass-august-2026-lineup",
+        "summary": "The first half of August will see a long list of games join Xbox Game Pass, as well as the Gears of War: E-Day open beta for Game Pass Ultimate or PC Game Pass subscribers.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+        "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+        "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+        "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+        "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+        "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+        "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+        "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+        "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+        "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+        "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+        "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+        "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+        "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+        "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+        "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo opens up robotaxi service in Dallas to everyone",
+        "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+        "summary": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Take an extra $100 off your TechCrunch Disrupt 2026 pass: This week only!",
+        "link": "https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/",
+        "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
+        "link": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+        "summary": "Bingers is a new TV and movie tracker that revives the social features fans loved with TV Time, while adding support for importing their viewing history.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
+        "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+        "summary": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain-monitoring firms.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify expands AI remix and covers project with Merlin partnership",
+        "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+        "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring …",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+        "link": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+        "summary": "The commentary pointed to a highly volatile environment in which purchasing managers were struggling to stay ahead",
+        "source": "CNBC Markets"
+      }
+    ]
+  }
+}

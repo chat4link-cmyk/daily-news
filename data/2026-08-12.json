@@ -1,0 +1,296 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T10:30:50.218007+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+        "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+        "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.  That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next da…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+        "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become th…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+        "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+        "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posti…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ChatGPT and Gemini both just passed 1 billion users",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's C…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Another OpenAI executive takes off",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+        "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next h…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Made by Google 2026: all the Pixel news and announcements",
+        "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+        "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+        "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+        "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+        "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The e…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Why your Amazon order confirmation emails have become so unhelpful",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+        "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Sho…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+        "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+        "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will all…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Claude will apply invisible watermarks to AI text and images",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+        "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The AI takeover of mathematics has begun",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+        "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adap…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+        "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+        "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+        "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+        "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI Is Dead. Organoids Are Alive",
+        "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+        "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Zack Snyder Returns to Warner Bros. Lot Years After DCEU Exit",
+        "link": "https://www.ign.com/articles/zack-snyder-returns-to-warner-bros-lot-years-after-dceu-exit",
+        "summary": "Zack Snyder made a surprise return to the Warner Bros. lot years after his messy DCEU exit, sparking speculation about his future with the studio.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ewan McGregor Wants to Spend the 'Rest of His Career' Playing Obi-Wan Kenobi",
+        "link": "https://www.ign.com/articles/ewan-mcgregor-wants-to-spend-the-rest-of-his-career-playing-obi-wan-kenobi",
+        "summary": "Ewan McGregor is really eager to pick up his lightsaber for another Obi-Wan Kenobi adventure, should Disney give him the opportunity.",
+        "source": "IGN News"
+      },
+      {
+        "title": "HBO's Harry Potter Casts Nicholas Hoult as Gilderoy Lockhart in Season 2",
+        "link": "https://www.ign.com/articles/harry-potter-hbo-nicholas-hoult-gilderoy-lockhart",
+        "summary": "Nicholas Hoult has reportedly been cast as Gilderoy Lockhart in Season 2 of HBO's Harry Potter series, taking over the Defense Against the Dark Arts role.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Stop Killing Games Joins Dutch Consumer Group's $457M Lawsuit Against Sony Over Digital Store 'Monopoly'",
+        "link": "https://www.ign.com/articles/stop-killing-games-joins-dutch-consumer-groups-457m-lawsuit-against-sony-over-digital-store-monopoly",
+        "summary": "The Stop Killing Games movement is officially suing Sony, claiming the company’s “monopoly” over the video game market is blatantly “against the law.”",
+        "source": "IGN News"
+      },
+      {
+        "title": "Purported Xbox Elite Series 3 Controller Prototype Somehow Ends Up in a Customer's Hands",
+        "link": "https://www.ign.com/articles/xbox-elite-series-3-controller-prototype-somehow-ends-up-in-a-customers-hands",
+        "summary": "The Xbox Elite Series 3 Wireless Controller hasn't even been officially announced yet, but a purported prototype has seemingly found its way into the hands of someone who thought they were buying an Elite Series 2 controller on the retail website OfferUp.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Office, Wonder Woman, and Shaun of the Dead Actor Lucy Davis Reveals Terminal Cancer Diagnosis",
+        "link": "https://www.ign.com/articles/the-office-wonder-woman-and-shaun-of-the-dead-actor-lucy-davis-reveals-terminal-cancer-diagnosis",
+        "summary": "Lucy Davis, best known for her roles in the original U.K. version of The Office, Wonder Woman, and Shaun of the Dead, has revealed that she’s been diagnosed with terminal cancer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Crimson Desert Dev Conducting 'Extensive Research' on Multiplayer Modes, Plots Potential Sequels",
+        "link": "https://www.ign.com/articles/crimson-desert-dev-conducting-extensive-research-on-multiplayer-modes-plots-potential-sequels",
+        "summary": "Pearl Abyss has detailed its plans for smash hit action role-playing game Crimson Desert, confirming it is exploring multiplayer modes. Meanwhile, we have a target launch window for the Nintendo Switch 2 version, and talk of potential sequels.",
+        "source": "IGN News"
+      },
+      {
+        "title": "House of the Dragon Showrunner Reveals Who Should Win the Iron Throne",
+        "link": "https://www.ign.com/articles/house-of-the-dragon-showrunner-iron-throne-choice",
+        "summary": "House of the Dragon showrunner Ryan Condal reveals which character he believes is best suited to sit on the Iron Throne and bring stability to Westeros.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Blue Lock Comes to Real Life With Official Japan Football Association Training Camp Inspired by the Anime",
+        "link": "https://www.ign.com/articles/blue-lock-comes-to-real-life-with-official-japan-football-association-training-camp-inspired-by-the-anime",
+        "summary": "The Japan Football Association is bringing Blue Lock to life with a free, exclusive training camp directly inspired by the popular sports anime.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox CEO Gets Elder Scrolls 6 Demo, Teases the Subtitle",
+        "link": "https://www.ign.com/articles/xbox-ceo-gets-elder-scrolls-6-demo-teases-the-subtitle",
+        "summary": "Xbox CEO Asha Sharma got to see a \"live playthrough\" of The Elder Scrolls 6, and she posted her reactions on social media afterwards. She also teased – in the vaguest of ways – the subtitle for the upcoming RPG.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bethesda Finally Confirms The Elder Scrolls IV: Oblivion Remastered Patch Is Coming",
+        "link": "https://www.ign.com/articles/bethesda-finally-confirms-the-elder-scrolls-iv-oblivion-remastered-patch-is-coming",
+        "summary": "Bethesda has confirnmed a patch for The Elder Scrolls IV: Oblivion Remastered is on the way, with the Nintendo Switch 2 version now out the door.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nvidia's Price Increases Are Live, as RTX 5060 Ti Jumps to Over $800",
+        "link": "https://www.ign.com/articles/nvidias-price-increases-are-live-as-rtx-5060-ti-jumps-to-over-800",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "More Lord of the Rings Remasters Are in the Works Following War in the North Re-Release, Confirms Aspyr",
+        "link": "https://www.ign.com/articles/more-lord-of-the-rings-remasters-are-in-the-works-following-war-in-the-north-re-release-confirms-aspyr",
+        "summary": "Aspyr has plans to re-release more Lord of the Rings games following its shadow drop of The Lord of the Rings: War in the North on modern platforms.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Silent Hill Creature Designer Responds To Madonna Fans After Music Video Inspiration Remarks Spark Backlash",
+        "link": "https://www.ign.com/articles/silent-hill-creature-designer-responds-to-madonna-fans-after-music-video-inspiration-remarks-spark-backlash",
+        "summary": "Silent Hill creature designer and illustrator Masahiro Ito is clapping back at Madonna fans after a comment he made about one of her music videos rubbed a vocal group of listeners the wrong way.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Brandon Sanderson Is Done With the Mistborn Screenplay, but Says 'There Are Many Drafts to Come'",
+        "link": "https://www.ign.com/articles/brandon-sanderson-is-done-with-the-mistborn-screenplay-but-says-there-are-many-drafts-to-come",
+        "summary": "Brandon Sanderson announced two weeks ago that he had officially finished the Mistborn screenplay. He mentioned at the time that it is only a first draft, and he expects it's only the first step in a long process.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+        "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+        "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+        "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+        "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber surprised robotics company Serve by selling its entire stake",
+        "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+        "summary": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+        "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+        "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI launches ChatGPT desktop app for Linux",
+        "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+        "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s Gemini app surges to 1 billion users",
+        "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+        "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+        "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+        "summary": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
+        "link": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
+        "summary": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+        "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+        "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+        "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+        "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+        "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+        "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Joby Aviation builds out defense business with $500M acquisition",
+        "link": "https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/",
+        "summary": "Joby Aviation reached an agreement to acquire Resonant Sciences, which will kick off its new defense business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+        "link": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+        "summary": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Block Blast! goes ad-free on Apple Arcade",
+        "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
+        "summary": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
+        "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+        "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+        "link": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
+        "summary": "The consumer price index is expected to show only a modest increase for July.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "SEC plans crypto investment regime and tokenized stock exemption - Bloomberg",
+        "link": "https://www.investing.com/news/cryptocurrency-news/sec-plans-crypto-investment-regime-and-tokenized-stock-exemption--bloomberg-432SI-4852503",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

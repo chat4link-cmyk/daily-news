@@ -1,0 +1,314 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T10:32:41.825421+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Scientists just created female clones of male mice",
+        "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+        "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.  “No one has done this before,” says Monika Ward, a reproductive biologist at t…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Scaling AI agents with trustworthy data",
+        "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+        "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+        "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recogni…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "How we picked 35 of the world’s top young scientists and engineers",
+        "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+        "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.  By finding the top young innovators globally an…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Twitch streamers can now opt out from training Amazon’s AI",
+        "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+        "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or s…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+        "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-q…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+        "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+        "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+        "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA c…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Grok is now an AI ‘teammate’ you can assign work",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+        "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace ta…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The White House Is Going to Expand Its AI Policy",
+        "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+        "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+        "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+        "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+        "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
+        "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+        "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
+        "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+        "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+        "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "You’re Thinking About Online Trends All Wrong",
+        "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+        "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August",
+        "link": "https://www.ign.com/articles/mcdonalds-announces-eight-hello-kitty-x-godzilla-toys-coming-to-happy-meals-this-august",
+        "summary": "Hello Kitty and Godzilla are coming to McDonald’s Happy Meals this August in one of the most highly-anticipated collaborations to ever hit the fast food franchise.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Made by Google 2026: Everything Announced",
+        "link": "https://www.ign.com/articles/made-by-google-2026-everything-announced",
+        "summary": "Every year, Google holds the Made By Google event, where the company reveals its flagship mobile hardware for the next year. This time around, we already know the Pixel 11 is going to be there, but there are sure to be a few surprises up Google's sleeve.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies",
+        "link": "https://www.ign.com/articles/old-school-runescape-officially-recognizes-player-who-reached-level-99-fishing-catching-only-shrimp-and-anchovies",
+        "summary": "The official Old School Runescape X account has responded after a player managed to get their Fishing skill up to level 99 catching only shrimp and anchovies.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dataminers Uncover Five Possible DLC Characters for Marvel Tokon: Fighting Souls",
+        "link": "https://www.ign.com/articles/dataminers-uncover-five-possible-dlc-characters-for-marvel-tokon-fighting-souls",
+        "summary": "Now that Marvel Tokon: Fighting Souls is officially out in the wild, dataminers have wasted no time digging through the game’s files, and they’ve found some interesting heroes mentioned within them.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros.",
+        "link": "https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros",
+        "summary": "A sequel to Hogwarts Legacy is actively in development, according to Warner Bros.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Brandon Sanderson Shares a Look Into Tolkien's Life as a Professor Before He Authored The Lord of the Rings",
+        "link": "https://www.ign.com/articles/brandon-sanderson-shares-a-look-into-tolkiens-life-as-a-professor-before-he-authored-the-lord-of-the-rings-books",
+        "summary": "Brandon Sanderson revealed a rather interesting Tolkien tidbit during his weekly podcast, saying he encountered an illustration of Helm's Deep he'd never seen before, and it just so happened to be in a rather unlikely place.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Theater Employee Makes Their Own Spider-Man: Brand New Day Poster After Cinema Never Received Official One",
+        "link": "https://www.ign.com/articles/theater-employee-makes-their-own-spider-man-brand-new-day-poster-after-cinema-never-receives-official-one",
+        "summary": "An employee at a Cineplex theater in Prince George, British Columbia took matters into their own hands after their workplace didn’t get an official poster for the newest Spidey film.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Reddit User Cuts Steam Machine Faceplates Out of Same Marble Michelangelo Used",
+        "link": "https://www.ign.com/articles/reddit-user-cuts-steam-machine-faceplates-out-of-same-marble-michelangelo-used",
+        "summary": "A Reddit user has made Steam Machine faceplates out of marble, and they're absolutely gorgeous. Luckily, you might be able to actually buy one.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Barbie 2 May Not Happen as Warner Bros. and Creative Team Clash Over Pay Demands",
+        "link": "https://www.ign.com/articles/barbie-2-may-not-happen-as-warner-bros-and-creative-team-clash-over-pay-demands",
+        "summary": "There's a race to get Barbie 2 made, but a financial feud between Warner Bros. and the film's creative team (including Margot Robbie and Ryan Gosling) could kill the project.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Halo: Campaign Evolved Sales Estimates Put it at a Nearly 50-50 Split Between Xbox and PS5 Buyers",
+        "link": "https://www.ign.com/articles/halo-campaign-evolved-sales-estimates-put-it-at-a-nearly-50-50-split-between-xbox-and-ps5-buyers",
+        "summary": "Halo: Campaign Evolved, the recently released Unreal Engine 5 remake of the campaign half of original Xbox killer app Halo: Combat Evolved, has sold 1.2 million copies across Xbox, PlayStation 5, and Steam, according to estimates from Alinea Analytics.",
+        "source": "IGN News"
+      },
+      {
+        "title": "LEGO Reveals Nike Air Force 1 Set With a New Version of the Classic Spaceman Minifigure",
+        "link": "https://www.ign.com/articles/lego-nike-air-force-1-set-reveal",
+        "summary": "LEGO has revealed an upcoming set based on Nike’s iconic Air Force 1 sneaker that also includes a new version of the Classic Spaceman minifigure.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Coyote vs. Acme Debuts With Perfect 100% Score on Rotten Tomatoes",
+        "link": "https://www.ign.com/articles/coyote-vs-acme-debuts-with-perfect-100-score-on-rotten-tomatoes",
+        "summary": "Two years after Warner Bros. planned to shelve the flick for a $30 billion tax write-off, Coyote vs. Acme is set for its long-awaited theatrical release, and it’s already proving to be a hit among critics.",
+        "source": "IGN News"
+      },
+      {
+        "title": "DC's TV Division Reportedly Scrapped Two Key TV Projects, Rejected Pitches for Catwoman and Poison Ivy Shows",
+        "link": "https://www.ign.com/articles/dcs-tv-division-reportedly-scrapped-two-key-tv-projects-rejected-pitches-for-catwoman-and-poison-ivy-shows",
+        "summary": "DC Studios has reportedly pulled the plug on two previously announced TV shows and rejected pitches for other promising projects.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers",
+        "link": "https://www.ign.com/articles/xbox-reveals-stunning-3d-moulded-gears-of-war-e-day-limited-edition-controllers",
+        "summary": "Microsoft has announced a pair of highly-detailed Gears of War: E-Day Limited Edition Xbox controllers, which look just as gruff and grizzled as you'd expect.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Christopher Judge Slams God of War TV Series Showrunners for Not Hiring Writers of the Games",
+        "link": "https://www.ign.com/articles/christopher-judge-slams-god-of-war-tv-series-showrunners-for-not-hiring-writers-of-the-games",
+        "summary": "Kratos actor Christopher Judge has a bit of a bone to pick with adaptations of video games, particularly when they don't involve the people who created the games.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI nuclear power firm Fermi finally has a new CEO",
+        "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+        "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+        "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+        "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+        "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+        "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+        "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+        "summary": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+        "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+        "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+        "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+        "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+        "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+        "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+        "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+        "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+        "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+        "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+        "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+        "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting peop…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla wants to build a $10B solar factory in Texas",
+        "link": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
+        "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+        "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+        "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+        "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+        "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+        "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+        "summary": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Here are five key takeaways from the July CPI inflation report",
+        "link": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html",
+        "summary": "Readings for July on the prices consumers pay for goods and services came in pretty much on target.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "AI’s costly build-out complicates the Fed’s inflation fight",
+        "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
+        "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+        "link": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
+        "summary": "The consumer price index is expected to show only a modest increase for July.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin unable to shake off the doldrums even as Fed rate hike bets pared",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-63k-as-iran-hopes-dither-cpi-awaited-4853755",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bitcoin hovers at $62,500 support in downtrend: Live levels",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

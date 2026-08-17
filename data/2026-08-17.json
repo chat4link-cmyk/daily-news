@@ -1,0 +1,230 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T09:45:42.827750+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you ma…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Rogue AI aren’t science fiction anymore",
+        "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous…",
+        "source": "The Verge – AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "'Look Forward to Meetin' Ya, Sugah!' — Rogue Voice Actress Lenore Zann Reacts to MCU X-Men Casting With Special Video Message for Inde Navarrette",
+        "link": "https://www.ign.com/articles/look-forward-to-meetin-ya-sugah-rogue-voice-actress-lenore-zann-reacts-to-mcu-x-men-casting-with-special-video-message-for-inde-navarrette",
+        "summary": "Lenore Zann, the voice of Rogue in animated Marvel projects since the '90s, published a special video to congratulate Inde Navarrette after she was confirmed to play the live-action version of her character in Marvel's upcoming X-Men reboot.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Avengers: Doomsday Trailer Sparks Theories About 2 Doctor Dooms as Fans Hope for a Surprise Cameo from Cillian Murphy",
+        "link": "https://www.ign.com/articles/avengers-doomsday-trailer-sparks-theories-about-2-doctor-dooms-as-fans-hope-for-a-surprise-cameo-from-cillian-murphy",
+        "summary": "The new Avengers: Doomsday trailer is here, and some fans believe it has a few clues that suggest the film is hiding two Doctor Dooms – and maybe even a cameo from Cillian Murphy.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Simu Liu Says Sleeping Dogs Movie Has 'a REAL Path Forward' Amid Dealmaking With Square Enix",
+        "link": "https://www.ign.com/articles/simu-liu-says-sleeping-dogs-movie-has-a-real-path-forward-amid-dealmaking-with-square-enix",
+        "summary": "Marvel star Simu Liu has offered a positive update on his long-in-development Sleeping Dogs movie adaptation, saying the film has \"a REAL path forward\" as discussions with game publisher Square Enix continue.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man: Brand New Day Becomes First Spider-Man Movie to Reach $2 Billion in Theaters",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-becomes-first-spider-man-movie-to-reach-2-billion-in-theaters",
+        "summary": "Spider-Man: Brand New Day has officially crossed $2 billion at the global box office, marking the first time Marvel's wall-crawling hero has ever reached the theatrical landmark.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Disney Experiences Showcase: Everything Announced for Disney Parks, Disney Cruise Line, and More | D23 2026",
+        "link": "https://www.ign.com/articles/disney-experiences-showcase-at-d23-2026-everything-announced-for-disney-parks-disney-cruise-line-and-more",
+        "summary": "Here are all the big reveals from D23's Disney Experiences Showcase, including the name and major attractions of Villains Land, new details on the rides and land of the Cars-themed Piston Peak National Park, previews of the Encanto and Indiana Jones experiences at Animal Kingdom, the reimagining of …",
+        "source": "IGN News"
+      },
+      {
+        "title": "You Have Some Homework To Do To Make The Most Of Star Wars Zero Company",
+        "link": "https://www.gamespot.com/articles/you-have-some-homework-to-do-to-make-the-most-of-star-wars-zero-company/",
+        "summary": "Star Wars Zero Company takes place right at the end of The Clone Wars, my favorite period in Star Wars' huge timeline. That conflict begins with the Battle of Geonosis in Attack of the Clones and concludes with the deaths of the Separatist leaders in Revenge of the Sith, but a vast majority of the g…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Marvel Tokon: Fighting Souls Is Making The Wait For Injustice 3 Much More Bearable",
+        "link": "https://www.gamespot.com/articles/marvel-tokon-fighting-souls-is-making-the-wait-for-injustice-3-much-more-bearable/",
+        "summary": "Let me get this straight: I play a lot of the best fighting games . I enjoy playing them. I am not good at the genre. Anything online requires me to adapt to players far beyond my skill level, and it’s almost pointless for me to attempt to reach that level. I just don’t have the time or patience to …",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Starfield Discount Drops The Sci-Fi RPG To Its Lowest Price Yet",
+        "link": "https://www.gamespot.com/articles/starfield-discount-drops-the-sci-fi-rpg-to-its-lowest-price-yet/",
+        "summary": "As someone who talks about their fascination with space to an unhealthy degree, you can bet that Starfield was my most anticipated game for years. The first original IP from Bethesda Game Studios in over two decades, it looked like a sci-fi take on Fallout, offering a new universe to explore from th…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Saber Interactive finally adds an AI disclaimer to Rideshare Stimulator's Steam page",
+        "link": "https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer",
+        "summary": "Amid the row between Saber Interactive CEO Matthew Karch and former writer Stella Sacco after he said he'd have \"been happy to replace\" her with AI, the studio has finally added the AI disclaimer to Rideshare Stimulator's Steam page that had been conspicuously missing since the game first went live …",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Matthew McConaughey explains why he turned down the role of Joel in The Last of Us",
+        "link": "https://www.eurogamer.net/matthew-mcconaughey-last-of-us-joel-turned-down",
+        "summary": "Matthew McConaughey has explained why he ultimately passed on playing Joel in HBO's The Last of Us – a role that, of course, went to Pedro Pascal instead. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Kingdom Hearts creator Tetsuya Nomura teases his role in the new anime series, tells fans to \"let your imagination run wild\"",
+        "link": "https://www.eurogamer.net/kingdom-hearts-nomura-anime-series-tease-d23",
+        "summary": "Kingdom Hearts creator Tetsuya Nomura has addressed the newly announced Kingdom Hearts anime series directly for the first time, though he's giving away very little. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Halloween: The Game will get a digital release in New Zealand after all",
+        "link": "https://www.eurogamer.net/halloween-the-game-new-zealand-digital-release-update",
+        "summary": "Halloween: The Game will get a digital release in New Zealand after all, despite initially being lumped in with Australia's classification refusal. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Saber CEO Matthew Karch apologises to writer he said he'd have \"been happy to replace\" with AI",
+        "link": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
+        "summary": "Saber Interactive CEO Matthew Karch has apologised to Stella Sacco, the writer at the centre of the Rideshare Stimulator AI controversy , after publicly saying he'd have been \"happy to replace her with AI\". Read more",
+        "source": "Eurogamer"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+        "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+        "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+        "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) …",
+        "source": "The Verge"
+      },
+      {
+        "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+        "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+        "summary": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Amazon is trying to crush class-action suits before they get started",
+        "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+        "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and efficient\" way to resolve issu…",
+        "source": "The Verge"
+      },
+      {
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you ma…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Rogue AI aren’t science fiction anymore",
+        "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+        "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+        "summary": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That’s…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 191 # Comments: 141",
+        "source": "Hacker News Front Page"
+      },
+      {
+        "title": "Models Are Getting Dumber on Purpose",
+        "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+        "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 265 # Comments: 148",
+        "source": "Hacker News Front Page"
+      },
+      {
+        "title": "Protobuf has LSP support. You're welcome",
+        "link": "https://buf.build/blog/protobuf-lsp",
+        "summary": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 107 # Comments: 77",
+        "source": "Hacker News Front Page"
+      },
+      {
+        "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+        "link": "https://news.ycombinator.com/item?id=49322107",
+        "summary": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics …",
+        "source": "Hacker News Front Page"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin coils below $64K resistance: Live levels",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-635k655k-squeeze-hourly-levels-93CH-4847929",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Oil edges higher as Middle East tensions return to focus",
+        "link": "https://seekingalpha.com/news/4633619-oil-edges-higher-as-middle-east-tensions-return-to-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Here are the major earnings before the open Monday",
+        "link": "https://seekingalpha.com/news/4633602-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Yalla Q2 Earnings Preview",
+        "link": "https://seekingalpha.com/news/4633328-yalla-q2-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Flexsteel Q4 2026 Earnings Preview",
+        "link": "https://seekingalpha.com/news/4633330-flexsteel-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

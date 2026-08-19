@@ -1,0 +1,296 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T09:42:43.180234+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: how people really use AI, and Flock’s design choices",
+        "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But th…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "We still don’t know how people are really using AI",
+        "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+        "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The role of the astronaut is in flux",
+        "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+        "summary": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.  While no space mission can live up to the historic touchdow…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "AI’s recursive self-improvement might not come so quickly after all",
+        "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+        "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+        "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+        "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trust…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+        "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you sear…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google&#8217;s Pet Memory forgot who my cats are",
+        "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+        "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+        "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+        "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the W…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ChatGPT is getting a dedicated mode for teens",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+        "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protect…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+        "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+        "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence c…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+        "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+        "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+        "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+        "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Call of Duty Socials Accidentally Post Placeholder Marketing Image for Modern Warfare 4, Fans Suspect AI Usage",
+        "link": "https://www.ign.com/articles/call-of-duty-socials-accidentally-post-placeholder-marketing-image-for-modern-warfare-4-fans-suspect-ai-usage",
+        "summary": "The Call of Duty socials team accidentally posted an internal marketing image for Modern Warfare 4, and fans suspect it may be AI-generated.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Olivia Cooke Makes a Surprise Return in the Trailer for Slow Horses Season 6",
+        "link": "https://www.ign.com/articles/olivia-cooke-makes-a-surprise-return-in-the-trailer-for-slow-horses-season-6",
+        "summary": "The first trailer for Slow Horses Season 6 confirms that Olivia Cooke and Rosalind Eleazar are back.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'She's Doing Nothing Wrong' — Former Peter Pan Actor Defends Viral Fan Accused of 'Stalking' Him at Disneyland",
+        "link": "https://www.ign.com/articles/shes-doing-nothing-wrong-former-peter-pan-actor-defends-viral-fan-accused-of-stalking-him-at-disneyland",
+        "summary": "A former Disneyland character actor is speaking out to defend a fan who went viral after her social media posts sparked backlash from viewers.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Gameplay and Map Appear to Leak Online, Group Reportedly Responsible Threatens Rockstar Over All-Digital Future",
+        "link": "https://www.ign.com/articles/gta-6-gameplay-and-map-appear-to-leak-online-group-reportedly-responsible-threatens-rockstar-over-all-digital-future",
+        "summary": "Grand Theft Auto 6 appears to have suffered yet another significant leak after what looks like legitimate gameplay videos and an image of the full map appeared online. Rockstar has yet to comment.",
+        "source": "IGN News"
+      },
+      {
+        "title": "One of Breaking Bad's Best Episodes Is Coming to Theaters Soon",
+        "link": "https://www.ign.com/articles/one-of-breaking-bads-best-episodes-is-coming-to-theaters-soon",
+        "summary": "One of the most iconic episodes of Breaking Bad will be shown in theaters next month.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'Ash Is Done' — Bruce Campbell Says He Will No Longer Play Evil Dead's Ash Williams",
+        "link": "https://www.ign.com/articles/ash-is-done-bruce-campbell-says-he-will-no-longer-play-evil-deads-ash-williams",
+        "summary": "Bruce Campbell has put his most iconic character, Ash Williams, to bed.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Disney Sues FCC, Alleging Trump Administration Free Speech Retaliation",
+        "link": "https://www.ign.com/articles/disney-sues-fcc-first-amendment-lawsuit-abc",
+        "summary": "Disney has filed a First Amendment lawsuit against the FCC, claiming the Trump administration is targeting ABC's broadcast licenses in retaliation over speech.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Suspect Wearing Chucky Mask Accused of Threatening, Chasing, and Terrifying Philadelphia Residents",
+        "link": "https://www.ign.com/articles/suspect-wearing-chucky-mask-accused-of-threatening-chasing-and-terrifying-philadelphia-residents",
+        "summary": "Police in Philadelphia are on the hunt for a suspect accused of terrorizing citizens while wearing a mask resembling Chucky the doll.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Report: Tom Holland Could Earn Up to $100 Million for Spider-Man: Brand New Day Following Record-Breaking Box Office Success",
+        "link": "https://www.ign.com/articles/report-tom-holland-could-earn-up-to-100-million-for-spider-man-brand-new-day-following-record-breaking-box-office-success",
+        "summary": "Tom Holland stands to make a massive payday from the staggering success of his latest Spidey movie, Spider-Man: Brand New Day.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Skip Binksy Will Now Compete With Sweetpea Golightly for Best TV Character Name in Industry Season 5",
+        "link": "https://www.ign.com/articles/skip-binksy-will-now-compete-with-sweetpea-golightly-for-best-tv-character-name-in-industry-season-5",
+        "summary": "HBO's finance drama has announced seven new additions for Season 5, including a wellness CFO named Skip Binksy, played by Dianna Agron.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Wars: Starfighter Follows ‘Marginalized Outsiders' From the ‘Wrong Side of the Galaxy’",
+        "link": "https://www.ign.com/articles/star-wars-starfighter-plot-outsiders",
+        "summary": "Star Wars: Starfighter will follow \"marginalized outsiders\" from \"the wrong side of the galaxy,\" according to director Shawn Levy.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Peacock Raises Prices for Fourth Time in Four Years Ahead of YouTube Premium Inclusion",
+        "link": "https://www.ign.com/articles/peacock-raises-prices-for-fourth-time-in-four-years-ahead-of-youtube-premium-inclusion",
+        "summary": "Peacock prices are going up once again.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Uncharted: Drake's Fortune Developer Reveals the Game Had Dynamic Difficulty to Stop Players From Finishing It Too Quickly",
+        "link": "https://www.ign.com/articles/uncharted-drakes-fortune-developer-reveals-the-game-had-dynamic-difficulty-to-stop-players-from-finishing-it-too-quickly",
+        "summary": "A former Naughty Dog developer has revealed that Uncharted: Drake's Fortune had dynamic scaling difficulty in order to make the game longer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GameStop Customer Trades in Hundreds of Broken Consoles for More Than $10,000 in Store Credit",
+        "link": "https://www.ign.com/articles/gamestop-customer-trades-in-hundreds-of-broken-consoles-for-more-than-10000-in-store-credit",
+        "summary": "A GameStop customer from Clackamas, Oregon is going viral after trading in hundreds of old, busted consoles to earn over $10,000 in store credit from the games retailer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "First Look at Crunchyroll’s Upcoming Chainsaw Man Collection",
+        "link": "https://www.ign.com/articles/first-look-at-crunchyrolls-upcoming-chainsaw-man-collection",
+        "summary": "Crunchyroll has revealed its first drop since changing how its online store works.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+        "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+        "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+        "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TikTok explores peer-to-peer payments via DMs, report says",
+        "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+        "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+        "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+        "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Etched’s valuation doubles to $21B in a month",
+        "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+        "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+        "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+        "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
+        "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
+        "summary": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+        "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+        "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bluesky says its recent outage was caused by another DDoS attack",
+        "link": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
+        "summary": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Peacock is raising prices across all of its streaming plans",
+        "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+        "summary": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on a support page.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+        "link": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
+        "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+        "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+        "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+        "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+        "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Perplexity’s free AI offer left it with millions more users in India",
+        "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+        "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin muted amid rising oil, yields; SEC proposes rules for some crypto assets",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-edges-up-to-64k-iran-rate-jitters-weigh-on-crypto-4864371",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "BP joins Venezuelan oil trade to challenge Trafigura, Vitol - Bloomberg",
+        "link": "https://seekingalpha.com/news/4634592-bp-joins-venezuelan-oil-trade-to-challenge-trafigura-vitol-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Oil edges higher as Iranian attacks on ships in Strait of Hormuz without U.S. response rise",
+        "link": "https://seekingalpha.com/news/4634591-oil-edges-higher-as-iranian-attacks-on-ships-in-strait-of-hormuz-without-us-response-rise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Trio Petroleum plunges after announcing 1-for-9 reverse stock split",
+        "link": "https://seekingalpha.com/news/4634589-trio-petroleum-plunges-after-announcing-1-forminus-9-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

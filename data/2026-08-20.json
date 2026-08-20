@@ -1,0 +1,272 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T09:41:29.092786+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+        "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost n…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Child-monitoring apps might need a reboot",
+        "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+        "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. O…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+        "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for…",
+        "source": "VentureBeat AI"
+      },
+      {
+        "title": "Google Gemini is getting a dedicated student hub",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for gr…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI hit the brakes. Now what?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+        "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguard…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta AI is getting a Mac app",
+        "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+        "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Nvidia’s new financial strategy does not compute",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+        "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in fin…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+        "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+        "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+        "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+        "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+        "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+        "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Mail-Order Media Giant Columbia House Shutting Down After 71 Years",
+        "link": "https://www.ign.com/articles/mail-order-media-giant-columbia-house-shutting-down-after-71-years",
+        "summary": "Mail-order music and movie club Columbia House is officially shutting down and ceasing new orders after 71 years of operation.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Steam Frame Seems to Be On the Horizon as Unboxing and Setup Videos Leak Online",
+        "link": "https://www.ign.com/articles/steam-frame-seems-to-be-on-the-horizon-as-unboxing-and-setup-videos-leak-online",
+        "summary": "After setup videos leaked online, Valve opted to push them out officially.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Director of Marvel’s Wolverine Responds After Extended Gameplay Footage Sparks Backlash",
+        "link": "https://www.ign.com/articles/director-of-marvels-wolverine-responds-after-extended-gameplay-footage-sparks-backlash",
+        "summary": "The director of Marvel’s Wolverine, Mike Daly, opened up about the recent backlash toward the game after its extended gameplay showcase drew criticism online.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Modern Warfare 4 Beta Reveals Multiplayer Matchmaking Plans, Will Continue to Use Divisive New Matchmaking System",
+        "link": "https://www.ign.com/articles/modern-warfare-4-beta-reveals-multiplayer-matchmaking-plans-will-continue-to-use-divisive-new-matchmaking-system",
+        "summary": "Call of Duty: Modern Warfare 4's beta will utilize a divisive new matchmaking system in addition to the open matchmaking introduced last year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Last of Us Online Was Not a 'Side Project,' Majority of Intergalactic's Team Came Over After Multiplayer Game Was Scrapped",
+        "link": "https://www.ign.com/articles/the-last-of-us-online-was-not-a-side-project-majority-of-intergalactics-team-came-over-after-multiplayer-game-was-scrapped",
+        "summary": "Naughty Dog's The Last of Us Online was more than just a \"side project\" and is a big reason why the studio hasn't had a brand new game since 2020.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Winnie the Pooh's Voice Actor Isn't Happy About Getting Snubbed by Disney's Hall of Legends",
+        "link": "https://www.ign.com/articles/winnie-the-poohs-voice-actor-isnt-happy-about-getting-snubbed-by-disneys-hall-of-legends",
+        "summary": "Jim Cummings, the voice of Winnie the Pooh and several other animated Disney characters, wasn’t happy about getting passed over for a spot in Disney’s Hall of Legends at D23 this year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Inde Navarrette Reportedly Passed Up a Role in Heat 2 for Marvel Studio's X-Men Movie",
+        "link": "https://www.ign.com/articles/inde-navarrette-reportedly-passed-up-a-role-in-heat-2-for-marvel-studios-x-men-movie",
+        "summary": "Thanks to Inde Navarrette’s breakout performance in Obsession, the star essentially has carte blanche to choose what projects she wants — and Marvel’s X-Men movie was at the top of her list.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Wolverine: Origin III Explores Marvel's Controversial Prequel Arc",
+        "link": "https://www.ign.com/articles/wolverine-origin-iii-explores-marvels-controversial-prequel-arc",
+        "summary": "Marvel is wading into controversial waters again with Wolverine: Origin III - The Dark Age, the latest chapter in the dramatic origin story of the iconic X-Man.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Witcher 3 NPCs Kept Dropping Their Babies Due to an Unintended Side Effect of a Cut Mechanic",
+        "link": "https://www.ign.com/articles/the-witcher-3-npcs-kept-dropping-their-babies-due-to-an-unintended-side-effect-of-a-cut-mechanic",
+        "summary": "The Witcher 3 developers were so focused on making a realistic environment for players that they accidentally created a morbidly hilarious side effect for the game’s female NPCs.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Pokémon Center Just Dropped Its 2026 Halloween Collection",
+        "link": "https://www.ign.com/articles/pokemon-center-halloween-collection-2026",
+        "summary": "The Pokémon Center just dropped its Halloween Collection for 2026, with new apparel and decor featuring Gengar, Mimikyu, Umbreon, and... Golett?",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jason Kelce and Liquid Death Want Your Pee to Cool AI Data Centers",
+        "link": "https://www.ign.com/articles/jason-kelce-and-liquid-death-want-your-pee-to-cool-ai-data-centers",
+        "summary": "Jason Kelce, Garage Beer, and Liquid Death have teamed up to ask you to mail your pee to data centers.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Relive the Original Xbox By Building Your Own 1:1 Scale 3,509-Piece Mattel Brick Shop Version",
+        "link": "https://www.ign.com/articles/relive-the-original-xbox-by-building-your-own-11-scale-3509-piece-mattel-brick-shop-version",
+        "summary": "In celebration of the Xbox's 25th anniversary, Mattel has announced a 3,509-piece, 1:1-scale buildable original Xbox through its premium Mattel Brick Shop brand. And yes, it also includes a buildable 1:1-scale Duke controller and features lights, sounds, and scenes from three different classic Xbox …",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty: Modern Warfare 4 Beta Will Fix Issues That Have Plagued the Series for the Better Part of a Decade",
+        "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-will-fix-issues-that-have-plagued-the-series-for-the-better-part-of-a-decade",
+        "summary": "The Call of Duty: Modern Warfare 4 beta will fix some issues that have plagued the series for the better part of a decade.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Latest Xbox Console Updates Include Extremely Belated Profile Badge if You Bought an Xbox One Back in 2013",
+        "link": "https://www.ign.com/articles/latest-xbox-console-updates-include-extremely-belated-profile-badge-if-you-bought-an-xbox-one-back-in-2013",
+        "summary": "New Xbox console features include a special profile badge if you forked out for an Xbox One on day one back in November 2013.",
+        "source": "IGN News"
+      },
+      {
+        "title": "John Cena Reveals the Touching Reason Why Warner Bros.’ Initial Decision to Shelve Coyote vs. Acme Didn’t Devastate Him",
+        "link": "https://www.ign.com/articles/john-cena-reveals-the-touching-reason-why-warner-bros-initial-decision-to-shelve-coyote-vs-acme-didnt-devastate-him",
+        "summary": "John Cena opened up about the graceful way he handled Warner Bros.’ infamously unpopular decision to shelve Coyote vs. Acme back in 2023 and how James Gunn’s influence on the film still lingers.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+        "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+        "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+        "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+        "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+        "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+        "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+        "link": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+        "summary": "The actress' firm Kinship Ventures is an investor in the company.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+        "link": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
+        "summary": "Have we tried turning off society and turning it back on again?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI was supposed to win people over by now — it hasn’t",
+        "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+        "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google packs Search and Gemini with new AI study tools",
+        "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+        "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Researchers say OpenAI revoked their access to limited cyber program",
+        "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+        "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meet the startup helping Wall Street put a price on AI compute",
+        "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+        "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or f…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+        "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+        "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
+        "link": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+        "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+        "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+        "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+        "link": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+        "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "XRP Climbs 10% In Rally",
+        "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-rally-4868261",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Ethereum Climbs 10% In Rally",
+        "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-climbs-10-in-rally-4868091",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

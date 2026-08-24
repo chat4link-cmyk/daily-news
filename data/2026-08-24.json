@@ -1,0 +1,205 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T09:47:35.651341+08:00",
+  "categories": {
+    "AI": [],
+    "游戏": [
+      {
+        "title": "The Batman: Part 2 Set Videos Show Batmobile Clashing With Gotham Police",
+        "link": "https://www.ign.com/articles/the-batman-part-2-batmobile-set-video",
+        "summary": "Set videos from The Batman: Part 2 reveal the Batmobile in high-speed clashes with Gotham City Police and SWAT units on the Glasgow set.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Orbitals – Everything To Know",
+        "link": "https://www.gamespot.com/videos/orbitals-everything-to-know/",
+        "summary": "From its aesthetic inspirations to how its co-op only gameplay differs from similar games that came before it, here’s everything to know about Orbitals.",
+        "source": "GameSpot"
+      },
+      {
+        "title": "You’d Be Shocked What You Can Game On A $150 Potato PC",
+        "link": "https://www.gamespot.com/videos/youd-be-shocked-what-you-can-game-on-a-150-potato-pc/",
+        "summary": "From the latest and greatest indie games, to older titles, and even emulation, all can be played on hardware as cheap as $150 if you're willing to be a savvy shopper.",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI",
+        "link": "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers",
+        "summary": "A Twitch streamer has filed a proposed class action against the platform and its parent company Amazon, claiming his broadcasts, and those of countless other creators, were fed into generative AI training with neither consent nor payment. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Epic Games Store overhaul might be \"too little, too late\", says Newzoo analyst",
+        "link": "https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite",
+        "summary": "While Epic has spent much of this year promising a launcher overhaul, including a faster, redesigned storefront with tailored recommendations and quicker ways to browse, one industry analyst has revealed that it might not be enough. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Miyazaki explains how The Duskbloods plans to protect newcomers from its best players",
+        "link": "https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki",
+        "summary": "FromSoftware is stepping into one of multiplayer gaming's most divisive arguments with The Duskbloods, confirming the upcoming Switch 2 exclusive will lean on skill-based matchmaking to keep newcomers safe from its most battle-hardened players. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Sony sends PlayStation users a reminder they don't own their digital games just as a fan boycott over ending discs kicks off",
+        "link": "https://www.eurogamer.net/playstation-terms-of-service-reminder-psblackout-protest",
+        "summary": "PlayStation users have received an unprompted reminder of exactly what they do and don't own on the platform, days before a planned boycott over Sony's decision to end new PlayStation discs from 2028. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Arc Raiders' fifth Expedition will be its last until early 2027",
+        "link": "https://www.eurogamer.net/arc-raiders-expedition-5-pause-2027-changes",
+        "summary": "Embark Studios has confirmed that Arc Raiders ' fifth Expedition, opening next month, will be the last one players see until early 2027. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "What's your video game happy place?",
+        "link": "https://www.eurogamer.net/optimism-week-big-question-video-game-happy-places",
+        "summary": "We all have our happy places: somewhere - real or otherwise - to escape, relax, and replenish away from the stresses of the modern world. Perhaps yours is in nature, lost in the reverie of a spirited hike up a windy hill, or sweatily squatting your cares away amid the pounding Daruda Sandstorms of y…",
+        "source": "Eurogamer"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+        "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+        "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+        "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+        "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+        "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+        "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+        "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+        "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+        "summary": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+        "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+        "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Volcanoes that made history",
+        "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+        "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+        "link": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+        "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year…",
+        "source": "The Verge"
+      },
+      {
+        "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+        "link": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+        "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We […]",
+        "source": "The Verge"
+      },
+      {
+        "title": "Grand Theft Auto VI exists in its own universe",
+        "link": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Four years ago…",
+        "source": "The Verge"
+      },
+      {
+        "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+        "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+        "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 159 # Comments: 80",
+        "source": "Hacker News Front Page"
+      },
+      {
+        "title": "JIT Compiling Code in 5μs",
+        "link": "https://malisper.me/jit-compiling-code-in-5-us/",
+        "summary": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 123 # Comments: 78",
+        "source": "Hacker News Front Page"
+      },
+      {
+        "title": "The End of an Athlon",
+        "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+        "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 143 # Comments: 57",
+        "source": "Hacker News Front Page"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin coils in bull flag near $77K: Live levels",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bitcoin pares losses as recent rally finds fresh momentum",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-under-77000-as-rally-boosts-mining-economics-4872436",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Here are the major earnings before the open Monday",
+        "link": "https://seekingalpha.com/news/4636048-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Gorilla Technology Group Q2 2026 Earnings Preview",
+        "link": "https://seekingalpha.com/news/4635951-gorilla-technology-group-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "PicS Q2 2026 Earnings Preview",
+        "link": "https://seekingalpha.com/news/4635952-pics-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Tuya Q2 2026 Earnings Preview",
+        "link": "https://seekingalpha.com/news/4635954-tuya-q2-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "SA Asks: Will Bessent's recent moves to curb bond yields boost the stock market?",
+        "link": "https://seekingalpha.com/news/4636065-sa-asks-will-bessents-recent-moves-to-curb-bond-yields-boost-the-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Hedge funds and mutual funds split on the AI trade - Goldman",
+        "link": "https://seekingalpha.com/news/4636064-hedge-funds-and-mutual-funds-split-on-the-ai-trade-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

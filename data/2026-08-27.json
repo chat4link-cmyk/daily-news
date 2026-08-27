@@ -1,0 +1,320 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T16:52:57.406529+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The inside story on why OpenAI agents hacked Hugging Face",
+        "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+        "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+        "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are ban…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Raised on AI",
+        "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+        "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.  Fast-f…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "AI models flub these intelligence tests. Can you fare any better?",
+        "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+        "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IB…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Orchestration is the new challenge for CX in the age of AI agents",
+        "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says G…",
+        "source": "VentureBeat AI"
+      },
+      {
+        "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+        "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+        "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI’s rogue AI model incident was worse than we thought",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+        "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for Ope…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+        "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+        "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to rele…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+        "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The UK Power Grid Has a Phantom Data Center Problem",
+        "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+        "summary": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+        "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+        "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
+        "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+        "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+        "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+        "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI Slop Is Ruining Cute Animals on the Internet",
+        "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+        "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Andrew Garfield’s The Uprising Sends Mixed Signals on Robin Hood Connection",
+        "link": "https://www.ign.com/articles/andrew-garfield-the-uprising-robin-hood",
+        "summary": "Focus Features’ The Uprising stars Andrew Garfield in a 1381 Peasants' Revolt drama—but new marketing suggests it might actually be a stealth Robin Hood origin story.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox CEO Asha Sharma Opens Up on Future of Physical Games for Next Generation Console Project Helix",
+        "link": "https://www.ign.com/articles/xbox-ceo-asha-sharma-opens-up-on-future-of-physical-games-for-next-generation-console-project-helix",
+        "summary": "Xbox CEO Asha Sharma was cagey when asked if the company’s next console, codenamed Project Helix, will have a disc drive or not, but gave some optimistic insights into its approach to physical games.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Double Fine Productions Makes Brutal Legend Free for 666 Minutes to Honor Tim Curry",
+        "link": "https://www.ign.com/articles/double-fine-productions-makes-brutal-legend-free-for-666-minutes-to-honor-tim-curry",
+        "summary": "Double Fine Productions, who recently regained the rights to its entire catalog following its pivot back to independence after Microsoft parted ways with several studios during its \"Xbox reset,\" is honoring Tim Curry by making Brutal Legend free to download and own on PC for 666 minutes – until 3:06…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Silent Hill Producer Says Konami Wants to Release a New Game in the Series Every Year",
+        "link": "https://www.ign.com/articles/silent-hill-producer-says-konami-wants-to-release-a-new-game-in-the-series-every-year",
+        "summary": "Silent Hill producer Motoi Okamoto says that Konami is gunning for annual releases of new games in its flagship horror franchise.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'I Think That Was a Big Flaw' — Uncharted 3 Designer Says the Game Was Hindered by Too Many Set Pieces",
+        "link": "https://www.ign.com/articles/i-think-that-was-a-big-flaw-uncharted-3-designer-says-the-game-was-hindered-by-too-many-set-pieces",
+        "summary": "An ex-Naughty Dog designer believes that Uncharted 2's success may have negatively impacted the way Uncharted 3 was developed.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Chris Hansen Buys Advertisements for His True Crime Streaming Platform Before Every Single Screening of A24's Primetime Movie",
+        "link": "https://www.ign.com/articles/chris-hansen-buys-advertisements-for-his-true-crime-streaming-platform-before-every-single-screening-of-a24s-primetime-movie",
+        "summary": "Chris Hansen, best known as the host of Dateline NBC’s To Catch a Predator series, has purchased advertisements for his streaming platform that will play before every single screening of A24’s upcoming film adaptation of his rise to fame, Primetime.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ridley Scott Is Developing an Alien: Covenant Sequel With Michael Fassbender",
+        "link": "https://www.ign.com/articles/ridley-scott-is-developing-an-alien-covenant-sequel-with-michael-fassbender",
+        "summary": "Ridley Scott has confirmed he isn't done with the Alien franchise as he's developing a sequel to Alien: Covenant.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Avengers: Endgame Encore Will Include Two Sneak Peeks at Doomsday, But There's a Catch",
+        "link": "https://www.ign.com/articles/avengers-endgame-encore-will-include-two-sneak-peeks-at-doomsday-but-theres-a-catch",
+        "summary": "Two sneak peeks at Avengers: Doomsday are coming to screenings of Avengers: Endgame Encore, though one of them will only be included in certain showings.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Doom Composer Mick Gordon Contributes New Track to Warhammer 40,000: Boltgun 2",
+        "link": "https://www.ign.com/articles/doom-composer-mick-gordon-contributes-new-track-to-warhammer-40000-boltgun-2",
+        "summary": "Auroch Digital and Big Fan Games have confirmed award-winning composer Mick Gordon has contributed a new track to its upcoming ’90s-inspired boomer shooter Warhammer 40,000: Boltgun 2.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Yu-Gi-Oh x Crocs Collaboration Revealed Ahead of World Championship",
+        "link": "https://www.ign.com/articles/yu-gi-oh-crocs-collaboration-reveal",
+        "summary": "Crocs and Konami have revealed a new line of clogs inspired by the Yu-Gi-Oh trading card game and anime series.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Rockstar Games Doubled in Size for GTA 6, Hired Real World Professionals for Fashion, Vehicles, and More",
+        "link": "https://www.ign.com/articles/rockstar-games-doubled-in-size-for-gta-6-hired-real-world-professionals-for-fashion-vehicles-and-more",
+        "summary": "Rockstar Games doubled its employee headcount for Grand Theft Auto 6 and hired real-world professionals for the game's vehicles, fashion, and more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Final Fantasy VII Revelation Gets Pending Mature 17+ Rating, and Fan Theories Are Already Going Wild",
+        "link": "https://www.ign.com/articles/final-fantasy-vii-revelation-gets-pending-mature-17-rating-and-fan-theories-are-already-going-wild",
+        "summary": "Final Fantasy VII Revelation is available to wishlist on all major platforms, and fans have noticed that its pending rating is a bit more intense than they expected.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Apple iPhone Event Invites Have Gone Out, and I Want a Foldable iPhone",
+        "link": "https://www.ign.com/articles/apple-iphone-event-invites-have-gone-out-and-i-want-a-foldable-iphone",
+        "summary": "There are a few things that are inevitable every year, and one of those is that Apple is going to host a big, flashy event in September to show off its new iPhone. And now, Apple has announced a September 9 event that'll do just that.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fans Mourn Tim Curry After Legendary Actor Dies at 80 Years Old",
+        "link": "https://www.ign.com/articles/fans-mourn-tim-curry-after-legendary-actor-dies-at-80-years-old",
+        "summary": "Prolific British actor Tim Curry has died aged 80, leaving behind a storied legacy that includes iconic roles in productions like The Rocky Horror Picture Show, Muppet Treasure Island, Home Alone 2, and many more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Grand Theft Auto 6 Will Have RPG Mechanics Like Eating, Exercising, and More",
+        "link": "https://www.ign.com/articles/grand-theft-auto-6-will-have-rpg-mechanics-like-eating-exercising-and-more",
+        "summary": "Some of the first gameplay details for Grand Theft Auto 6 have been confirmed, and it seems like Rockstar is embracing a more RPG-y style this time around.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Nvidia closes in on Hugging Face acquisition",
+        "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+        "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+        "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+        "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+        "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+        "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+        "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+        "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+        "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+        "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+        "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+        "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How do we explain OpenAI’s executive exodus?",
+        "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+        "summary": "Was Greg Brockman the right executive all along?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI releases its official report on the Hugging Face breach",
+        "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+        "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+        "link": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+        "summary": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
+        "link": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+        "summary": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+        "link": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+        "summary": "The Justice Department said that the domain seizures made the botnet and its command and control servers \"inoperable,\" as the domains were hardcoded into the botnet's code and were critical for the botnet's communication and essential operations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
+        "link": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+        "summary": "The firm backs companies building in the “female economy,” or the markets where women drive demand — women’s health, digital commerce, and AI tools.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple is holding its iPhone launch event on September 9",
+        "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+        "summary": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
+        "link": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+        "summary": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+        "link": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+        "summary": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm startup putting up huge numbers lately — legal AI company Legora and health tech startup Neko Health are right there with it.  On this e…",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
+        "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
+        "summary": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin hovers above $78k as rebound rally loses some steam after U.S. PCE data",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-79k-as-rebound-rally-cools-ahead-of-us-inflation-data-4876359",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Rent TRON Energy and Reduce USDT Fees : TronBid Expands Marketplace",
+        "link": "https://www.investing.com/news/cryptocurrency-news/rent-tron-energy-and-reduce-usdt-fees--tronbid-expands-marketplace-4877421",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "CoinMarketCap Obtains SOC 1 & 2 Attestations and Dual ISO Certifications",
+        "link": "https://www.investing.com/news/cryptocurrency-news/coinmarketcap-obtains-soc-1--2-attestations-and-dual-iso-certifications-4876959",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Harmony Gold Mining Non-GAAP EPS of R42.99, revenue of R99.24B; maintains FY27 group production guidance",
+        "link": "https://seekingalpha.com/news/4637306-harmony-gold-mining-non-gaap-eps-of-4299-revenue-of-9924b-maintains-fy27-group-production-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "U.S. cracks down on Chinese hacking network that targeted DOJ, Fed and Senate",
+        "link": "https://seekingalpha.com/news/4637293-us-crackdown-chinese-hacking-operation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Stock futures rise as Nvidia results boost sentiment",
+        "link": "https://seekingalpha.com/news/4637299-stock-futures-rise-as-nvidia-results-boost-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

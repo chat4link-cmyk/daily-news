@@ -1,0 +1,320 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:05:45.917836+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "How to sign up for a virtual power plant—and decide whether you should",
+        "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+        "summary": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collecti…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "A startup claims it’s found a drug to make your blood young",
+        "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+        "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just an…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+        "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to che…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications tha…",
+        "source": "VentureBeat AI"
+      },
+      {
+        "title": "When agents act on their own, governance has to live in the data layer",
+        "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+        "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, wha…",
+        "source": "VentureBeat AI"
+      },
+      {
+        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+        "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administ…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google’s AI note-taking app now allows you to interact with books",
+        "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+        "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate pla…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+        "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the suppo…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI&#8217;s executive exodus has one big winner",
+        "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+        "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president. While Sam Altman is the CEO and still OpenAI’s…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+        "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+        "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little robot \"before C…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Plaud is launching AI earbuds",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+        "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includ…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Adobe is adding more AI to Photoshop",
+        "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+        "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, background remover, an AI …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
+        "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+        "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
+        "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+        "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
+        "link": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+        "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "'We Just Have to Be Careful What We Pick': GTA 6 Won't Include Covid or Trump References That Could Become Dated, Rockstar Says",
+        "link": "https://www.ign.com/articles/we-just-have-to-be-careful-what-we-pick-gta-6-wont-include-covid-or-trump-references-that-could-become-dated-rockstar-says",
+        "summary": "Rockstar has discussed the need to \"be careful\" with its satirical take on American culture in GTA 6, when asked about including references to recent events such as the Covid pandemic and Donald Trump's presidency.",
+        "source": "IGN News"
+      },
+      {
+        "title": "How the GTA 6 Map Size Stacks Up to Other Rockstar Games Like RDR2 and GTA 5",
+        "link": "https://www.ign.com/articles/how-the-gta-6-map-size-stacks-up-to-other-rockstar-games-like-rdr2-and-gta-5",
+        "summary": "Grand Theft Auto 6's map is significantly larger than Rockstar's previous games; here's how it compares to the studio's other titles.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pokémon Responds After Hacker Compromises Its X Account to Hawk MemeCoin",
+        "link": "https://www.ign.com/articles/pokemon-responds-after-hacker-compromises-its-x-account-to-hawk-memecoin",
+        "summary": "The official Pokémon profile on X has responded after its account was hacked by an unknown party who shared a post linking out to a memecoin.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Devs at Rockstar Celebrate as Extended Look Finally Reveals Gameplay After Years of Development",
+        "link": "https://www.ign.com/articles/gta-6-devs-at-rockstar-celebrate-as-extended-look-finally-reveals-gameplay-after-years-of-development",
+        "summary": "Rockstar Games has finally revealed an official look at GTA 6 gameplay, and members of the development team couldn't be happier to finally see fans' reactions.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Citizen Spinoff Squadron 42 Delayed to 2027, Dev Insists It's Because of GTA 6",
+        "link": "https://www.ign.com/articles/star-citizen-spinoff-squadron-42-delayed-to-2027-dev-insists-its-because-of-gta-6",
+        "summary": "Star Citizen single-player spinoff Squadron 42 has been delayed to 2027, with developer Chris Roberts insisting it wouldn't get the attention it deserves because of Grand Theft Auto 6.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'Mind-Blowingly Good': The Internet Reacts to Rockstar's Grand Theft Auto 6: Extended Look Reveal",
+        "link": "https://www.ign.com/articles/mind-blowingly-good-the-internet-reacts-to-rockstars-grand-theft-auto-6-extended-look-reveal",
+        "summary": "Rockstar's hugely-impressive first look at GTA 6 is being celebrated online, as today's Grand Theft Auto 6: Extended Look presentation has now debuted via Netflix.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Grand Theft Auto 6 Playthroughs Can Last 80 Hours",
+        "link": "https://www.ign.com/articles/grand-theft-auto-6-playthroughs-can-last-80-hours",
+        "summary": "Grand Theft Auto 6 will take a while for players to finish, with the game's producer stating it took him 80 hours.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Here's Every GTA 6 Side Activity We've Spotted So Far",
+        "link": "https://www.ign.com/articles/heres-every-gta-6-side-activity-weve-spotted-so-far",
+        "summary": "Rockstar's Grand Theft Auto 6: Extended Look has shown off almost 30 minutes of GTA 6 footage, and among the lengthy clips of missions, we've also seen some of the side activities you'll likely spend hours getting distracted by.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Here's Every Song Featured in Rockstar's GTA 6 Extended Look",
+        "link": "https://www.ign.com/articles/heres-every-song-featured-in-rockstars-gta-6-extended-look",
+        "summary": "Rockstar Games' first official extended look at Grand Theft Auto 6 featured a lot of licensed music, and we've got the list of every song it featured right here.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Reveal: 15 New Screenshots, Including 1 Exclusive on IGN",
+        "link": "https://www.ign.com/articles/gta-6-reveal-15-new-screenshots-including-1-exclusive-on-ign",
+        "summary": "GTA 6 is now fully revealed by Rockstar Games, and IGN has 15 brand new screenshots — including one exclusive screenshot.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Rockstar Doesn’t Mind if You Dislike GTA 6’s Romantic Side: ‘Don’t Bother With It. Up to You’",
+        "link": "https://www.ign.com/articles/gta-6-jason-lucia-relationship-system-explained",
+        "summary": "GTA 6 has a whole relationship system to increase Jason and Lucia’s bond, but it’s completely optional if you’d rather keep things platonic.",
+        "source": "IGN News"
+      },
+      {
+        "title": "‘We Are Nervous!’ — Rockstar Knows the Pressure on GTA 6 to Be a Success",
+        "link": "https://www.ign.com/articles/gta-6-rockstar-nervous-about-success",
+        "summary": "We asked Rockstar how it’s dealing with the pressure of ensuring GTA 6 is a success after so many years of development: ‘We are nervous!’",
+        "source": "IGN News"
+      },
+      {
+        "title": "‘Is It Four Characters Now?’ — Rockstar Briefly Thought About Doubling the Number of GTA 6 Protagonists",
+        "link": "https://www.ign.com/articles/gta-6-four-protagonists-considered-by-rockstar",
+        "summary": "Following GTA 5’s three playable characters, Rockstar considered putting four protagonists in GTA 6 before settling on its criminal couple.",
+        "source": "IGN News"
+      },
+      {
+        "title": "‘It’s a Big Map, a Very Big Map’ – GTA 6 Is Rockstar’s Most Complex World Yet",
+        "link": "https://www.ign.com/articles/gta-6-world-size-map-rockstar-confirms",
+        "summary": "Rockstar explains how it has pushed current-gen technology to ensure GTA 6’s massive map is a step beyond Red Dead Redemption 2’s world.",
+        "source": "IGN News"
+      },
+      {
+        "title": "CD Projekt Red Enlisted Modder to Help Make The Witcher 3 Look Better Than Ever in New Remaster",
+        "link": "https://www.ign.com/articles/cd-projekt-red-enlisted-modder-to-help-make-the-witcher-3-look-better-than-ever-in-new-remaster",
+        "summary": "CD Projekt Red enlisted the help of a modder to help make the newly revealed The Witcher 3: Wild Hunt – Remastered look better than ever.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+        "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+        "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+        "link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+        "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking t…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+        "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian’s CFO is leaving the company",
+        "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+        "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+        "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+        "summary": "Sometimes people just want to post to their followers, Bluesky says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+        "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+        "summary": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+        "link": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+        "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+        "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+        "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
+        "link": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+        "summary": "The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its cybersecurity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+        "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+        "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
+        "link": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
+        "summary": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+        "link": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+        "summary": "Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
+        "link": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
+        "summary": "Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+        "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+        "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This former PG&E engineer is building a ‘Google Maps for the underground’",
+        "link": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
+        "summary": "The startup just raised a $26 million Series A to grow its customer base and help reduce red tape for utility and construction work.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
+        "link": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
+        "summary": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "ZMO Launches Innovative Crypto & Stock Trading Platform Powered by 1-Click Trading™",
+        "link": "https://www.investing.com/news/cryptocurrency-news/zmo-launches-innovative-crypto--stock-trading-platform-powered-by-1click-trading-4880552",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bitcoin climbs 2%, tops $80k amid a boost to risk sentiment from tech stocks",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-near-79k-with-us-regulations-meast-conflict-in-focus-4878407",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "YZi Labs Backs TermMax to Advance On-Chain Bond Market Infrastructure",
+        "link": "https://www.investing.com/news/cryptocurrency-news/yzi-labs-backs-termmax-to-advance-onchain-bond-market-infrastructure-4879783",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Valantis Uses Pendle to Launch a Market for Hyperliquid Trading Fee Discounts",
+        "link": "https://www.investing.com/news/cryptocurrency-news/valantis-uses-pendle-to-launch-a-market-for-hyperliquid-trading-fee-discounts-4879444",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "AM Markets Need to Know: Venezuela weighs OPEC exit, Nvidia pauses AI deals, and more",
+        "link": "https://seekingalpha.com/news/4637778-am-markets-need-to-know-venezuela-weighs-opec-exit-nvidia-pauses-ai-deals-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

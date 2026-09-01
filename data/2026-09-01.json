@@ -1,0 +1,248 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T12:47:19.663192+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+        "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+        "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+        "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exem…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+        "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+        "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Me…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ChatGPT to face tougher regulation in the EU",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+        "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Instagram cracks down on AI accounts pretending to be human",
+        "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+        "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that p…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+        "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+        "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Duane Davis Found Guilty in Murder of Tupac Shakur",
+        "link": "https://www.ign.com/articles/duane-davis-found-guilty-in-murder-of-tupac-shakur",
+        "summary": "Verdict arrives 30 years after the rapper and actor was killed in a Las Vegas drive-by shooting.",
+        "source": "IGN News"
+      },
+      {
+        "title": "AMC Theaters Launches Its Own Film Distribution Company As Small Budget Movies Soar",
+        "link": "https://www.ign.com/articles/amc-theaters-launches-its-own-film-distribution-company-as-small-budget-movies-soar",
+        "summary": "AMC Theaters isn’t merely a destination for watching new film releases; it now helps make those releases happen.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gal Gadot Says James Gunn and Peter Safran Told Her Wonder Woman 3 Was Happening Before Its Messy Cancellation",
+        "link": "https://www.ign.com/articles/gal-gadot-says-james-gunn-and-peter-safran-told-her-wonder-woman-3-was-happening-before-its-messy-cancellation",
+        "summary": "Former DC movie star Gal Gadot has opened up about the confusion surrounding Wonder Woman 3, saying that, even though it \"wasn't handled elegantly,\" it's \"all good\" between her, James Gunn, and Peter Safran.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation Is Set to Pay Out $7.85 Million to Users as Part of Class-Action Lawsuit",
+        "link": "https://www.ign.com/articles/playstation-is-set-to-pay-out-785-million-to-users-as-part-of-class-action-lawsuit",
+        "summary": "PlayStation users may be eligible for a cut of a $7.85 million class-action lawsuit settlement very soon.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'Take My Money Now' — Viral Game Lets Your Giant Pet Cat Join You in Combat, and Players Can't Wait",
+        "link": "https://www.ign.com/articles/take-my-money-now-viral-game-lets-your-giant-pet-cat-join-you-in-combat-and-players-cant-wait",
+        "summary": "An indie game where players share heartbeats with their pet cat, which can transform into a giant kitty big enough to ride on and defeat enemies, is going viral — and it’s not hard to see why.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty: Modern Warfare 4 Developers Address Time to Kill Criticisms and Tweak Weapons in New Beta Update",
+        "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-developers-address-time-to-kill-criticisms-and-tweak-weapons-in-new-beta-update",
+        "summary": "Infinity Ward has addressed the state of Call of Duty: Modern Warfare 4's time to kill and tweaked a handful of weapons in a new beta update.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Gets Even More New Screenshots as Rockstar Locks in for November Launch",
+        "link": "https://www.ign.com/articles/gta-6-gets-even-more-new-screenshots-as-rockstar-locks-in-for-november-launch",
+        "summary": "It seems the drought of Grand Theft Auto 6 news has finally come to an end, as Rockstar has published even more screenshots for fans to comb through.",
+        "source": "IGN News"
+      },
+      {
+        "title": "RIP to Disney+'s Live-Action Gargoyles Reboot",
+        "link": "https://www.ign.com/articles/rip-to-disney-pluss-live-action-gargoyles-reboot",
+        "summary": "Gargoyles' creator Greg Weisman has revealed that the live-action adaptation of the '90s cartoon series is no longer moving forward.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lion King Lyricist Ordered to Pay Nearly $40,000 to Cover Comedian's Attorney Fees After Suing Him Over Joke Translation of 'Circle of Life' Lyrics",
+        "link": "https://www.ign.com/articles/lion-king-lyricist-ordered-to-pay-nearly-40000-to-cover-comedians-attorney-fees-after-suing-him-over-joke-translation-of-circle-of-life-lyrics",
+        "summary": "The Grammy-winning lyricist behind The Lion King’s famous opening vocals is now being ordered to pay nearly $40,000 in attorneys’ fees after unsuccessfully suing a comedian for poking fun at the song.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'It Ended My Old Life'  — DayZ Felt Like Dying, Says Creator",
+        "link": "https://www.ign.com/articles/it-ended-my-old-life-dayz-felt-like-dying-says-creator",
+        "summary": "Dean Hall, creator of zombie survival game DayZ and founder of RocketWerkz, seems to have a complicated relationship with his biggest hit, which was first released as a mod for Arma 2 in 2012.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fans Can't Decide if Hideo Kojima Actually Liked Ridley Scott's The Dog Stars",
+        "link": "https://www.ign.com/articles/fans-cant-decide-if-hideo-kojima-actually-liked-ridley-scotts-the-dog-stars",
+        "summary": "Kojima’s brief review for Ridley Scott’s latest movie betrays how he really feels about the divisive post-apocalyptic flick… At least, that’s what fans are saying.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony CEO Explains Why It Isn’t 'Aggressively Marketing' the PlayStation 5 Anymore",
+        "link": "https://www.ign.com/articles/sony-ceo-explains-why-it-isnt-aggressively-marketing-the-playstation-5-anymore",
+        "summary": "Sony CEO Hiroki Totoki confirmed that the company is no longer “aggressively marketing” the PlayStation 5, saying it’s not necessary now that the console is in the later stages of its life cycle.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Godzilla: Destroy All Monsters Melee Remastered Dev Says GTA 6 Was 'Never Part of Our Thinking' When Choosing a Release Date",
+        "link": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-dev-says-gta-6-was-never-part-of-our-thinking-when-choosing-a-release-date",
+        "summary": "Godzilla: Destroy All Monsters Melee Remastered will take on GTA 6 when both games launch this November, but the team behind the arena fighter said Rockstar's latest was \"never part of our thinking\" when choosing a release date.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation Claims Digital Games Are Not Really Owned by Players in Response to Class-Action Lawsuit",
+        "link": "https://www.ign.com/articles/playstation-claims-digital-games-are-not-really-owned-by-players-in-response-to-class-action-lawsuit",
+        "summary": "Sony has given a divisive response to a class-action lawsuit that argues the PlayStation online store doesn’t make it obvious enough that players are merely purchasing a revocable license to play a game, and not the game itself.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6's Relationship Mechanic Is 'Cheating' on Your Real-Life Partner and Break Up Worthy, According to Angry Spouses",
+        "link": "https://www.ign.com/articles/gta-6s-relationship-mechanic-is-cheating-on-your-real-life-partner-and-break-up-worthy-according-to-angry-spouses",
+        "summary": "A bunch of angry spouses on social media believe that Grand Theft Auto 6's in-depth relationship mechanic is equivalent to cheating on your real life partner and worth breaking up over.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+        "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+        "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+        "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+        "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+        "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+        "summary": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+        "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+        "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+        "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+        "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+        "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+        "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+        "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+        "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Instagram puts new limits on undisclosed AI profiles",
+        "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+        "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+        "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+        "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft tests fix for latest hours-long Outlook outage",
+        "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
+        "summary": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Kalshi bans George Santos for life over State of the Union bets",
+        "link": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
+        "summary": "The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+        "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+        "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+        "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
+        "summary": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
+        "link": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
+        "summary": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "StableStock Expands to Korea, Bringing 300+ Korean Stocks and ETFs to Stablecoin Users",
+        "link": "https://www.investing.com/news/cryptocurrency-news/stablestock-expands-to-korea-bringing-300-korean-stocks-and-etfs-to-stablecoin-users-4883460",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Wall Street banks demand lower legal fees as AI boosts efficiency: FT",
+        "link": "https://seekingalpha.com/news/4638532-wall-street-banks-demand-lower-legal-fees-as-ai-boosts-efficiency-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Nasdaq rebounds 3.9% in August as strong tech earnings outweigh late-month volatility",
+        "link": "https://seekingalpha.com/news/4638528-nasdaq-rebounds-39-in-august-as-strong-tech-earnings-outweigh-late-month-volatility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

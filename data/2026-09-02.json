@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:08:44.485941+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "How AI plotted an interstellar journey to Alpha Centauri",
+        "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+        "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 l…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Making the AI-powered case for legacy modernization",
+        "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+        "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with t…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+        "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "How engineered microbes could help feed the world’s crops",
+        "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+        "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucia…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Google needs Hollywood more than the studios need AI",
+        "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+        "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+        "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its res…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+        "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurit…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple accuses OpenAI of destroying evidence",
+        "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+        "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsui…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "John Deere launched an AI chatbot for farmers",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+        "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google Pics is like Canva, but with even more AI",
+        "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+        "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+        "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+        "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+        "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+        "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+        "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+        "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Star Wars Zero Company Was Originally Pitched as a Titanfall Universe Game",
+        "link": "https://www.ign.com/articles/star-wars-zero-company-was-originally-pitched-as-a-titanfall-universe-game",
+        "summary": "Star Wars Zero Company was originally pitched as a game in the Titanfall universe.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Stanley Kubrick’s Daughter Responds to Eyes Wide Shut Conspiracy Theories",
+        "link": "https://www.ign.com/articles/stanley-kubrick-daughter-eyes-wide-shut-conspiracy-theories",
+        "summary": "Stanley Kubrick’s daughter Vivian has addressed rumors surrounding Eyes Wide Shut, debunking claims that key scenes were removed after the director's death.",
+        "source": "IGN News"
+      },
+      {
+        "title": "CD Projekt Red Boss 'Isn't Worried' About Delays for Next-Gen Consoles as RAM Prices Soar",
+        "link": "https://www.ign.com/articles/cd-projekt-red-boss-isnt-worried-about-delays-for-next-gen-consoles-as-ram-prices-soar",
+        "summary": "CD Projekt Red joint CEO Michał Nowakowski opened up about the developer’s reaction to the rising price of consoles and the possibility of next-generation hardware getting delayed.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6's Morality Meter Will Reportedly 'Shatter' and Make You Irredeemable If You Cause Too Much Mayhem",
+        "link": "https://www.ign.com/articles/gta-6s-morality-meter-will-reportedly-shatter-and-make-you-irredeemable-if-you-cause-too-much-mayhem",
+        "summary": "Grand Theft Auto 6's morality meter can reportedly \"shatter\" and lead to you becoming essentially irredeemable for an entire playthrough of the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Resident Evil Movie Popcorn Bucket Is an Organ Transplant Bag",
+        "link": "https://www.ign.com/articles/resident-evil-popcorn-bucket-organ-transplant-bag",
+        "summary": "The official new Resident Evil movie popcorn bucket is styled to look like an organ transplant bag, marking one of the horror franchise's most unsettling collectibles.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Christopher Judge Physically Prepared to Play Kratos in Live-Action God of War Series, but Backed Down for This Reason",
+        "link": "https://www.ign.com/articles/christopher-judge-physically-prepared-to-play-kratos-in-live-action-god-of-war-series-but-backed-down-for-this-reason",
+        "summary": "Christopher Judge revealed that he actually started physically preparing to play Kratos in Prime Video’s live-action God of War series before he made himself back down.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Robert Pattinson Says The Batman Part 2's Fight Scenes Are 'Significantly Harder' to Perform",
+        "link": "https://www.ign.com/articles/robert-pattinson-says-the-batman-part-2s-fight-scenes-are-significantly-harder-to-perform",
+        "summary": "Robert Pattinson says his age is making it harder to perform the fight scenes in The Batman Part 2.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Avengers: Secret Wars Adds Noah Jupe to Highly Secretive Cast",
+        "link": "https://www.ign.com/articles/avengers-secret-wars-adds-noah-jupe-to-highly-secretive-cast",
+        "summary": "Avengers: Secret Wars has added Noah Jupe to its cast in an undisclosed role.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Resident Evil 2 Director Hideki Kamiya Says Capcom Has Grown 'Numb' to How Scary New RE Games Are",
+        "link": "https://www.ign.com/articles/resident-evil-2-director-hideki-kamiya-says-capcom-has-grown-numb-to-how-scary-new-re-games-are",
+        "summary": "Hideki Kamiya has confirmed that he was “not joking” when he begged Capcom to make a less-scary version of Resident Evil Requiem for the faint of heart, even arguing that the company has become \"numb\" to how frightening the newer games have gotten.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Extended Look Tops Netflix Top 10 Chart in First Week",
+        "link": "https://www.ign.com/articles/gta-6-extended-look-tops-netflix-top-10-chart-in-first-week",
+        "summary": "Grand Theft Auto 6: An Extended Look dominated Netflix's top 10 chart in its first week (in the English Film category), racking up 31.1 million views in its first week, beating the second-place film on the list, the Robert DeNiro, Adam Scott, and Michelle Monaghan thriller The Whisper Man, which pul…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Peter Cullen’s Final Optimus Prime Performance Confirmed for New Transformers Short",
+        "link": "https://www.ign.com/articles/peter-cullen-final-optimus-prime-performance-transformers-short",
+        "summary": "The late Peter Cullen's final voice performance as Optimus Prime will debut in a new animated short alongside select 40th anniversary Transformers: The Movie screenings.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Rolls Out New Customer Harassment Policy After Physical Disc Controversy Sparks Backlash",
+        "link": "https://www.ign.com/articles/sony-rolls-out-new-customer-harassment-policy-after-physical-disc-controversy-sparks-backlash",
+        "summary": "Sony Japan has introduced a new customer harassment policy following widespread backlash toward its decision to stop producing physical game discs starting January 2028.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Game Pass September 2026 Wave 1 Lineup Announced",
+        "link": "https://www.ign.com/articles/xbox-game-pass-september-2026-wave-1-lineup-announced",
+        "summary": "Microsoft has announced the Xbox Game Pass September 2027 Wave 1 lineup, and it includes a Call of Duty blockbuster.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Rockstar Games Reveals Its Official GTA Online Roleplaying Server, nopixel V",
+        "link": "https://www.ign.com/articles/rockstar-games-reveals-its-official-gta-online-roleplaying-server-nopixel-v",
+        "summary": "Rockstar Games has revealed its official GTA Online roleplaying server, nopixel V, ahead of GTA 6's launch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Street Fighter Trailer Teases Conflict Between Ryu and Ken, and E. Honda Does His Hundred Hand Slap",
+        "link": "https://www.ign.com/articles/new-street-fighter-trailer-teases-conflict-between-ryu-and-ken-and-e-honda-does-his-hundred-hand-slap",
+        "summary": "Legendary has dropped a new trailer for the Street Fighter movie showing E. Honda pulling off some of his iconic moves and teasing some unexpected tension between Ryu and Ken.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Larry Page’s flying car company Pivotal loses its CEO",
+        "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+        "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+        "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+        "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+        "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+        "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+        "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X says attackers are targeting user accounts after the launch of X Money",
+        "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+        "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+        "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+        "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+        "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
+        "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+        "summary": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Who is John Ternus, the new Apple CEO?",
+        "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+        "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+        "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+        "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+        "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+        "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+        "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+        "summary": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+        "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+        "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
+        "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
+        "summary": "The European Central Bank is seen hiking rates in September as the Iran war raises energy costs in the region.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Silhouette and xStocks Launch RFQ Trading for Tokenized Equities on Hyperliquid",
+        "link": "https://www.investing.com/news/cryptocurrency-news/silhouette-and-xstocks-launch-rfq-trading-for-tokenized-equities-on-hyperliquid-4884287",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Theorem Launches Exchange Infrastructure Built for the Next Phase of Tokenized Asset Markets",
+        "link": "https://www.investing.com/news/cryptocurrency-news/theorem-launches-exchange-infrastructure-built-for-the-next-phase-of-tokenized-asset-markets-4884158",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

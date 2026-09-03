@@ -1,0 +1,290 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:05:35.189279+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Facilitating AI integration with simplicity at scale",
+        "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+        "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: AI puzzles and a path to our nearest star system",
+        "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was po…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+        "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per m…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Amazon’s AI assistant can now spot fake emails from the company",
+        "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+        "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to com…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+        "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI secur…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+        "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"bi…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google is sending MrBeast into the wilderness, armed with AI",
+        "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+        "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+        "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "NYC bans AI use for students until they reach high school",
+        "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+        "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+        "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+        "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+        "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+        "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+        "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+        "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+        "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+        "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+        "summary": "Meet the AI police who can make or break careers—in publishing and beyond.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Resident Evil's Zach Cregger Admits He Was 'Naive' to Assume Fans Would Approve of Him Avoiding a Direct Adaptation of the Games",
+        "link": "https://www.ign.com/articles/resident-evils-zach-cregger-admits-he-was-naive-to-assume-fans-would-approve-of-him-avoiding-a-direct-adaptation-of-the-games",
+        "summary": "Zach Cregger admitted that he was “naive” to think his less-direct approach to adapting Resident Evil would be universally well-received by fans after deliberately choosing to avoid retelling the story exactly as it unfolds in the games.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Witcher 4, Cyberpunk 2077 Developer CD Projekt Red Ramps Up Hiring on 'Project Hadar'",
+        "link": "https://www.ign.com/articles/the-witcher-4-cyberpunk-2077-developer-cd-projekt-red-ramps-up-hiring-on-project-hadar",
+        "summary": "The Witcher and Cyberpunk developer CD Projekt Red is staffing up for its unannounced 'Project Hadar', as that team is currently over 30 people strong with plans \"to hire more, up to 50 developers by the end of this year,\" CD Projekt Red vice president of investor relations Karolina Gnas said on the…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Over 600 Unused Voice Lines From Resident Evil 4 Leak Online, Showing That Capcom Intended to Connect the Game to Village",
+        "link": "https://www.ign.com/articles/over-600-unused-voice-lines-from-resident-evil-4-leak-online-showing-that-capcom-intended-to-connect-the-game-to-village",
+        "summary": "Over 30 minutes’ worth of unused voice lines from Resident Evil 4 Remake have surfaced online, one of which proves that Capcom wanted to make a connection to Village.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Witcher Remake Is on Hold Until The Witcher 4's Development Progresses, Confirms CD Projekt Red",
+        "link": "https://www.ign.com/articles/the-witcher-remake-is-on-hold-until-the-witcher-4s-development-progresses-confirms-cd-projekt-red",
+        "summary": "The remake of The Witcher is currently on hold while the team focuses on The Witcher 4 and The Witcher 3's new expansion, according to CD Projekt Red.",
+        "source": "IGN News"
+      },
+      {
+        "title": "TimTheTatman Turned Down Six-Figure Deal to Stream Arc Raiders Because He Hates It So Much",
+        "link": "https://www.ign.com/articles/timthetatman-turned-down-six-figure-deal-to-stream-arc-raiders-because-he-hates-it-so-much",
+        "summary": "TimTheTatman has revealed that he turned down an eye-watering amount of money for a sponsored Arc Raiders stream.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ikea Is Coming to The Elder Scrolls V: Skyrim and Fans Are All Saying the Same Thing",
+        "link": "https://www.ign.com/articles/ikea-is-coming-to-the-elder-scrolls-v-skyrim-and-fans-are-all-saying-the-same-thing",
+        "summary": "Ikea is partnering up with Skyrim in an unexpected collaboration that has fans making the same joke about The Elder Scrolls 6.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Kat Dennings Recalls Her Six-Hour Mad Max: Fury Road Audition With 'Wonderful Person' Tom Hardy",
+        "link": "https://www.ign.com/articles/kat-dennings-mad-max-fury-road-audition-tom-hardy",
+        "summary": "Kat Dennings shared the heartwarming details of her Mad Max: Fury Road audition with Tom Hardy, revealing how a grueling screen test took a sweet turn in the end.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Is Making 59% More Revenue Per PlayStation User Since PS4 Generation, Says Analyst",
+        "link": "https://www.ign.com/articles/sony-is-making-59-more-revenue-per-playstation-user-since-ps4-generation-says-analyst",
+        "summary": "Sony is making 59% more money per active PlayStation user now than they were during the PS4 era, according to new data compiled by Niko Partners Director of Research and Insights Daniel Ahmad, who covers the video game market with a focus on the Asia and MENA markets. It translates to $230 more spen…",
+        "source": "IGN News"
+      },
+      {
+        "title": "A Playable Build of an Unreleased Scream Game Has Surfaced Thanks to the Steam Leak",
+        "link": "https://www.ign.com/articles/a-playable-build-of-an-unreleased-scream-game-has-surfaced-thanks-to-the-steam-leak",
+        "summary": "An unreleased Scream game has found its way online thanks to the recent Steam leak.",
+        "source": "IGN News"
+      },
+      {
+        "title": "77-Year-Old Volunteer Teacher Arrested After Striking Young Student in Altercation Over Pokemon Cards",
+        "link": "https://www.ign.com/articles/77-year-old-volunteer-teacher-arrested-after-striking-young-student-in-altercation-over-pokemon-cards",
+        "summary": "A 77-year-old volunteer teacher was arrested after reportedly striking a young student in a dispute over Pokémon cards.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Andrew Garfield Historical Drama The Uprising Gets a Fortnite Crossover",
+        "link": "https://www.ign.com/articles/fortnite-andrew-garfield-the-uprising-crossover",
+        "summary": "Fortnite is officially crossing over with Andrew Garfield’s medieval rebellion film The Uprising, including historical melee weapons and film-inspired cinematic endings unique to each outcome.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Eren Yeager's English Voice Actor Literally Dislocated His Jaw to Pull Off One of Attack on Titan's Most Iconic Moments",
+        "link": "https://www.ign.com/articles/eren-yeagers-english-voice-actor-literally-dislocated-his-jaw-to-pull-off-one-of-attack-on-titans-most-iconic-moments",
+        "summary": "Bryce Papenbrook, the English voice actor for Eren Yeager, claimed that he literally dislocated his jaw in order to realistically sell one of the most intense moments in Attack on Titan.",
+        "source": "IGN News"
+      },
+      {
+        "title": "YouTuber Claims Rockstar Confirmed Fans Measured Oxygen Levels Around Its Campus in Anticipation for a New Trailer",
+        "link": "https://www.ign.com/articles/youtuber-claims-rockstar-confirmed-fans-measured-oxygen-levels-around-its-campus-in-anticipation-for-a-new-trailer",
+        "summary": "Italian YouTuber Mike ShowSha got to visit Rockstar ahead of the company’s big GTA 6 Netflix showcase, where developers told him that overeager fans were literally measuring the oxygen levels around their campus in anticipation for a new trailer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Disney Was Working on Its Own Smash Bros.-Like Fighting Game, Confirms Ex-Concept Artist",
+        "link": "https://www.ign.com/articles/disney-was-working-on-its-own-smash-bros-like-fighting-game-confirms-ex-concept-artist",
+        "summary": "Former Disney Interactive concept artist Ken Christiansen confirmed that Kingdom Hearts inspired a Smash Bros.-like crossover fighting game that never got off the ground.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Final Fantasy Maker Square Enix Denies Rumors That It's Going Private",
+        "link": "https://www.ign.com/articles/final-fantasy-maker-square-enix-denies-rumors-that-its-going-private",
+        "summary": "Square Enix has spoken out to address rumors that it's going private.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+        "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+        "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+        "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+        "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+        "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+        "summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "It sure looks like hackers breached a major ID card verification service",
+        "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+        "summary": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+        "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+        "summary": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+        "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real.…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X shifts US creator payouts from Stripe to X Money",
+        "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+        "summary": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+        "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+        "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+        "summary": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+        "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+        "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+        "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+        "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+        "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+        "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
+        "link": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
+        "summary": "If growth were to slow in the semiconductor sector, would the slowdown take the Korean economy with it?",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
+        "link": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
+        "summary": "Though job creation held positive, August was the smallest gain since January and reflective of a broader slowdown in the labor market.",
+        "source": "CNBC Markets"
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T12:07:17.641645+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Architecting memory and storage in the AI era",
+        "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+        "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: selling battlefield drone data and AI reshaping language",
+        "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, wh…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+        "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+        "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Roland is getting into generative AI music with Melody Flip",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+        "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ide…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+        "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+        "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of t…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+        "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Instagram’s AI detection is a mess (again)",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+        "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they di…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Why AI food looks like that",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+        "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. Ther…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+        "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+        "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memo…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+        "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and describ…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "This NAS company wants to run your local smart home",
+        "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+        "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+        "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+        "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+        "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+        "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "'No One Puts Double Fine Out of Business Except for Me' — Tim Schafer Explains How He Kept Double Fine Afloat After Leaving Xbox",
+        "link": "https://www.ign.com/articles/no-one-puts-double-fine-out-of-business-except-for-me-tim-schafer-explains-how-he-kept-double-fine-afloat-after-leaving-xbox",
+        "summary": "Tim Schafer, game designer and founder of Psychonauts developer Double Fine, gave a strong response after Xbox divested the studio as part of its massive restructuring efforts this summer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Wonder Woman Casting Rumors Heat Up as Fans Suspect James Gunn Secretly Picked Adria Arjona for the Role",
+        "link": "https://www.ign.com/articles/wonder-woman-casting-rumors-heat-up-as-fans-suspect-james-gunn-secretly-picked-adria-arjona-for-the-role",
+        "summary": "DC fans are convinced the DCU's Wonder Woman will be played by Adria Arjona after she posted a video of her workout routine ahead of Man of Tomorrow.",
+        "source": "IGN News"
+      },
+      {
+        "title": "gamescom Apologizes for Its Initial Response to Thefts, Promises Improved Security Measures",
+        "link": "https://www.ign.com/articles/gamescom-apologizes-for-its-initial-response-to-thefts-promises-improved-security-measures",
+        "summary": "gamescom has provided a second response regarding the theft of developers’ equipment during its event, offering an apology for its initial reaction to the ordeal.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Odyssey Surpasses $1 Billion at International Box Office With Weeks Left In Theaters",
+        "link": "https://www.ign.com/articles/the-odyssey-surpasses-1-billion-at-international-box-office-with-weeks-left-in-theaters",
+        "summary": "Christopher Nolan’s The Odyssey has earned more than $1 billion at the international box office, and it still has nearly four more weeks left in theaters.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Zach Cregger Already Has 'Ideas' About What He'd Do for a Second Resident Evil Movie",
+        "link": "https://www.ign.com/articles/zach-cregger-already-has-ideas-about-what-hed-do-for-a-second-resident-evil-movie",
+        "summary": "Zach Cregger says he'd love to tell more stories in the Resident Evil universe, admitting he already has \"ideas\" about where he’d take things in a second film.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Noir Canceled at Prime Video After One Season",
+        "link": "https://www.ign.com/articles/spider-noir-canceled-at-prime-video-after-one-season",
+        "summary": "Amazon's Prime Video has canceled Nicolas Cage's Spider-Noir after just one season.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Tetris Responds After Trump Administration Launches 'Build the Wall' Clone Game",
+        "link": "https://www.ign.com/articles/tetris-responds-after-trump-administration-launches-build-the-wall-clone-game",
+        "summary": "Official Tetris pages have responded after the Trump administration launched a clone video game called 'Build the Wall.'",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hideki Kamiya Isn't Fussed About the Physical vs. Digital Debate – He Just Wants Games to Be Preserved for Future Generations",
+        "link": "https://www.ign.com/articles/hideki-kamiya-isnt-fussed-about-the-physical-vs-digital-debate-he-just-wants-games-to-be-preserved-for-future-generations",
+        "summary": "Hideki Kamiya, creator of Bayonetta and director of Resident Evil 2, says he isn’t too fussed about physical vs digital games; instead, he’s more concerned with preserving games for players to enjoy in the future.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Rockstar Censors GTA 6 Extended Look Trailer for China",
+        "link": "https://www.ign.com/articles/rockstar-censors-gta-6-extended-look-trailer-for-china",
+        "summary": "Rockstar Games has published a heavily censored version of the Grand Theft Auto 6 extended look reveal for China.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bungie Confirms Plans to Sublease Parts of Its Enormous Bellevue Headquarters Following Mass Layoffs",
+        "link": "https://www.ign.com/articles/bungie-confirms-plans-to-sublease-parts-of-its-enormous-bellevue-headquarters-following-mass-layoffs",
+        "summary": "Bungie has responded after announcing plans to sublease 210,984-square feet of its massive headquarters in Bellevue, Washington, saying this move reflects its continued focus on a “digital first” model.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hands-On With Acer's Prototype Convertible Handheld PC/Laptop Hybrid",
+        "link": "https://www.ign.com/articles/hands-on-with-acers-prototype-convertible-handheld-pclaptop-hybrid",
+        "summary": "It works like a gaming handheld when you want to play, and then you can open it up into a mini, almost Netbook-like PC in just a few short seconds.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Resident Evil Teaser Trailer Reveals First Glimpse at Creature That Looks a Lot Like Las Plagas",
+        "link": "https://www.ign.com/articles/new-resident-evil-teaser-trailer-reveals-first-look-at-creature-that-seems-a-lot-like-las-plagas",
+        "summary": "A new Spanish-language trailer for Zach Cregger’s Resident Evil movie includes never-before-seen footage of a tentacle-like mutation that looks frighteningly similar to Las Plagas from RE4.",
+        "source": "IGN News"
+      },
+      {
+        "title": "DLSS 5 Will Be Coming to Older Graphics Cards After All",
+        "link": "https://www.ign.com/articles/dlss-5-will-be-coming-to-older-graphics-cards-after-all",
+        "summary": "On Nvidia's forums, an Nvidia employee claimed that the company will be expanding DLSS 5 support to RTX 40 series graphics cards at some point, but we're probably going to be waiting a while for it.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Criminal Showrunner and Winter Soldier Co-Creator Ed Brubaker Sued by Production Assistant",
+        "link": "https://www.ign.com/articles/criminal-showrunner-and-winter-soldier-co-creator-ed-brubaker-sued-by-production-assistant",
+        "summary": "Prime Video's Criminal series is embroiled in controversy, as showrunner Ed Brubaker has been sued by a former production assistant for allegedly fostering a hostile work environment.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hideki Kamiya Tells Xbox CEO He's Ready to Make Scalebound When She Is",
+        "link": "https://www.ign.com/articles/hideki-kamiya-tells-xbox-ceo-hes-ready-to-make-scalebound-when-she-is",
+        "summary": "Bayonetta creator Hideki Kamiya has a message for Xbox CEO Asha Sharma: When she's ready to make Scalebound, he'll be waiting.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+        "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+        "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+        "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+        "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What will Apple’s John Ternus era look like?",
+        "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+        "summary": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far,…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+        "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+        "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+        "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+        "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+        "link": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+        "summary": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+        "link": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+        "summary": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s Gemini Spark can now manage your Google Photos library",
+        "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+        "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+        "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+        "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
+        "link": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+        "summary": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Feds launch investigation into Tesla’s Cybercab deployment",
+        "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+        "summary": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+        "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+        "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+        "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+        "source": "Ars Technica"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Women accounted for almost all of job gains in August. Here's why",
+        "link": "https://www.cnbc.com/2026/09/04/jobs-report-women-payrolls.html",
+        "summary": "Women accounted for virtually all of August's payroll gains, the latest sign of their growing power in the labor market.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+        "link": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+        "summary": "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin falls as Fed rate hike bets rise, but on track for three-week win streak",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rallies-past-81k-as-rate-hike-fears-cool-regulatory-hopes-grow-4888849",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "EOS Falls 10% In Selloff",
+        "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-selloff-4890028",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

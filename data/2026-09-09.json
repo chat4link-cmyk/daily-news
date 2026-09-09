@@ -1,0 +1,302 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:21:08.342685+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "What OpenAI’s latest controversy tells us about the future of math",
+        "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+        "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: our 35 Innovators Under 35 this year",
+        "link": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "This founder is teaching chips how to recycle (their energy)",
+        "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+        "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually t…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+        "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "This founder is making cheaper, cleaner steel",
+        "link": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+        "summary": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts wit…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "This geneticist’s age-reversal tech could help restore sight",
+        "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+        "summary": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+        "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid an…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+        "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta bets on AI agent Muse to catch up in AI race",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+        "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI ra…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+        "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an e…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+        "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, c…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+        "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+        "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+        "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+        "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+        "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+        "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Netflix Orders Lonesome Dove TV Series From East of Eden Showrunners",
+        "link": "https://www.ign.com/articles/netflix-lonesome-dove-series-zoe-kazan",
+        "summary": "Netflix is adapting Larry McMurtry’s iconic Western novel Lonesome Dove into a new TV series from East of Eden co-showrunners Zoe Kazan and Jeb Stuart.",
+        "source": "IGN News"
+      },
+      {
+        "title": "AMC Theaters Is Broadcasting the 2026 Rocket League World Championship Finals at Select Cinemas Across the US",
+        "link": "https://www.ign.com/articles/amc-theaters-is-broadcasting-the-2026-rocket-league-world-championship-finals-at-select-cinemas-across-the-us",
+        "summary": "The 2026 Rocket League World Championship Finals will be broadcast at 50 AMC Theaters across the United States.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Lord of the Rings: The Rings of Power Is Finally Getting a 4K Blu-ray Release Ahead of Season 3",
+        "link": "https://www.ign.com/articles/lord-of-the-rings-the-rings-of-power-season-1-2-4k-blu-ray-where-to-buy",
+        "summary": "The Rings of Power is finally getting a 4K Blu-ray release ahead of the Prime Video show's third season.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Artificial Looks Like a Horror Movie in First Teaser for Sam Altman Biopic After Amazon Pulled the Plug",
+        "link": "https://www.ign.com/articles/artificial-looks-like-a-horror-movie-in-first-teaser-for-sam-altman-biopic-after-amazon-pulled-the-plug",
+        "summary": "Neon has unveiled the first teaser for Luca Guadagnino's Sam Altman biopic, Artificial, after Amazon abruptly canceled its support for the film earlier this year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Breaking Benjamin Frontman Stops His Own Concert to Rant About His Feud With a Fallout 4 Modder",
+        "link": "https://www.ign.com/articles/breaking-benjamin-frontman-pauses-his-own-concert-to-rant-about-his-with-a-fallout-4-modder",
+        "summary": "Benjamin Burnley, lead singer and guitarist of the rock band Breaking Benjamin, took five minutes during a concert in Holmdel, New Jersey, to rant about his feud with a fellow Fallout 4 modder.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Snoop Dogg Biopic Casts D'Angelo's Son, Swayvo Twain, as The Notorious B.I.G.",
+        "link": "https://www.ign.com/articles/snoop-dogg-biopic-casts-dangelos-son-swayvo-twain-as-the-notorious-big",
+        "summary": "Snoop Dogg's biopic has cast Swayvo Twain, the son of D'Angelo, as Notorious B.I.G.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation Architect Mark Cerny 'Nearing the End' of Career, Launching Fellowship Program With Game Awards Creator Geoff Keighley",
+        "link": "https://www.ign.com/articles/playstation-architect-mark-cerny-nearing-the-end-of-career-launching-fellowship-program-with-game-awards-creator-geoff-keighley",
+        "summary": "PlayStation architect Mark Cerny says he's \"nearing the end\" of his career and wants to pay it forward before he steps away, so he's partnered with The Game Awards creator Geoff Keighley to announce a new fellowship program for game design graduates called the The Nova Games Foundation, with a goal …",
+        "source": "IGN News"
+      },
+      {
+        "title": "One of Street Fighter 2's Original Designers Wants to Rebalance Super Turbo 3 Decades After Its Release",
+        "link": "https://www.ign.com/articles/one-of-street-fighter-2s-original-designers-wants-to-rebalance-super-turbo-3-decades-after-its-release",
+        "summary": "Akira Nishitani, one of the original designers for Street Fighter 2 and Final Fight, expressed an interest in rebalancing Super Street Fighter 2: Turbo — over 30 years after its release.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Trump Administration Tetris Clone Vanishes from White House Website Days After Launch",
+        "link": "https://www.ign.com/articles/trump-administration-tetris-clone-vanishes-from-white-house-website-days-after-launch",
+        "summary": "The Trump Administration appears to have pulled its Tetris clone 'Build the Wall' offline less than one week after its launch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty Adds Doom Slayer Skin as Part of New Halloween Update",
+        "link": "https://www.ign.com/articles/call-of-duty-adds-doom-slayer-skin-as-part-of-new-halloween-update",
+        "summary": "Call of Duty's upcoming Halloween event will add the Doom Slayer as a playable operator to the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Intentionally Included Loading Screens in The Legend of Zelda: Ocarina of Time Remake, and Fans Are Torn",
+        "link": "https://www.ign.com/articles/nintendo-intentionally-included-loading-screens-in-the-legend-of-zelda-ocarina-of-time-remake-and-fans-are-torn",
+        "summary": "Nintendo has confirmed it intentionally included loading screens in its The Legend of Zelda: Ocarina of Time remake to \"preserve the essence of the original game,\" and the internet isn't in love with the idea.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sega's President Says There's Been an Increase in Fans Who Don't Play Its Games, but That Doesn't Mean They Aren't Gamers",
+        "link": "https://www.ign.com/articles/segas-president-says-theres-been-an-increase-in-fans-who-dont-play-its-games-but-that-doesnt-mean-they-arent-gamers",
+        "summary": "Sega president and COO Shuji Utsumi says the company has experienced an uptick in fans who don’t actually play the games it develops and publishes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Shift Up CTO Clarifies Stellar Blade Developer's Stance on AI After Blood Rain Music Video Controversy",
+        "link": "https://www.ign.com/articles/shift-up-cto-clarifies-stellar-blade-developers-stance-on-ai-after-blood-rain-music-video-controversy",
+        "summary": "Shift Up’s chief technology officer, DongKi Lee, has clarified the developer’s stance on AI after a music video for Stellar Blade: Blood Rain sparked backlash last month.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'It Definitely Was a Shock': The Legend of Zelda: Ocarina of Time Artwork Splits Fans Following Trailer Reveal",
+        "link": "https://www.ign.com/articles/it-definitely-was-a-shock-the-legend-of-zelda-ocarina-of-time-artwork-splits-fans-following-trailer-reveal",
+        "summary": "What do you think of the new art style for Nintendo's The Legend of Zelda: Ocarina of Time remake? It's the big question that fans have been discussing ever since today's Zelda Direct — and now they're poring over new artwork, too.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Original Star Wars and Starfighter Heading to IMAX 70mm",
+        "link": "https://www.ign.com/articles/star-wars-starfighter-imax-70mm-release",
+        "summary": "Lucasfilm announced that the original Star Wars and Ryan Gosling's Star Wars: Starfighter will get historic IMAX 70mm releases in 2027.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+        "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+        "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+        "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+        "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+        "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+        "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+        "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+        "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+        "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+        "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How to watch Apple’s foldable iPhone announcement",
+        "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+        "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+        "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+        "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+        "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+        "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+        "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+        "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+        "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mistral raises €3B as sovereign AI becomes big business",
+        "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+        "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A hacker stole $340M in a crypto heist, then returned most of it",
+        "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+        "summary": "The latest heist is one of the largest thefts of cryptocurrency to date.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+        "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+        "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+        "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+        "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Why the Fed's interest rate call could come down to a few hundredths of a percentage point",
+        "link": "https://www.cnbc.com/2026/09/08/federal-reserves-rate-call-could-hang-on-a-tiny-fraction.html",
+        "summary": "As markets vacillate between which way they see policymakers leaning, all eyes will turn to economic reports measuring producer and consumer prices.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
+        "link": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
+        "summary": "Finance ministry data showed that Japan's official foreign reserves stand at $1.207 trillion, down from July's figure of $1.287 trillion.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin falls nearly 1% as Fed rate hike bets remain elevated, oil prices rise",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-78k-as-as-fed-oil-pressures-mount-4890858",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Oil prices add to two-month highs after U.S. destroys five Iranian oil tankers",
+        "link": "https://seekingalpha.com/news/4641010-oil-prices-add-to-two-month-highs-after-us-destroys-five-iranian-oil-tankers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:18:17.444961+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: OpenAI’s turning point for math and a battery record",
+        "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Unde…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Batteries just broke another record in the US",
+        "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+        "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Understanding the thermal ceiling in portable power",
+        "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+        "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone’s battery management system reduces the current it will accept, because heat accelera…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Suno releases its first AI music model made with record industry help",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+        "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+        "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Read the Apple document explaining how new listening features still protect your privacy",
+        "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+        "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" a…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+        "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+        "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft has new AI privacy rules for schools",
+        "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+        "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. In a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate the…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+        "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+        "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announceme…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Students who use AI generally score worse at school",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+        "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+        "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot co…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+        "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+        "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+        "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+        "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+        "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+        "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+        "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+        "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "The People v. Gorilla Grodd Set Video Shows DC Villain Singing Backstreet Boys",
+        "link": "https://www.ign.com/articles/the-people-v-gorilla-grodd-set-video-backstreet-boys",
+        "summary": "New BTS footage from DC Studios' The People v. Gorilla Grodd shows the supervillain singing Backstreet Boys' \"As Long as You Love Me\" in an a cappella group.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Valorant Cheater Using Evil Tung Tung Tung Sahur Skin Banned After Viral Video Sparks Backlash Against Riot's Anti-Cheat",
+        "link": "https://www.ign.com/articles/valorant-cheater-using-evil-tung-tung-tung-sahur-skin-banned-after-viral-video-sparks-backlash-against-riots-anti-cheat",
+        "summary": "A hacker using an ‘Evil’ Tung Tung Tung Sahur skin has been banned after wreaking havoc in Valorant lobbies and decimating entire teams.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Direct September 2026 No-Shows: From The Duskbloods to Mario",
+        "link": "https://www.ign.com/articles/nintendo-direct-september-2026-no-shows-from-the-duskbloods-to-mario",
+        "summary": "Today's September 2026 Nintendo Direct has come and gone, and so has any chance of seeing the next 3D Mario, The Duskbloods, and more highly anticipated games that ended up being no-shows.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Some of the Best Batman Movies Are Returning to Theaters This Month",
+        "link": "https://www.ign.com/articles/some-of-the-best-batman-movies-are-returning-to-theaters-this-month",
+        "summary": "Three fan-favorite Batman movies are being re-released in theaters next week in celebration of Batman Day.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Redwall's 23rd and Final Book Is Finally Getting Published After 16 Years",
+        "link": "https://www.ign.com/articles/redwalls-23rd-and-final-book-is-finally-getting-published-after-16-years",
+        "summary": "The 23rd and final novel in Brian Jacques’ Redwall series will be published in September 2027, putting an end to the beloved saga after 41 years.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Michael Mann Recuts Miami Vice for October Beyond Fest World Premiere",
+        "link": "https://www.ign.com/articles/miami-vice-directors-final-cut-october-premiere",
+        "summary": "Writer-director Michael Mann is taking another crack at his 2006 film, Miami Vice. Miami Vice: Director’s Final Cut will make its world premiere at Beyond Fest in Los Angeles on October 3, 2026.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel's Guardians of the Galaxy's Surprise Switch 2 Port Has Some Fans Hoping for a Sequel",
+        "link": "https://www.ign.com/articles/marvels-guardians-of-the-galaxys-surprise-switch-2-port-has-some-fans-hoping-for-a-sequel",
+        "summary": "Marvel's Guardians of the Galaxy has re-emerged, five years after its release, with a new Switch 2 version... and some fans hope it could lead to a sequel.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Onimusha: Way of the Sword Is Getting an Official Prequel Webtoon With New Chapters Every Saturday",
+        "link": "https://www.ign.com/articles/onimusha-way-of-the-sword-is-getting-an-official-prequel-webtoon-with-new-chapters-every-saturday",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "How Many Guest Characters Is Too Many? Tokyo Revengers X City of the Wolves Collaboration Sparks Fighting Game Debate",
+        "link": "https://www.ign.com/articles/how-many-guest-characters-is-too-many-tokyo-revengers-x-city-of-the-wolves-collaboration-sparks-fighting-game-debate",
+        "summary": "The fighting game community is in the middle of a fierce debate over the amount of guest characters coming to Fatal Fury: City of the Wolves.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ace Combat 8 Dev Says Tasha Was the Game's 'Most Expensive' Character to Design",
+        "link": "https://www.ign.com/articles/ace-combat-8-dev-says-tasha-was-the-games-most-expensive-character-to-design",
+        "summary": "Ace Combat 8: Wings of Theve Brand Director Kazutoki Kono says developers spent so long working on Tasha that she ended up being the “most expensive character” in the entire game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Apple Announces Foldable iPhone Duo",
+        "link": "https://www.ign.com/articles/apple-announces-foldable-iphone-duo",
+        "summary": "After years of it being rumored, Apple has finally revealed a foldable iPhone, the iPhone Duo at the company's \"Surprise and Shine\" September event. Here's all the camera details, performance specs, and UI improvements Apple is packing into its newest device.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Attack on Titan Is Coming to 4DX Theaters, but There's a Catch",
+        "link": "https://www.ign.com/articles/attack-on-titan-is-coming-to-4dx-theaters-but-theres-a-catch",
+        "summary": "Attack on Titan is coming to theaters this fall, bringing the beginning of Hajime Isayama’s groundbreaking story and its harrowing end to 4DX and ScreenX cinemas in Japan.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Apple iPhone Event 2026 – Everything Announced, Including the iPhone Duo",
+        "link": "https://www.ign.com/articles/apple-surprise-and-shine-event-everything-announced",
+        "summary": "While I won't know exactly which devices Apple will show off at the event today, its a pretty safe assumption that the iPhone 18 and 18 Pro are going to be there. There are also some strong rumors that Apple's long-expected foldable iPhone is going to make an appearance. After all, this will be the …",
+        "source": "IGN News"
+      },
+      {
+        "title": "Callina Liang's Stunt Double in the Street Fighter Movie Had to Wear Butt Pads to Match Chun-Li's Physique",
+        "link": "https://www.ign.com/articles/callina-liangs-stunt-double-in-street-fighter-movie-had-to-wear-butt-pads-to-match-chun-lis-physique",
+        "summary": "Callina Liang’s stunt double in Legendary’s upcoming Street Fighter movie had to wear butt pads in order to realistically match Chun-Li’s muscular physique.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Apple Announces the iPhone 18 Pro",
+        "link": "https://www.ign.com/articles/apple-announces-the-iphone-18-pro",
+        "summary": "Apple has announced the iPhone 18 Pro at its 'Surprise and Shine' September event.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+        "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+        "summary": "Mullenweg said in a company Slack message that it was against his will.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Massachusetts hits data centers with new clean power rules",
+        "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+        "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+        "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+        "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+        "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+        "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+        "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
+        "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+        "summary": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The hinge for Apple’s new foldable phone was built with AI",
+        "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+        "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple Watch’s new feature listens to your chats and recaps them",
+        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
+        "summary": "The Siri Recap feature is similar to other note-taking apps like Granola.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+        "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+        "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+        "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+        "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+        "link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+        "summary": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+        "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+        "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+        "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+        "summary": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Why the Fed's interest rate call could come down to a few hundredths of a percentage point",
+        "link": "https://www.cnbc.com/2026/09/08/federal-reserves-rate-call-could-hang-on-a-tiny-fraction.html",
+        "summary": "As markets vacillate between which way they see policymakers leaning, all eyes will turn to economic reports measuring producer and consumer prices.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin marginally lower to $78.3k as Brent tops $100 and U.S. bonds slide",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-79k-on-zcash-etf-inflows-fed-oil-pressures-limit-rise-4892730",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

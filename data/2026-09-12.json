@@ -1,0 +1,278 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T12:16:33.713443+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Roundtables: AI’s apocalypse crisis",
+        "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+        "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: biotech’s future and cheaper, cleaner steel",
+        "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and b…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Meet the under-35s shaping the future of biotech",
+        "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+        "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includ…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+        "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing t…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic spent this week in hot water over cybersecurity",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+        "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+        "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\"…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+        "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+        "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+        "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+        "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+        "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+        "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks",
+        "link": "https://www.ign.com/articles/gta-6-reviews-plague-real-life-nudist-resort-after-fans-draw-comparisons-to-leaks",
+        "summary": "GTA 6 fans believe its nudist resort was inspired by a real-life location, and its owners are already being bombarded with problematic reviews.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Polyarc, Dev Behind the Critically Acclaimed Moss Series, Is Shutting Down",
+        "link": "https://www.ign.com/articles/polyarc-dev-behind-the-critically-acclaimed-moss-series-is-shutting-down",
+        "summary": "Polyarc Games, the developer behind the critically acclaimed Moss games, has announced it is shutting down.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Point Break TV Show Gets the Green Light at AMC",
+        "link": "https://www.ign.com/articles/point-break-tv-show-gets-the-green-light-at-amc",
+        "summary": "AMC has given its Point Break TV show the green light.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Miami Approves 'Discreet' GTA 6 Marketing Campaign So the City Can Fix Its Football Field",
+        "link": "https://www.ign.com/articles/miami-approves-discreet-gta-6-marketing-campaign-so-the-city-can-fix-its-football-field",
+        "summary": "Rockstar Games' Grand Theft Auto 6 is coming to real-life Miami after a city meeting resulted in the approval of a \"discreet\" – and controversial – marketing campaign.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'They Thought It Was Too Funny': Zach Cregger Says He's Cut Most of the Jokes From His Resident Evil Movie, Following Test Screenings",
+        "link": "https://www.ign.com/articles/they-thought-it-was-too-funny-zach-cregger-says-hes-cut-most-of-the-jokes-from-his-resident-evil-movie-following-test-screenings",
+        "summary": "Resident Evil director Zach Cregger says he's cut most of movie's jokes, after test audiences apparently found the film \"too funny.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Developer Rockstar Says It Was Forced to Put Privacy Films on Its Buildings After Drones Were Used to Snap Photos Through Office Windows",
+        "link": "https://www.ign.com/articles/gta-6-developer-rockstar-says-it-was-forced-to-put-privacy-films-on-its-buildings-after-drones-were-used-to-snap-photos-through-office-windows",
+        "summary": "Rockstar Games has released its opening note in the employment tribunal to determine the fate of the 31 GTA 6 developers it fired last year, and in doing so has revealed the extreme lengths it goes to in order to prevent security breaches.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation Ditched Kojima's Physint Due to Missed Deadlines and Budget Concerns, Report Claims",
+        "link": "https://www.ign.com/articles/playstation-ditched-kojimas-physint-due-to-missed-deadlines-and-budget-concerns-report-claims",
+        "summary": "Sony's decision to walk away from its deal with the legendary Metal Gear Solid creator Hideo Kojima for upcoming PlayStation game Physint was reportedly the result of budget concerns and missed deadlines.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'I Really Want Game Pass to Work' — After Navigating the Xbox 'Reset,' Double Fine Boss Tim Schafer Is Indie Once Again",
+        "link": "https://www.ign.com/articles/i-really-want-game-pass-to-work-after-navigating-the-xbox-reset-double-fine-boss-tim-schafer-is-indie-once-again",
+        "summary": "After navigating the Xbox \"Reset,\" Double Fine boss Tim Schafer is indie once again. IGN interviewed the developer on what happens next.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Secures Legal Victory Against Sale of Switch Game Piracy Devices",
+        "link": "https://www.ign.com/articles/nintendo-secures-legal-victory-against-sale-of-switch-game-piracy-devices",
+        "summary": "Nintendo has won a major legal victory aimed at blocking the sale of devices that enable Switch game piracy.",
+        "source": "IGN News"
+      },
+      {
+        "title": "How Warhammer 40,000: Space Marine 3 Will Benefit From Tech Improvements Made for John Carpenter's Toxic Commando",
+        "link": "https://www.ign.com/articles/how-warhammer-40000-space-marine-3-will-benefit-from-tech-improvements-made-for-john-carpenters-toxic-commando",
+        "summary": "John Carpenter's Toxic Commando’s launch came in below publisher Focus Entertainment’s expectations, but for Saber Interactive it was successful in commercial terms — and according to development chief Tim Willits, the tech work done for it will go on to benefit the upcoming Warhammer 40,000: Space …",
+        "source": "IGN News"
+      },
+      {
+        "title": "Tom Holland's Spider-Man 5 Reportedly Has a Director, and It's No Surprise Who It Is",
+        "link": "https://www.ign.com/articles/tom-hollands-spider-man-5-reportedly-has-a-director-and-its-no-surprise-who-it-is",
+        "summary": "The inevitable Spider-Man: Brand New Day sequel already has its director, according to a fresh report.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lady Dimitrescu Actor Maggie Robertson Would Say Yes in a Heartbeat if Capcom Called to Reprise Her Breakout Resident Evil Role",
+        "link": "https://www.ign.com/articles/lady-dimitrescu-actor-maggie-robertson-would-say-yes-in-a-heartbeat-if-capcom-called-to-reprise-her-breakout-resident-evil-role",
+        "summary": "Maggie Robertson has said she would accept any opportunity from Capcom to reprise her breakout role as Lady Dimitrescu in the Resident Evil series, calling the character her “firstborn.”",
+        "source": "IGN News"
+      },
+      {
+        "title": "Permanent New Drift Attack Feature Active Now in Forza Horizon 6",
+        "link": "https://www.ign.com/articles/permanent-new-drift-attack-feature-active-now-in-forza-horizon-6",
+        "summary": "New mode will also unlock a newly added Forza Edition 1990 Jaguar XJ-S.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Why Are Fortnite’s Player Numbers Falling So Hard This Season?",
+        "link": "https://www.gamespot.com/articles/why-are-fortnites-player-numbers-falling-so-hard-this-season/",
+        "summary": "Ever since Fortnite started publicly posting player numbers back in 2023, the doomsayers have come out in full force any time there's a decline in concurrent or average player numbers. We're in exactly one of those situations right now, as player counts for the game's main mode, Battle Royale, have …",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Go Ahead And Take Vacation Time To Play GTA 6",
+        "link": "https://www.gamespot.com/articles/go-ahead-and-take-vacation-time-to-play-gta-6/",
+        "summary": "Are you planning to disappear into Vice City when Grand Theft Auto 6 arrives in just over two months? You’re not alone and doing so definitely isn't uncommon. For decades, fans have been calling in sick or taking vacation time when a new game in a series they love drops. For franchises like Call of …",
+        "source": "GameSpot"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+        "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+        "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+        "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+        "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+        "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+        "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+        "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+        "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+        "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+        "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+        "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+        "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+        "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+        "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+        "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+        "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Some satellite companies still have an appetite for boutique launch services",
+        "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+        "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Random rewards enrich classic game-theory insights",
+        "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+        "summary": "Simple games gain rich strategies in the face of noise.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+        "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+        "summary": "The strain lurking in the inflatable structure was hypervirulent.",
+        "source": "Ars Technica"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Consumer outlook plunges in September as inflation outlook worsens",
+        "link": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
+        "summary": "The survey's headline index hit a level of 47.8, down 7.5% from the August reading and off 13.2% from a year ago.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+        "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+        "summary": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bitcoin breakdown risk at $77,167 with $76,296 as last support: Live",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "U.S. court strikes down DoE emergency order delaying Michigan coal plant retirement",
+        "link": "https://seekingalpha.com/news/4642236-us-court-strikes-down-doe-emergency-order-delaying-michigan-coal-plant-retirement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

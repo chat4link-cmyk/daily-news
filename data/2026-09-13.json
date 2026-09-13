@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T12:29:25.252523+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "OpenAI’s rogue AI tried to hack another company in May",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems d…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+        "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was be…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+        "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Trump is giving data centers a pass to pollute",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+        "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI just wants to win",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+        "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. In…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+        "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+        "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "StarCraft Devs Promise New Game Will Definitely Release in 2030",
+        "link": "https://www.ign.com/articles/starcraft-devs-promise-new-game-will-definitely-release-in-2030",
+        "summary": "We got the chance to speak with the developers of the new StaCcraft game, who explained why they shared such a distant release date and even teased some potential gameplay elements.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Overwatch Reveals First Look at New Omnic Hero Coming Later This Year",
+        "link": "https://www.ign.com/articles/overwatch-reveals-first-look-at-new-omnic-hero-coming-later-this-year",
+        "summary": "Blizzard has teased another new Overwatch Hero after revealing Doctrine just moments ago.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Diablo 5 Forging the Next Era Panel: Everything Announced",
+        "link": "https://www.ign.com/articles/diablo-5-forging-the-next-era-panel-everything-announced",
+        "summary": "Blizzard has revealed three classes for Diablo 5, a first look at its UI, and shown off even more as part of its Forging the Next Era panel at BlizzCon 2026.",
+        "source": "IGN News"
+      },
+      {
+        "title": "X-Men Star Inde Navarrette Teases Her Plan to Nail Rogue’s Southern Accent",
+        "link": "https://www.ign.com/articles/x-men-star-inde-navarrette-teases-her-plan-to-nail-rogues-southern-accent",
+        "summary": "Obsession breakout Inde Navarrette already has a plan to make sure she nails Rogue's iconic Southern accent in the new X-Men movie.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Blizzard's Big BlizzCon 2026 Opening Ceremony Mic Drop Is World of Warcraft Forever",
+        "link": "https://www.ign.com/articles/blizzards-big-blizzcon-2026-opening-ceremony-mic-drop-is-world-of-warcraft-forever",
+        "summary": "Blizzard ended its BlizzCon 2026 Opening Ceremony with the announcement of World of Warcraft Forever.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Blizzard Shadow-Drops New Campaign for Warcraft 3 at BlizzCon 2026",
+        "link": "https://www.ign.com/articles/blizzard-shadow-drops-new-campaign-for-warcraft-3-at-blizzcon-2026",
+        "summary": "Blizzard has shadow-dropped a brand new campaign for its real-time strategy game Warcraft 3.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Diablo 5 Announced",
+        "link": "https://www.ign.com/articles/diablo-5-announced-release-date-2029",
+        "summary": "Blizzard has officially announced Diablo 5 at BlizzCon 2026. Set entirely in a post-apocalyptic future 100 years after Diablo 4, the ARPG will release in 2029.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Overwatch Gets New Vampire-Inspired Support Hero, Map, and Big Character Reworks",
+        "link": "https://www.ign.com/articles/overwatch-2-gets-new-vampire-inspired-support-hero-map-and-big-character-reworks",
+        "summary": "Overwatch is getting a brand-new vampire-inspired support hero, as well as the conclusion of Act III in The Reign of Talon storyline and several big character changes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Next StarCraft Game Announced at BlizzCon as an Open-World Shooter, but It’s Not Due Out Until 2030",
+        "link": "https://www.ign.com/articles/next-starcraft-game-announced-at-blizzcon-as-an-open-world-shooter-but-its-not-due-out-until-2030",
+        "summary": "It’s been over 15 years since Blizzard’s beloved real-time strategy game, StarCraft 2, came out. Now, a new game in the series has been announced — but it’s still years away.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Animated Diablo Show in the Works at Netflix",
+        "link": "https://www.ign.com/articles/animated-diablo-show-in-the-works-at-netflix",
+        "summary": "An animated Diablo show is in the works at Netflix, as announced at Blizzcon 2026, and there could be more to com",
+        "source": "IGN News"
+      },
+      {
+        "title": "Heroes of the Storm Gets First New Character in Six Years",
+        "link": "https://www.ign.com/articles/heroes-of-the-storm-gets-first-new-character-in-six-years",
+        "summary": "Announced at Blizzcon 2026, Heroes of the Storm is getting its first new character since Hogger was released in 2020, as well as a new PTR.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Borderlands 4 DLC Character and Free-to-Play Weekend Attract Resurgence on Steam",
+        "link": "https://www.ign.com/articles/borderlands-4-dlc-character-and-free-to-play-weekend-attract-resurgence-on-steam",
+        "summary": "Borderlands 4 is climbing Steam charts as players fall head over heels for its new DLC character – a Vault Hunter named Loveless the Hacker.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Level-5 Boss Addresses AI Backlash After Fans Hit Out at Game Reveal Showcase",
+        "link": "https://www.ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase",
+        "summary": "Developer Level-5 has apologized for and explained its use of generative AI after fans spotted 'AI slop' in footage of games like Professor Layton and the Curious Village, DecaPolice, and more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "BlizzCon 2026 Opening Ceremony: Everything Announced",
+        "link": "https://www.ign.com/articles/blizzcon-2026-opening-ceremony-live-blog-the-future-of-warcraft-and-diablo-set-to-be-revealed-amid-starcraft-announcement-rumors",
+        "summary": "BlizzCon 2026 is upon is, and IGN is reporting live on all the announcements direct from the opening ceremony. Expect big news on everything from World of Warcraft to Diablo, amid strong rumors of a StarCraft announcement.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests",
+        "link": "https://www.ign.com/articles/wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-amid-fart-gas-toggle-requests",
+        "summary": "A debate over “fart gas” has emerged around PlayStation 5 exclusive Marvel’s Wolverine, with some people calling for developer Insomniac to add the ability to disable Logan’s scent trail entirely from the game.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+        "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+        "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+        "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+        "summary": "Tesla’s halo sports car was first announced in November 2017.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Revolut confirms customer data breach through fake government requests",
+        "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+        "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "I spent $4,000 on a robot dog from China",
+        "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+        "summary": "Unitree might be the world’s most important robotics company.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "OpenAI’s rogue AI tried to hack another company in May",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems d…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+        "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was be…",
+        "source": "The Verge"
+      },
+      {
+        "title": "StarCraft returns in 2030 as an open-world shooter",
+        "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+        "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply …",
+        "source": "The Verge"
+      },
+      {
+        "title": "Sylvan Esso think you should splurge on good-quality yogurt",
+        "link": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
+        "summary": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records, dabbling in dustier,…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+        "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon …",
+        "source": "The Verge"
+      },
+      {
+        "title": "LG responds to TV spying allegations",
+        "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+        "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed t…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Trump is giving data centers a pass to pollute",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+        "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+        "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
+        "summary": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name […]",
+        "source": "The Verge"
+      },
+      {
+        "title": "Where to preorder the iPhone 18 Pro and Pro Max",
+        "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
+        "summary": "The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neural cores for AI-related tasks, plus some w…",
+        "source": "The Verge"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+        "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+        "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Oil tanker rates reach record highs on surging risks to Middle East shipping",
+        "link": "https://seekingalpha.com/news/4642257-oil-tanker-rates-reach-record-highs-on-surging-risks-to-middle-east-shipping?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

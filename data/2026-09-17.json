@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:37:11.094089+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Meet a mouse whose brain cortex is made up of human cells",
+        "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+        "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Building the materials foundation for AI",
+        "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+        "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+        "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the ec…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+        "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as a…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+        "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+        "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, call…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The AI data center e-waste problem is huge — and getting bigger",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+        "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste than …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple might make servers again to cash in on the AI rush",
+        "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+        "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI indus…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google will now let any AI agent run your smart home",
+        "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+        "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor you…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Claude comes for Gemini with its own take on Docs and Slides",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+        "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and C…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The sexy AI-powered dating app scams are here",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+        "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movie…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "A brief history of AI executives calling for regulation",
+        "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+        "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+        "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+        "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Washington Won’t Be Regulating AI Anytime Soon",
+        "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+        "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+        "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+        "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+        "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+        "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "LittleBigPlanet Developer Reportedly Working on Animal Crossing-Like Game for 2027 Release",
+        "link": "https://www.ign.com/articles/littlebigplanet-developer-reportedly-working-on-animal-crossing-like-game-for-2027-release",
+        "summary": "LittleBigPlanet developer Media Molecule is reportedly working on a new social-sim game, similar to Animal Crossing, and it may release next year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GPT-6 Astra Plays Minecraft, Gets So Depressed After Creeper Destroys Its Progress That It Farms Potatoes for Hours",
+        "link": "https://www.ign.com/articles/gpt-6-astra-plays-minecraft-gets-so-depressed-after-creeper-destroys-its-progress-that-it-farms-potatoes-for-hours",
+        "summary": "OpenAI’s newest model, GPT-6 Astra, got so depressed after a creeper upended its progress in Minecraft that it listlessly farmed potatoes for hours and grew paranoid of anything green.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty: Black Ops 2 Appears to Be Much More Popular Than Black Ops 7 and Warzone on PS5",
+        "link": "https://www.ign.com/articles/call-of-duty-black-ops-2-appears-to-be-much-more-popular-than-black-ops-7-and-warzone-on-ps5",
+        "summary": "Call of Duty: Black Ops 2 on PS5 appears to be more popular than Call of Duty: Black Ops 7 and Call of Duty: Warzone in the United States.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Backrooms Director Kane Parsons Visits Valve Offices as Portal Movie Rumors Rise",
+        "link": "https://www.ign.com/articles/backrooms-director-kane-parsons-visits-valve-offices-as-portal-movie-rumors-rise",
+        "summary": "Kane Parsons is fueling rumors of a potential Portal movie after he posted photos from his visit to Valve’s offices on his personal Instagram profile.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spotify Seems to Be Teasing a GTA 6 Collaboration with Rockstar Games",
+        "link": "https://www.ign.com/articles/spotify-seems-to-be-teasing-a-gta-6-collaboration-with-rockstar-games",
+        "summary": "Spotify appears to be the next big streaming giant to partner with Rockstar Games for GTA 6's marketing.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 5 Franklin Voice Actor Clears the Air After Calling Out Twitch Star Kai Cenat for Allegedly Breaking Promise to a Young Fan",
+        "link": "https://www.ign.com/articles/gta-5-franklin-voice-actor-clears-the-air-after-calling-out-twitch-star-kai-cenat-for-allegedly-breaking-promise-to-a-young-fan",
+        "summary": "The voice actor behind GTA 5’s Franklin went viral after revealing his personal disagreement with famous Twitch steamer Kai Cenat, but the two stars are on good terms again.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Microsoft Flight Simulator 2024 Releases Single New Plane DLC That Costs $74.49",
+        "link": "https://www.ign.com/articles/microsoft-flight-simulator-2024-releases-single-new-plane-dlc-that-costs-7449",
+        "summary": "Microsoft Flight Simulator 2024 is adding a big new jet to its fleet, but it comes at a big new price. The \"superjumbo\" Airbus A380 is now available for the hyper-realistic multiplatform sim on PC, Xbox Series X|S, and PS5 for $74.49 as part of the Flight Simulator Marketplace-exclusive \"Exclusive S…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Studio Behind Hyper Light Drifter In Peril After Publisher Withdraws Funding for Unannounced Project",
+        "link": "https://www.ign.com/articles/studio-behind-hyper-light-drifter-in-peril-after-publisher-withdraws-funding-for-unannounced-project",
+        "summary": "Heart Machine, the development studio behind titles like Hyper Light Drifter and Possessors, is in dire straits after a publisher withdrew their funding for an unannounced project.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Resident Evil Creator Shinji Mikami to Be Inducted Into D.I.C.E. Hall of Fame",
+        "link": "https://www.ign.com/articles/resident-evil-creator-shinji-mikami-to-be-inducted-into-dice-hall-of-fame",
+        "summary": "Resident Evil creator Shinji Mikami will officially be honored with the Hall of Fame Award at the 30th Annual D.I.C.E. Awards ceremony on February 18, 2027.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel's Wolverine Players Are Testing Its Motorcycle Sequence to See if Logan Can Die if You Don't Touch the Controller",
+        "link": "https://www.ign.com/articles/marvels-wolverine-players-are-testing-its-motorcycle-sequence-to-see-if-logan-can-die-if-you-dont-touch-the-controller",
+        "summary": "Marvel’s Wolverine has kicked off no end of debates on social media, with the latest of these centering around a chase sequence that sees Logan weaving through traffic on a motorcycle.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pirate Who Cracked Denuvo Games Like Resident Evil Requiem Plans to Keep Doing So Despite Being Sued",
+        "link": "https://www.ign.com/articles/pirate-who-cracked-denuvo-games-like-resident-evil-requiem-plans-to-continue-doing-so-despite-being-sued",
+        "summary": "A pirate known for cracking games that utilize the DRM software Denuvo is being hit with a lawsuit... but that isn't stopping them from continuing on.",
+        "source": "IGN News"
+      },
+      {
+        "title": "An Iconic Iron Man #1 Page and Other Historic Comic Book Art Head to Auction",
+        "link": "https://www.ign.com/articles/an-iconic-iron-man-1-page-and-other-historic-comic-book-art-head-to-auction",
+        "summary": "If you have Tony Stark levels of money, you can now own one of the most iconic and important pieces of Iron Man art ever published.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'I Might Just Quit It All and Make Anime the Rest of My Life' — Sinners Star Michael B. Jordan Has More Than One Anime Project in the Works",
+        "link": "https://www.ign.com/articles/i-might-just-quit-it-all-and-make-anime-the-rest-of-my-life-sinners-star-michael-b-jordan-has-more-than-one-anime-project-in-the-works",
+        "summary": "Michael B. Jordan is currently working on more than one anime project, and even joked that he might leave Hollywood behind to focus on anime full-time.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Wardogs Outpacing Arc Raiders and Helldivers 2 on Steam and Has Already Made More Money Than Marathon Across All Platforms to Date, Analysis Shows",
+        "link": "https://www.ign.com/articles/wardogs-outpacing-arc-raiders-and-helldivers-2-on-steam-and-has-already-made-more-money-than-marathon-across-all-platforms-to-date-analysis-shows",
+        "summary": "Breakout hit Wardogs is outpacing Arc Raiders and Helldivers 2 on Steam in terms of copies sold at launch, new data shows.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty Developer Treyarch 'Ready to Make Something New' as It Waves Goodbye to 2 Years of Black Ops",
+        "link": "https://www.ign.com/articles/call-of-duty-developer-treyarch-ready-to-make-something-new-as-it-waves-goodbye-to-2-years-of-black-ops",
+        "summary": "Call of Duty developer Treyarch has said it’s “ready to make something new” as it waves goodbye to two years of Black Ops games.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+        "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Snap tries to make the case again for its $2,200 smart glasses",
+        "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+        "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+        "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+        "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Al Gore says the real AI risk isn’t data centers",
+        "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+        "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US automakers could soon be forced to include AM radio for free",
+        "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+        "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Noise wants to help everyday people  become paid content creators",
+        "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+        "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pulley, a Carta rival, is shutting down",
+        "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+        "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund,   announced that it's closing shop in December.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+        "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+        "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+        "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X will now let US users trade via Cashtags",
+        "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+        "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+        "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+        "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+        "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+        "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+        "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+        "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+        "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
+        "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+        "summary": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+        "link": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
+        "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "UK inflation jumps to 3.1% as energy costs soar",
+        "link": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
+        "summary": "The reading comes a day before the Bank of England updates its monetary policy.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Trump orders block on Canadian goods for US federal contracts",
+        "link": "https://seekingalpha.com/news/4643624-trump-orders-block-on-canadian-goods-for-us-federal-contracts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Bonanza Goldfields reports 1H results",
+        "link": "https://seekingalpha.com/news/4643626-bonanza-goldfields-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Crypto.com gets approval for single-stock futures, CEO Kris Marszalek says",
+        "link": "https://seekingalpha.com/news/4643616-cryptocom-gets-approval-for-single-stock-futures-ceo-kris-marszalek-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

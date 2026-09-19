@@ -1,0 +1,326 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T12:19:16.655547+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: AI’s extinction risk and bioweapons threat",
+        "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Could AI really kill us all? Your questions, answered.",
+        "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+        "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+        "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+        "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario tha…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor i…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+        "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+        "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch o…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Gavin Newsom is pushing for an AI kill switch",
+        "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+        "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendatio…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "What Hollywood thinks about existential AI warnings",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+        "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups foc…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Security researchers used Claude to help them hack into OpenAI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+        "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reported…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Flash floods can strike without warning — this new technology could change that",
+        "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+        "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+        "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+        "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+        "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+        "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+        "link": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+        "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
+        "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
+        "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Leftist Split Over AI Doom",
+        "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+        "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+        "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+        "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Final Fantasy 7 Revelation Director Warns of 200GB Install Size for Remake Trilogy's Final Chapter",
+        "link": "https://www.ign.com/articles/final-fantasy-7-revelation-director-warns-of-200gb-install-size-for-remake-trilogys-final-chapter",
+        "summary": "Final Fantasy 7 Revelation will require around 200GB of storage when it launches next year, director Naoki Hamaguchi has warned.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Blood of Dawnwalker Cost Just $40 Million to Develop",
+        "link": "https://www.ign.com/articles/the-blood-of-dawnwalker-cost-just-40-million-to-develop",
+        "summary": "Developer Rebel Wolves' September success story, The Blood of Dawnwalker, reportedly cost just $40 million to make.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Remedy Honors the Late David Lynch in Control Resonant With Powerful Twin Peaks Quote",
+        "link": "https://www.ign.com/articles/remedy-honors-the-late-david-lynch-in-control-resonant-with-powerful-twin-peaks-quote",
+        "summary": "Remedy's games have always had Lynchian inspirations, including its new open-world action game Control Resonant.",
+        "source": "IGN News"
+      },
+      {
+        "title": "This Swamp Thing by Alan Moore Hardcover Might Be DC's Most Exciting Release of 2027",
+        "link": "https://www.ign.com/articles/swamp-thing-by-alan-moore-omnibus-dc-comics",
+        "summary": "Forget Batman and Superman. This massive Swamp Thing book might just be DC's most exciting upcoming release in 2027.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Astartes II, the Most Anticipated Warhammer 40,000 Animation Ever, Has a New Trailer and Confirmation of Key Details",
+        "link": "https://www.ign.com/articles/astartes-ii-the-most-anticipated-warhammer-40000-animation-ever-has-a-new-trailer-and-confirmation-of-key-details",
+        "summary": "Games Workshop has released a new trailer for Astartes II, the most anticipated Warhammer 40,000 animation ever.",
+        "source": "IGN News"
+      },
+      {
+        "title": "World War Z Sequel Confirms Brad Pitt Return as Conclave's Edward Berger Boards as Director",
+        "link": "https://www.ign.com/articles/world-war-z-sequel-confirms-brad-pitt-return-as-conclaves-edward-berger-boards-as-director",
+        "summary": "Paramount's World War Z sequel is moving forward, with Brad Pitt confirmed to return and Conclave's Edward Berger attached to direct.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Cat Species Discovered in Bolivia After Being Mistaken for a Kitten",
+        "link": "https://www.ign.com/articles/new-wild-cat-species-bolivia",
+        "summary": "A new species of small, spotted wild cat -- leopardus tilcayo or the tilcayo tiger cat -- was discovered in Bolivia where it been mistaken by the man who took it in as a kitten.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Helldivers Movie Eyes Reacher's Alan Ritchson as Its Star",
+        "link": "https://www.ign.com/articles/helldivers-movie-eyes-reachers-alan-ritchson-as-its-star",
+        "summary": "Reacher star Alan Ritchson is reportedly in talks to star in PlayStation's upcoming Helldivers movie.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Exclusive: First Look at Hirayasumi Anime Episode 1 to Be Revealed in New York City in October",
+        "link": "https://www.ign.com/articles/exclusive-first-look-at-hirayasumi-anime-episode-1-to-be-revealed-in-new-york-city-in-october",
+        "summary": "IGN can exclusively reveal that the first-ever public screening of Hirayasumi Anime will take place during a one-night event on October 7 at New York City's Japan Society, giving fans an early look at Episode 1 before the series officially debuts in 2027.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Zach Cregger's Resident Evil Surpasses Sonic the Hedgehog 3 to Become Highest-Rated Video Game Movie of All Time",
+        "link": "https://www.ign.com/articles/zach-creggers-resident-evil-surpasses-sonic-the-hedgehog-3-to-become-highest-rated-video-game-movie-of-all-time",
+        "summary": "Zach Cregger's Resident Evil is out today, and it's already the highest-rated video game movie of all time on Rotten Tomatoes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Somehow, Toys 'R' Us Returned: Once-Bankrupt Toy Store to Open 120 New Stores in US",
+        "link": "https://www.ign.com/articles/somehow-toys-r-us-returned-once-bankrupt-toy-store-to-open-120-new-stores-in-us",
+        "summary": "Toys 'R' Us, the once-ubiquitous toy store/mecca for 1980's kids, is set to open 120 new standalone stores this holiday season, the company announced. The expansion is in partnership with the Go! Retail Group, who first partnered with Toys 'R' Us owner WHP Global three years ago to begin the toy sto…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Scalpers Are Trying to Sell Valve's Steam Frame for Up to $2,000, but the Community Is Fighting Back",
+        "link": "https://www.ign.com/articles/scalpers-are-trying-to-sell-valves-steam-frame-for-up-to-2000-but-the-community-is-fighting-back",
+        "summary": "After putting up the Steam Frame for reservation on Monday, Valve has finally sent out its emails letting people know if they're on the reservation list or on the waitlist for the new VR headset. And, predictably, scalpers are already listing Steam Frame reservations on eBay.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Former PlayStation Execs Recreate Iconic Disc-Sharing Xbox Diss — Without the Physical Games This Time",
+        "link": "https://www.ign.com/articles/former-playstation-execs-recreate-iconic-disc-sharing-xbox-diss-without-the-physical-games-this-time",
+        "summary": "Former PlayStation executives Shuhei Yoshida and Adam Boyes have recreated their iconic game-sharing instructional video as Sony helps the industry barrel toward a discless future.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel's Wolverine Has 'Sold Well,' Early Data Suggests, but Don't Expect Spider-Man Numbers",
+        "link": "https://www.ign.com/articles/marvels-wolverine-has-sold-well-early-data-suggests-but-dont-expect-spider-man-numbers",
+        "summary": "Sony has yet to announce an official sales figure for Marvel’s Wolverine, but one analyst has said early data suggests it's sold 1.9 million copies since going on sale on September 15, generating around $130 million in revenue.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty Maker Activision Says the Video Game Cheat Market Generates $8.5 Billion a Year",
+        "link": "https://www.ign.com/articles/call-of-duty-maker-activision-says-the-video-game-cheat-market-generates-85-billion-a-year",
+        "summary": "Ahead of Call of Duty: Modern Warfare 4’s release, Activision has spoken about the “multi-billion-dollar market” behind video game cheats.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+        "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+        "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI hallucination nearly triggers US military operation",
+        "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+        "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Automattic names interim CFO after exec departures",
+        "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+        "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+        "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+        "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "World model companies are keeping a lot of secrets",
+        "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+        "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+        "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+        "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "In India, the new iPhone can arrive faster than a pizza",
+        "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+        "summary": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+        "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+        "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+        "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+        "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+        "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+        "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already …",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
+        "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+        "summary": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "EOS Climbs 10% In Rally",
+        "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-rally-4908047",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Why is Bitcoin US Dollar stock climbing today?",
+        "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Oil falls for third straight day as Saudi supply disruptions look less severe than feared",
+        "link": "https://seekingalpha.com/news/4644555-oil-falls-for-third-straight-day-as-saudi-supply-disruptions-look-less-severe-than-feared?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Webuy gets Nasdaq deficiency notice",
+        "link": "https://seekingalpha.com/news/4644552-webuy-gets-nasdaq-deficiency-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "InMed receives Nasdaq notice over equity requirement",
+        "link": "https://seekingalpha.com/news/4644551-inmed-receives-nasdaq-notice-over-equity-requirement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "S&P 500 ends volatile week as Fed hikes rates, yields jump, oil surges",
+        "link": "https://seekingalpha.com/news/4644545-sp-500-ends-volatile-week-as-fed-hikes-rates-yields-jump-oil-surges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

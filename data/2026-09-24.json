@@ -1,0 +1,314 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T12:25:36.045426+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "A congressional representative just proposed killing America’s border tower program",
+        "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+        "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.  The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on Camera,” i…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+        "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The AI Hype Index: AI loves cheating",
+        "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+        "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into othe…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Smart glasses are already causing havoc in India",
+        "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+        "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Meta is making a standalone Muse AI gadget",
+        "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+        "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of his Meta Connect presentation. It looks almost like a chunky smart watch without the strap - just a big screen, plus a little lanyar…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Muse is coming to Meta smart glasses",
+        "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+        "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a worko…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta ditches the camera on its newest smart glasses",
+        "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+        "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encomp…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+        "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+        "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Mus…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta Connect 2026: The biggest news and announcements",
+        "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+        "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant sc…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+        "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+        "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent [……",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+        "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Data centers are black boxes, but California wants to change that",
+        "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+        "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over h…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+        "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. T…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+        "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under th…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+        "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+        "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Warner Bros. Pushes Back DC's Dynamic Duo Film, Gremlins 3 Gets One Year Delay",
+        "link": "https://www.ign.com/articles/warner-bros-pushes-back-dcs-dynamic-duo-film-gremlins-3-gets-one-year-delay",
+        "summary": "Warner Bros. has pushed back DC's Dynamic Duo and delayed Gremlins 3 by a whole year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "YouTube's New A/B Video Test Feature Is Already Creating Fears Over Weaponized Negativity",
+        "link": "https://www.ign.com/articles/youtubes-new-ab-video-test-feature-is-already-creating-fears-over-weaponized-negativity",
+        "summary": "YouTube is launching a new feature that allows creators to test different cuts of their own videos, leading fans to worry about weaponized negativity.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Artist Behind Pokémon 30th Anniversary Jirachi SIR Card Gives Tearful Response to Late Influencer's Heart-Wrenching Final Pack Opening",
+        "link": "https://www.ign.com/articles/artist-behind-pokemon-30th-anniversary-jirachi-sir-card-gives-tearful-response-to-late-influencers-heart-wrenching-final-pack-opening",
+        "summary": "The artist behind a Pokémon 30th Anniversary Jirachi SIR card has responded after beloved influencer Avery the Poké Kid pulled the card in his last pack opening before his death from pancreatic cancer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Kingpin Actor Vincent D’Onofrio Says Goodbye to Daredevil: Born Again",
+        "link": "https://www.ign.com/articles/kingpin-actor-vincent-donofrio-says-goodbye-to-daredevil-born-again",
+        "summary": "Wilson Fisk actor Vincent D’Onofrio has shared his reaction to the news that Marvel’s Daredevil: Born Again will end with Season 3.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Double Fine Founder Tim Schafer Questions Economics of the Game Industry Amid Mass Layoffs and Studio Closures",
+        "link": "https://www.ign.com/articles/double-fine-founder-tim-schafer-questions-economics-of-the-game-industry-amid-mass-layoffs-and-studio-closures",
+        "summary": "Double Fine founder Tim Schafer says he no longer “understands the economics” of game development following Xbox’s mass layoffs and industry-wide studio closures.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Halo Fans Are Divided Over Whether Activision Should Reboot the Series and Start Fresh",
+        "link": "https://www.ign.com/articles/halo-fans-are-divided-over-whether-activision-should-reboot-the-series-and-start-fresh",
+        "summary": "Halo fans are divided on whether or not Activision should completely reboot the franchise or keep Master Chief's story going.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Warhammer 40,000: Dawn of War 4 Hard Mode Is No Joke — Watch AI-Controlled Orks Wipe the Floor With 2 Developers Playing Space Marines",
+        "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-hard-mode-is-no-joke-watch-ai-controlled-orks-wipe-the-floor-with-2-developers-playing-space-marines",
+        "summary": "When developers show off their games, they tend to defeat the enemy AI in spectacular fashion. But that’s exactly the opposite of what happens in the gameplay King Art Games just released for its upcoming real-time strategy game Warhammer 40,000: Dawn of War 4.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Meta Connect 2026 Live Blog – Everything Announced",
+        "link": "https://www.ign.com/articles/meta-connect-2026-everything-announced",
+        "summary": "Just a week after the Steam Frame finally debuted and presented Valve's vision for VR gaming, Meta is getting ready to take the stage at Meta Connect 2026.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Producer of Zach Cregger's Resident Evil Movie Reportedly Working on New Silent Hill Film",
+        "link": "https://www.ign.com/articles/producer-of-zach-creggers-resident-evil-movie-reportedly-working-on-new-silent-hill-film",
+        "summary": "A new report from The Wall Street Journal states that Roy Lee, who produced Zach Cregger’s hugely-successful Resident Evil movie, is now working on a Silent Hill film.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Robert Pattinson Reacts to Fans Asking for Him to Play the Joker After Primetime Performance Goes Viral",
+        "link": "https://www.ign.com/articles/robert-pattinson-reacts-to-fans-asking-for-him-to-play-the-joker-after-primetime-performance-goes-viral",
+        "summary": "Robert Pattinson’s captivating performance as Chris Hansen in A24’s Primetime has sparked an unexpected trend; fans are now wondering what Pattinson’s take on the Joker would look like.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Conjuring Gets Its First-Ever Video Game Coming to Netflix Next Month",
+        "link": "https://www.ign.com/articles/the-conjuring-gets-its-first-ever-video-game-coming-to-netflix-next-month",
+        "summary": "The Conjuring is coming to Netflix in the form of a video game, marking the franchise’s first foray into the medium after releasing ten films over the last decade.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Game of Thrones Star Kit Harington Isn't a Gamer, but He's Excited for Grand Theft Auto 6",
+        "link": "https://www.ign.com/articles/game-of-thrones-star-kit-harington-isnt-a-gamer-but-hes-excited-for-grand-theft-auto-6",
+        "summary": "Game of Thrones star Kit Harington has confessed that he isn't much of a gamer, but wants to play Grand Theft Auto 6.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel Tokon: Fighting Souls PC Sales Figures and Player Count Spark Worry From Players About Game's Longevity",
+        "link": "https://www.ign.com/articles/marvel-tokon-fighting-souls-pc-sales-figures-and-player-count-spark-worry-from-players-about-games-longevity",
+        "summary": "It’s been over a month since Marvel Tokon: Fighting Souls released, and its early sales figures and player counts on PC are sparking concern within the fighting game community about its longevity.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars",
+        "link": "https://www.ign.com/articles/grand-theft-auto-6-shirts-given-away-for-free-at-tokyo-game-show-are-being-resold-online-for-hundreds-of-dollars",
+        "summary": "GTA 6 shirts that were given away for free exclusively at Tokyo Game Show 2026 are already being resold online for hundreds of dollars.",
+        "source": "IGN News"
+      },
+      {
+        "title": "After Asking Very Nicely For a Skin, Madison Beer Joins Fortnite Tomorrow",
+        "link": "https://www.ign.com/articles/after-asking-very-nicely-for-a-skin-madison-beer-joins-fortnite-tomorrow",
+        "summary": "Madison Beer is the latest music icon to join the world of Fortnite, after previously issuing a public call to Epic Games for her to become a skin.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Everything new coming to Meta’s AI agent Muse",
+        "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+        "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+        "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta is trying VR glasses (again), this time with more IMAX",
+        "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+        "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta introduces camera-free AI glasses",
+        "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+        "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+        "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+        "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic says its biology lab has already found something big",
+        "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+        "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+        "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+        "summary": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+        "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+        "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+        "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+        "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Modal Motors is trying to cut China out of electric motors entirely",
+        "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+        "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
+        "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+        "summary": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The old cybersecurity model is breaking",
+        "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+        "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies lik…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+        "link": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+        "summary": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT mobile app gets voice-based agentic features",
+        "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+        "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Even Americans who use AI every day are worried about it",
+        "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+        "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+        "link": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
+        "summary": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
+        "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-and-marketscom-announce-promotional-collaboration-ahead-of-token2049-singapore-4913473",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Travala Launches Permanent AVA Strategic Reserve, Doubles Monthly Open-Market Buybacks",
+        "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
+        "link": "https://www.investing.com/news/cryptocurrency-news/analyst-says-bitcoin-bull-market-is-underway-and-sets-2029-target-4912571",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

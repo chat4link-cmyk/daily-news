@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T13:17:42.238723+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+        "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+        "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+        "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.  In the image above, for example, the left-hand image of each pa…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "How smaller, distributed batteries could help the grid",
+        "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+        "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small ba…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Google’s new Guided Vision feature can help you read the fine print",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+        "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroun…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+        "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+        "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+        "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+        "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+        "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.  The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power u…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Whatever AI Safety Is, It’s Not This",
+        "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+        "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+        "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Doom: The Dark Ages - Revelations Getting New 'Slaughter Mode' as Free Update Next Month",
+        "link": "https://www.ign.com/articles/doom-the-dark-ages-revelations-getting-new-slaughter-mode-as-free-update-next-month",
+        "summary": "Doom: The Dark Ages developer id Software has announced a new free update coming to the first-person shooter's Revelations DLC next month: an endless single-player \"Slaughter Mode.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Fast & Furious TV Show Greenlit at Peacock, With Vin Diesel as Executive Producer",
+        "link": "https://www.ign.com/articles/fast-furious-tv-show-greenlit-at-peacock-with-vin-diesel-as-executive-producer",
+        "summary": "The Fast & Furious films are getting their own television series, with none other than Vin Diesel himself serving as executive producer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Viral Short Horror Film Portrait of God Gets Feature Length Movie Starring Chase Infiniti",
+        "link": "https://www.ign.com/articles/viral-short-horror-film-portrait-of-god-gets-feature-length-movie-starring-chase-infiniti",
+        "summary": "Viral internet short film Portrait of God is getting the Hollywood treatment, with Chase Infiniti set to star in a feature length adaptation of the YouTube-famous horror video.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lanterns Rakes In More Than 18 Million Views Per Episode Globally As Season Finale Approaches",
+        "link": "https://www.ign.com/articles/lanterns-rakes-in-more-than-18-million-views-per-episode-globally-as-season-finale-approaches",
+        "summary": "It’s safe to say that Lanterns is burning bright. The DCU series is raking in millions of views globally, competing with other HBO juggernauts like Euphoria and The Pitt.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New GTA 6 Age Rating Confirms Game Will Feature Sex Scenes",
+        "link": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes",
+        "summary": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Miami Vice '85 Casts Walton Goggins in Villain Role",
+        "link": "https://www.ign.com/articles/miami-vice-85-casts-walton-goggins-in-villain-role",
+        "summary": "Walton Goggins has joined the cast of Miami Vice '85. The actor will play a henchman/assassin acting on behalf of John Leguizamo's character, who is a cartel king and the lead villain in the film.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Amazon Launches New Line of Kindles and Accessories Right Before Prime Big Deal Days",
+        "link": "https://www.ign.com/articles/amazon-launches-a-new-line-of-kindles-and-accessories-october-2026",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Danny McBride's G.I. Joe Movie Casts Bradley Cooper as Duke",
+        "link": "https://www.ign.com/articles/danny-mcbrides-gi-joe-movie-casts-bradley-cooper-as-duke",
+        "summary": "Bradley Cooper will star as Duke in the upcoming G.I. Joe movie, directed by Danny McBride.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Pokémon x ESA Collection Includes the Astronaut Pikachu Plush That Went to Space",
+        "link": "https://www.ign.com/articles/new-pokemon-x-esa-collection-includes-the-astronaut-pikachu-plush-that-went-to-space",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Riot Games Co-Founder Says 2XKO Needed ‘Hundreds of Thousands, if Not Millions’ of Monthly Active Players to Survive",
+        "link": "https://www.ign.com/articles/riot-games-co-founder-says-2xko-needed-hundreds-of-thousands-if-not-millions-of-monthly-active-players-to-survive",
+        "summary": "The co-founder, co-chairman, and chief product officer of Riot Games, Marc Merrill, revealed the number of monthly active users 2XKO would have needed to justify its budget, and the eye-popping amount has sparked an animated debate within the fighting game community.",
+        "source": "IGN News"
+      },
+      {
+        "title": "How GTA 6's Jason and Lucia Have Evolved Since 2023 in Pictures",
+        "link": "https://www.ign.com/articles/how-gta-6s-jason-and-lucia-have-evolved-since-2023-in-pictures",
+        "summary": "GTA 6 officially releases next month, so we're taking a look at how the game's two protagonists, Jason and Lucia, have evolved since their 2023 reveal.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ahead of Metro 2039, Metro 2033 and Metro Last Light Are Getting Next-Gen Updates",
+        "link": "https://www.ign.com/articles/ahead-of-metro-2039-metro-2033-and-metro-last-light-are-getting-next-gen-updates",
+        "summary": "Metro 2039 is not too far away, launching on February 4, 2027. While that game will truly bring the franchise into the current generation, developer 4A Games is launching next-gen updates for the first two games.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Finally Brings AI Upscaling to Base PS5",
+        "link": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
+        "summary": "AI upscaling continues to be a huge part of the modern graphics pipeline, and while PSSR brought this tech to the PS5 Pro, the base PS5 was left without it due to its weaker GPU. That's been remedied, though, with QSSR.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'These Jobs Are Not Easy': Ex-Star Wars Boss Kathleen Kennedy Admits 'Relief' After Leaving Lucasfilm, Following Turbulent 14-Year Tenure",
+        "link": "https://www.ign.com/articles/these-jobs-are-not-easy-ex-star-wars-boss-kathleen-kennedy-admits-relief-after-leaving-lucasfilm-following-turbulent-14-year-tenure",
+        "summary": "Lucasfilm veteran Kathleen Kennedy has admitted she feels \"a bit of relief\" after stepping down from her role as the boss of Star Wars, following a long and often tumultuous run.",
+        "source": "IGN News"
+      },
+      {
+        "title": "007 First Light's First DLC Out Now, Adds New Game Plus",
+        "link": "https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus",
+        "summary": "The 007 First Light Extended Operations DLC launches for free today, and adds five different missions to the TacSim mode, along with New Game Plus, new outfits and a photo mode that was somehow missing from the game at launch.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Robotaxi operators will face fines for blocking first responders",
+        "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+        "summary": "A new California law places new rules on autonomous vehicles operators",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+        "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+        "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+        "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+        "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+        "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+        "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT can now virtually try on clothes for you",
+        "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+        "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+        "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+        "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "World’s first enhanced geothermal power plant completed in just 23 months",
+        "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+        "summary": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+        "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+        "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+        "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+        "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This startup wants to turn idle car inventory into rental revenue",
+        "link": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
+        "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon releases its own Jev clone as decision models flood the web",
+        "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+        "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+        "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+        "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
+        "link": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+        "summary": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
+        "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+        "summary": "The CEO promised to get more specific about his vision. But the details are still absent.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin reverses course, inches up to kick off Q4 as U.S. Treasury bonds rally",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Asian equities mostly lower amid bond volatility, oil pressures",
+        "link": "https://seekingalpha.com/news/4649715-asian-equities-mostly-lower-amid-bond-volatility-oil-pressures?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

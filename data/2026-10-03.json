@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T13:00:36.454974+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+        "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+        "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual competition. On…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "A new contest pits competitors against each other in a race to biological youth",
+        "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+        "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Don’t be fooled—LLMs don’t reason",
+        "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+        "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Meta open sources code to let you make Muse AI gadgets",
+        "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+        "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+        "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+        "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI ann…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Breaking up (with Elon Musk) is hard to do",
+        "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+        "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI hallucinations are making entitled customers even worse",
+        "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+        "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+        "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+        "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Amazon writes scary blog warning communities not to block data centers",
+        "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+        "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, pow…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI music maker Suno now generates spoken words",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+        "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music t…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+        "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+        "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+        "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+        "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+        "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+        "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
+        "link": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+        "summary": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
+        "link": "https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build",
+        "summary": "Former NFL coach Mike Tomlin spent 19 seasons with the Pittsburgh Steelers and won Super Bowl LXIII, and now he's added another major accomplishment to his resume: becoming a Minecraft YouTuber.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Disney Says Conversations About Buying Epic Games Are Not Happening 'Right Now'",
+        "link": "https://www.ign.com/articles/disney-says-conversations-about-buying-epic-games-are-not-happening-right-now",
+        "summary": "Disney has responded after rumors suggested it was interested in buying Fortnite developer Epic Games.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ex-Rockstar Boss Dan Houser Doesn't Play a Lot of Open-World Games – and Doesn't Plan to Play GTA 6",
+        "link": "https://www.ign.com/articles/ex-rockstar-boss-dan-houser-doesnt-play-a-lot-of-open-world-games-and-doesnt-plan-to-play-gta-6",
+        "summary": "Dan Houser, the former co-boss of Rockstar Games and former creative director on the Grand Theft Auto series, doesn't play a lot of open-world games. And he doesn't plan on playing GTA 6 either. But it's for a good creative reason: he doesn't want to be influenced by them as he works on his two new …",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Age Rating Confirms New Details on Sex, Drug Use, Decapitation, and More",
+        "link": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
+        "summary": "GTA 6 has received a rating of PEGI 18, revealing mentions of \"decapitation,\" the ability for players to snort cocaine at any time, \"scenes of sexual fetishes,\" and much more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Disney+ Shows and Movies Are Now Headed to Netflix, Including Ice Age and Percy Jackson",
+        "link": "https://www.ign.com/articles/disney-licenses-netflix",
+        "summary": "Disney plans to license a mix of legacy titles and currently-streaming TV shows to Netflix as part of a new deal between the two firms. In the deal, Netflix will host select Disney content for its 325 million subscribers.",
+        "source": "IGN News"
+      },
+      {
+        "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
+        "link": "https://www.ign.com/articles/james-gunns-dcu-reportedly-safe-following-paramount-warner-bros-merger-for-now-at-least",
+        "summary": "DC Studios co-CEOs James Gunn and Peter Safran will seemingly keep their vision for the DCU alive following the Paramount-Warner Bros. merger.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Brand New GTA 6 Screenshots Focus on Lucia and Jason's Relationship",
+        "link": "https://www.ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship",
+        "summary": "Rockstar has further ramped up its GTA 6 marketing today with the launch of several new screenshots focusing on protagonists Lucia and Jason.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pokémon TCG Reportedly Launching First-Ever Valentine’s Day Set in 2027",
+        "link": "https://www.ign.com/articles/the-pokemon-company-is-reportedly-dropping-its-first-ever-valentines-day-tcg-set-in-2027",
+        "summary": "Pokémon TCG is reportedly launching its first-ever Valentine's Day box set on January 27, 2027, featuring mini packs and packaging that folds into a classroom mailbox.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Blizzard Adds Beloved 'Kyle's Gone Missing' Quest to World of Warcraft: Forever",
+        "link": "https://www.ign.com/articles/blizzard-adds-beloved-kyles-gone-missing-quest-to-world-of-warcraft-forever",
+        "summary": "For as much as World of Warcraft Forever has been making an effort to preserve the vanilla WoW experience, there are just some things in the game's history that must be added, and the quest 'Kyle's Gone Missing!' is one of them. And Blizzard just added it to Forever.",
+        "source": "IGN News"
+      },
+      {
+        "title": "System Shock 2 Remaster Is Free to Keep on the Epic Games Store Right Now",
+        "link": "https://www.ign.com/articles/system-shock-2-remaster-is-free-to-keep-on-the-epic-games-store-right-now",
+        "summary": "System Shock 2: 25th Anniversary Remaster is currently free to claim on the Epic Games Store until October 8, 2026.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Miami Heat Will Wear GTA 6-Themed Uniforms in a November Match Against Milwaukee",
+        "link": "https://www.ign.com/articles/miami-heat-gta-6-uniform",
+        "summary": "The Miami Heat is heading to Vice City for its next NBA match against the Milwaukee Bucks.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Batman, Lord of the Rings, and Harry Potter Feature in First Trailer for Skydance, the Newly Named Parent Company for a Merged Warner Bros. and Paramount",
+        "link": "https://www.ign.com/articles/batman-lord-of-the-rings-and-harry-potter-feature-in-first-trailer-for-skydance-the-newly-named-parent-company-for-a-merged-warner-bros-and-paramount",
+        "summary": "Once merged, Harry Potter, Lord of the Rings and Game of Thrones company Warner Bros. will exist alongside Paramount as a sub-brand of Skydance.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Encourage Studios to Charge More for Their Games",
+        "link": "https://www.ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price",
+        "summary": "Warhorse co-founder Martin Klima wants GTA 6 to “blaze a trail” for higher game prices.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ben Affleck Says There's 'Nobody Alive' Who Believes US Politics Is Going Well — And Explains Why He Won't Personally Run for Office",
+        "link": "https://www.ign.com/articles/ben-affleck-says-theres-nobody-alive-who-believes-us-politics-is-going-well-and-explains-why-he-wont-personally-run-for-office",
+        "summary": "Former Batman Ben Affleck has revealed the reason he won't run for political office, despite claiming there is a \"collective disappointment\" in how U.S. politics is currently trending.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+        "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sanders introduces bill to ban the federal government from using Flock",
+        "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+        "summary": "The proposed legislation would extend to all automotica license plate readers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+        "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+        "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+        "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+        "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intell…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+        "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+        "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+        "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+        "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Paramount and Warner Bros. Discovery to become Skydance",
+        "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+        "summary": "The roughly $110 billion deal is expected to close October 6.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pope Leo XIV is not a fan of AI-generated art",
+        "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+        "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+        "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+        "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
+        "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+        "summary": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+        "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+        "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+        "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+        "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
+        "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
+        "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your own Side Event. Bring your community, start an impa…",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Men are losing ground in the labor market. Here's why",
+        "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+        "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+        "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+        "summary": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin slightly up for the week on pared Fed rate hike bets, ’uptober’ hopes",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Oil prices drop as G7 nations pledge to release diesel stocks; Saudis said planning attack on Houthis",
+        "link": "https://seekingalpha.com/news/4650005-oil-prices-drop-as-g7-nations-pledge-to-release-diesel-stocks-saudis-said-planning-attack-on-houthis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Petrobras makes another oil discovery in Brazil's Foz do Amazonas basin",
+        "link": "https://seekingalpha.com/news/4649978-petrobras-makes-another-oil-discovery-in-brazils-foz-do-amazonas-basin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Gold futures turn lower as weak U.S. payrolls fail to sustain gains",
+        "link": "https://seekingalpha.com/news/4649985-gold-futures-turn-lower-as-weak-us-payrolls-fail-to-sustain-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Most and least shorted utilities stocks with up to $2B market cap as of September end",
+        "link": "https://seekingalpha.com/news/4649589-most-and-least-shorted-utilities-stocks-with-up-to-2b-market-cap-as-of-september-end?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Western Digital retreats 10% amid storage selloff",
+        "link": "https://seekingalpha.com/news/4649991-western-digital-retreats-10-amid-storage-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

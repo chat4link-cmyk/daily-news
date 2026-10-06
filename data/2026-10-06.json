@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:00:40.603020+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Connecting AI agents to enterprise knowledge",
+        "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+        "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Bringing predictive analytics to the agentic AI era",
+        "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+        "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+        "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "People really hate AI, so why can’t they get enough?",
+        "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+        "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "This startup is issuing AI-generated acne prescriptions",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+        "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloom…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "All the drama around AI&#8217;s takeover of mathematics",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+        "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in class…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+        "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+        "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia w…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+        "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the water…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+        "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move o…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+        "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more g…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+        "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+        "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+        "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI is sticking more ads in ChatGPT",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+        "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to Ch…",
+        "source": "The Verge – AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Hideo Kojima Says You'll See Him Cameo in a 'Big' Live-Action Movie — But Which One Is It?",
+        "link": "https://www.ign.com/articles/hideo-kojima-says-youll-see-him-cameo-in-a-big-live-action-movie-but-which-one-is-it",
+        "summary": "Hideo Kojima teased that he's got a cameo in a \"big\" live-action movie, but he's not saying which one we'll see him in quite yet.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ubisoft Boss Says Watch Dogs Is 'Important' to Company's Future, But Don't Expect Any New Entries Anytime Soon",
+        "link": "https://www.ign.com/articles/ubisoft-boss-says-watch-dogs-is-important-to-companys-future-but-dont-expect-any-new-entries-anytime-soon",
+        "summary": "Don't hold your breath for a new Watch Dogs game anytime soon.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Infinity Ward Details Call of Duty: Modern Warfare 4's Extraction Mode, DMZ",
+        "link": "https://www.ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz",
+        "summary": "Call of Duty: Modern Warfare 4's ambitious new extraction mode, DMZ, has gotten a massive deep dive from Infinity Ward.",
+        "source": "IGN News"
+      },
+      {
+        "title": "RuneScape Dev Pulls Trailer After 6-Fingered Knight Leads to Generative AI Allegations",
+        "link": "https://www.ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations",
+        "summary": "RuneScape developer Jagex has pulled a new trailer after a six-fingered knight led to allegations of generative AI use from fans.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Final Fantasy 7 Revelation Hot Springs Scenes Reveal New Bathing Suit Skins for the Party",
+        "link": "https://www.ign.com/articles/final-fantasy-7-revelation-hot-springs-scenes-reveal-new-bathing-suit-skins-for-the-party",
+        "summary": "New Final Fantasy 7 Revelation footage has revealed a hot springs feature that boosts the party's health and gives them a set of new bathing suit skins.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Physint Update: Hideo Kojima Shares New Info on His Upcoming Metal Gear Spiritual Successor",
+        "link": "https://www.ign.com/articles/physint-update-hideo-kojima-shares-new-info-on-his-upcoming-metal-gear-spiritual-successor",
+        "summary": "Renowned game director Hideo Kojima revived his Koji10 podcast after a year and shared casting, story, and development updates on Physint, his upcoming next-generation action-espionage game and spiritual successor to Metal Gear Solid.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Kingdom Come: Deliverance Dev Calls Out RPGs 'for Teenagers' That Just Focus on 'Power Fantasy'",
+        "link": "https://www.ign.com/articles/kingdom-come-deliverance-dev-calls-out-rpgs-for-teenagers-that-just-focus-on-power-fantasy",
+        "summary": "Kingdom Come: Deliverance studio co-founder Martin Klima is \"bored and tired\" of RPGs that are just \"power fantasy\" trips \"for teenagers.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gears of War: E-Day Runs Smoothly on Xbox Series S By Using SSD as RAM",
+        "link": "https://www.ign.com/articles/gears-of-war-e-day-runs-smoothly-on-xbox-series-s-by-using-ssd-as-ram",
+        "summary": "The Coalition was able to work some magic on the Xbox Series S by tapping into the SSD to increase performance.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Batman Part 2 Halts Production as Matt Reeves Steps Away for Personal Reasons",
+        "link": "https://www.ign.com/articles/the-batman-part-2-halts-production-as-matt-reeves-steps-away-for-personal-reasons",
+        "summary": "Production on The Batman Part 2 has come to an unexpected halt as director Matt Reeves steps away for personal reasons.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game,' But 'Won't Do One Without Kojima'",
+        "link": "https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima",
+        "summary": "Solid Snake's legendary Japanese actor is keen to return for a new game, though feels conflicted about any fresh entry without the involvement of creator Hideo Kojima.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sicario 3 Will Reunite Emily Blunt With Benicio del Toro and Josh Brolin",
+        "link": "https://www.ign.com/articles/sicario-3-will-reunite-emily-blunt-with-benicio-del-toro-and-josh-brolin",
+        "summary": "Sicario 3 is reportedly moving forward with Emily Blunt, Josh Brolin, and Benicio del Toro signed on to return.",
+        "source": "IGN News"
+      },
+      {
+        "title": "God Packs are Officially Coming to Magic: The Gathering",
+        "link": "https://www.ign.com/articles/god-packs-are-officially-coming-to-magic-the-gathering",
+        "summary": "Magic: The Gathering booster packs have gone through a lot of changes in the last decade, some of which have been awful. But Wizards of the Coast is introducing 'God Packs' to MTG, which could feel like winning the lottery.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Arc Raiders and The Finals Are Getting Adapted Into Films and TV Shows",
+        "link": "https://www.ign.com/articles/arc-raiders-and-the-finals-are-getting-adapted-into-films-and-tv-shows",
+        "summary": "Hollywood is mining Arc Raiders and The Finals for its next big video game adaptations, as the two franchises will be turned into films and TV shows.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dungeons and Dragons: World of Warcraft – Everything You Need to Know",
+        "link": "https://www.ign.com/articles/dungeons-and-dragons-world-of-warcraft-everything-you-need-to-know",
+        "summary": "Dungeons and Dragons: World of Warcraft was announced way back in July, as the first Universes Beyond release for the storied tabletop RPG. And just like the MMO it's based on, D&D: World of Warcraft is absolutely massive.",
+        "source": "IGN News"
+      },
+      {
+        "title": "NBA 2K25 Is Getting Delisted After Just 2 Years, and Single Player Story Mode Will Become Unplayable",
+        "link": "https://www.ign.com/articles/nba-2k25-is-getting-delisted-after-just-2-years-and-single-player-story-mode-will-become-unplayable",
+        "summary": "NBA 2K25 is being delisted after just two years, and players will soon no longer be able to play the game's single player story mode.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+        "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+        "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+        "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Etched fields funding offers at $40B+ valuation, sources say",
+        "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+        "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+        "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+        "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+        "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+        "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+        "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+        "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+        "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+        "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+        "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+        "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+        "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+        "link": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+        "summary": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+        "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+        "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI launches visual ads that appear alongside image generation results",
+        "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+        "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+        "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+        "summary": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+        "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers steal 8 million citizens’ records from Danish government database",
+        "link": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+        "summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Stockhunt Unveils CoinIQ, an AI-Powered Self-Custody DEX, at TOKEN2049 Singapore",
+        "link": "https://www.investing.com/news/cryptocurrency-news/stockhunt-unveils-coiniq-an-aipowered-selfcustody-dex-at-token2049-singapore-4932635",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Asian stocks mostly higher as tech rally offsets oil and yield pressure",
+        "link": "https://seekingalpha.com/news/4650411-asian-stocks-mostly-higher-as-tech-rally-offsets-oil-and-yield-pressure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

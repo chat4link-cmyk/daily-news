@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T13:36:02.481606+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+        "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+        "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looki…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: 10 climate tech companies to watch",
+        "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "2026 Climate Tech Companies to Watch",
+        "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+        "summary": "",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Here’s how our climate team picked 10 promising companies to watch",
+        "link": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+        "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.  This year is shaping up to be one of the hottest ever recorded.…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "WeLion New Energy and its semi-solid-state batteries",
+        "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+        "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods a…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Form Energy and its iron batteries",
+        "link": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+        "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output var…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "X-energy and its helium-cooled nuclear reactors",
+        "link": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+        "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Energy Dome and its carbon dioxide batteries",
+        "link": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+        "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.  As the world races to meet growing electricity demand, solar and o…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+        "link": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+        "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process for manufacturing bu…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "WaveSave and its portable rubber dam",
+        "link": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
+        "summary": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store freshwater for later use. Communities in Europe, Africa, and Southeast Asia have…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "OpenAI drops another batch of mathematical breakthroughs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+        "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathem…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "We can’t just change the definition of ‘recording’",
+        "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+        "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Micropho…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google is about to remove free access to Gemini Flash and Pro",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+        "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscrip…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+        "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+        "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+        "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+        "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Hideo Kojima Acknowledges Fan-Made P.T. Port That Runs Natively on PC",
+        "link": "https://www.ign.com/articles/hideo-kojima-acknowledges-fan-made-pt-port-that-runs-natively-on-pc",
+        "summary": "Hideo Kojima has acknowledged a fan-made port of P.T. that allows the game to run natively on Windows, making it playable for a wide majority of users after it was relegated to PS4 hell.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Reportedly Secures Exclusive Cloud Streaming Rights to GTA 6, Could Make Game Playable on PC at Launch",
+        "link": "https://www.ign.com/articles/xbox-reportedly-secures-exclusive-cloud-streaming-rights-to-gta-6-could-make-game-playable-on-pc-at-launch",
+        "summary": "Xbox has reportedly secured exclusive streaming rights to GTA 6, possibly making the game playable on PC at launch via the cloud.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'This Needs to Change' — PlayStation Fan Gets PSN Account Hacked and Restored, Acknowledges Others May Not Be as Lucky",
+        "link": "https://www.ign.com/articles/this-needs-to-change-playstation-fan-gets-psn-account-hacked-and-restored-acknowledges-others-may-not-be-as-lucky",
+        "summary": "PlayStation fans are questioning the security of their PSN accounts as yet another prominent community member had their account hacked and stolen.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Insomniac Finally Lets Players Toggle Wolverine's Story-Related Scent Trails on and Off With a 'Hint' Button",
+        "link": "https://www.ign.com/articles/insomniac-finally-lets-players-toggle-wolverines-scent-trails-on-and-off",
+        "summary": "In the latest patch for Marvel’s Wolverine, Insomniac has enabled the long-awaited option for players to choose whether or not they want to use the game’s visible scent trails.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ex-Activision CEO Bobby Kotick Joins Skydance Board of Directors Following WB-Paramount Merger",
+        "link": "https://www.ign.com/articles/ex-activision-ceo-bobby-kotick-joins-skydance-board-of-directors-following-wb-paramount-merger",
+        "summary": "Former Activision CEO Bobby Kotick, who stepped down from running the Call of Duty publisher after Microsoft completed its $69 billion acquisition of Activision-Blizzard-King, is joining David Ellison's board of directors at the newly christened Skydance following Paramount's now-completed acquisiti…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Aion 2's Character Creator Is Going Viral for Its Bust Size Options, or Lack Thereof",
+        "link": "https://www.ign.com/articles/aion-2s-character-creator-is-going-viral-for-its-bust-size-options-or-lack-thereof",
+        "summary": "Aion 2, a free-to-play MMO action RPG, is going viral for its character creation settings — more specifically, for how busty you can make your female character.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Wizards of the Coast Union Demands Company Stop Pushing Generative AI",
+        "link": "https://www.ign.com/articles/wizards-of-the-coast-union-demands-company-stop-pushing-generative-ai",
+        "summary": "The Dungeons & Dragons and Magic: The Gathering teams at Wizards of the Coast have just announced they're unionizing, joining the Wizards of the Coast-CWA (UWOTC-CWA) union formed by the Arena team earlier this year. In a letter of demands, the union has urged Hasbro and Wizards of the Coast leaders…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Death Stranding Movie Gets Update as Director Scouts Beautiful Filming Locations in Iceland",
+        "link": "https://www.ign.com/articles/death-stranding-movie-gets-update-as-director-scouts-beautiful-filming-locations-in-iceland",
+        "summary": "The Death Stranding movie appears to be ramping up to production, as director Michael Sarnoski and cinematographer Pat Scola share a beautiful view from location scouting.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sega Community Relations Director Speaks Out After Sonic Discord Goes Wild",
+        "link": "https://www.ign.com/articles/sega-community-relations-director-speaks-out-after-sonic-discord-goes-wild",
+        "summary": "Sega created a Discord server just for Sonic fans — and it wasn’t long until it descended into chaos, forcing its moderators to take action in an admittedly unexpected, if somewhat amusing, turn of events.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Fans Theorize Jason May Be the Franchise's First Neurodivergent Protagonist",
+        "link": "https://www.ign.com/articles/gta-6-fans-theorize-jason-may-be-the-franchises-first-neurodivergent-protagonist",
+        "summary": "GTA 6 fans have begun to speculate over whether or not Jason is the franchise's first outwardly neurodivergent protagonist.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox CEO Asha Sharma Shares More Details on Project Helix 'Family of Devices'",
+        "link": "https://www.ign.com/articles/xbox-ceo-asha-sharma-shares-more-details-on-project-helix-family-of-devices",
+        "summary": "As the next generation of consoles looms over the horizon, it's becoming clearer that Microsoft's Project Helix is going to be a whole lineup of gaming devices, rather than one console.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Previous Game Pass Strategy Sent Xbox Into 'Freefall,' CEO Asha Sharma Reportedly Tells Staff",
+        "link": "https://www.ign.com/articles/previous-game-pass-strategy-sent-xbox-into-freefall-ceo-asha-sharma-reportedly-tells-staff",
+        "summary": "It's no secret that Xbox has had a rough time in 2026. With nearly 2,000 staff cut as part of sweeping layoffs and studio closures, Microsoft's gaming business is in the middle of one of the most significant restructures in video game history. But what led Xbox to this point? According to CEO Asha S…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Battlefield 6 Resurrects the Corpse of Dead Space With The Marker Tease",
+        "link": "https://www.ign.com/articles/battlefield-6-resurrects-dead-space",
+        "summary": "The corpse of Dead Space is being reinimated for Battlefield 6, with the latest trailer for Season 5 seemingly teasing a crossover.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nolan North Is Staying in Shape Just in Case Sony Calls About Uncharted 5",
+        "link": "https://www.ign.com/articles/nolan-north-is-staying-in-shape-just-in-case-sony-calls-about-uncharted-5",
+        "summary": "Uncharted star Nolan North is keen to return for Uncharted 5, amid reports that a fresh entry in the franchise is in production.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Forza Horizon 6's Community Is Fed Up With Playground Games, and the Studio Has Finally Responded",
+        "link": "https://www.ign.com/articles/forza-horizon-6s-community-is-fed-up-with-playground-games-and-the-studio-has-finally-responded",
+        "summary": "Forza Horizon 6 developer Playground Games has finally addressed its player community after months of constructive feedback about the game has been met with nothing but radio silence from the renowned British studio.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+        "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+        "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+        "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+        "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+        "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+        "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+        "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+        "summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How AI decision models could change content moderation",
+        "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+        "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+        "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+        "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The next hurdle for AI agents: getting websites to let them in",
+        "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+        "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hark releases an AI personal assistant with a focus on privacy",
+        "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+        "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+        "link": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+        "summary": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mirror Particle is building a ‘world model’ of human behavior",
+        "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+        "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
+        "link": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
+        "summary": "The storied Silicon Valley firm makes its first pure defense investment.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+        "link": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+        "summary": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and operators share how they…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+        "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+        "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "LibreOffice says ‘no AI’ is now a software feature",
+        "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+        "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+        "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+        "summary": "Wajo's Fo agent can hire humans to complete a task.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+        "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+        "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+        "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+        "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin dips as oil turns higher, countering bond rout halt and regulatory hopes",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave",
+        "link": "https://www.investing.com/news/cryptocurrency-news/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave-4934906",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Grupo Aeroportuario del Pacífico September passengers down 7.3% to 4.08M amid capacity cuts",
+        "link": "https://seekingalpha.com/news/4650796-grupo-aeroportuario-del-pacifico-september-passengers-down-73-to-408m-amid-capacity-cuts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

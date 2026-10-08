@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T13:44:06.952420+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+        "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+        "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, a…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+        "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+        "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration wit…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft is giving Copilot more control over Windows and your files",
+        "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+        "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+        "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+        "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ChatGPT is getting college planning tools",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+        "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a stud…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Muse launches on the iPad",
+        "link": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+        "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was relea…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+        "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+        "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI could upend food delivery",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+        "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed star…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+        "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but C…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+        "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+        "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The New ChatGPT Is More Show Than Tell",
+        "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+        "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+        "link": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+        "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+        "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+        "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Your Next Great Read Might Be Certified ‘Organic’",
+        "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+        "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Mixtape Wins Game of the Year at the 2026 Australian Game Developer Awards",
+        "link": "https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards",
+        "summary": "Mixtape developer Beethoven & Dinosaur has won a trifecta of awards at the 2026 AGDAs, including Excellence in Visual Art, Excellence in Sound Design, and Game of the Year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bit Reactor CEO Welcomes Return of Some Furloughed Staff for 'Continued Support' of Star Wars Zero Company",
+        "link": "https://www.ign.com/articles/bit-reactor-ceo-welcomes-return-of-some-furloughed-staff-for-continued-support-of-star-wars-zero-company",
+        "summary": "Bit Reactor, the developer of Star Wars Zero Company, has begun returning some of its staff to the team after furloughing an estimated 80% of employees just before the game’s launch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Samuel L. Jackson Confirms Nick Fury Will Return in Avengers: Secret Wars",
+        "link": "https://www.ign.com/articles/samuel-l-jackson-confirms-nick-fury-will-return-in-avengers-secret-wars",
+        "summary": "Samuel L. Jackson has confirmed that we won’t be seeing Nick Fury in Avengers: Doomsday, but said that his character is set to return in Avengers: Secret Wars.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PS5 Adding Dedicated Crunchyroll Hub Next Spring",
+        "link": "https://www.ign.com/articles/ps5-adding-dedicated-crunchyroll-hub-next-spring",
+        "summary": "Anime streaming service Crunchyroll, which Sony-owned Funimation bought for nearly $1.2 billion in 2021, is getting its own dedicated hub on the PlayStation 5 home screen in Spring 2027. Sony Interactive Entertainment President and CEO Hideaki Nishino made the announcement at today's Crunchyroll Ani…",
+        "source": "IGN News"
+      },
+      {
+        "title": "IGN Fan Fest 2026: Fall Edition – How to Watch and What to Expect",
+        "link": "https://www.ign.com/articles/ign-fan-fest-2026-fall-edition-how-to-watch-and-what-to-expect",
+        "summary": "IGN Fan Fest 2026: Fall Edition is nearly here, and here's how and when you can watch the over 90 exclusive reveals across games, movies, TV, comics, and collectibles, and what to expect, including from VisionQuest, Cyberpunk Edgerunners 2, Rainbow Six Siege, Whalefall, and many more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Castlevania: Belmont's Curse Demo Hides Fighting Game Easter Eggs Behind Secret Weapon",
+        "link": "https://www.ign.com/articles/castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind-secret-weapon",
+        "summary": "The developers of Castlevania: Belmont’s Curse are wearing their love of fighting games on their sleeves, as eagle-eyed fans have spotted some unmistakable references to classic fighting game characters in its demo.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Guillermo del Toro on Blade 2, Working With Kojima, and Lots of Red Bull",
+        "link": "https://www.ign.com/articles/guillermo-del-toro-on-blade-2-working-with-kojima-and-lots-of-red-bull",
+        "summary": "We got the chance to sit down with the one and only Guillermo del Toro as part of our IGN30 Icons Series, where he let us in on his favorite games, how he made his iconic movies, and his experience working with some of the biggest stars in filmmaking.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty Esports Commentator Resigns After Pursuing Relationship With Co-Commentator's Ex-Wife",
+        "link": "https://www.ign.com/articles/call-of-duty-e-sports-commentator-resigns-after-pursuing-relationship-with-co-commentators-ex-wife",
+        "summary": "A prominent Call of Duty esports commentator has opted to resign from his role after pursuing a romantic relationship with his co-commentator's ex-wife.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gears of War E-Day Is a 'Natural Choice to Be an Exclusive' – Studio Head Mike Crump Claims Series Carries the Banner for Xbox",
+        "link": "https://www.ign.com/articles/gears-of-war-e-day-is-a-natural-choice-to-be-an-exclusive-studio-head-mike-crump-claims-series-carries-the-banner-for-xbox",
+        "summary": "Gears of War: E-Day launched this week, and while it is excellent, the game was pulled away from a PS5 launch earlier this year. But, in a recent interview, The Coalition Studio Head Mike Crump claims that it is all part of the plan.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Capcom Clarifies Stance on AI After RE Engine Conference Comments",
+        "link": "https://www.ign.com/articles/capcom-clarifies-stance-on-ai-after-re-engine-conference-comments",
+        "summary": "Resident Evil and Street Fighter developer Capcom has clarified its stance on AI and its future plans for the RE Engine in an exclusive conversation with IGN.",
+        "source": "IGN News"
+      },
+      {
+        "title": "FBI Arrests 29-Year-Old Alabama Man After Epic Reported Fortnite Voice Chat Threats",
+        "link": "https://www.ign.com/articles/fbi-arrests-29-year-old-alabama-man-after-epic-reported-fortnite-voice-chat-threats",
+        "summary": "The FBI arrested a Fortnite player last week after Epic reported threats he made over voice chat.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Odyssey Returns to IMAX as Digger's Run Comes to an End a Week After Launch",
+        "link": "https://www.ign.com/articles/the-odyssey-returning-imax-disappointing-opening-digger",
+        "summary": "Christopher Nolan's The Odyssey is set to return to IMAX as Digger's run comes to an end a week after launch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gears of War: E-Day Studio Boss Insists 'The Next Game Will Not Take Nearly as Long' to Make, Responds to Layoff Concern",
+        "link": "https://www.ign.com/articles/gears-of-war-e-day-studio-boss-insists-the-next-game-will-not-take-nearly-as-long-to-make-responds-to-layoff-concern",
+        "summary": "The boss of Gears of War: E-Day developer The Coalition has responded to reports that staff at the studio are worried they will lose their jobs amid the ongoing cuts at Xbox, and promised the next Gears game won’t take as long to make.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mafia 2 and Mafia 3 Could Be Set for PS5 and Xbox Series Upgrades After Definitive Editions Leak Online",
+        "link": "https://www.ign.com/articles/mafia-2-mafia-3-definitive-edition-leaked",
+        "summary": "Mafia 2 and Mafia 3 are coming to PS5 and Xbox Series consoles with some prettier graphics, according to an ESRB rating.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Forza Horizon 6 Reportedly Coming to PS5 in January on Disc",
+        "link": "https://www.ign.com/articles/forza-horizon-6-ps5-release-date",
+        "summary": "According to a report from French site Dealabs, Forza Horizon 6 will finally land on PS5 early next year.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+        "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+        "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+        "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+        "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+        "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+        "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+        "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+        "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+        "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+        "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+        "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+        "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
+        "link": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+        "summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+        "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+        "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Greenairy is building smart plant towers to clean the air in your office",
+        "link": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
+        "summary": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
+        "link": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
+        "summary": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+        "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+        "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+        "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+        "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
+        "link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+        "summary": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+        "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+        "summary": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+        "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+        "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+        "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+        "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+        "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+        "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+        "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+        "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin falls to $83k amid pressure from Fed minutes, oil prices, and yields",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bitcoin falls as Iran attacks, oil surge fuel rate fears; crypto stocks slip",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-as-iran-attacks-oil-surge-fuel-rate-fears-crypto-stocks-slip-4936200",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Asian equities slide as rising yields and hawkish Fed minutes weigh on sentiment",
+        "link": "https://seekingalpha.com/news/4651204-asian-equities-slide-as-rising-yields-and-hawkish-fed-minutes-weigh-on-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "SK Hynix's Solidigm selects Goldman, Morgan Stanley to lead $100B US listing: report",
+        "link": "https://seekingalpha.com/news/4651210-sk-hynixs-solidigm-selects-goldman-morgan-stanley-to-lead-100b-us-listing-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

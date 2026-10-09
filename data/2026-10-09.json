@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T13:48:28.230849+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+        "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Why we’re watching these climate tech companies",
+        "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+        "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Building a safer path to autonomous industrial AI",
+        "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Anthropic launches free AI security scans for open-source projects",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+        "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted abou…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "California is trying to shut down robot vs. human cage matches",
+        "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+        "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "USA Today becomes the latest publisher to sue OpenAI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+        "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+        "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+        "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens to David Heinemeier …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+        "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needles…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+        "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+        "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model. Similar to AI note-ta…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google is launching a one-stop Gemini agent for your work tasks",
+        "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+        "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and assign it tasks from a …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+        "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+        "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mi…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Artificial is a wicked satire that also sticks to the facts",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+        "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" The idea of playing God, and power in general - who has it, who desperately wants it, and who will do…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Inside Elon Musk’s Midterm Spending Spree",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+        "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "VisionQuest Showrunner Terry Matalas Didn't Have to Worry Too Much About the MCU's Bigger Picture — 'We Pretty Much Did Exactly What We Wanted' | NYCC 2026",
+        "link": "https://www.ign.com/articles/visionquest-showrunner-terry-matalas-didnt-have-to-worry-too-much-about-the-mcus-bigger-picture-we-pretty-much-did-exactly-what-we-wanted-nycc-2026",
+        "summary": "At New York Comic Con, VisionQuest showrunner Terry Matalas told IGN's Jeffrey Vega that MCU boss Kevin Feige gave Matalas a pass on doing whatever he wanted, as long as he included one particular thing.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Finn Jones Calls Iron Fist’s Return in Daredevil: Born Again a 'Wonderful Gift' | NYCC 2026",
+        "link": "https://www.ign.com/articles/finn-jones-iron-fist-daredevil-born-again-season-3",
+        "summary": "Finn Jones addresses his return as Danny Rand/Iron Fist in Daredevil: Born Again Season 3, calling a second chance with Marvel a 'wonderful gift.'",
+        "source": "IGN News"
+      },
+      {
+        "title": "Daredevil Star Charlie Cox Confirms He's in an Unannounced Sega Game | NYCC 2026",
+        "link": "https://www.ign.com/articles/daredevil-star-charlie-cox-confirms-hes-in-an-unannounced-sega-game-nycc-2026",
+        "summary": "Daredevil star Charlie Cox has confirmed that he is starring in another video game, this one for Sega.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Charlie Cox on the Return of The Defenders — 'There Needed to Be Some Kind of Closure' | NYCC 2026",
+        "link": "https://www.ign.com/articles/charlie-cox-on-the-return-of-the-defenders-there-needed-to-be-some-kind-of-closure-nycc-2026",
+        "summary": "Charlie Cox is telling fans to \"get the Save Daredevil Campaign\" going as Daredevil: Born Again Season 3 will be the show's last.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jay and Silent Bob’s Joint Venture Trailer and Game Details Revealed for Weed Farming Sim | NYCC 2026",
+        "link": "https://www.ign.com/articles/jay-silent-bob-joint-venture-trailer-gameplay",
+        "summary": "Jay and Silent Bob’s Joint Venture turns Kevin Smith’s View Askewniverse into a foul-mouthed cozy weed farming simulator. New details and the first trailer were revealed at New York Comic Con 2026.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Smile 2 Star Kyle Gallner Wants to Play V in Paramount’s Cyberpunk 2077 Movie",
+        "link": "https://www.ign.com/articles/smile-2-star-kyle-gallner-wants-to-play-v-in-paramounts-cyberpunk-2077-movie",
+        "summary": "Smile 2 star Kyle Gallner is making it known that he’s ready and willing to play V in Paramount’s film adaptation of Cyberpunk 2077.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Princess Donut Blind Box Plushies Are Getting Shown Off at NYCC Alongside Dungeon Crawler Carl Action Figures",
+        "link": "https://www.ign.com/articles/princess-donut-blind-box-plushies-are-getting-shown-off-at-nycc-alongside-dungeon-crawler-carl-action-figures",
+        "summary": "The Dungeon Crawler Carl series has absolutely blown up this year. Matt Dinniman's LitRPG story has created some truly dedicated fans who are showing up in droves to support DCC as it transitions to a major franchise.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Street Fighter 6 Producer Reveals How He Helped Save Capcom’s Iconic Fighting Game Franchise From ‘Dying’",
+        "link": "https://www.ign.com/articles/street-fighter-6-producer-reveals-how-he-helped-save-capcoms-iconic-fighting-game-franchise-from-dying",
+        "summary": "Street Fighter 6 producer Shuhei Matsumoto revealed how dire things were for Capcom’s flagship fighting game franchise during the Street Fighter V era and explained how he and director Takayuki Nakayama worked together to save the series from death.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ben Affleck Says He Gets Into Arguments With Kids in Fortnite, His New Movie Took Inspiration from Game's Skins",
+        "link": "https://www.ign.com/articles/ben-affleck-says-he-gets-into-arguments-with-kids-in-fortnite-his-new-movie-took-inspiration-from-games-skins",
+        "summary": "Ben Affleck has revealed he plays shooters like Fortnite and sometimes ends up getting into arguments with kids in voice chat.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Deadpool and She-Hulk Are Coming to X-Men '97 Season 3",
+        "link": "https://www.ign.com/articles/deadpool-and-she-hulk-are-coming-to-x-men-97-season-3",
+        "summary": "We've already known that X-Men '97 Season 3 was happening, but at New York Comic Con 2026, Marvel showed the first teaser for the new season, with surprise appearances from Deadpool and She-Hulk.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Resident Evil Requiem Was Originally Planned as an Online Game, Producer Says",
+        "link": "https://www.ign.com/articles/resident-evil-requiem-was-originally-planned-as-an-online-game-producer-says",
+        "summary": "Resident Evil Requiem producer Masachika Kawata revealed that the game was originally planned to be an online title before they scrapped the idea to focus on horror.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel Announces New Spy TV Series Zodiac, Coming in 2028",
+        "link": "https://www.ign.com/articles/marvel-announces-new-spy-tv-series-zodiac-coming-in-2028",
+        "summary": "Marvel Studios has announced a brand new TV series called Zodiac, which will release in 2028.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lucasfilm Reveals Star Wars: Ahsoka Prequel Comic 'Escape From Thrawn' - NYCC 2026",
+        "link": "https://www.ign.com/articles/lucasfilm-reveals-star-wars-ahsoka-prequel-comic-escape-from-thrawn-nycc-2026",
+        "summary": "Marvel Comics has revealed a new Star Wars: Ahsoka prequel series called Escape From Thrawn, revealing how Eman Esfandi's Ezra Bridger makes his way back to the New Republic.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jessica Chastain Reveals the ‘Painful’ Secret to her Terrifying Smile in Other Mommy",
+        "link": "https://www.ign.com/articles/jessica-chastain-reveals-the-painful-secret-to-her-terrifying-smile-in-other-mommy",
+        "summary": "Jessica Chastain explained how she pulled off the terrifying facial expression she makes as the Other Mommy, saying that physical “pain” was a central part of getting her uncanny smile just right.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Everything We Saw at the Marvel Television and Animation NYCC 2026 Panel, Including Zodiac and Marvel Zombies",
+        "link": "https://www.ign.com/articles/marvel-television-animation-new-york-comic-con-2026-panel-disney-plus",
+        "summary": "IGN is reporting live from New York Comic Con 2026, where Marvel Television and Marvel Animation are set to make announcements at a special panel event. Check out our live blog for all the news.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+        "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+        "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+        "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+        "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+        "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+        "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+        "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+        "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+        "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+        "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+        "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+        "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+        "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic changes usage policy to ban model abuse and election interference",
+        "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+        "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+        "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+        "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+        "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+        "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Natura’s $99 smart ring puts AI agents on your finger",
+        "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+        "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+        "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+        "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+        "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+        "summary": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+        "link": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
+        "summary": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+        "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+        "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin slips under $82k amid surging oil prices, hit to Wall Street tech stocks",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Oil Dri GAAP EPS of $1.00, revenue of $129.29M",
+        "link": "https://seekingalpha.com/news/4651643-oil-dri-gaap-eps-of-100-revenue-of-12929m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Asian markets mixed following tech selloff as OpenAI revenue concerns weigh",
+        "link": "https://seekingalpha.com/news/4651637-asian-markets-mixed-following-tech-selloff-as-openai-revenue-concerns-weigh?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Meta bans ads from TikTok parent ByteDance across U.S. and key foreign markets",
+        "link": "https://seekingalpha.com/news/4651635-meta-bans-ads-from-tiktok-parent-bytedance-across-us-and-key-foreign-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

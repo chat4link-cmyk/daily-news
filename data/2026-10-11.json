@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T13:26:52.550296+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+        "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+        "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic is cutting off its internal evaluations from the internet",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led t…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI agent makers are promising privacy — will they deliver?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+        "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+        "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+        "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Naruto Teasers Reveal New Shadow Rising Manga and Anime Crossover Series",
+        "link": "https://www.ign.com/articles/naruto-teasers-reveal-new-shadow-rising-manga-and-anime-crossover-series",
+        "summary": "Naruto is alive and well, as author Masashi Kishimoto has announced a new manga called Shadow Rising – and a new anime crossover series is on the way, too.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Blade Runner 2099 Trailer Teases Replicant Mystery With Hunter Schafer and Michelle Yeoh",
+        "link": "https://www.ign.com/articles/blade-runner-2099-trailer-teases-replicant-mystery-with-hunter-schafer-and-michelle-yeoh",
+        "summary": "Prime Video has published a new Blade Runner 2099 trailer, revealing more about the mystery surrounding its missing Replicants, as well as the roles Hunter Schafer and Michelle Yeoh play in the story.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High",
+        "link": "https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high",
+        "summary": "The new Arc Raiders 2.0 update has triggered a seven-month high for its concurrent player count on Steam as fans show up for its \"Spider-Man\" grappling hook, a new map, a free weekend, and more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Image Comics' Roam Reunites Paper Girls Creators Brian K. Vaughan and Cliff Chiang",
+        "link": "https://www.ign.com/articles/image-comics-roam-reunites-paper-girls-creators-brian-k-vaughan-and-cliff-chiang",
+        "summary": "In one of the coolest announcements to come out of NYCC, IGN can exclusively reveal that Paper Girls creators Brian K. Vaughan and Cliff Chiang are reuniting for a new series called Roam.",
+        "source": "IGN News"
+      },
+      {
+        "title": "DC Legend Grant Morrison Criticizes 'Morally and Legally Incoherent' Lanterns Finale",
+        "link": "https://www.ign.com/articles/dc-legend-grant-morrison-criticizes-morally-and-legally-incoherent-lanterns-finale",
+        "summary": "DC veteran Grant Morrison reviewed Lanterns, and they had more than a few criticisms of its \"morally and legally incoherent\" finale.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nicolas Cage Says He'll 'Probably Not Work With' Amazon Again After Declining Spider-Noir AI Waiver",
+        "link": "https://www.ign.com/articles/nicolas-cage-says-hell-probably-never-work-with-amazon-again-after-declining-spider-noir-ai-waiver",
+        "summary": "Nicolas Cage said he'll \"probably not work with\" Amazon again after declining to sign a waiver to use AI on Spider-Noir.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
+        "link": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
+        "summary": "The GTA 6 leaker has reportedly threatened to release a build of the game with the full story mode played to the end, as part of their heavily criticized crypto scheme.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Blumhouse Gives Updates on Paranormal Activity 8, Saw 11, River, Something Is Killing the Children, and More | NYCC 2026",
+        "link": "https://www.ign.com/articles/blumhouse-atomic-monster-nycc-2026",
+        "summary": "Friday night at New York Comic Con was all about Blumhouse, with a 90 minute \"Blumfest\" panel that was devoted to a ton of upcoming films from the combined forces of Jason Blum's Blumhouse and James Wan's Atomic Monster.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Citizen Single-Player Spinoff Squadron 42 Reemerges With Flashy New Trailer, Steam Wishlists, and Cast Confirmation",
+        "link": "https://www.ign.com/articles/star-citizen-single-player-spinoff-squadron-42-reemerges-with-flashy-new-trailer-steam-wishlists-and-cast-confirmation",
+        "summary": "Star Citizen developer Cloud Imperium Games has pulled back the curtain on single-player spinoff Squadron 42 with a new cinematic trailer, the launch of Steam wishlists, and a full cast reveal.",
+        "source": "IGN News"
+      },
+      {
+        "title": "There’s Never Been a Better Time To Play Fire Emblem: Awakening",
+        "link": "https://www.gamespot.com/videos/theres-never-been-a-better-time-to-play-fire-emblem-awakening/",
+        "summary": "If you feel like the Persona-ification of Fire Emblem has gone too far, it may be a good time to go back to a 3DS classic.",
+        "source": "GameSpot"
+      },
+      {
+        "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+        "link": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+        "summary": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam",
+        "link": "https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game",
+        "summary": "Strange Scaffold, the studio behind I Am Your Beast and El Paso, Elsewhere, has announced Gods With Badges, a narrative tactics game about the power police hold over life and death. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
+        "link": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+        "summary": "It looks like Bokeh Game Studio, founded by Keiichiro Toyama, who directed the original Silent Hill and created Siren and Gravity Rush , is working on another horror game. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
+        "link": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer",
+        "summary": "Arc Raiders could eventually be split into PvE and PvP modes. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Konami is already thinking about the next wave of Silent Hill games",
+        "link": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
+        "summary": "Silent Hill producer Motoi Okamoto says Konami is looking at \"a number of projects\" after the first wave of new Silent Hill games. Read more",
+        "source": "Eurogamer"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+        "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+        "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+        "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+        "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cloudflare acquires Deno to improve its Workers programming model",
+        "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+        "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+        "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+        "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "One with the world? A new look at brains transformed by psychedelics.",
+        "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+        "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+        "source": "The Verge"
+      },
+      {
+        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+        "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+        "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an …",
+        "source": "The Verge"
+      },
+      {
+        "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+        "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+        "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"o…",
+        "source": "The Verge"
+      },
+      {
+        "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+        "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+        "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October […]",
+        "source": "The Verge"
+      },
+      {
+        "title": "Anthropic is cutting off its internal evaluations from the internet",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led t…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+        "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
+        "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal …",
+        "source": "The Verge"
+      },
+      {
+        "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
+        "link": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
+        "summary": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with the new technology - including LG and its $3,600 75-inch Micro RGB evo MRGB…",
+        "source": "The Verge"
+      },
+      {
+        "title": "AI agent makers are promising privacy — will they deliver?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+        "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data…",
+        "source": "The Verge"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "SA Asks: Is now the time to buy quantum stocks? If so, which ones?",
+        "link": "https://seekingalpha.com/news/4651914-sa-asks-is-now-the-time-to-buy-quantum-stocks-if-so-which-ones?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "China passenger vehicle retail market slumps 24% in September",
+        "link": "https://seekingalpha.com/news/4651911-china-passenger-vehicle-retail-market-slumps-24-september?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

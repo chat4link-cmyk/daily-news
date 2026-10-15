@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T12:17:26.610984+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: faking blood and the future of batteries",
+        "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven c…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The US military’s race to make fake blood",
+        "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+        "summary": "Its call sign was Morphine 1-2.   In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad daylight.…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "McKinsey is making job applicants spar with a fake AI client",
+        "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montan…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The AI race is back on",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+        "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+        "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+        "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy c…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "YouTube sticks new labels on AI-generated songs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+        "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "My AI doppelganger tells me what to eat",
+        "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+        "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+        "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+        "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Square’s new kiosk lets you talk to AI for help with your order",
+        "link": "https://www.theverge.com/tech/1009086/square-kiosk",
+        "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Android is using AI to suss out scammers in Google Messages",
+        "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+        "summary": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rol…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+        "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+        "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "My Friend Has No Soul",
+        "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+        "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Men Can’t Stop Faking How Much They Know About AI",
+        "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+        "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Obsession Star Inde Navarrette Says She Studied Anime Like Jujutsu Kaisen and Demon Slayer to Learn Screenwriting",
+        "link": "https://www.ign.com/articles/obsession-star-inde-navarrette-says-she-studied-anime-like-jujutsu-kaisen-and-demon-slayer-to-learn-screenwriting",
+        "summary": "Inde Navarrette, best known for her role as Nikki Freeman in Obsession, says she took a deep dive into anime to better understand screenwriting and storytelling.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel TV Boss Says Daredevil: Born Again Was Always Meant to End With Season 3, Despite Previously Suggesting Otherwise",
+        "link": "https://www.ign.com/articles/marvel-tv-boss-says-daredevil-born-again-was-always-meant-to-end-with-season-3-despite-previously-suggesting-otherwise",
+        "summary": "Head of Marvel Television Brad Winderbaum says Daredevil: Born Again was always planned to end with Season 3, despite previously suggesting otherwise.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Lanterns Season 2 Isn't a Guarantee, But a Decision Will Be Made This Year",
+        "link": "https://www.ign.com/articles/lanterns-season-2-isnt-a-guarantee-but-a-decision-will-be-made-this-year",
+        "summary": "Lanterns Season 2 isn't a guarantee, but DC boss Peter Safran says they will decide by the end of the year whether it moves forward.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Callina Liang Says She Felt 'A Lot of Pressure' After Seeing How Reddit Reacted to Her Being Cast as Chun-Li",
+        "link": "https://www.ign.com/articles/callina-liang-says-she-felt-a-lot-of-pressure-after-seeing-how-reddit-reacted-to-her-being-cast-as-chun-li",
+        "summary": "Callina Liang admitted that she felt a ton of pressure after she saw fans’ reactions to her getting cast as Chun-Li in the Street Fighter movie, specifically mentioning a thread she saw on Reddit.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Reportedly Surveys Users On Return to Full Exclusivity for its Games",
+        "link": "https://www.ign.com/articles/xbox-reportedly-surveys-users-on-return-to-full-exclusivity-for-its-games",
+        "summary": "Xbox has reportedly surveyed players on how they would feel about a return to console exclusivity for all of its games, with the exception of Call of Duty.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Street Fighter Cast Would Love to Make a Mortal Kombat Crossover Movie",
+        "link": "https://www.ign.com/articles/the-street-fighter-cast-would-love-to-make-a-mortal-kombat-crossover-movie",
+        "summary": "I got the chance to chat with the cast of the Street Fighter movie ahead of its theatrical release, and almost all of them are game for a crossover film with Mortal Kombat.",
+        "source": "IGN News"
+      },
+      {
+        "title": "A Broken iPhone Duo Could Cost Up to $1,499 to Repair",
+        "link": "https://www.ign.com/articles/a-broken-iphone-duo-could-cost-up-to-1499-to-repair",
+        "summary": "The iPhone Duo, Apple's first foldable, is already an incredibly expensive phone, rolling in at $1,999 to start. But, while the buy-in price is high, it's also going to be extremely expensive if it breaks.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Pokémon Center's New 'Winter Night Sky' Holiday Collection Comes With a Free Sticker Sheet",
+        "link": "https://www.ign.com/articles/the-pokemon-center-winter-night-sky-holiday-collection-2026",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Andrew Schulz Explains His Viral Mortal Kombat Movie Callout at the Game Awards",
+        "link": "https://www.ign.com/articles/andrew-schulz-explains-his-viral-mortal-kombat-movie-callout-at-the-game-awards",
+        "summary": "Andrew Schulz explained the viral moment when he called out the cast of the Mortal Kombat II movie, saying he was hoping for a 'Barbenheimer' moment and a possible collaboration between the two fighting game franchises.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Was Originally Meant to Release Much Sooner Than We Realized",
+        "link": "https://www.ign.com/articles/gta-6-was-originally-meant-to-release-much-sooner-than-we-realized",
+        "summary": "Rockstar Games has revealed that it originally intended to develop GTA 6 alongside Red Dead Redemption 2, meaning it probably would've come out much sooner than we ever realized.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Valve May Be Working on an OLED Steam Frame, According to Datamined Source Code",
+        "link": "https://www.ign.com/articles/valve-may-be-working-on-an-oled-steam-frame-according-to-datamined-source-code",
+        "summary": "The Steam Frame came out a month ago, and while it is one of the best PCVR headsets, its lenses weren't quite as high-quality as some of its competitors. However, it seems like Valve might be working on a mid-generation refresh with OLED optics.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Zangief Actor Olivier Richters Really Wants to Play Tyr in the Live-Action God of War Show",
+        "link": "https://www.ign.com/articles/zangief-actor-olivier-richters-really-wants-to-play-tyr-in-the-live-action-god-of-war-show",
+        "summary": "We got the chance to chat with Olivier Richters on the Street Fighter red carpet, who told us that he would love to play Tyr in Prime Video’s live-action God of War series.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Get Ready to Wet Yourself For Urine Trouble: PEE V PEE | IGN Fall Fan Fest 2026",
+        "link": "https://www.ign.com/articles/get-ready-to-wet-yourself-for-urine-trouble-pee-v-pee-ign-fall-fan-fest-2026",
+        "summary": "Get a first look at Urine Trouble: PEE V PEE with the new gameplay reveal from IGN Fall Fan Fest 2026, showcasing its hilarious multiplayer action.",
+        "source": "IGN News"
+      },
+      {
+        "title": "How to Rob a Bank: Exclusive Sneak Peek at Nicholas Hoult's Heist Movie | IGN Fall Fan Fest 2026",
+        "link": "https://www.ign.com/articles/how-to-rob-a-bank-movie-sneak-peek",
+        "summary": "Get an exclusive sneak peek at How to Rob a Bank from IGN Fall Fan Fest. Nicholas Hoult and Zoë Kravitz star in David Leitch's upcoming viral heist movie.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Invincible VS Players Can't Get Enough of Atom Eve's 'Thicc' Casual Skin",
+        "link": "https://www.ign.com/articles/invincible-vs-players-cant-get-enough-of-atom-eves-thicc-casual-skin",
+        "summary": "Atom Eve got a Casual costume in Invincible VS and, to no one’s surprise, the show’s fanbase is going feral for it.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+        "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+        "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+        "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+        "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+        "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+        "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+        "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+        "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+        "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+        "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+        "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+        "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+        "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+        "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+        "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+        "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+        "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+        "summary": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Electric vehicle sales in the US are showing signs of life",
+        "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+        "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+        "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+        "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+        "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+        "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+        "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+        "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+        "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+        "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "How high inflation became a 'fact of life' in the U.S.",
+        "link": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+        "summary": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+        "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+        "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+        "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+        "summary": "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin slips under $82k as hot CPI data fuels an uptick in Fed rate hike bets",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-83k-as-markets-await-us-inflation-data-4948178",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Surging gasoline prices accounted for more than half of last month's jump in U.S. inflation",
+        "link": "https://seekingalpha.com/news/4653219-surging-gasoline-prices-accounted-for-more-than-half-of-last-months-jump-in-us-inflation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

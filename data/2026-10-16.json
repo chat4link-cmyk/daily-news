@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T12:12:54.570407+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+        "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "How much more can nuclear power plants give?",
+        "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+        "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans t…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Six wild ideas for perpetuating your mind",
+        "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+        "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisel…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+        "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+        "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "ChatGPT can peek at your Chrome tabs now",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+        "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+        "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the mai…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The tech backlash is now in theaters",
+        "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+        "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabil…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Trump posts AI-edited photo to brag about White House restoration work",
+        "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+        "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector a…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+        "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+        "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni S…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+        "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+        "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Ap…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Friends don&#8217;t let friends feed their data to AI agents",
+        "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+        "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up y…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+        "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+        "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Nobody is safe from celebrity AI deepfakes",
+        "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+        "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the song…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+        "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+        "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the crea…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+        "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "'I Just Sort of Disconnect' — Jeff Kaplan is Avoiding Overwatch at all Costs",
+        "link": "https://www.ign.com/articles/i-just-sort-of-disconnect-jeff-kaplan-is-avoiding-overwatch-at-all-costs",
+        "summary": "Former Overwatch director Jeff Kaplan explained how he protects his psyche by completely avoiding online discussions and subreddits about Blizzard's hero shooter.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Rep. Ritchie Torres Introduces Legislation to Ensure Gamers Own Their Digital Games",
+        "link": "https://www.ign.com/articles/rep-ritchie-torress-introduces-legislation-to-ensure-gamers-own-their-digital-games",
+        "summary": "Democratic Congressman Ritchie Torres is introducing legislation that aims to ensure you own your digital games, rather than having a license.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Remedy Boss Reacts After Control Resonant Sells 1 Million Copies, Becoming Studio's Fastest-Selling Game",
+        "link": "https://www.ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game",
+        "summary": "Control Resonant has sold one million copies, becoming Remedy’s fastest-selling game in spite of leakers cracking the title and pirating it after its digital launch in September.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Fourth Wing TV Series Has Reportedly Found Its Xaden and Violet",
+        "link": "https://www.ign.com/articles/the-fourth-wing-tv-series-has-reportedly-found-its-xaden-and-violet",
+        "summary": "Prime Video's adaptation of the best-selling romantasy series, Fourth Wing, has reportdely found its stars. Esther McGregor has been cast as Violet Sorrengail and Emilio Sakraya will be taking on the role of Zaden Riorson.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Batman Part 2 Brings in Director Steven Soderbergh to Finish Film in Place of Matt Reeves, Reeves Responds With New Statement",
+        "link": "https://www.ign.com/articles/the-batman-part-2-brings-in-director-steven-soderbergh-to-finish-film-in-place-of-matt-reeves",
+        "summary": "Ocean's 11 director Steven Soderbergh has been hired to finish filming The Batman Part 2 while Matt Reeves attends to a family matter.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pro Dota 2 Player Claims He Had to Play a Full Match in Front of Police Officers to Prove His Identity",
+        "link": "https://www.ign.com/articles/pro-dota-2-player-claims-he-had-to-play-a-full-match-in-front-of-police-after-his-teams-boot-camp-was-raided",
+        "summary": "A pro Dota 2 player is claiming he had to play a full Dota match in front of police officers to prove his identity. Thankfully, he had the sauce.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mortal Kombat Creator Ed Boon Responds to Street Fighter Cast Saying They Want a Crossover Movie",
+        "link": "https://www.ign.com/articles/mortal-kombat-creator-ed-boon-responds-to-street-fighter-cast-saying-they-want-a-crossover-movie",
+        "summary": "Mortal Kombat co-creator Ed Boon has responded after the cast of the Street Fighter movie were vocally enthusiastic about the idea of a crossover film with Mortal Kombat, and it looks like he’s open to the possibility, too — as long as a game gets made first.",
+        "source": "IGN News"
+      },
+      {
+        "title": "RuneScape Reignited Canceled Less Than Two Weeks After Being Announced",
+        "link": "https://www.ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced",
+        "summary": "Creative director Mod Ryan announced that RuneScape Reignited, a new game mode designed for both old and seasoned players to start fresh, has been canceled less than two weeks after it was first announced.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Galaxies Autumn Showcase 2026: Everything Announced",
+        "link": "https://www.ign.com/articles/galaxies-autumn-showcase-2026-everything-announced",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Tactical PC FPS Game Squad Is Coming to Consoles, Playable PS5 Alpha Releases Later This Month",
+        "link": "https://www.ign.com/articles/tactical-pc-fps-game-squad-is-coming-to-consoles-playable-ps5-alpha-releases-later-this-month",
+        "summary": "The acclaimed PC shooter, Squad, is coming to consoles and PS5 players will be able to experience it very soon.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Mummy 4 Now Officially Titled The Mummy: Book of the Dead",
+        "link": "https://www.ign.com/articles/the-mummy-4-now-officially-titled-the-mummy-book-of-the-dead",
+        "summary": "The Mummy: Book of the Dead is the official title of the next movie in Brendan Fraser’s beloved action-adventure film franchise.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Activision Confirms Brand New Call of Duty Subfranchise Is in the Works, Leading to Rampant Fan Speculation",
+        "link": "https://www.ign.com/articles/activision-confirms-brand-new-call-of-duty-subfranchise-is-in-the-works-leading-to-rampant-fan-speculation",
+        "summary": "Activision is actively developing a new Call of Duty subfranchise, suggesting it is ready to move on from Black Ops and Modern Warfare for the time being.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Explores Unconventional Release and Box Office Strategy for Beatles Biopics",
+        "link": "https://www.ign.com/articles/sony-beatles-movies-release-box-office-strategy",
+        "summary": "ony Pictures is mulling a few different novel release strategies for director Sam Mendes’ The Beatles — A Four-Film Cinematic Event, from releasing all four films on the same day in April 2028 to lumping the box office returns of all four films together so that no one Beatle biopic can be deemed mor…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Just Announced a $6,000 Gold-Plated Walkman",
+        "link": "https://www.ign.com/articles/sony-just-announced-a-6000-gold-plated-walkman",
+        "summary": "Have you ever looked at your phone and thought, \"This should only play music, and it should be shinier?\" Well, good news, Sony is bringing out a $5,899 Walkman, and it's gold plated.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Obsession’s Nikki, Buddy the Unicorn Top This Year’s Most-Googled Halloween Costumes",
+        "link": "https://www.ign.com/articles/obsessions-nikki-buddy-the-unicorn-top-this-years-most-googled-halloween-costumes",
+        "summary": "Google has released its top 10 most-searched Halloween costumes, and unsurprisingly, Nikki Freeman from Obsession and Buddy the Unicorn are two of the most popular searches this year.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+        "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+        "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+        "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+        "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+        "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+        "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+        "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta launches an open-weight AI model that runs on Macs",
+        "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+        "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+        "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+        "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+        "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+        "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+        "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+        "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+        "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+        "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+        "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+        "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+        "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI agents are coming to Rivian’s cars",
+        "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+        "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+        "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s Universal Cart shopping tool launches in the US",
+        "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Economists: Hot PPI shows Fed's work is not done",
+        "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+        "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+        "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+        "summary": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+        "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+        "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "UK economy grew 0.1% in August, beating expectations",
+        "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+        "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+        "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+        "summary": "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin ticks up slightly above $82k as U.S. bond rally lifts risk sentiment",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-81k-as-hot-us-cpi-spurs-rate-hike-bets-4950559",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Tesla shows off a flying Roadster that can drive upside down",
+        "link": "https://seekingalpha.com/news/4653678-tesla-shows-off-a-flying-roadster-that-can-drive-upside-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "U.S. crude oil jumps on big inventory draw, potential shadow fleet sanctions relief",
+        "link": "https://seekingalpha.com/news/4653672-us-crude-oil-jumps-on-big-inventory-draw-potential-shadow-fleet-sanctions-relief?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

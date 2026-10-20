@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T12:30:53.566064+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Making the internet better for AI agents might make it worse for everyone else",
+        "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like captur…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+        "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+        "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of Al…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+        "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+        "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.  The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen bef…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+        "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+        "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "How far can we push computing?",
+        "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richar…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The fossil fuel comeback is here",
+        "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+        "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despi…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+        "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+        "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+        "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms c…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. C…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Democrats think cracking down on AI could give them an edge",
+        "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+        "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee le…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+        "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+        "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+        "source": "Wired AI"
+      },
+      {
+        "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+        "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+        "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+        "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+        "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Clayface Stars Praise Batman: The Animated Series and Ron Perlman's 'Amazing' Performance as the DC Villain",
+        "link": "https://www.ign.com/articles/clayface-cast-batman-animated-series-fandom",
+        "summary": "Clayface stars Tom Rhys Harries and Naomi Ackie were big fans of Batman: The Animated Series growing up in the UK, recalling how they would rush home to watch it after school.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Zach Cregger’s Resident Evil Movie Gets Viral Fan-Made PS1 Style Video Game",
+        "link": "https://www.ign.com/articles/zach-creggers-resident-evil-movie-gets-viral-fan-made-ps1-style-video-game",
+        "summary": "You will soon be able to play as Austin Abrams in this fanmade, retro-style video game adapting Zach Cregger’s take on the Resident Evil universe, complete with fixed camera angles and all.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hellraiser's Clive Barker Feared New Game Would Be 'Overly Censored' But Is 'Proud as F**k at the End Result'",
+        "link": "https://www.ign.com/articles/hellraisers-clive-barker-feared-new-game-would-be-overly-censored-but-is-proud-as-fk-at-the-end-result",
+        "summary": "Hellraiser creator Clive Barker was worried the franchise's new video game would be \"overly censored,\" but he's \"proud as f**k\" of \"how far they've been able to push it.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
+        "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+        "summary": "Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Even Sexyy Red Is Confused Why Storm Doesn't Have More Legendary Skins",
+        "link": "https://www.ign.com/articles/even-sexyy-red-is-confused-why-storm-doesnt-have-more-legendary-skins",
+        "summary": "Storm is one of a handful of female characters in Marvel Rivals with just one Legendary skin, and the pushback around this fact has become so big that even rapper Sexyy Red is speaking up about it.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
+        "link": "https://www.ign.com/articles/love-and-deepspace-launches-blade-runner-crossover-as-fans-draw-parallels-to-canceled-character-valko",
+        "summary": "At first glance the Love and Deepspace Blade Runner 2049 crossover is a cool, if unexpected, addition to the otome game's romantic universe, but it didn't take long for fans of the game to notice an uncomfortable parallel between one of the key storylines featuring the lead character's AI companion,…",
+        "source": "IGN News"
+      },
+      {
+        "title": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
+        "link": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
+        "summary": "Rockstar Games gave the GTA 6 developers so much freedom to add cool details that not even the studio's top executives are aware of everything in the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Japanese Tekken Players Are Likening Tekken 6’s Rollback Netcode Mod to Serious Crimes and the Fighting Game Community Is Split",
+        "link": "https://www.ign.com/articles/japanese-tekken-players-are-likening-tekken-6s-rollback-netcode-mod-to-serious-crimes-and-the-fighting-game-community-is-split",
+        "summary": "Two weeks ago, a Tekken player created a mod that allowed users to play the game online with rollback netcode, sparking a community-wide debate between Western players and competitors based in Japan and Korea.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PSA Responds After More Than $100,000 Worth of Graded Trading Cards Stolen from FedEx Truck",
+        "link": "https://www.ign.com/articles/over-100000-worth-of-psa-graded-trading-cards-stolen-from-fedex-truck",
+        "summary": "Hundreds of PSA-graded trading cards worth more than $100,000 were reportedly stolen from a FedEx truck over the weekend, leaving collectors distraught — and the damage is still being calculated.",
+        "source": "IGN News"
+      },
+      {
+        "title": "LEGO and Netflix Team Up for 37,000-Piece Kpop Demon Hunters Build",
+        "link": "https://www.ign.com/articles/lego-and-netflix-team-up-for-37000-piece-kpop-demon-hunters-build",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hideo Kojima Loved Whalefall, but It Ruined Eating Squid for Him",
+        "link": "https://www.ign.com/articles/hideo-kojima-loved-whalefall-but-it-ruined-eating-squid-for-him",
+        "summary": "The Metal Gear Solid creator and serious movie buff shared his thoughts on the film over the weekend, revealing a love for whales that has been with him since school — but says Whalefall has, as a result, put him off snacking on squid.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Lord of the Rings: Shadow of the Past in Scriptwriting Stage Following Cancellation Rumors, Peter Jackson Confirms",
+        "link": "https://www.ign.com/articles/the-lord-of-the-rings-shadow-of-the-past-in-scriptwriting-stage-following-cancellation-rumors-peter-jackson-confirms",
+        "summary": "Peter Jackson has confirmed The Lord of the Rings: Shadow of the Past is in the scriptwriting stage following cancellation rumors that emerged in the wake of the Paramount-Warner Bros. merger.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Cyberpunk: Edgerunners 2 Casts Hideo Kojima to Reprise Game Role",
+        "link": "https://www.ign.com/articles/cyberpunk-edgerunners-2-casts-hideo-kojima-to-reprise-game-role",
+        "summary": "Cyberpunk: Edgerunners 2 has cast Metal Gear Solid creator Hideo Kojima in a role that will see him reprise his part from Cyberpunk 2077.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation Shadowdrops Saros Zenith Update With Boss Rush, New Game+ and Fancy Golden Crown Powerups",
+        "link": "https://www.ign.com/articles/saros-zenith-update-boss-rush-new-game-plus",
+        "summary": "A new update for Saros dropped today, adding some new features to the hectic Housemarque shooter.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation 6 RAM and Storage Alone May Cost $680, According to Leaker",
+        "link": "https://www.ign.com/articles/playstation-6-ram-and-storage-alone-may-cost-680-according-to-leaker",
+        "summary": "The PlayStation 6 hasn't even been announced yet, but little rumors pop up now and then that add speculation on what to expect from Sony's next-gen console. The latest is a shocking claim that the RAM and storage configuration of the console will cost more than the entirety of the PS5.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+        "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+        "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+        "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+        "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+        "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+        "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+        "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+        "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+        "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+        "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+        "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+        "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+        "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+        "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+        "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+        "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+        "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+        "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+        "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+        "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+        "summary": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+        "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+        "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "People are using AI to make their smart TVs dumb again",
+        "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+        "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+        "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
+        "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+        "summary": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "EOS Climbs 11% In Rally",
+        "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-in-rally-4958658",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bitcoin rises 1% as risk sentiment bounces back, though elevated oil caps gains",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-near-83k-amid-some-relief-from-falling-oil-prices-4956420",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bitcoin bull flag coils at $81,908: Live levels",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "EOS Falls 12% In Selloff",
+        "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-selloff-4956724",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "SpaceX Q3 earnings: Revenue seen surging to $13B as AI business takes centre stage",
+        "link": "https://seekingalpha.com/news/4654451-spacex-q3-earnings-revenue-seen-surging-to-13b-as-ai-business-takes-centre-stage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Crude closes mixed after Houthis claim more attacks on Saudi airports, oil facilities",
+        "link": "https://seekingalpha.com/news/4654447-crude-closes-mixed-after-houthis-claim-more-attacks-on-saudi-airports-oil-facilities?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

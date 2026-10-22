@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T12:21:48.324795+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: introducing the Impossible issue",
+        "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "We can do impossible things",
+        "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+        "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”  I won’t lie. It’s a bit shameless—a defini…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Nuclear-powered spaceships",
+        "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+        "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 20…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Exercise in a pill",
+        "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+        "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Interspecies communication",
+        "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+        "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creature…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Cleaning up PFAS",
+        "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+        "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges, developmental delay…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Solid-state batteries",
+        "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+        "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged l…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Eliminating traffic deaths",
+        "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+        "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. “Traffic deaths are a leading cause of preventable…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Data centers could erase decades of air quality gains",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+        "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utiliti…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta to create a new class of shares to fund AI push",
+        "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+        "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of inves…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+        "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Clau…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Walmart is inviting AI agents to shop for you",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+        "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Conversational Gemini navigation comes to Apple CarPlay",
+        "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+        "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+        "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't confi…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+        "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+        "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
+        "link": "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
+        "summary": "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more specific. Previously, the publisher had stated that the sequel to 2016 fan-favorite would arrive in 2027. Now, it's turned that from a 12-month windo…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
+        "link": "https://www.ign.com/articles/brandon-sanderson-wants-to-know-who-really-wrote-the-mr-beast-book",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
+        "link": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
+        "summary": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Chris Pratt Reaffirms Star-Lord Will Return in the MCU and Plans Are Being Made Right Now",
+        "link": "https://www.ign.com/articles/chris-pratt-reaffirms-star-lord-will-return-in-the-mcu-and-plans-are-being-made-right-now",
+        "summary": "Chris Pratt has confirmed that Star-Lord's return to the MCU is actively being figured out.",
+        "source": "IGN News"
+      },
+      {
+        "title": "SonicFox Cancels Contract With Gaming Convention After Event Uses Likeness in AI-Generated Poster",
+        "link": "https://www.ign.com/articles/sonicfox-cancels-contract-with-gaming-convention-after-event-uses-likeness-in-ai-generated-poster",
+        "summary": "Prolific fighting game player SonicFox has terminated their contract with a tournament in Norman, Oklahoma after organizers fed artwork of their mascot character into AI to generate a promotional poster for the event.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mass Effect TV Series Remains Active at Prime Video Despite BioWare Closure",
+        "link": "https://www.ign.com/articles/mass-effect-tv-series-prime-video-bioware-closure",
+        "summary": "The Mass Effect video game franchise may have come to an end with the shocking demise of BioWare, but IGN can exclusively reveal that its future on the small screen remains possible. Sources inside Prime Video have confirmed that the Mass Effect television series remains in development at Amazon MGM…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Former BioWare Executive Producer Mark Darrah Says EA Might Be 'More Likely' to Sell IPs Like Mass Effect and Dragon Age After Studio’s Closure",
+        "link": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-says-ea-might-be-more-likely-to-sell-ips-like-mass-effect-and-dragon-age-after-studios-closure",
+        "summary": "Mark Darrah, who worked as an executive producer at BioWare from 1997 - 2021, shared his thoughts on the studio’s recent closure by EA and what he thinks might happen to its iconic IPs.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Wars: The Old Republic Fans Pay Their Respects to BioWare",
+        "link": "https://www.ign.com/articles/star-wars-the-old-republic-fans-pay-their-respects-to-bioware",
+        "summary": "EA shut down BioWare earlier today, and fans of Star Wars: The Old Republic are paying their respects to the beloved developer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "David Fincher Cut 60 Pages From Quentin Tarantino’s Cliff Booth Script",
+        "link": "https://www.ign.com/articles/david-fincher-tarantino-cliff-booth-script",
+        "summary": "Quentin Tarantino penned the screenplay for The Mis-Adventures of Cliff Booth, his follow-up to Once Upon a Time in Hollywood, but he handed the directing reins over to David Fincher – who proceeded to cut about 60 pages from Tarantino’s screenplay.",
+        "source": "IGN News"
+      },
+      {
+        "title": "EA Halts Development on Mobile Multiplayer Sims Game in Favor of Rumored Sims 4 Sequel",
+        "link": "https://www.ign.com/articles/ea-halts-development-on-mobile-multiplayer-sims-game-in-favor-of-rumored-sims-4-sequel",
+        "summary": "EA has paused development on a mobile multiplayer Sims game in favor of moving forward with a rumored Sims 4 sequel.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Poison Ivy Show in Early Development with Penguin Showrunner in Talks to Produce",
+        "link": "https://www.ign.com/articles/poison-ivy-show-in-early-development-with-penguin-showrunner-in-talks-to-produce",
+        "summary": "Deadline has confirmed that DC Comics’ Poison Ivy is in the early stages of getting her own live-action TV show, and one of the minds that brought us the critically-acclaimed Penguin series is in discussions to produce it.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sauron Wears the One Ring and Battles the Balrog in New Rings of Power Season 3 Trailer",
+        "link": "https://www.ign.com/articles/sauron-wears-the-one-ring-and-battles-the-balrog-in-new-rings-of-power-season-3-trailer",
+        "summary": "Prime Video has released a new trailer for the upcoming third season of The Lord of the Rings: The Rings of Power that revealed more of the war to stop Sauron from forging the One Ring.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Internet Reacts to the Cancellation of Mass Effect 5 and the Death of BioWare",
+        "link": "https://www.ign.com/articles/the-internet-reacts-to-the-cancelation-of-mass-effect-5-and-the-death-of-bioware",
+        "summary": "The Internet Reacts to the Cancelation of Mass Effect 5 and the Death of BioWare.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Glee Reboot Is Officially a Go at Disney+ and Hulu, and Gleeks Have Plenty of Thoughts",
+        "link": "https://www.ign.com/articles/glee-reboot-series-order-disney-plus-hulu-internet-reacts",
+        "summary": "Disney+ and Hulu have officially picked up a series order of Ryan Murphy’s Glee reboot.",
+        "source": "IGN News"
+      },
+      {
+        "title": "EA Sports Confirms It's Developing an Open-World Football Game",
+        "link": "https://www.ign.com/articles/ea-sports-confirms-its-developing-an-open-world-football-game",
+        "summary": "EA Sports is working on a new open-world football game, seemingly separate from Madden and College Football.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Tesla says it will start selling Cybercabs by end of year",
+        "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+        "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s thi…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+        "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+        "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+        "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+        "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+        "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+        "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+        "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta says Muse has over 10M users, with shopping a top activity",
+        "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+        "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+        "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+        "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+        "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+        "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+        "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+        "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Automattic begins layoffs following board upheaval and executive departures",
+        "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+        "summary": "Sources say more cuts could follow as the company looks to improve its finances.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+        "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+        "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
+        "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+        "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+        "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The internet is having a very bad cybersecurity day",
+        "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+        "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+        "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+        "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+        "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+        "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+        "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+        "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+        "source": "CNBC Markets"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T12:26:26.322288+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Designing an AI serving harness built to last",
+        "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+        "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Foundations of Scalable AI",
+        "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: computing’s next leap and permafrost’s climate threat",
+        "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Making the case for context-aware AI",
+        "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+        "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Three things you should know about permafrost",
+        "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+        "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.   The great news for both of us is that my colleague James Temple just published two…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "AI’s hidden storage bill: What inference leaves behind",
+        "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Canva’s first AI image model plans designs before generating them",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+        "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precis…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+        "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+        "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [lang…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta turns Muse sharing back on",
+        "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+        "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at C…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+        "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Discord now formats Markdown previews right",
+        "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+        "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpf…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+        "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+        "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily throu…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+        "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four t…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Someone hacked the Switch 2 by using an old game and AI",
+        "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+        "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailb…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+        "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+        "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brou…",
+        "source": "The Verge – AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "The Battlestar Galactica Board Game Is Making a Surprise Comeback Next Year",
+        "link": "https://www.ign.com/articles/the-battlestar-galactica-board-game-is-making-a-surprise-comeback-next-year",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
+        "link": "https://www.ign.com/articles/cyberpunk-2-associate-director-says-half-of-games-quest-team-are-former-modders",
+        "summary": "Cyberpunk 2 associate game director Pawel Sasko revealed that much of the game’s staff are actually former modders who CD Projekt Red picked up to work on the highly-anticipated sequel.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Young Sheldon Star Annie Potts Says She Was a ‘Little Sad’ About Jim Parsons Cameo as 'Mean and Unchanged' Sheldon in Show's Finale",
+        "link": "https://www.ign.com/articles/young-sheldon-star-annie-potts-says-she-was-a-little-sad-about-jim-parsons-cameo-as-mean-and-unchanged-sheldon-in-shows-finale",
+        "summary": "Annie Potts, who portrayed a younger version of Sheldon’s Meemaw on Young Sheldon, revealed how she felt about the show’s finale, disagreeing with how adult Sheldon remained \"mean and unchanged\" in Parsons' finale cameo.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Tom Skerritt Dies: Alien and Top Gun Actor Was 93",
+        "link": "https://www.ign.com/articles/tom-skerritt-alien-top-gun-actor-dies-93",
+        "summary": "Tom Skerritt, the rugged, mustachioed actor best known to IGN readers for his roles in Top Gun and Alien, passed away from natural causes on Wednesday at the age of 93.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Look at Avengers: Doomsday to Premiere During MLB World Series",
+        "link": "https://www.ign.com/articles/new-look-at-avengers-doomsday-to-premiere-during-mlb-world-series",
+        "summary": "A brand new preview for Avengers: Doomsday will debut during the MLB World Series.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Saber Interactive CEO Says Clive Barker’s Hellraiser: Revival is Performing 'Extremely Well on PC and Consoles' with More to Come",
+        "link": "https://www.ign.com/articles/saber-interactive-ceo-says-clive-barkers-hellraiser-revival-is-performing-extremely-well-on-pc-and-consoles-with-more-to-come",
+        "summary": "Clive Barker’s Hellraiser: Revival has been a smash hit, says Saber Interactive CEO Matthew Karch in a post on LinkedIn, and it’s the first of a \"series\" of releases from the studio that will improve its methodology.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Stephen King Responds as Carrie Renewed for Second Season on Prime Video",
+        "link": "https://www.ign.com/articles/stephen-king-responds-as-carrie-renewed-for-second-season-on-prime-video",
+        "summary": "Prime Video has officially renewed Mike Flanagan’s Carrie for a second season, saying there’s “much more in store” for our favorite prom queen.",
+        "source": "IGN News"
+      },
+      {
+        "title": "‘Now You’re Pushing It’ — Debra Wilson Drew the Line at the Wolverine Devs Scanning Her Tattoos Into the Game",
+        "link": "https://www.ign.com/articles/now-youre-pushing-it-debra-wilson-drew-the-line-at-the-wolverine-devs-scanning-her-tattoos-into-the-game",
+        "summary": "In a recent interview with GameSpot, actor Debra Wilson, who you might recognize from Star Wars Jedi: Fallen Order, Wolfenstein: The New Colossus, or God of War Ragnarok, said she’s sick of seeing her face in video games. The actor said the developers choose it and she’d rather play characters that …",
+        "source": "IGN News"
+      },
+      {
+        "title": "Obsession Star Inde Navarrette Says Gen Z is 'Tired' of Unoriginal Stories in Hollywood",
+        "link": "https://www.ign.com/articles/obsession-star-inde-navarrette-says-gen-z-is-tired-of-unoriginal-stories-in-hollywood",
+        "summary": "Speaking on the Kyle Buchanan Show, Inde Navarrette gave her impression of Gen Z’s renewed interest in going to the movies and what kinds of pictures they’re keen on seeing following the success of Backrooms and Obsession over the summer.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Valve Developer Mistakenly Mentions Rumored Half-Life 3 Codename",
+        "link": "https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename",
+        "summary": "A Valve developer mistakenly slipped up and made mention of Half-Life 3's long rumored codename during a recent conference.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Seth Rogen and Brad Bird Lead 2026 Infinity Festival Lineup",
+        "link": "https://www.ign.com/articles/seth-rogen-brad-bird-infinity-festival",
+        "summary": "Seth Rogen, Brad Bird, and Travis Knight will showcase upcoming animated projects like Tangles and Wildwood at L.A.’s Infinity Festival this November.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mass Effect 5 Trailer Leaks Online With 'Mass Effect: Universe' Title, Reveals Returning Characters and Much More",
+        "link": "https://www.ign.com/articles/mass-effect-5-trailer-leaks-online-with-mass-effect-universe-title-reveals-returning-characters-and-much-more",
+        "summary": "A trailer for Mass Effect 5 meant for internal purposes at BioWare has leaked online, offering a glimpse at what might have been.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The New York Game Awards Returns For Its 16th Show in January 2027",
+        "link": "https://www.ign.com/articles/the-new-york-game-awards-returns-for-its-16th-show-in-january-2027",
+        "summary": "The New York Game Awards is officially returning for its 16th show at the SVA Theatre in Manhattan on January 19, 2027, and IGN will be streaming the whole thing on our website and YouTube channels.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dispatch Gets Over 16 Hours of New Content With Commentary Track, Mobile Version, and Live Concert to Celebrate Its First Anniversary",
+        "link": "https://www.ign.com/articles/dispatch-gets-over-16-hours-of-new-content-with-commentary-track-mobile-version-and-live-concert-to-celebrate-its-first-anniversary",
+        "summary": "Dispatch is now officially one year old! To celebrate, Adhoc is giving fans oodles of new content in the form of a commentary track and storyboard modes, a new mobile version of the game, a live concert with a performance from Prism herself, and yes, more merch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mike Mignola Resurrects the Hellboy Universe for B.P.R.D.: Declassified",
+        "link": "https://www.ign.com/articles/mike-mignola-resurrects-the-hellboy-universe-for-bprd-declassified",
+        "summary": "We've got an exclusive first look at BPRD: Declassified, the latest addition to Mike Mignola's long-running Hellboy universe.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+        "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+        "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+        "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+        "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+        "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+        "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+        "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+        "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+        "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+        "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+        "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+        "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+        "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+        "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+        "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+        "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+        "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Canva releases its first image generation model",
+        "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+        "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+        "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+        "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+        "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+        "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin dives 4%, slides below $82k as AI rout, oil surge slams risk sentiment",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-to-82k-as-ai-selldown-rising-oil-batter-risk-4964695",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

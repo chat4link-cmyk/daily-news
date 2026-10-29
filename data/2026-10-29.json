@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T13:27:31.606880+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Creating AI value with enterprise context",
+        "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+        "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: dead startups fueling AI and interspecies communication",
+        "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth muc…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Pairing industrial AI autonomy and human control",
+        "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+        "summary": "",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+        "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the lau…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+        "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+        "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-sour…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+        "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+        "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft is ending Copilot support on smart TVs",
+        "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+        "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+        "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+        "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gem…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+        "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+        "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with indu…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+        "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reporte…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Voters in Texas agree: They hate data centers",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+        "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+        "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+        "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+        "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+        "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+        "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+        "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+        "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "A Famous GTA 4 Meme Is Now a Mechanic in GTA 6",
+        "link": "https://www.ign.com/articles/a-famous-gta-4-meme-is-now-a-mechanic-in-gta-6",
+        "summary": "GTA 6 has named one of its biggest mechanics after a beloved GTA 4 meme.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6's Map Will Open Up Relatively Early and Let You Explore Freely, Developers Are Still Discovering New Parts of the World",
+        "link": "https://www.ign.com/articles/gta-6s-map-will-open-up-relatively-early-and-let-you-explore-freely-developers-are-still-discovering-new-parts-of-the-world",
+        "summary": "GTA 6's world won't be blocked off by story progression, Rockstar confirms.",
+        "source": "IGN News"
+      },
+      {
+        "title": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
+        "link": "https://www.ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation",
+        "summary": "BioWare co-founder Greg Zeschuk has spoken out about the closure of BioWare last week, which saw 50 jobs lost as part of 400 cuts across the company, along with the cancellation of Mass Effect 5, which we've now come to learn (via a leaked internal trailer) was called Mass Effect: Universe.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Original Donkey Kong Poster That Was Nearly Thrown Away Sold at Auction for Record-Breaking $329,400",
+        "link": "https://www.ign.com/articles/original-donkey-kong-poster-that-was-nearly-thrown-away-sold-at-auction-for-record-breaking-329400",
+        "summary": "A 1981 promotional poster for the original Donkey Kong, featuring the first public appearance of Mario, has become the the most expensive piece of original video game art ever sold at auction.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Kane Parsons Confirms Meetings With Valve, But Won't Adapt Their Games If It Can't Be Done Right",
+        "link": "https://www.ign.com/articles/kane-parsons-confirms-meetings-with-valve-but-wont-adapt-their-games-if-it-cant-be-done-right",
+        "summary": "Backrooms director Kane Parsons has confirmed he has had meetings with Valve, but he has no plans to adapt any of their IP if it can't be done well.",
+        "source": "IGN News"
+      },
+      {
+        "title": "James Gunn Confirms Batman and Wonder Woman Are 'Diamond Characters' in the DCU Despite Their Continued Absence",
+        "link": "https://www.ign.com/articles/james-gunn-confirms-batman-and-wonder-woman-are-diamond-characters-in-the-dcu-despite-their-continued-absence",
+        "summary": "James Gunn has clarified DC Studios’ 8-10 year roadmap and confirmed its focus on Superman, Batman, and Wonder Woman as its “diamond characters.”",
+        "source": "IGN News"
+      },
+      {
+        "title": "Outlander's Sam Heughan Hints at Role in Lord of the Rings: The Hunt for Gollum",
+        "link": "https://www.ign.com/articles/outlanders-sam-heughan-hints-at-role-in-lord-of-the-rings-the-hunt-for-gollum",
+        "summary": "During a recent appearance at a book festival, Outlander star Sam Heughan strongly suggested that he may have a role in the upcoming film The Lord of the Rings: The Hunt for Gollum.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'Appreciate the Fans' — GTA 5 Cast Tell Jason and Lucia’s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame",
+        "link": "https://www.ign.com/articles/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors-the-most-important-things-they-should-know-before-gta-6-launches-them-to-fame",
+        "summary": "The stars behind GTA 5’s Franklin, Michael, and Trevor, along with the voice of CJ from San Andreas, were asked if they had any advice for the actors playing GTA 6’s Jason and Lucia now that the game is almost here.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Football Fans Share Their Visceral Reactions to Nicolas Cage’s John Madden: ‘A Disgraceful Portrayal of a Great Man’",
+        "link": "https://www.ign.com/articles/nicolas-cage-madden-movie-fan-reactions",
+        "summary": "NFL fans expressed some pretty heated responses on social media to the first clip of Nicolas Cage in the upcoming movie Madden, where the Oscar winner portrays the legendary football TV commentator John Madden.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Wendy's Is Making a Turn-Based RPG and It Actually Looks Really Good",
+        "link": "https://www.ign.com/articles/wendys-is-making-a-turn-based-rpg-and-it-actually-looks-really-good",
+        "summary": "Wendy’s — yes, the American fast food chain — is releasing a surprisingly gorgeous, pixelated, turn-based RPG on Steam, and the internet is legitimately stunned by how good it looks.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Winnie-the-Pooh: Blood and Honey 3 Exclusive Trailer",
+        "link": "https://www.ign.com/articles/winnie-the-pooh-blood-and-honey-3-trailer",
+        "summary": "IGN can exclusively reveal the first trailer for Winnie-the-Pooh: Blood and Honey 3, which director Scott Chambers calls “absolute carnage.” The slasher sequel will open in late January 2027.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Channels '90s Transparent Trend With New Prism Collection of DualSense Controllers and PS5 Covers",
+        "link": "https://www.ign.com/articles/playstation-channels-90s-transparent-trend-with-new-prism-collection-of-dualsense-controllers-and-ps5-covers",
+        "summary": "PlayStation is bringing back the '90s transparent trend with the Prism Collection, a spread of DualSense controllers and matching PS5 covers in three new colorways.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Alien: Isolation 2 Team Confirms Physical Edition, Photo Mode, and New Gameplay Details",
+        "link": "https://www.ign.com/articles/alien-isolation-2-team-confirms-physical-edition-photo-mode-and-new-gameplay-details",
+        "summary": "The team behind Alien: Isolation 2 released a Q&A that reveals new gameplay details, including using your real-life microphone, a physical edition, a photo mode, and more.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty: Modern Warfare 4 Patch Makes It Impossible to Get a Nuke in Free-for-All",
+        "link": "https://www.ign.com/articles/controversial-modern-warfare-4-free-for-all-change-nukes",
+        "summary": "A new patch for Modern Warfare 4 has players up in arms because it prevents you from getting a tactical nuke Killstreak in Free-for-All, one of the Multiplayer modes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jack in the Box Gets Official Avengers: Doomsday Meal With Mystery 'Assemble Sauce'",
+        "link": "https://www.ign.com/articles/jack-in-the-box-gets-official-avengers-doomsday-meal-with-mystery-assemble-sauce",
+        "summary": "Jack in the Box is getting in on the Avengers hype with an official Doomsday meal, featuring collectible magnets, the return of mozzarella sticks, and a \"mystery Assemble Sauce.\"",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+        "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+        "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+        "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+        "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+        "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+        "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+        "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+        "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+        "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+        "summary": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+        "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+        "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+        "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+        "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Accord…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple launches its new touchscreen MacBook Pro",
+        "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+        "summary": "Apple's new touchscreen MacBook Pro starts at $2,899.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Xreal Aura is a new wired headset powered by Android XR",
+        "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+        "summary": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+        "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+        "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+        "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+        "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+        "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+        "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI execs may be too out of touch to build for the general public",
+        "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+        "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+        "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+        "summary": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+        "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+        "summary": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin rises slightly after Fed holds interest rates steady; oil caps gains",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-up-to-near-81k-as-tech-rally-buoys-risk-appetite-fed-meeting-awaited-4977527",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "KLA forecasts $4.7B December-quarter revenue and expects wafer equipment market to exceed $200B in 2027",
+        "link": "https://seekingalpha.com/news/4659858-kla-forecasts-4_7b-december-quarter-revenue-and-expects-wafer-equipment-market-to-exceed-200b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Asian stocks fall on AI tech selloff; HKMA mirrors Fed hold",
+        "link": "https://seekingalpha.com/news/4659855-asian-stocks-fall-on-ai-tech-selloff-hkma-mirrors-fed-hold?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

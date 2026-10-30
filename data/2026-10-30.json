@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T13:27:30.466356+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: AI agent tracking and climate feedback loops",
+        "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing be…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "We urgently need to monitor AI agents’ actions in real time",
+        "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Our climate models have a big, dangerous blind spot",
+        "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+        "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+        "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobi…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Microsoft’s AI future has fewer jobs",
+        "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+        "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The NYT Cooking app is testing AI recipe modifications",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+        "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipm…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic is asking Wall Street to believe in AGI",
+        "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+        "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic’s business plan: Build God or die trying",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+        "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT […",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "AI has come for Arizona’s water",
+        "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+        "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surro…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+        "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+        "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+        "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+        "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+        "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+        "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "I Gave My Blood to the AI Death Clock",
+        "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+        "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Death Stranding Isolations Anime Gets First Trailer",
+        "link": "https://www.ign.com/articles/death-stranding-isolations-anime-gets-first-trailer",
+        "summary": "Kojima Productions revealed the first trailer for Death Stranding Isolations, an original anime series set in the world of Death Stranding, scheduled to release on Disney+ next year.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty: Modern Warfare 4 Adds 'Non MilSim Content' Disclaimer to Halloween Themed Content",
+        "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-non-milsim-content-disclaimer-to-halloween-themed-content",
+        "summary": "Call of Duty: Modern Warfare 4 has added new disclaimers to content that may not abide by the game's usual grounded tone and aesthetic.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch",
+        "link": "https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
+        "summary": "Sources tell The Verge that Gears of War: E-Day has sold over 400,000 copies across console and PC, and Game Pass is likely to blame.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games like Castlevania",
+        "link": "https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
+        "summary": "Bethesda has paid tribute to Sir Patrick Stewart for his role in The Elder Scrolls 4: Oblivion after his death.",
+        "source": "IGN News"
+      },
+      {
+        "title": "James Gunn Says It 'Won't Be Too Long' Before DCU Batman Is Cast, Will Be Close in Age to David Corenswet's Superman",
+        "link": "https://www.ign.com/articles/james-gunn-says-it-wont-be-too-long-before-dcu-batman-is-cast-will-be-close-in-age-to-david-corenswets-superman",
+        "summary": "James Gunn has revealed that DC Studios is finally getting ready to cast the DCU's Batman.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Trek Talent Mourn Patrick Stewart: 'Captain Picard Stood For the Best of Us'",
+        "link": "https://www.ign.com/articles/star-trek-mourns-patrick-stewart-tributes",
+        "summary": "Sir Patrick Stewart’s friends and colleagues from the world of Star Trek have taken to social media to share their tributes to the late Jean-Luc Picard actor, who died Thursday at the age of 86 from Alzheimer’s disease and Lewy body dementia.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Hit Indie Horror Game Mouthwashing is Getting a Live-Action Movie From the Director of Jennifer's Body",
+        "link": "https://www.ign.com/articles/hit-indie-horror-game-mouthwashing-is-getting-a-live-action-movie-from-the-director-of-jennifers-body",
+        "summary": "Mouthwashing is getting the Hollywood treatment with a full-length feature film directed by the mind behind Jennifer's Body.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Kevin Feige, Marvel Studios, and Hugh Jackman Pay Tribute to Sir Patrick Stewart After Actor's Death at 86",
+        "link": "https://www.ign.com/articles/kevin-feige-and-marvel-studios-pay-tribute-to-sir-patrick-stewart-after-actors-death-at-86",
+        "summary": "Kevin Feige, president of Marvel Studios and COO of Marvel, has given a heartfelt response to the death of acclaimed actor Sir Patrick Stewart.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Archive of Our Own Could Be Down for Up to 4 Weeks After Going Dark for Emergency Maintenance",
+        "link": "https://www.ign.com/articles/archive-of-our-own-could-be-down-for-up-to-4-weeks-after-going-dark-for-emergency-maintenance",
+        "summary": "Popular fanfiction site Archive of Our Own went down for maintenance early this morning. Now, the website is claiming it may take up to a month to come back online.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sir Patrick Stewart Dead at 86",
+        "link": "https://www.ign.com/articles/sir-patrick-stewart-dead-at-86",
+        "summary": "Acclaimed actor Sir Patrick Stewart has died at the age of 86 following a brief battle with Alzheimer's Disease and Lewy Body Dementia.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PUBG is Getting a Live-Action Series on Netflix Written, Directed by, and Starring Donald Glover",
+        "link": "https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover",
+        "summary": "Yep, you read that right: Grammy-award winning music artist and actor Donald Glover is directing and starring in a live-action series adapting Krafton’s battle royale game, PUBG.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Celeste and TowerFall Developer Explains Why Games Were Abruptly Delisted from Xbox",
+        "link": "https://www.ign.com/articles/celeste-and-towerfall-developer-explains-why-games-were-abruptly-delisted-from-xbox",
+        "summary": "Celeste and TowerFall have been delisted from Xbox, as the developer has chosen to boycott Microsoft for its involvement and investments with the Israeli government.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Assassin's Creed Valhalla Is Getting New Game+ 6 Years After Release",
+        "link": "https://www.ign.com/articles/assassins-creed-valhalla-is-getting-new-game-six-years-after-release",
+        "summary": "Assassin's Creed Valhalla launched all the way back in November 2020, but Ubisoft just announced that it's getting its own New Game+ mode.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Apex Legends Update Lets You Dual Wield the Wingman, Brings Back Lifeline Revive Shield",
+        "link": "https://www.ign.com/articles/apex-legends-new-update-dual-wield-wingman-lifeline-revive-shield",
+        "summary": "Some people are absolutely cracked with the Wingman. And now they’ll be able to use two at once. Cipher introduces Akimbo Wingman, which trades off some of the accuracy for big(ger) damage.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ubisoft Shares Cryptic Assassins Creed Codename Hexe Update",
+        "link": "https://www.ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
+        "summary": "Assassin's Creed Codename Hexe was announced all the way back in 2022, but aside from a spooky teaser, we still don't know much about it. In a new blog post, Ubisoft has shared a cryptic clue that may shed some light on the project — if you're able to decode it, that is.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+        "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+        "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+        "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+        "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+        "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+        "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+        "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+        "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+        "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+        "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM reaches $220M settlement over selling drivers’ private data",
+        "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+        "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+        "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+        "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian expands joint venture with VW to include AI assistant",
+        "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+        "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+        "link": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+        "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI-backed Thrive Holdings acquires ADT",
+        "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+        "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+        "link": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+        "summary": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta quietly launches an AI fashion app called Style Sketch",
+        "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+        "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Granola crunches up a dictation feature to compete with Wispr",
+        "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+        "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "European Central Bank keeps key interest rate on hold at 2.5%",
+        "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+        "summary": "Markets saw the decision as a hawkish pause and were last pricing in a 67% chance of a December rate hike.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+        "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+        "summary": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her",
+        "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+        "summary": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
+        "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+        "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Cardano Falls 10% In Selloff",
+        "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4985640",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Cullen/Frost Bankers to move listing to Texas Stock Exchange",
+        "link": "https://seekingalpha.com/news/4661127-cullenfrost-bankers-to-move-listing-to-texas-stock-exchange?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Australia's Q3 PPI rises 1.1% Q/Q; annual producer inflation holds steady at 3.6%",
+        "link": "https://seekingalpha.com/news/4661134-australia-q3-ppi-rises-11-qq-annual-producer-inflation-holds-steady-at-36?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

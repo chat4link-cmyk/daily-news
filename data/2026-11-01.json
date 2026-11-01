@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T13:42:18.402673+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "I built an AI Tamagotchi before Meta could",
+        "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+        "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+        "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+        "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+        "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+        "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+        "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+        "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+        "link": "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
+        "summary": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Save Mass Effect Graffiti Reportedly Spray-Painted Outside EA Building",
+        "link": "https://www.ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building",
+        "summary": "An EA office building in Madrid was vandalized with the words \"Save Mass Effect\" just days after the company announced it had shuttered series developer BioWare.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Star Wars Actor Hayden Christensen Says a Man Who Burgled His House Recognized Him Then Gave His Stuff Back Mid-Robbery",
+        "link": "https://www.ign.com/articles/star-wars-actor-hayden-christensen-says-a-man-who-burgled-his-house-recognized-him-then-gave-his-stuff-back-mid-robbery",
+        "summary": "Anakin Skywalker actor Hayden Christensen has revealed the strangest fan encounter he’s ever had.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+        "link": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+        "summary": "Anthropic has issued an update for Claude Opus that puts a stop to the AI-generated game clones that have filled platforms like Steam.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Persona 1 Remake Footage Seemingly Leaks Online",
+        "link": "https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
+        "summary": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Joe Manganiello Says He 'Will Never Give Up Hope' on His D&D Dragonlance TV Series",
+        "link": "https://www.ign.com/articles/joe-manganiello-says-he-will-never-give-up-hope-on-his-dd-dragonlance-tv-series",
+        "summary": "Joe Manganiello, one of the most famous Dungeons & Dragons players in Hollywood, said he still wants his Dragonlance TV series to come to fruition despite its cancellation several years ago.",
+        "source": "IGN News"
+      },
+      {
+        "title": "It: Welcome to Derry Drops Surprise Halloween Episode",
+        "link": "https://www.ign.com/articles/it-welcome-to-derry-drops-surprise-halloween-episode",
+        "summary": "HBO has jump-scared subscribers with a surprise episode of It: Welcome to Derry to help celebrate Halloween.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Reveals Surprise Pikmin Day Direct",
+        "link": "https://www.ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct",
+        "summary": "Nintendo has revealed a surprise Nintendo Direct for Pikmin Day because it has apparently decided that's a thing now.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gears Of War Should Have Killed Off Marcus Fenix Years Ago",
+        "link": "https://www.gamespot.com/articles/gears-of-war-should-have-killed-off-marcus-fenix-years-ago/",
+        "summary": "Gears of War is arguably the most masculine property in video games. A franchise founded on the idea of muscular, refrigerator-sized dudes tearing apart stinky underground monsters with badass chainsaws until they’re covered in bloody viscera was always destined to attract such a reputation, but thi…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Nintendo Declares November 1 Is Pikmin Day With A Direct Featuring Game News And Animated Shorts",
+        "link": "https://www.gamespot.com/articles/nintendo-declares-november-1-is-pikmin-day-with-a-direct-featuring-game-news-and-animated-shorts/",
+        "summary": "Nintendo, and especially developer emeritus Shigeru Miyamoto, have been keen to make Pikmin a franchise on par with its other top-tier names like Mario and Zelda. To that end, it has declared November 1 will serve as Pikmin Day, a branding holiday of sorts to serve as a launching point for yearly an…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "The Games We Couldn’t Stop Playing In October 2026",
+        "link": "https://www.gamespot.com/articles/the-games-we-couldnt-stop-playing-in-october-2026/",
+        "summary": "All eyes may be on Grand Theft Auto 6's release in November, but this fall has kicked off with plenty else to play. Be it a new friendslop horror game, a relaxing driving experience, or a Mission: Impossible-style deception simulator, we've been enjoying a wide range of games in October. As usual, y…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "PUBG live-action series in the works at Netflix, with Donald Glover set to direct and star",
+        "link": "https://www.eurogamer.net/pubg-live-action-netflix-series-donald-glover",
+        "summary": "PUBG is being turned into a live-action series for Netflix, with Donald Glover set to direct, write, executive produce, and star. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
+        "link": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
+        "summary": "Activision has apologised to the bereaved families of the Itaewon crowd crush victims and confirmed it will remove real footage of the tragedy from Call of Duty: Modern Warfare 4. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "The Mortuary Assistant dev on laying his cancelled Paranormal Activity game to rest, resurrecting it as a Halloween freebie, and a potential return to his biggest game",
+        "link": "https://www.eurogamer.net/playable-archive-paranormal-activity-threshold-the-mortuary-assistant-interview",
+        "summary": "Halloween feels like an especially appropriate time for Playable Archive's arrival. It's a genuinely spooky found-footage affair for one - a cleverly orchestrated 30-or-so minutes of scares from the developer of horror hit The Mortuary Assistant, released this week as a Halloween freebie . But more …",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
+        "link": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
+        "summary": "Final Fantasy 14 's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird. Read more",
+        "source": "Eurogamer"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Data centers are now a midterm issue, even in Brooklyn",
+        "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+        "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+        "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+        "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+        "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "I took two iPhones on vacation. The Duo won me over.",
+        "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+        "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Seabirds racing home over the ocean can get jet-lagged",
+        "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+        "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+        "link": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+        "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Get in the spirit with these horrors from YouTube",
+        "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+        "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art h…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Keyboards of The Verge",
+        "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+        "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards ove…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+        "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+        "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remain…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Happy Pikmin Day Eve",
+        "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+        "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series o…",
+        "source": "The Verge"
+      },
+      {
+        "title": "I built an AI Tamagotchi before Meta could",
+        "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+        "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+        "source": "The Verge"
+      },
+      {
+        "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+        "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+        "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now filter…",
+        "source": "The Verge"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "SA Asks: What's the most attractive oil stock right now?",
+        "link": "https://seekingalpha.com/news/4661864-sa-asks-whats-the-most-attractive-oil-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "OPEC+ said to have agreed in principle to hold December oil output targets steady",
+        "link": "https://seekingalpha.com/news/4661863-opec-agrees-hold-december-oil-output-targets-steady?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

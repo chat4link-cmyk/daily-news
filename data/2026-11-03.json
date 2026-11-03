@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T14:21:02.962987+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+        "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Raising the quality of insights in agentic analytics",
+        "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+        "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Stop counting tokens, start counting what ships",
+        "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+        "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: the agentic web arrives and the drive for safer roads",
+        "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous softwa…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The agentic web is here",
+        "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+        "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Anthropic clamps down on Claude’s AI video game clones",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+        "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Cla…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+        "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 h…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+        "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+        "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, th…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+        "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+        "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+        "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+        "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
+        "link": "https://www.ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
+        "summary": "A poll of 1,300 American gamers shows some concerning trends regarding GTA 6 — more specifically, their willingness to abandon their pets for a chance at playing the game ahead of its release.",
+        "source": "IGN News"
+      },
+      {
+        "title": "John Goodman Says Digger Reviews 'Killed' the Movie Before It Was Released",
+        "link": "https://www.ign.com/articles/john-goodman-says-digger-reviews-killed-the-movie-before-it-was-released",
+        "summary": "John Goodman believes the critical reception to Digger \"killed\" the movie before it had even been released.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Johnny Depp Is Open to Playing Jack Sparrow Again in a New Pirates of the Caribbean Movie",
+        "link": "https://www.ign.com/articles/johnny-depp-is-open-to-playing-jack-sparrow-again-in-a-new-pirates-of-the-caribbean-movie",
+        "summary": "Johnny Depp is open to playing Jack Sparrow again in a new Pirates of the Caribbean movie, despite saying he'd never work with Disney on the franchise ever again.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Rings of Power Season 3 Co-Showrunner Confirms Harfoots Will Return",
+        "link": "https://www.ign.com/articles/rings-of-power-season-3-harfoots-return",
+        "summary": "Contrary to earlier reports, the Harfoots are still a part of The Lord of the Rings: The Rings of Power, Season 3 albeit not to the degree they were featured in the Prime Video show’s first two seasons.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Project Hail Mary Author Andy Weir Explains How He Would Fix the Star Wars Franchise",
+        "link": "https://www.ign.com/articles/project-hail-mary-author-andy-weir-explains-how-he-would-fix-the-star-wars-franchise",
+        "summary": "Andy Weir, famous for penning The Martian and Project Hail Mary, has some strong ideas about how he would tackle telling stories in the Star Wars universe if he had the chance.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Black Friday 2026 Sale Dates and What to Expect",
+        "link": "https://www.ign.com/articles/black-friday-2026-sale-dates-and-what-to-expect",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Pedro Pascal Is Hiding an Avengers: Doomsday Easter Egg on His Doctor Doom Halloween Costume, Fans Say",
+        "link": "https://www.ign.com/articles/pedro-pascal-is-hiding-an-avengers-doomsday-easter-egg-on-his-doctor-doom-halloween-costume-fans-say",
+        "summary": "Robert Downey Jr. and Pedro Pascal's Avengers: Doomsday Halloween costumes may have been more than just a fun treat for Marvel fans.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+        "link": "https://www.ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
+        "summary": "A terminally ill GTA 6 fan has died three weeks before the game's launch.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gamescom Asia x Thailand Game Show Dubbed the 'Most International Yet' with Almost 220,000 Attendees",
+        "link": "https://www.ign.com/articles/gamescom-asia-x-thailand-game-show-dubbed-the-most-international-yet-with-almost-220000-attendees",
+        "summary": "Gamescom Asia x Thailand Game Show Dubbed the 'Most International Yet' with Almost 220,000 Attendees",
+        "source": "IGN News"
+      },
+      {
+        "title": "Blackpink's Jisoo Confirms She Referenced Resident Evil's Ada Wong in New Music Video",
+        "link": "https://www.ign.com/articles/blackpinks-jisoo-confirms-she-referenced-resident-evils-ada-wong-in-new-music-video",
+        "summary": "Blackpink’s Jisoo has confirmed that she referenced Resident Evil’s Ada Wong in the music video for her solo song Addicted.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony Wants to Buy Your PS5 Console for $400",
+        "link": "https://www.ign.com/articles/sony-wants-to-buy-your-ps5-console-for-400",
+        "summary": "Sony is offering $400 to people who are willing to part ways with their PS5 and two controllers.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Legend of Zelda: Ocarina of Time Remake Added Fast Travel Before Devs Decided It Never Needed It in the First Place",
+        "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-added-fast-travel-before-devs-decided-it-never-needed-it-in-the-first-place",
+        "summary": "The Legend of Zelda producer Eiji Aonuma asked the Ocarina of Time remake team to add fast travel warp points throughout Hyrule, but it didn't take long for him to realize that was probably a bad idea.",
+        "source": "IGN News"
+      },
+      {
+        "title": "A Buggy World of Warcraft Mount Has Renewed Player Frustrations at the State of Retail",
+        "link": "https://www.ign.com/articles/a-buggy-world-of-warcraft-mount-has-renewed-player-frustrations-at-the-state-of-retail",
+        "summary": "While World of Warcraft Forever is heading to what is likely a monumental release on November 4, some retail World of Warcraft players have been feeling neglected, and a recent mount has become a flashpoint for that frustration.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Zach Cregger Says He Still Wants to 'Have a Hand' in Future Resident Evil Sequels",
+        "link": "https://www.ign.com/articles/zach-cregger-says-he-still-wants-to-have-a-hand-in-future-resident-evil-sequels",
+        "summary": "Resident Evil director Zach Cregger says that he’d still want to “have a hand” in potential sequels for his hit horror adaptation, despite swearing off future “franchise” films.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Avatar: Seven Havens Season 1 Blu-ray and Steelbook Is Up for Preorder at Amazon",
+        "link": "https://www.ign.com/articles/the-avatar-seven-havens-season-1-blu-ray-where-to-buy",
+        "summary": "",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+        "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+        "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+        "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+        "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+        "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+        "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+        "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+        "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+        "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+        "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+        "summary": "The one-year-old startup is now valued at $300 million.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s inventory surges 154% as memory chip costs climb",
+        "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+        "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+        "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+        "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+        "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+        "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Web host Squarespace lays off 19% of its employees",
+        "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+        "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+        "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+        "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+        "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+        "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+        "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+        "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+        "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Australia hikes rates to 18-year high to fight inflation",
+        "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+        "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
+        "source": "CNBC Markets"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T13:55:24.752674+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+        "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "How “reverse game theory” could keep AI agents in check",
+        "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+        "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The biggest modding site in PC gaming is taking a stance on AI",
+        "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+        "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the mo…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Please stop asking me when the AI bubble will pop",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+        "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Those Jeff Bezos hair transplant photos are very fake",
+        "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+        "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple starts giving Siri AI access to third-party apps",
+        "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+        "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language pr…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+        "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+        "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI says ChatGPT is catching up to Google in search",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+        "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a pres…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Indie games are missing launch dates because Steam is backed up",
+        "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+        "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+        "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+        "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" Whe…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+        "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+        "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Midterm elections 2026: all the news",
+        "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+        "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there are seve…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Here’s Why You Shouldn’t Use AI to Vote",
+        "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+        "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+        "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+        "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "007 First Light Gets Free Trial For Select PlayStation Plus Subscribers",
+        "link": "https://www.ign.com/articles/007-first-light-gets-free-trial-for-select-playstation-plus-subscribers",
+        "summary": "Select PlayStation Plus subscribers can try 007 First Light for free via a new trial.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Bride Goes Viral After Challenging Groom to Beat Her at Valorant Before Marrying Her",
+        "link": "https://www.ign.com/articles/bride-goes-viral-after-challenging-groom-to-beat-her-at-valorant-before-marrying-her",
+        "summary": "A bride in China is going viral for giving her husband-to-be a wild challenge: making him beat her at Valorant before they could officially marry.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ubisoft Among Suitors Trying to Buy Marvel's Blade, Dishonored Studio Arkane Lyon from Xbox",
+        "link": "https://www.ign.com/articles/ubisoft-among-suitors-trying-to-buy-marvels-blade-dishonored-studio-arkane-lyon-from-xbox",
+        "summary": "Ubisoft is reportedly among multiple suitors preparing bids to try and purchase French developer Arkane Lyon, makers of the Dishonored series and the upcoming Marvel's Blade, from Microsoft in the wake of the first-party publisher's ongoing Xbox \"reset.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Netflix Calls Its New AI Discover Feature a 'Test Kitchen' to Tailor Viewers' Recommendations",
+        "link": "https://www.ign.com/articles/netflix-calls-its-new-ai-discover-feature-a-test-kitchen-to-tailor-viewers-recommendations",
+        "summary": "Netflix is rolling out a new AI-powered feature with the aim of helping viewers pick what to watch when they can’t decide.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
+        "link": "https://www.ign.com/articles/police-mock-car-chase-criminal-for-being-arrested-during-gta-6-release",
+        "summary": "Police in Derbyshire, UK, are going viral after making a TikTok video mocking a criminal who led them on a high-speed car chase, saying the suspect will now miss out on GTA 6’s highly-anticipated launch as a consequence of their actions.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
+        "link": "https://www.ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
+        "summary": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to players’ living rooms with a one-of-a-kind console.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Judi Dench Reveals Daniel Craig Pushed to Kill Off M in Skyfall",
+        "link": "https://www.ign.com/articles/judi-dench-daniel-craig-skyfall-m-death",
+        "summary": "Dame Judi Dench, who portrayed 007’s boss M in eight James Bond films over 20 years, claims (somewhat tongue-in-cheek) that Daniel Craig was responsible for having her character die in 2012’s Skyfall.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mason Thames Cast as Robin in DC's Dynamic Duo Movie, DC Studios Boss Says Actor Is 'Obsessed' With the Role",
+        "link": "https://www.ign.com/articles/mason-thames-cast-as-robin-in-dcs-dynamic-duo-movie-dc-studios-boss-says-actor-is-obsessed-with-the-role",
+        "summary": "How to Train Your Dragon star Mason Thames has been cast as Dick Grayson/Robin in DC's upcoming Dynamic Duo movie.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sony and Lionsgate Team up For Naruto Movie, Filming to Begin in Spring 2027",
+        "link": "https://www.ign.com/articles/sony-and-lionsgate-team-up-for-naruto-movie-filming-to-begin-in-spring-2027",
+        "summary": "Sony and Lionsgate have teamed up for the live-action Naruto movie, which is targeting a spring 2027 start date.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation Officially Announces Its First 2026 Black Friday Sale",
+        "link": "https://www.ign.com/articles/playstation-2026-black-friday-sale-announcement",
+        "summary": "PlayStation has officially announced its upcoming Black Friday sale — but where are the console deals?",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Elder Scrolls VI: Sentinel Finally Got Its Name Today, but Bethesda Says It Will Be 'Some Time Before We’re Ready to Share More'",
+        "link": "https://www.ign.com/articles/the-elder-scrolls-vi-sentinel-finally-got-its-name-today-but-bethesda-says-it-will-be-some-time-before-were-ready-to-share-more",
+        "summary": "Bethesda finally revealed the name for The Elder Scrolls VI: Sentinel, more than eight years after teasing it at E3 2018, but we'll reportedly have to wait at least two more years before it comes out.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Dead by Daylight Developer Apologizes Again, Removes Free Items From TheBurntPeanut's Account",
+        "link": "https://www.ign.com/articles/dead-by-daylight-developer-apologizes-again-removes-free-items-from-theburntpeanuts-account",
+        "summary": "Behavior Interactive is currently under fire after one of its community staff allegedly went rogue and gifted controversial streamer TheBurntPeanut every in-game item in Dead by Daylight live on stream. The developer already apologized once on the secondary Dead by Daylight social media account, but…",
+        "source": "IGN News"
+      },
+      {
+        "title": "World of Warcraft Forever Launch Patch Notes Bring Controller Support and Massive Class Changes",
+        "link": "https://www.ign.com/articles/world-of-warcraft-forever-launch-patch-notes-bring-controller-support-and-massive-class-changes",
+        "summary": "World of Warcraft Forever is just a day away, and now that the beta has concluded Blizzard has released its patch notes for the release build of the game. Check out all the changes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Preload, Global Release Times and Install Size Confirmed, Rockstar Announces Physical Cover Art Poster and Map of Leonida",
+        "link": "https://www.ign.com/articles/gta-6-preload-times-and-install-size-confirmed-rockstar-announces-physical-cover-art-poster-and-map-of-leonida",
+        "summary": "Rockstar Games has confirmed the GTA 6 preload and global release times, as well as the install size of the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Elder Scrolls 6: Sentinel Name, Logo, Officially Revealed as Bethesda Marks 40th Anniversary",
+        "link": "https://www.ign.com/articles/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-as-bethesda-marks-40th-anniversary",
+        "summary": "Bethesda Game Studios has officially announced the subtitle for The Elder Scrolls 6. The long-awaited follow-up to Skyrim will be called Sentinel, making its official title The Elder Scrolls VI: Sentinel. A logo has also been revealed. Both come as part of a video message from longtime franchise dir…",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+        "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+        "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+        "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+        "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+        "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+        "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+        "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+        "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+        "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+        "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+        "link": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+        "summary": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+        "link": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+        "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+        "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+        "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+        "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+        "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic is still grappling with the economics of compute",
+        "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+        "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+        "link": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+        "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+        "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+        "summary": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin rises as risk sentiment prevails on Wall Street; midterm elections eyed",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-over-1mth-low-of-765k-as-us-midterm-caution-weighs-4993602",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

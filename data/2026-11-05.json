@@ -1,0 +1,308 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T14:18:22.214113+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+        "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+        "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "What’s next for US energy policy after the midterm elections?",
+        "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+        "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: blended meat, restored sight, and the agentic web",
+        "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat  In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatball…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Securing the agentic enterprise with data lineage",
+        "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+        "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+        "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon an…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "17 better ways Elon Musk could have wasted $446 million",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+        "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you […",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and mor…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Nothing teases a screen-free AI device ahead of launch next month",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+        "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+        "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life eve…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ChatGPT will now make you animated GIFs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+        "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Data centers lost the midterms",
+        "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+        "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters pol…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+        "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+        "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+        "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+        "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in p…",
+        "source": "The Verge – AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "John Constantine Movie From Evil Dead Wrath Filmmaker is in Development at DC",
+        "link": "https://www.ign.com/articles/john-constantine-movie-from-evil-dead-wrath-filmmaker-is-in-development-at-dc",
+        "summary": "John Constantine Movie From Evil Dead Wrath Filmmaker is in Development at DC",
+        "source": "IGN News"
+      },
+      {
+        "title": "Captain Price Actor Barry Sloane Says He's the Most Qualified Person to Star in the Call of Duty Movie",
+        "link": "https://www.ign.com/articles/captain-price-actor-barry-sloane-says-hes-the-most-qualified-person-to-star-in-the-call-of-duty-movie",
+        "summary": "Captain Price actor Barry Sloane wants to be in the Call of Duty movie and believes he's the most qualified person for the job.",
+        "source": "IGN News"
+      },
+      {
+        "title": "World of Warcraft Forever Launch Live Blog: It's Looking Like a Smooth Blizzard Launch",
+        "link": "https://www.ign.com/articles/world-of-warcraft-forever-launch-live-blog",
+        "summary": "World of Warcraft Forever launch day live blog.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Scarlett Johansson Says The Batman: Part 2 Role Caused 'Existential Angst'",
+        "link": "https://www.ign.com/articles/scarlett-johansson-the-batman-2-existential-angst",
+        "summary": "While she didn’t disclose the character she’s playing, Scarlett Johansson says her role in The Batman: Part II has given her “a lot of existential angst” because it was “hard to crack.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Leonardo DiCaprio and Joaquin Phoenix Were Offered the Role of the Joker in The Dark Knight, But Turned it Down",
+        "link": "https://www.ign.com/articles/leonardo-dicaprio-and-joaquin-phoenix-were-offered-the-role-of-the-joker-in-the-dark-knight-but-turned-it-down",
+        "summary": "Leonardo DiCaprio and Joaquin Phoenix were both offered the role of Joker in The Dark Knight, but ended up turning it down, according to the film's casting director.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Rakes in Over $750 Million in Preorders 2 Weeks Ahead of Release Date",
+        "link": "https://www.ign.com/articles/gta-6-rakes-in-over-750-million-in-pre-orders-two-weeks-ahead-of-release-date",
+        "summary": "Data compiled by analytics firm Sensor Tower estimates that GTA 6 has already raked in more than $750 million in preorders across both PlayStation 5 and Xbox.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Adam Driver Says He's Done Playing Kylo Ren, but Would Return if Someone Revived His Canceled Solo Film",
+        "link": "https://www.ign.com/articles/adam-driver-says-hes-done-playing-kylo-ren-but-would-return-if-someone-revived-his-canceled-solo-film",
+        "summary": "Adam Driver says he's done with Star Wars and Kylo Ren, but would be open to a return if someone revived his cancelled solo film.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Mob Entertainment Lays Off 'Almost Entire' Escape From Playtime Team",
+        "link": "https://www.ign.com/articles/mob-entertainment-lays-off-almost-entire-escape-from-playtime-team",
+        "summary": "A former member of Mob Entertainment’s Escape from Playtime Team claims “almost all” staff working on the project have been laid off.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Maya Hawke Gets ‘Key’ Role in Live-Action Magic: The Gathering Movie",
+        "link": "https://www.ign.com/articles/maya-hawke-gets-key-role-in-live-action-magic-the-gathering-movie",
+        "summary": "Maya Hawke has been cast in a ‘key’ role for Legendary’s live-action Magic: The Gathering movie, which is also planned to have a television series.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PUBG: Battlegrounds Gets K-Pop Girl Group Collab",
+        "link": "https://www.ign.com/articles/pubg-battlegrounds-k-pop-girl-group-collab",
+        "summary": "K-pop girl group IVE is bringing its hit song \"Love Dive\" to the PUBG, complete with themed locations, character skins, choreography, and music videos.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Wicked Star Cynthia Erivo Will Play Tupac’s Mom in Snoop Dogg Biopic",
+        "link": "https://www.ign.com/articles/wicked-star-cynthia-erivo-will-play-tupacs-mom-in-snoop-dogg-biopic",
+        "summary": "Cynthia Erivo, who you probably know best as Elphaba from the movie adaptation of Wicked, will play Afeni Shakur in the upcoming Snoop Dogg bopic Snoop.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Texas' New Attorney General Composed the Soundtrack for 67 Episodes of Dragon Ball Z's English Dub",
+        "link": "https://www.ign.com/articles/texas-new-attorney-general-composed-the-soundtrack-for-67-episodes-of-dragon-ball-zs-english-dub",
+        "summary": "Nathan Johnson was just elected as the new attorney general of Texas — but before he was in politics, he actually composed the music for 67 episodes of Dragon Ball Z.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Channing Tatum Shows Off Updated Gambit Accent in New Avengers: Doomsday Ad",
+        "link": "https://www.ign.com/articles/channing-tatum-shows-off-updated-gambit-accent-in-new-avengers-doomsday-ad",
+        "summary": "Channing Tatum has debuted a slightly updated accent for Gambit in a new Avengers: Doomsday x Dunkin Donuts ad.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Liam Neeson Had a Priceless Reaction to Learning Meryl Streep Is Voicing Aslan in Narnia: The Magician's Nephew",
+        "link": "https://www.ign.com/articles/liam-neeson-had-a-priceless-reaction-to-learning-meryl-streep-is-voicing-aslan-in-narnia-the-magicians-nephew",
+        "summary": "Liam Neeson was apparently unaware that Meryl Streep is voicing Aslan in Greta Gerwig’s adaptation of The Magician’s Nephew — and his reaction to the news was priceless.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Final Fantasy Producer Cites Star Wars as a Key Inspiration for Characters and Mechanics in Franchise",
+        "link": "https://www.ign.com/articles/final-fantasy-producer-cites-star-wars-as-a-key-inspiration-for-characters-and-mechanics-in-franchise",
+        "summary": "Longtime Final Fantasy producer Yoshinori Kitase revealed to IGN that Star Wars was a big influence on the RPG franchise.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+        "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+        "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+        "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+        "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+        "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Almost no one uses AI agents to book their Uber, company says",
+        "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+        "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Snapchat surpasses 30M paid subscribers",
+        "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+        "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+        "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta acquires AI coding startup Conductor",
+        "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+        "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+        "link": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+        "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Open source AI is booming. Hugging Face explains who profits.",
+        "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+        "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+        "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+        "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+        "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+        "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
+        "link": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
+        "summary": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low Earth orbit than in London.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sequoia hits rewind, undoing 20 years of expansion",
+        "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+        "summary": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+        "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+        "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "The economy brought Trump back to power. Now it's his downfall",
+        "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+        "summary": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+        "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+        "summary": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+        "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+        "summary": "It was driven by energy inflation, which surged above 20% in October.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "LTM and ServiceNow expand partnership to scale agentic AI and accelerate joint go-to-market",
+        "link": "https://seekingalpha.com/news/4666197-ltm-and-servicenow-expand-partnership-to-scale-agentic-ai-and-accelerate-joint-go-to-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

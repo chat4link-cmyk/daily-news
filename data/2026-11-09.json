@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T13:53:20.413503+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+        "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+        "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple is racing to make Siri more agentic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+        "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the com…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Elvis and Eminem rights holders are suing Suno",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+        "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+        "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+        "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+        "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+        "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pokémon Cards",
+        "link": "https://www.ign.com/articles/father-arrested-after-leaving-sleeping-6-year-old-daughter-in-line-for-pokmon-cards",
+        "summary": "Father Arrested After Leaving Sleeping 6-Year-Old Daughter in Line for Pokémon Cards",
+        "source": "IGN News"
+      },
+      {
+        "title": "U2's The Edge Apparently Wrote a Full Script for Elf 2 But Was Never Able to Bring It to Life",
+        "link": "https://www.ign.com/articles/u2s-the-edge-apparently-wrote-a-full-script-for-elf-2-but-was-never-able-to-bring-it-to-life",
+        "summary": "U2 guitarist The Edge apparently had such a good idea for Elf 2 that he went out of his way to write his own script.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
+        "link": "https://www.ign.com/articles/denis-villeneuve-praises-human-creativity-over-ai-prompts-almost-announces-new-bond",
+        "summary": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Affair With Alleged Chinese Spy",
+        "link": "https://www.ign.com/articles/nvidia-launches-investigation-into-ceo-jensen-huang-following-affair-with-alleged-chinese-spy",
+        "summary": "Nvidia has launched an independent investigation into CEO Jensen Huang after he admitted to having an affair with a suspected Chinese spy.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85",
+        "link": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
+        "summary": "New videos from the set of Miami Vice ‘85 reveal Austin Butler’s Sonny Crockett and Michael B. Jordan's Ricardo Tubbs driving a white Ferrari Testarossa, the wrong car for the period of the TV series that director Joseph Kosinski’s film is retelling. And there’s likely a legal reason for that.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jesse Eisenberg Says He 'Experiments With AI' Just to Make Sure It's Not 'Good at Writing' Yet",
+        "link": "https://www.ign.com/articles/jesse-eisenberg-says-he-experiments-with-ai-just-to-make-sure-its-not-good-at-writing-yet",
+        "summary": "Jesse Eisenberg said he will \"sometimes experiment with AI\" – but it's just because he's \"testing it to make sure it's bad.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Former PlayStation Boss Says Sony Doesn't Need a 'PS6 for $1,200,' It Needs a 'PS5 for $300'",
+        "link": "https://www.ign.com/articles/former-playstation-boss-says-sony-doesnt-need-a-ps6-for-1200-it-needs-a-ps5-for-300",
+        "summary": "Former PlayStation boss Shawn Layden said he thinks innovation at Sony shouldn't come \"from making a PS6 for $1,200\" but from making \"another PS5 for $300.\"",
+        "source": "IGN News"
+      },
+      {
+        "title": "Godzilla Minus Zero Stomps on Expectations With $63 Million Box Office Opening Weekend",
+        "link": "https://www.ign.com/articles/godzilla-minus-zero-stomps-on-expectations-with-63-million-box-office-opening-weekend",
+        "summary": "Godzilla Minus Zero crushed expectations with a strong $63 million in its opening weekend at the global box office.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
+        "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
+        "summary": "From quicker movement to sending Link to space, The Legend of Zelda: Ocarina of Time speedrunners have already found a few ways to break the remake.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
+        "link": "https://www.ign.com/articles/epic-reveals-drop-rate-for-fortnites-pirate-token-following-pressure-from-fans",
+        "summary": "Epic Games has revealed the drop rate for Fortnite's Pirate Token after backlash surrounding the infamous in-game pickup saw fans try to report the studio to the FTC.",
+        "source": "IGN News"
+      },
+      {
+        "title": "2026’s Games You Should Play Before The Game Awards, Described In One Sentence",
+        "link": "https://www.gamespot.com/articles/2026s-games-you-should-play-before-the-game-awards-described-in-one-sentence/",
+        "summary": "As is always the case, there is no shortage of great games to play. That can make picking your favorites--or voting for categories in something like The Game Awards--a challenge. With this year's awards just about a month away, we're reflecting on what games we've loved this year to offer up some qu…",
+        "source": "GameSpot"
+      },
+      {
+        "title": "Ocarina of Time remake datamine suggests Master Quest is on the way",
+        "link": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
+        "summary": "Ocarina of Time 's notoriously tricky Master Quest mode could be making a comeback in the new remake. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Phasmophobia players raise over $230,000 for heart charity, more than double last year's total",
+        "link": "https://www.eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association",
+        "summary": "The Phasmophobia community has raised more than $230,000 (around £173,000) for the American Heart Association, more than doubling last year's total. Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Saving Mass Effect would take $200m+, says BioWare co-founder",
+        "link": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster",
+        "summary": "Anyone hoping to buy Mass Effect from EA and finish what BioWare started needs to get saving now, as it could cost over $200 million (£150m). Read more",
+        "source": "Eurogamer"
+      },
+      {
+        "title": "Missing teenager rescued after reaching out to another player in Among Us",
+        "link": "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
+        "summary": "A teenager who went missing in Utah more than 17 months ago has been rescued from a home in Oregon after she got in touch with another young player in Among Us . Read more",
+        "source": "Eurogamer"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+        "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+        "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apps to distract you from the endless cycle of doomscrolling",
+        "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+        "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "summary": "In a memo to the company, Huang admitted that he had an affair.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+        "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+        "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+        "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+        "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+        "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+        "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+        "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+        "summary": "SNL seems to have its knives out for tech executives.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+        "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+        "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+        "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+        "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+        "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+        "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+        "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+        "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+        "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+        "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. […]",
+        "source": "The Verge"
+      },
+      {
+        "title": "Epic Games Launcher is coming to SteamOS",
+        "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+        "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibi…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+        "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is …",
+        "source": "The Verge"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+        "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+        "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "EOS Falls 12% In Selloff",
+        "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-selloff-5010329",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

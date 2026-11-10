@@ -1,0 +1,302 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T14:58:05.947850+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The backlash about data centers might really just be about electricity",
+        "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+        "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+        "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiene…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+        "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air R…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Innovating with AI in the special chemicals industry",
+        "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+        "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The climate case for AI has not been made",
+        "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+        "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+        "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+        "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has th…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "What could China get from Jensen Huang?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+        "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Here’s what Trump said he knew about Jensen Huang",
+        "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+        "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation int…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as n…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+        "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+        "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"st…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+        "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+        "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+        "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+        "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+        "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Disney and Adobe are building generative AI tools together",
+        "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+        "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technolog…",
+        "source": "The Verge – AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "The Legend of Zelda: Ocarina of Time's High-Quality Visuals Have Players Second-Guessing Decades of Memories",
+        "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-times-high-quality-visuals-have-players-second-guessing-decades-of-memories",
+        "summary": "The Legend of Zelda: Ocarina of Time remake gives Link's first 3D adventure a new coat of paint, but some of its details have players second-guessing the reality they thought they once knew.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'We Don't Take Anything For Granted' — LATAM is the Strongest Region in Street Fighter 6, and It’s Because They’re Hungrier Than You",
+        "link": "https://www.ign.com/articles/we-dont-take-anything-for-granted-latam-is-the-strongest-region-in-street-fighter-6-and-its-because-theyre-hungrier-than-you",
+        "summary": "IGN sat down with Blaz and the team at 2Game to discuss their monumental victory at the Street Fighter League Americas 2026 Finals and that viral set with NoahTheProdigy.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Call of Duty FaceTime Chat Causes Plane to Be Evacuated",
+        "link": "https://www.ign.com/articles/call-of-duty-facetime-chat-causes-plane-to-be-evacuated",
+        "summary": "A Frontier Airlines flight as well as the entire east wing of Terminal 2 at Southern California's Ontario International Airport was evacuated prior to departure after a passenger's FaceTime conversation with a friend was mistaken for a bomb threat by another passenger, the Ontario Police Department …",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nike and Tekken Team Up For a King-Inspired Air Max Shoe",
+        "link": "https://www.ign.com/articles/nike-and-tekken-team-up-for-a-king-inspired-air-max-shoe",
+        "summary": "Nike’s dotswoosh division has confirmed an upcoming collaboration with Tekken, featuring the fighting game franchise’s iconic masked pro wrestler, King.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Legend of Zelda: Ocarina of Time Took Away Auto Jump, and Poor Link Is Paying the Price",
+        "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
+        "summary": "For all of the changes in Nintendo's The Legend of Zelda: Ocarina of Time remake, there's one that's tripping players up more than any of the others: a jump button.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Take-Two 'Enhancing' Technical Defenses and Legal Activities to Combat GTA 6 AI Reverse-Engineering Threat",
+        "link": "https://www.ign.com/articles/take-two-enhancing-technical-defenses-and-legal-activities-to-combat-gta-6-ai-reverse-engineering-threat",
+        "summary": "The boss of Rockstar parent company Take-Two has responded to the threat of AI-assisted reverse-engineering and decompilation of games ahead of the crucial launch of GTA 6.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'I’ve Been In a Lot of Harry Potter Already' — Daniel Radcliffe Isn't Sure If He'll Watch HBO's Harry Potter TV Series",
+        "link": "https://www.ign.com/articles/ive-been-in-a-lot-of-harry-potter-already-daniel-radcliffe-isnt-sure-if-hell-watch-hbos-harry-potter-tv-series",
+        "summary": "Former Harry Potter actor Daniel Radcliffe isn't sure if he's going to watch HBO's TV adaptation of the Wizarding World.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Skydance Reveals HBO Max and Paramount Plus Streaming Bundle Coming Early 2027",
+        "link": "https://www.ign.com/articles/skydance-reveals-hbo-max-and-paramount-plus-streaming-bundle-coming-early-2027",
+        "summary": "Skydance has announced a subscription bundle for both Paramount+ and HBO Max is coming to viewers as soon as early 2027.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Here Are Some Movies to Watch Before GTA 6 (Including Some You Can Watch in Theaters)",
+        "link": "https://www.ign.com/articles/here-are-some-movies-to-watch-before-gta-6-including-some-you-can-watch-in-theaters",
+        "summary": "We've compiled a list of movies to watch before GTA 6, including some classics that will be shown at Regal Cinemas over the course of the next week.",
+        "source": "IGN News"
+      },
+      {
+        "title": "A Real Life GTA 6 Car Is Being Sold for $1.3 Million",
+        "link": "https://www.ign.com/articles/a-real-life-gta-6-car-is-being-sold-for-13-million",
+        "summary": "Rockstar Games and West Coast Customs teamed up to build real versions of GTA 6's cars... and you can buy one of them if you have $1.3 million lying around.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Caused Some Gamers to Hold Off on Buying New Games — Including Take-Two's Own NBA 2K27, Strauss Zelnick Says",
+        "link": "https://www.ign.com/articles/gta-6-caused-some-gamers-to-hold-off-on-buying-new-games-including-take-twos-own-nba-2k27-strauss-zelnick-says",
+        "summary": "The behemoth that is GTA 6 looms large over the video game industry, and it’s so big that it not only caused the September crush of releases, but caused some gamers to hold off on buying new games entirely.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good",
+        "link": "https://www.ign.com/articles/zangief-actor-olivier-richters-competed-in-a-street-fighter-6-tournament-using-zangief-and-hes-actually-pretty-good",
+        "summary": "Olivier Richters, the seven-foot-tall actor who played Zangief in the 2026 Street Fighter movie, competed in a Street Fighter 6 tournament using the same character he portrayed in the film.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Skydance Games Confirms Layoffs Following Warner Bros.-Paramount Merger",
+        "link": "https://www.ign.com/articles/skydance-games-confirms-layoffs-following-warner-bros-paramount-merger",
+        "summary": "Skydance Games has laid off staff following last month's Warner Bros-Paramount merger.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Take-Two Boss Strauss Zelnick on GTA 6 Expectations, GTA Online, and the Decade to Come",
+        "link": "https://www.ign.com/articles/take-two-boss-strauss-zelnick-on-gta-6-expectations-gta-online-and-the-decade-to-come",
+        "summary": "IGN interviews Take-Two boss Strauss Zelnick 10 days before the biggest release in entertainment history: GTA 6.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Epic Games Claims Ownership Over Jazz Jackrabbit in Fortnite Legal Tussle With Gears of War Creator",
+        "link": "https://www.ign.com/articles/epic-games-claims-ownership-over-jazz-jackrabbit-in-fortnite-legal-tussle-with-gears-of-war-creator",
+        "summary": "Cliff Bleszinski, longtime Epic Games developer and the renowned designer of Gears of War and Unreal Tournament, hit a legal wall when trying to secure the rights to one of his very first game characters, Jazz Jackrabbit, from his former employer.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "California’s proposed ‘billionaire tax’ fails to pass",
+        "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+        "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents …",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+        "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic reportedly plans to move forward with IPO plans",
+        "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+        "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+        "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+        "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+        "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+        "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+        "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The race is on to sue Nvidia",
+        "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+        "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fervo now has $12B in orders for its geothermal power tech",
+        "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+        "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+        "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+        "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+        "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+        "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+        "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+        "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+        "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+        "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+        "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+        "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+        "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+        "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+        "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin turns slightly higher amid Wall Street rally, slide in oil prices",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-74k-as-regulatory-uncertainty-etf-outflows-weigh-5010570",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Strategy sells MSTR shares, buys bitcoin, and repurchases STRC stock",
+        "link": "https://www.investing.com/news/cryptocurrency-news/strategy-sells-mstr-shares-buys-bitcoin-and-repurchases-strc-stock-432SI-5011934",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

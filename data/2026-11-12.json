@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T14:54:32.363039+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "What to know about this year’s UN climate talks",
+        "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+        "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: preserving minds and weighing open AI risks",
+        "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you w…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+        "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+        "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "United won’t let your AI agent book your flight",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+        "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+        "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+        "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature tha…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+        "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+        "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+        "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn p…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+        "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+        "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "A Startup Wants to Fight AI Bioweapons With AI",
+        "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+        "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+        "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+        "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+        "link": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+        "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+        "source": "Wired AI"
+      },
+      {
+        "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+        "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+        "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Constantine Director 'Hopeful' for Sequel After DC Studios Shakeup",
+        "link": "https://www.ign.com/articles/constantine-director-hopeful-for-sequel-after-dc-studios-shakeup",
+        "summary": "The director of Constantine, Francis Lawrence, opened up about the movie's long-awaited sequel now that DC Studios has had a changing of the guard.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel 1943: Rise of Hydra Is Reportedly 'Close to Done,' Though at the Cost of Cutting Back on Content and Length",
+        "link": "https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
+        "summary": "Marvel 1943: Rise of Hydra, Amy Hennig's Captain America/Black Panther game, is reportedly close to being finished, but it sounds like it may be extremely compromised.",
+        "source": "IGN News"
+      },
+      {
+        "title": "AMC App Experiences Slowdown as Marvel Fans Rush to Buy Doomsday Tickets After VisionQuest Finale",
+        "link": "https://www.ign.com/articles/amc-app-crashes-as-marvel-fans-rush-to-buy-doomsday-tickets-after-visionquest-finale",
+        "summary": "So many Marvel fans tried to snag their tickets for Avengers: Doomsday after watching the VisionQuest season finale that they literally crashed the AMC Theaters app.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nvidia Board Is Preparing to Potentially Oust CEO Jensen Huang",
+        "link": "https://www.ign.com/articles/nvidia-board-is-preparing-to-potentially-oust-ceo-jensen-huang",
+        "summary": "Three days after launching an independent investigation into CEO Jensen Huang, the Nvidia board is reportedly preparing to oust the executive.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Henry Cavill Is Open to Returning as Superman Once Again",
+        "link": "https://www.ign.com/articles/henry-cavill-is-open-to-returning-as-superman-once-again",
+        "summary": "Henry Cavill has stated that he's still open to the idea of playing Superman following all the shake-ups at DC Studios.",
+        "source": "IGN News"
+      },
+      {
+        "title": "A Death Metal Guitarist Is So Into WoW Forever, He Took it Onstage With a Steam Deck",
+        "link": "https://www.ign.com/articles/a-death-metal-guitarist-is-so-into-wow-forever-he-took-it-onstage-with-a-steam-deck",
+        "summary": "World of Warcraft Forever is off to a monumental start, with more players wandering Azeroth than ever before. And at least one death metal guitarist can't put it down long enough to watch his opener play.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New Mega Man Legends Game, Movie, or TV Series Possibly In the Works After Fans Spot 'New Media' Listing",
+        "link": "https://www.ign.com/articles/new-mega-man-legends-game-movie-or-tv-series-possibly-in-the-works-after-fans-spot-new-media-listing",
+        "summary": "A now-deleted listing for ‘Mega Man Legends — New Media’ was spotted on a ‘What’s Shooting’ page for ACTRA Toronto, hinting that a new game, film, or TV series in the franchise's 'Legends' series is in the works.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jamie Campbell Bower Calls Rings of Power Season 3 the 'Perfect Kind of Antidote' After Stranger Things",
+        "link": "https://www.ign.com/articles/jamie-campbell-bower-calls-rings-of-power-season-3-the-perfect-kind-of-antidote-after-stranger-things",
+        "summary": "The character of Celeborn -- Jamie Campbell Bower's first role after playing Vecna, et al, in Seasons 4 and 5 of Stranger Things -- helped the actor move on from those persistently dark characters.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Final Fantasy XIV Players Mourn The Primals Bassist With In-Game Funerals and Gatherings",
+        "link": "https://www.ign.com/articles/final-fantasy-xiv-players-mourn-the-primals-bassist-with-in-game-funerals-and-gatherings",
+        "summary": "Final Fantasy XIV players are paying tribute to the bassist of the game’s official band, mourning him and celebrating his legacy with virtual, in-game funerals across servers worldwide.",
+        "source": "IGN News"
+      },
+      {
+        "title": "CD Projekt Red Used AI to Alter Geralt's Voice Due to Polish Actor's Health Issues",
+        "link": "https://www.ign.com/articles/cd-projekt-red-used-ai-to-alter-geralts-voice-due-to-polish-actors-health-issues",
+        "summary": "The Witcher 3 is getting a new expansion more than 11 years after it first released, and due to a health issue experienced by Geralt's Polish voice actor, CD Projekt Red will be using an AI tool to modify his voice.",
+        "source": "IGN News"
+      },
+      {
+        "title": "New GTA 6 Surprise Gameplay Seemingly Released in Yet Another Viral Marketing Stunt",
+        "link": "https://www.ign.com/articles/new-gta-6-surprise-gameplay-seemingly-released-in-yet-another-viral-marketing-stunt",
+        "summary": "Rockstar Games appears to have released new footage from GTA 6, which also recreates the studio's real-life viral marketing in-game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nintendo Takes Down Switch Emulators and Mod Chip Firmware in Massive GitHub DMCA Sweep",
+        "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+        "summary": "Nintendo has sent four DMCA takedown notices to GitHub targeting two Nintendo Switch emulators, Yuzu and Citron Neo, along with mod chip firmware.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Street Fighter Just Barely Fails to Fight Off Original Street Fighter at the Box Office as New Movie Leaves 1,700 Theaters",
+        "link": "https://www.ign.com/articles/street-fighter-just-barely-fails-to-fight-off-original-street-fighter-at-the-box-office-as-new-movie-leaves-1700-theaters",
+        "summary": "The 2026 Street Fighter film has just barely fallen short of dethroning the original 1994 movie, which still holds its record as the highest-grossing Street Fighter adaptation put to screens.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Roblox Horror Hit Dandy's World Is Finally Leaving Alpha With a Massive 1.0 Update, New Game Mode, and More",
+        "link": "https://www.ign.com/articles/dandys-world-1-0-update",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer",
+        "link": "https://www.ign.com/articles/gta-6-fans-think-a-beloved-legacy-character-from-a-previous-game-is-hiding-in-the-latest-trailer",
+        "summary": "The most recent GTA 6 trailer has many people wondering if an iconic character from a previous game in the franchise is making a return.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+        "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+        "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+        "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+        "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why the data center you dread might never even be built",
+        "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+        "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the…",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta is losing its longtime head of  infrastructure",
+        "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+        "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+        "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+        "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+        "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+        "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+        "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+        "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+        "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+        "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+        "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+        "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+        "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+        "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Siri co-founder backs Helix for its voice ID tech",
+        "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+        "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+        "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+        "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+        "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+        "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Bitcoin subdued, hovers under $74k as rise in Fed rate hike expectations weigh",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-74k-as-hot-cpi-data-spurs-rate-hike-bets-5017791",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "CareTrust REIT prices $637.5M stock offering",
+        "link": "https://seekingalpha.com/news/4671118-caretrust-reit-prices-6375m-stock-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

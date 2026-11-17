@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T15:38:34.835136+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The open-source movement wants Jensen Huang back",
+        "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Building trustworthy AI by fencing it in, not predicting it",
+        "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+        "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: testing tech promises and searching for cognitive immortality",
+        "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Rev…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Building AI that can work across the enterprise",
+        "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+        "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+        "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+        "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "California sues OpenAI over rogue AI hacking incidents",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+        "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+        "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+        "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+        "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addr…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "US data centers now burn more electricity than a midsized country",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+        "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+        "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+        "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advan…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+        "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+        "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+        "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+        "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, alon…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+        "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+        "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more informat…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google Maps can now create trip itineraries for you",
+        "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+        "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spannin…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Jensen Huang Is Gone. Now What?",
+        "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+        "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Christopher Nolan's The Odyssey Comes to Digital With Over 90 Minutes of Bonus Features",
+        "link": "https://www.ign.com/articles/how-to-watch-the-odyssey-2026-bonus-features",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "There Really Is No Escape From The Duolingo Owl, Who Will Soon Join Pokémon Go",
+        "link": "https://www.ign.com/articles/there-really-is-no-escape-from-the-duolingo-owl-who-will-soon-join-pokmon-go",
+        "summary": "Not content with plaguing your phone's lock screen, Duo the Duolingo owl is next set to appear in Pokémon Go.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Spider-Man: Brand New Day Re-Release With New Footage Sets December Release Date, Tickets on Sale This Week",
+        "link": "https://www.ign.com/articles/spider-man-brand-new-day-re-release-with-new-footage-sets-december-release-date-tickets-on-sale-this-week",
+        "summary": "Marvel Studios has revealed the release date for its Spider-Man: Brand New Day re-release, promising to bring new footage \"and a couple more surprises\" to theaters this December.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Former James Bond Actor George Lazenby Gives Robert Pattinson Advice After Batman Star Scores Iconic Role",
+        "link": "https://www.ign.com/articles/former-james-bond-actor-george-lazenby-gives-robert-pattinson-advice-after-batman-star-scores-iconic-role",
+        "summary": "George Lazenby, who formerly portrayed James Bond, is giving Robert Pattinson some sage advice after the Batman actor scored the historic and highly coveted role.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Subway Is Releasing a GTA 6-Themed Sandwich, but There's a Catch",
+        "link": "https://www.ign.com/articles/subway-is-releasing-a-gta-6-themed-sandwich-but-theres-a-catch",
+        "summary": "Subway is getting on the GTA 6 hype train with a sandwich themed after the highly anticipated game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
+        "link": "https://www.ign.com/articles/uks-national-health-service-is-urging-gamers-to-protect-their-hands-ahead-of-gta-6-launch",
+        "summary": "The UK’s National Health Service is giving players advice to help them avoid straining their hands once GTA 6 finally releases on November 19.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather",
+        "link": "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
+        "summary": "Rockstar has revealed a new batch of GTA 6 screenshots – and even a Weather Channel forecast – showcasing Leonida's dynamic weather.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Robert Pattinson Was Watching Robert Eggers' New Movie When His James Bond Casting Broke",
+        "link": "https://www.ign.com/articles/robert-pattinson-was-watching-werwulf-movie-when-his-james-bond-casting-broke",
+        "summary": "Werwulf director Robert Eggers revealed to IGN that Robert Pattinson was watching his upcoming horror movie when the news of his casting as the next James Bond was announced today.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Blizzard Tries 2 World of Warcraft Dungeon Fixes Over the Weekend to Stop Boosting Services",
+        "link": "https://www.ign.com/articles/blizzard-tries-two-world-of-warcraft-dungeon-fixes-over-the-weekend-to-stop-boosting-services",
+        "summary": "World of Warcraft Forever has now been out for a couple of weeks, and it's had a remarkably smooth launch. But now that players are starting to get to high enough levels to engage with dungeons, Blizzard is trying to nail down exactly how dungeons should reward players.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Austin Creed Goes Viral After Pulling Off Explosive Real-Life Shoryuken in AEW Full Gear Match",
+        "link": "https://www.ign.com/articles/austin-creed-goes-viral-after-pulling-off-explosive-real-life-shoryuken-in-aew-full-gear-match",
+        "summary": "Pro wrestler Austin Creed went viral over the weekend for pulling off an iconic fighting game move in real life, hitting his opponent with an explosive Shoryuken in a viral moment that took social media by storm.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nvidia Reportedly Uninterested in Bringing Jensen Huang Back as CEO",
+        "link": "https://www.ign.com/articles/nvidia-reportedly-uninterested-in-bringing-jensen-huang-back-as-ceo",
+        "summary": "Nvidia is reportedly not entertaining the idea of bringing Jensen Huang back as CEO following rumors that his allies had established a \"war room\" to push for his reinstatement.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Judge Denies Motion to Dismiss RAM Price Fixing Lawsuit",
+        "link": "https://www.ign.com/articles/judge-denies-motion-to-dismiss-ram-price-fixing-lawsuit",
+        "summary": "Even if you've been under a rock all year, it's hard to ignore the massive RAM crisis that's been going on since late 2025. And, while prices likely won't improve, it does seem like there's a small possibility that the three major RAM manufacturers might face some accountability.",
+        "source": "IGN News"
+      },
+      {
+        "title": "007 Fans React to Robert Pattinson's James Bond Casting",
+        "link": "https://www.ign.com/articles/007-fans-react-to-robert-pattinsons-james-bond-casting",
+        "summary": "Robert Pattinson is the next James Bond, which means there is no shortage of opinions flying around the internet about this news.",
+        "source": "IGN News"
+      },
+      {
+        "title": "13-Year-Old Tekken Player Who Looks Just Like a Young Kazuya Mishima Defeats Fighting Game Pro in Stacked Tournament",
+        "link": "https://www.ign.com/articles/13-year-old-tekken-player-who-looks-just-like-a-young-kazuya-mishima-defeats-fighting-game-pro-in-stacked-tournament",
+        "summary": "A 13-year-old Tekken player went viral over the weekend for beating a seasoned pro in a competitive tournament — all while boasting a hairstyle that looked just like Kazuya Mishima’s.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Magic The Gathering Head Designer Says No More Star Trek Sets",
+        "link": "https://www.ign.com/articles/magic-the-gathering-head-designer-says-no-more-star-trek-sets",
+        "summary": "Magic: The Gathering Star Trek is just a couple weeks old at this point, but lead designer Mark Rosewater has confirmed that there are no plans for additional Star Trek sets.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+        "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+        "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+        "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+        "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+        "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+        "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+        "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "California state AG sues OpenAI over rogue agent incidents",
+        "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+        "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+        "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+        "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+        "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+        "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+        "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+        "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Island is a new screen-time app that turns staying off your phone into a game",
+        "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+        "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+        "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+        "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+        "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+        "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+        "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+        "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+        "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+        "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI will embed safety researchers to investigate AI subversion",
+        "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+        "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+        "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+        "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+        "source": "TechCrunch"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+        "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+        "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+        "source": "CNBC Markets"
+      }
+    ]
+  }
+}

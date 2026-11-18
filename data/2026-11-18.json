@@ -1,0 +1,308 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T15:00:13.407036+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+        "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+        "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to k…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Hydropower hit record lows in the US Southwest this summer",
+        "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+        "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released thro…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Research Reports",
+        "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+        "summary": "To access a report, click on the corresponding image below.",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+        "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Mus…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Satya Nadella says he’s AGI-pilled now",
+        "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+        "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+        "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+        "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+        "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+        "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+        "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+        "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The DOJ says it’s investigating Megaspeed",
+        "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+        "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing inv…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+        "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+        "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business par…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+        "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+        "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+        "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+        "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+        "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+        "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+        "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+        "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+        "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+        "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "'It's Been a Sh*tshow' — Esports Casters Call for Change After Embark Studios Replaces Talent for The Finals' Grand Major Qualifier Highlight Reel With Game's AI Commentators",
+        "link": "https://www.ign.com/articles/its-been-a-shtshow-esports-casters-call-for-change-after-embark-studios-replaces-talent-for-the-finals-grand-major-qualifier-highlight-reel-with-games-ai-commentators",
+        "summary": "The Grand Major, an official tournament for Embark Studios' first-person shooter The Finals, is at the center of a heated debate after the developer replaced its real-life esports casters with AI commentators in a now-deleted highlight reel.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Vice City NBA Court Revealed by Miami Heat",
+        "link": "https://www.ign.com/articles/gta-6-vice-city-nba-court-revealed-by-miami-heat",
+        "summary": "The NBA's Miami Heat unveiled the special Vice City court they'll be playing on for one night only, tomorrow in a home game at the Kaseya Center against the Milwaukee Bucks.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Fans Baffled After Jason's Actor Gets Left Out of Game Awards Nominations",
+        "link": "https://www.ign.com/articles/gta-6-fans-baffled-after-jasons-actor-gets-left-out-of-game-awards-nominations",
+        "summary": "GTA 6 fans are a bit surprised that the actor playing Jason wasn't nominated at The Game Awards.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Infinity Nikki Players Baffled After Elon Musk's Mom Appears in Game's Update Trailers",
+        "link": "https://www.ign.com/articles/infinity-nikki-players-baffled-after-elon-musks-mom-appears-in-games-update-trailers",
+        "summary": "Infinity Nikki players were baffled when Elon Musk’s mother, Maye Musk, appeared in a series of trailers announcing the game’s forthcoming 3.0 update on November 16.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos",
+        "link": "https://www.ign.com/articles/robert-pattinsons-james-bond-casting-process-details-revealed-by-amazons-jeff-bezos",
+        "summary": "Amazon founder Jeff Bezos, who purchased MGM Studios in 2022 and assumed full control over the James Bond 007 franchise last year, shared details on the casting process and how the creative leads, including the director of the next 007 film Denis Villeneuve, ended up choosing The Batman and The Odys…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Gabe Newell Praised by Fans for 'Special' Way He Treats the Crew on His $500 Million Superyacht",
+        "link": "https://www.ign.com/articles/gabe-newell-praised-by-fans-for-special-way-he-treats-the-crew-on-his-500-million-superyacht",
+        "summary": "Gabe Newell, the co-founder and CEO of Valve, is being praised by fans after a yacht expert took a tour of his $500 million vessel and remarked on the “special” way he treats its crew, saying it rivals anything she’s “ever seen before.”",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Announces Official Black Friday Sale on Digital Games and Accessories — But No Consoles",
+        "link": "https://www.ign.com/articles/xbox-announces-black-friday-sale-for-2026",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "Nearly Half of Polled IGN Readers Are Taking Time Off to Play GTA 6",
+        "link": "https://www.ign.com/articles/nearly-half-of-polled-ign-readers-are-taking-time-off-to-play-gta-6",
+        "summary": "IGN has conducted a poll on if our readers would be taking time off to play GTA 6, and nearly half of them said yes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Florence Pugh Wants to Be a Bond Villain in Denis Villeneuve's 007 Movie With Robert Pattinson",
+        "link": "https://www.ign.com/articles/florence-pugh-wants-to-be-a-bond-villain-in-denis-villeneuves-007-movie-with-robert-pattinson",
+        "summary": "Florence Pugh has thrown her hat in the ring in the hopes of becoming the next Bond villain after news of Robert Pattinson’s casting took over social media yesterday.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Xbox Series X 25th Anniversary Consoles Are Arriving With Damaged Boxes for a Number of Fans",
+        "link": "https://www.ign.com/articles/xbox-series-x-25th-anniversary-consoles-are-arriving-with-damaged-boxes-for-a-number-of-fans",
+        "summary": "Microsoft's 25th anniversary translucent green Xbox Series X consoles began arriving this week for those who were able to secure one, and unfortunately a number of them are running into an all-too-common theme: a damaged box. Granted, the cardboard box on the outside is far less important than the p…",
+        "source": "IGN News"
+      },
+      {
+        "title": "Get a Free $5 Amazon Discount When You Text Alexa to Shop",
+        "link": "https://www.ign.com/articles/get-a-free-5-amazon-discount-when-you-text-alexa-to-shop",
+        "summary": "Want a free $5 discount at Amazon? You can get one now by texting Alexa to shop.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'These Decisions Are Never Easy' — Civilization Developer Firaxis Lays Off One Third of Its Workforce",
+        "link": "https://www.ign.com/articles/firaxis-lays-off-one-third-of-its-workforce",
+        "summary": "Civilization and XCOM developer Firaxis Games is laying off around 60 people, which amounts to approximately one third of its workforce, according to a Bloomberg report. The studio head of the Maryland-based development studio is also departing.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Game Awards 2026 Nominations Revealed, GTA 6 Dominates",
+        "link": "https://www.ign.com/articles/the-game-awards-2026-nominations-revealed-gta-6-dominates",
+        "summary": "The 2026 Game Award nominations have finally been revealed.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Grand Theft Auto 6 Lucia Actress Finally Revealed — And Yes, It's Who You Probably Suspected",
+        "link": "https://www.ign.com/articles/grand-theft-auto-6-lucia-actress-finally-revealed-and-yes-its-who-you-probably-suspected",
+        "summary": "On the eve of launching GTA 6, we finally now know who portrays main character Lucia Caminos.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jensen Huang Says He Would Return to Nvidia if Its Board of Directors Ask Him To",
+        "link": "https://www.ign.com/articles/jensen-huang-says-he-would-return-to-nvidia-if-its-board-of-directors-ask-him-to",
+        "summary": "Former Nvidia boss Jensen Huang has said he is ready to return to the company he co-founded, after he resigned amid a scandal involving infidelity and alleged espionage.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+        "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+        "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "San Diego dumps both Flock cameras and smart streetlights",
+        "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+        "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+        "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+        "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+        "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+        "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+        "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+        "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Civilization studio Firaxis Games lays off a third of staff",
+        "link": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+        "summary": "Studio head Heather Hazen is among those departing.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+        "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+        "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+        "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+        "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+        "link": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+        "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Google makes it easier to use Gemini without training AI on your data",
+        "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+        "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "House Democrats promise a US return to global climate talks",
+        "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+        "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+        "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+        "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+        "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+        "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Artist brings old Space Shuttle tank back to life",
+        "link": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+        "summary": "\"It's definitely the largest art project I've ever worked on.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Satya Nadella says he’s AGI-pilled now",
+        "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+        "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI…",
+        "source": "The Verge"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+        "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+        "summary": "The forecast represents one of the most hawkish views among policymakers.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+        "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+        "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin muted below $65k as rate, tech jitters persist; Fed minutes awaited",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-muted-below-65k-as-rate-tech-jitters-persist-fed-minutes-awaited-5034879",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs",
+        "link": "https://seekingalpha.com/news/4673998-asian-markets-trade-mixed-as-nvidia-earnings-lift-kospi-and-nikkei-hong-kong-slips-on-us-chip-curbs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

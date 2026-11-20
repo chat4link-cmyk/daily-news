@@ -1,0 +1,314 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T14:53:33.228782+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+        "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outsid…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "A human liver has been kept alive outside the body for a record seven weeks",
+        "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+        "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor …",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "What a billion-dollar deal says about the US battery market",
+        "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+        "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Apple is hiring engineers to build its own AI agent",
+        "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+        "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "A brief history of Nvidia’s recent stock fluctuations",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+        "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Meta’s Muse Charm might cost $300",
+        "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+        "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\"…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Google is putting AI chats right on the homepage",
+        "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+        "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Gemini on Mac can now use your computer",
+        "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+        "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic starts trading on Wall Street",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+        "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+        "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation i…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+        "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea th…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+        "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+        "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Canva adds an AI ‘off’ button",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+        "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "What’s With All These Outages?",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+        "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+        "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+        "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Lanterns Star Aaron Pierre Addresses His DCU Future: 'What Will Be Will Be'",
+        "link": "https://www.ign.com/articles/lanterns-star-aaron-pierre-addresses-his-dcu-future-what-will-be-will-be",
+        "summary": "Lanterns star Aaron Pierre had already reprised his role as Green Lantern John Stewart for the 2027 film Man of Tomorrow when the news broke that DC Studios bosses James Gunn and Peter Safran had been fired by new parent company Skydance. Whether his appearance will remain in the final film now that…",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Has Police Departments Across America Begging People Not to Commit Crimes IRL",
+        "link": "https://www.ign.com/articles/gta-6-has-police-departments-across-america-begging-people-not-to-commit-crimes-irl",
+        "summary": "GTA 6's popularity has led to police departments around the United States pleading with citizens to not commit real crimes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Apple TV Black Friday Deal Gets You 6 Months of Ad-free Streaming for Half the Price",
+        "link": "https://www.ign.com/articles/apple-tv-black-friday-streaming-deal-2026",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6's Viral NPC May Actually Have a Dark Secret",
+        "link": "https://www.ign.com/articles/gta-6-mandy-serial-killer",
+        "summary": "A character in GTA 6 named Mandy has been going viral since the game's launch for being a total smokeshow, but she also seems to have a dark secret.",
+        "source": "IGN News"
+      },
+      {
+        "title": "You Can Now Buy the Steam Machine Without a Reservation – But Supplies Are Limited",
+        "link": "https://www.ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited",
+        "summary": "Back when the Steam Machine first came out in June, it was in short supply, due to the limited amount of hardware Valve was able to get its hands on (thanks, RAM crisis). But now, about 5 months after launch, you can finally just buy a Steam Machine.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Video Game Spending Dropped 14% This October, Possibly Because Everyone Was Preparing for GTA 6",
+        "link": "https://www.ign.com/articles/video-game-spending-dropped-14-percent-this-october-possibly-because-everyone-was-preparing-for-gta-6",
+        "summary": "The amount of money that players spent on video games this October fell 14%, and it’s little surprise that this coincided with the release of GTA 6 in November.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Just Eat Reveals Gaming Controller With an Extra Button Just for Ordering Food",
+        "link": "https://www.ign.com/articles/just-eat-reveals-gaming-controller-with-an-extra-button-just-for-ordering-food",
+        "summary": "Just Eat is giving away a controller with a button dedicated to ordering food.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Ubisoft Creates Generative AI Game Studio Called Motherbrain",
+        "link": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
+        "summary": "Assassin’s Creed developer Ubisoft has created a new subsidiary called Motherbrain, a studio dedicated specifically to the implementation of generative AI in its games.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'I’m So F**kin’ Bitter' — Doja Cat Begs Rockstar to Put Her Music on the GTA 6 Soundtrack",
+        "link": "https://www.ign.com/articles/im-so-fkin-bitter-doja-cat-begs-rockstar-to-put-her-music-on-the-gta-6-soundtrack",
+        "summary": "Doja Cat is extremely unhappy about getting passed over as a featured artist in GTA 6, and she’s making her feelings known in several blistering posts on social media.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6's Jason and Lucia Actors Break Years of Silence With New Joint Statement",
+        "link": "https://www.ign.com/articles/gta-6s-jason-and-lucia-actors-break-years-of-silence-with-new-joint-statement",
+        "summary": "GTA 6's lead actors, Dylan Rourke and Manni L. Perez, have broken their multi-year streak of silence about being in the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Furry Community Divided by GTA 6 Parody",
+        "link": "https://www.ign.com/articles/furry-community-divided-by-gta-6-parody",
+        "summary": "Furries are at odds as to whether or not GTA 6's satirical take on anti-Furry sentiment is harmful to public perception of their community.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Devs Are Still Worried About Layoffs, Despite Making One of the Most Successful Games Ever Made",
+        "link": "https://www.ign.com/articles/gta-6-devs-are-still-worried-about-layoffs-despite-making-one-of-the-most-successful-games-ever-made",
+        "summary": "GTA 6 is already an incredibly successful game, and when the dust settles, it'll likely end up as one of the most lucrative entertainment releases of all time, yet some of the developers are still worried that layoffs are lurking around the corner.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Is the Most Popular Game Ever Across Twitch and Kick and It’s Only Been Out for a Day",
+        "link": "https://www.ign.com/articles/gta-6-is-the-most-popular-game-ever-across-twitch-and-kick-and-its-only-been-out-for-a-day",
+        "summary": "GTA 6 has, perhaps unsurprisingly, become the most popular game on Twitch and Kick in the history of both platforms within just the first 26 hours of its global release.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jason Showers in His Underwear in the Japanese Version of GTA 6, but Censorship Is Nothing New for Rockstar Games",
+        "link": "https://www.ign.com/articles/jason-showers-in-his-underwear-in-the-japanese-version-of-gta-6-but-censorship-is-nothing-new-for-rockstar-games",
+        "summary": "GTA 6 is finally here, but for players in Japan the experience is looking a bit different. Pre-release concerns about censorship have proven to be founded, with blood, gore, and nudity getting dialed down, but also some more surprising changes.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Players Are Surprised at How Well the Xbox Series S Handles GTA 6",
+        "link": "https://www.ign.com/articles/players-are-surprised-at-how-well-the-xbox-series-s-handles-gta-6",
+        "summary": "In the run-up to GTA 6's launch, one of the biggest questions was how well the Xbox Series S would handle the game. And, now that it's out in the wild, and actually runs the game pretty well, Series S owners are celebrating.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+        "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+        "summary": "Amazon now uses its shopping platform for political purposes.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+        "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+        "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+        "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+        "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+        "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+        "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+        "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+        "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+        "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+        "summary": "Some models fare better, but all fail in similar ways.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Google will launch Android app verification requirement globally in January 2027",
+        "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+        "summary": "Google says almost all developers have already gotten on board with verification.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Mouse fight club might explain why we like to watch violent things",
+        "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+        "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+        "link": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+        "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "How to tell a cyberattack from a plain old outage",
+        "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+        "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Apple is hiring engineers to build its own AI agent",
+        "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+        "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic …",
+        "source": "The Verge"
+      },
+      {
+        "title": "A brief history of Nvidia’s recent stock fluctuations",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+        "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Meta now sells 3D movies on Quest VR headsets",
+        "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+        "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie […]",
+        "source": "The Verge"
+      },
+      {
+        "title": "Meta’s Muse Charm might cost $300",
+        "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+        "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\"…",
+        "source": "The Verge"
+      },
+      {
+        "title": "Google is putting AI chats right on the homepage",
+        "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+        "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+        "source": "The Verge"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+        "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+        "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+        "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+        "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin dips, hovers at over four-month low amid rate hike bets, stocks rout",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-635k-amid-little-relief-from-rate-hike-jitters-5037873",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Dinari Launches Tokenized Anthropic Shares on First Day of Nasdaq Trading",
+        "link": "https://www.investing.com/news/cryptocurrency-news/dinari-launches-tokenized-anthropic-shares-on-first-day-of-nasdaq-trading-5039835",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Bitrue Among the First CEXs to Support ANTx as Anthropic Debuts on Nasdaq",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitrue-among-the-first-cexs-to-support-antx-as-anthropic-debuts-on-nasdaq-5039570",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}

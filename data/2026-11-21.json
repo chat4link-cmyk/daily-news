@@ -1,0 +1,296 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T14:48:42.689772+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "The most misunderstood graph in AI just got a major update",
+        "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+        "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: inside the quest to make our minds immortal",
+        "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brai…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our coun…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+        "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic …",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The week everything fell apart",
+        "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+        "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of somet…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+        "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Si…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+        "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+        "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+        "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+        "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+        "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+        "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Regular Tech Bros Are Worried About Honeypots",
+        "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+        "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+        "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+        "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
+        "link": "https://www.ign.com/articles/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-character-goes-viral",
+        "summary": "Lexie Shoaibi, the actor who plays Mandy in GTA 6, is speaking out now that the game has been officially released worldwide.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
+        "link": "https://www.ign.com/articles/gta-6-triggers-busiest-traffic-day-in-comcast-history",
+        "summary": "Comcast has said GTA 6's launch triggered the busiest traffic day the company has seen since it was founded in 1963.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Percy Jackson Actors Reveal They Watched Attack on Titan Fan Edits to Help Themselves Cry While Filming Emotional Scenes",
+        "link": "https://www.ign.com/articles/percy-jackson-actors-reveal-they-watched-attack-on-titan-fan-edits-to-help-themselves-cry-while-filming-emotional-scenes",
+        "summary": "Walker Scobell and Aryan Simhadri revealed that they would watch Attack on Titan fan edits to help them prepare to film emotional scenes for Percy Jackson and the Olympians.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Players React After Exclusive Shops Greet Non-Ultimate Edition Buyers With Locked Doors",
+        "link": "https://www.ign.com/articles/gta-6-players-react-after-exclusive-shops-greet-non-ultimate-edition-buyers-with-locked-doors",
+        "summary": "GTA 6 players are being locked out of in-game stores because they don't own the Ultimate Edition, and they've got some thoughts about how Rockstar handled it.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Jensen Huang Allegedly Threatened Nvidia Workers and Told Employee He Would Rip Off the Top of Their Head and 'Pee on Your Brain'",
+        "link": "https://www.ign.com/articles/jensen-huang-verbal-abuse-allegations",
+        "summary": "Former Nvidia CEO Jensen Huang allegedly threatened employees with violence and \"humiliated\" them for decades.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Satoru Gojo's English Voice Actor Didn't Realize These Wild Lines He Recorded Were for GTA 6",
+        "link": "https://www.ign.com/articles/satoru-gojos-english-voice-actor-didnt-realize-these-wild-lines-he-recorded-were-for-gta-6",
+        "summary": "Kaiji Tang, the English voice actor behind iconic anime characters like Jujutsu Kaisen’s Satoru Gojo and Demon Slayer’s Sanemi Shinazugawa, was left stunned after learning that he had unknowingly recorded lines for GTA 6.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Sexyy Red Had the Best Response to Her Viral GTA 6 Moment With Jason",
+        "link": "https://www.ign.com/articles/sexyy-red-had-the-best-response-to-her-viral-gta-6-moment-with-jason",
+        "summary": "Rapper Sexyy Red has given a hilarious response to her cameo in GTA 6 after a clip of famous streamer IShowSpeed playing the game went viral.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Macaulay Culkin to Return as Kevin McCallister in Home Alone Sequel",
+        "link": "https://www.ign.com/articles/macaulay-culkin-to-return-as-kevin-mccallister-in-home-alone-sequel",
+        "summary": "Macaulay Culkin has reportedly signed on to return as Kevin McCallister in a new Home Alone sequel for Disney.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Is the Biggest Entertainment Launch of All Time at $3.79 Billion on Day One",
+        "link": "https://www.ign.com/articles/gta-6-is-the-biggest-entertainment-launch-of-all-time-at-379-billion-on-day-one",
+        "summary": "Rockstar Games has confirmed GTA 6 retail sales reached $3.79 billion in its first 24 hours, securing its place as the biggest entertainment launch of all time.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Shadowheart Baldur's Gate 3 Prequel Novel Revealed",
+        "link": "https://www.ign.com/articles/shadowheart-baldurs-gate-3-prequel-novel-revealed",
+        "summary": "The next Baldur's Gate 3 prequel novel has been revealed, focusing on Shadowheart.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Players Agree That Jason's Stash Needs a Major Tweak",
+        "link": "https://www.ign.com/articles/gta-6-players-agree-that-jasons-stash-needs-a-major-tweak",
+        "summary": "GTA 6 players can't help but agree that controlling Jason's stash is harder than it needs to be, and they're asking Rockstar Games for a fix.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Has Only Been Out For a Day and People Are Already Asking Take-Two's Boss About GTA 7",
+        "link": "https://www.ign.com/articles/gta-6-has-only-been-out-for-a-day-and-people-are-already-asking-take-twos-boss-about-gta-7",
+        "summary": "GTA 6 has finally arrived after more than a decade of waiting, but apparently that's not enough for some people. Less than 24 hours after Rockstar's long-awaited sequel launched, Take-Two CEO Strauss Zelnick is already being asked about GTA 7.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Display Settings Explained — Our Recommendations for Motion Blur, Brightness Reduction, and More",
+        "link": "https://www.ign.com/articles/gta-6-display-settings-explained-our-recommendations-for-motion-blur-brightness-reduction-and-more",
+        "summary": "While we'll have to wait a little while longer for a PC version of GTA 6 that you can tweak to your heart's content, there are still some visual dials you can tune to get Vice City looking just a little bit better.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Doesn't Officially Have First-Person, but You Can Force It to — Here's How to Do It",
+        "link": "https://www.ign.com/articles/gta-6-doesnt-officially-have-first-person-but-you-can-force-it-to-heres-how-to-do-it",
+        "summary": "GTA 6 may not have launched with the option to play it entirely in first-person, but where there’s a will, there’s a way. Players have already worked out how to switch from the default third-person perspective, and it requires quite a few fiddly button presses.",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6's No-Nonsense Cops Are Scaring Players Into Actually Following the Law",
+        "link": "https://www.ign.com/articles/gta-6-new-wanted-system-difficulty",
+        "summary": "GTA 6's cops are meaner and easier to provoke than ever before, leading many players to obey the law and keep their head down early doors.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+        "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+        "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+        "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+        "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Google rolls out new search homepage with AI chat history and no search button",
+        "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+        "summary": "Google search is making it even easier to access AI tools on the search page.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Watching as a giant star swallowed its neighbor and exploded",
+        "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+        "summary": "A recent brightening turned out to be from a star orbiting inside another.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+        "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+        "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+        "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+        "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+        "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+        "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+        "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "US will soon announce root cause behind FAA nationwide ground stop",
+        "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+        "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+        "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+        "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+        "link": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+        "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
+        "link": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+        "summary": "Gambling? We're just swapping contracts!",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Science has a home here at Ars—please help keep it that way",
+        "link": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+        "summary": "Your support for Ars matters more now than ever.",
+        "source": "Ars Technica"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+        "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+        "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Bitcoin crashes below $56,000 as liquidity squeeze deepens crypto selloff",
+        "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-crashes-below-56000-as-liquidity-squeeze-deepens-crypto-selloff-5043199",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "XRP Falls 10% In Selloff",
+        "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-selloff-5043190",
+        "summary": "",
+        "source": "Investing.com Gold"
+      },
+      {
+        "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
+        "link": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says",
+        "link": "https://seekingalpha.com/news/4675382-exxon-greenlights-4b-angola-oilfield-development-with-new-discovery-anpg-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      },
+      {
+        "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
+        "link": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+        "summary": "",
+        "source": "Seeking Alpha"
+      }
+    ]
+  }
+}

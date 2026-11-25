@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T16:05:51.657293+08:00",
+  "categories": {
+    "AI": [
+      {
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "The Download: AI’s gas power boom and a consciousness reality check",
+        "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a w…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Data centers are getting their own natural gas power plants",
+        "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+        "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b…",
+        "source": "MIT Technology Review – AI"
+      },
+      {
+        "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+        "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+        "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbaske…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+        "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+        "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-ful…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Tidal will start banning AI-generated music next month",
+        "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+        "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labe…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Jensen Huang deepfakes are the hot new AI slop",
+        "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+        "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive an…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and…",
+        "source": "The Verge – AI"
+      },
+      {
+        "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+        "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+        "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+        "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+        "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+        "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+        "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+        "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+        "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+        "source": "Wired AI"
+      },
+      {
+        "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+        "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+        "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+        "source": "Wired AI"
+      }
+    ],
+    "游戏": [
+      {
+        "title": "Yes, There Was One Thing Cut from GTA 6 for Australia, NZ",
+        "link": "https://www.ign.com/articles/yes-there-was-one-thing-cut-from-gta-6-for-australia-nz",
+        "summary": "Rockstar chopped out a temporary stat buff from GTA 6, although players down under may not ever really notice it.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix",
+        "link": "https://www.ign.com/articles/max-verstappen-spent-40-hours-playing-gta-6-and-still-won-the-las-vegas-grand-prix",
+        "summary": "Famous Dutch-Belgian race driver Max Verstappen revealed that he’d spent the weekend of the Las Vegas Grand Prix locked in to GTA 6, saying he played over 40 hours of the game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Some GTA 6 Fans Love Chapter 1 for Its Slower Pace and Are Spending Dozens of Hours Roleplaying in It",
+        "link": "https://www.ign.com/articles/some-gta-6-fans-love-chapter-1-for-its-slower-pace-and-are-spending-dozens-of-hours-roleplaying-in-it",
+        "summary": "GTA 6's first chapter has been somewhat divisive due to its slower pace, but it's also a part of the game that some fans have spent dozens of hours playing due to it highly immersive slice-of-life elements.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Diablo 4 Season 16 Fixes One of the Biggest Problems With Helltide",
+        "link": "https://www.ign.com/articles/diablo-4-season-16-fixes-one-of-the-biggest-problems-with-helltide",
+        "summary": "Diablo 4 Season 16: Season of Tyrael's Gambit officially kicks off on December 1. We finally know a bit more about what the new season holds in store, and it's going to make one of the biggest activities much less of a pain.",
+        "source": "IGN News"
+      },
+      {
+        "title": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
+        "link": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
+        "summary": "CD Projekt Red expects a leap between The Witcher 3 and 4 that is comparable to the one between GTA 5 and 6.",
+        "source": "IGN News"
+      },
+      {
+        "title": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+        "link": "https://www.ign.com/articles/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda",
+        "summary": "A voice actor who appeared in GTA 6 described the wild non-disclosure agreement she had to sign before working on the game, calling the project “crazy secretive.”",
+        "source": "IGN News"
+      },
+      {
+        "title": "Cyberpunk 2 Is Still a Ways Out, but CD Projekt Red Says Its RPGs Will Come Out Faster in the Future",
+        "link": "https://www.ign.com/articles/cyberpunk-2-is-still-a-ways-out-but-cd-projekt-red-says-its-rpgs-will-come-out-faster-in-the-future",
+        "summary": "We are still two years out from The Witcher 4, but Ciri's big breakout adventure isn't the only massive RPG cooking at CD Projekt Red. It sounds like development on Cyberpunk 2 is carrying on smoothly, though it's still very early in its development cycle.",
+        "source": "IGN News"
+      },
+      {
+        "title": "PlayStation Secures Marketing Agreement for The Witcher 4",
+        "link": "https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4",
+        "summary": "CD Projekt Red has signed a marketing deal with PlayStation for The Witcher 4.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Over Half of GTA 6 Watch Time Came From Viewers Under 25 Years Old",
+        "link": "https://www.ign.com/articles/over-half-of-gta-6-watch-time-came-from-viewers-under-25-years-old",
+        "summary": "The bulk of fans watching streams of GTA 6 are under 25 years old, according to recent stats compiled by StreamsCharts.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Kevin Feige and the Russo Brothers are Planning a Special Tribute to Patrick Stewart as Avengers: Doomsday Release Approaches",
+        "link": "https://www.ign.com/articles/kevin-feige-and-the-russo-brothers-are-planning-a-special-tribute-to-patrick-stewart-as-avengers-doomsday-release-approaches",
+        "summary": "Marvel Studios boss Kevin Feige has revealed that he and the Russo brothers are creating a tribute to honor the late great Patrick Stewart in light of his final performance in Avengers: Doomsday.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Walmart Now Lets Meta’s Muse AI Agent Shop for You During Black Friday",
+        "link": "https://www.ign.com/articles/walmart-meta-muse-ai-agent-shop-for-you-during-black-friday",
+        "summary": "",
+        "source": "IGN News"
+      },
+      {
+        "title": "GTA 6 Gets Officially Licensed Trading Cards Based on In-Game Collectibles",
+        "link": "https://www.ign.com/articles/gta-6-gets-officially-licensed-trading-cards-based-on-in-game-collectibles",
+        "summary": "Rockstar is teaming up with Panini America to bring the hunt for GTA 6 trading cards to life.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Rings of Power Renewed by Amazon for Season 4",
+        "link": "https://www.ign.com/articles/rings-of-power-renewed-by-amazon-for-season-4",
+        "summary": "The Lord of the Rings: The Rings of Power Season 3 wraps up later tonight, but the show has already been renewed for Season 4 at Prime Video.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Wizards of the Coast Sues Website That Prints Fake Magic: The Gathering Cards, Alleging Counterfeiting Operation",
+        "link": "https://www.ign.com/articles/wizards-of-the-coast-sues-website-that-prints-fake-magic-the-gathering-cards-alleging-counterfeiting-operation",
+        "summary": "For as much as Magic: The Gathering has grown in popularity over the last several years, the market for proxies and counterfeits has also grown. And now, Wizards of the Coast is suing PrintMTG, alleging a counterfeiting ring for the trading card game.",
+        "source": "IGN News"
+      },
+      {
+        "title": "Marvel Shows Off First Look at Kelsey Grammer's Beast in Avengers: Doomsday, and Fans Are Divided",
+        "link": "https://www.ign.com/articles/marvel-shows-off-first-look-at-kelsey-grammers-beast-in-avengers-doomsday-and-fans-are-divided",
+        "summary": "We’ve gotten our first look at Kelsey Grammer’s Beast as he will appear in Avengers: Doomsday, prompting fan confusion about why Marvel waited so long to reveal him and comparisons to his appearance at the end of The Marvels.",
+        "source": "IGN News"
+      }
+    ],
+    "科技": [
+      {
+        "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+        "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+        "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+        "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+        "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "What's going on with the Riemann hypothesis?",
+        "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+        "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+        "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+        "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+        "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+        "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+        "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+        "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "How brewers can protect beers from smoke-tainted hops",
+        "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+        "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+        "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+        "summary": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+        "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+        "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+        "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+        "summary": "Technical details are still limited, but we already know it's fun to drive.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "No more heated seat subscriptions for cars in New York from 2027",
+        "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+        "summary": "Services with “ongoing costs” are a pretty big loophole in the new law.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+        "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+        "summary": "\"Without this funding, activities would be delayed.\"",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Homo erectus lived in the rainforest alongside Denisovans",
+        "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+        "summary": "You can learn a surprising amount from a few loose teeth.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+        "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+        "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
+        "source": "Ars Technica"
+      },
+      {
+        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+        "source": "Ars Technica"
+      }
+    ],
+    "金融市场": [
+      {
+        "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+        "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+        "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+        "source": "CNBC Markets"
+      },
+      {
+        "title": "Simpleswap Bringing Prediction Markets to Its Platform",
+        "link": "https://www.investing.com/news/cryptocurrency-news/simpleswap-bringing-prediction-markets-to-its-platform-5049798",
+        "summary": "",
+        "source": "Investing.com Gold"
+      }
+    ]
+  }
+}
